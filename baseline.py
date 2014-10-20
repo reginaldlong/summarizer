@@ -27,14 +27,14 @@ def parseFiles():
 		parser = etree.XMLParser(recover = True)
 		tree   = etree.parse(dirpath + file, parser)	
 		root = tree.getroot()
+		catchphrases = []
+		sentences = []
 		for child in root:
-			catchphrases = []
-			sentences = []
 			if child.tag == "catchphrases":
 				catchphrases = [catchphrase.text for catchphrase in child]
 			elif child.tag == "sentences":
 				sentences = [sentence.text for sentence in child]
 
-			#Do stuff	
+		#Do stuff	
 
 parseFiles()
