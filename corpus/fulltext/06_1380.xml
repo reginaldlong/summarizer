@@ -3,12 +3,12 @@
 <name>Edwards v Postsuper Pty Ltd [2006] FCA 1380 (24 October 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1380.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from superannuation complaints tribunal affirming decision of trustee of superannuation fund to distribute death benefit to deceased's daughter and de facto</catchphrase>
-<catchphrase "id=c1">whether tribunal erred by confining meaning of "in any way dependent" in definition of "dependant" in trust deed to financial dependence</catchphrase>
-<catchphrase "id=c2">whether tribunal erred in finding that mother of deceased's daughter was deceased's "spouse"</catchphrase>
-<catchphrase "id=c3">whether tribunal erred by not making findings on what it called "disputes of fact of minor issues"</catchphrase>
-<catchphrase "id=c4">whether tribunal correctly understood its review role under s 37 of the superannuation (resolution of complaints) act 1993 (cth)</catchphrase>
-<catchphrase "id=c5">superannuation</catchphrase>
+<catchphrase >appeal from superannuation complaints tribunal affirming decision of trustee of superannuation fund to distribute death benefit to deceased's daughter and de facto</catchphrase>
+<catchphrase >whether tribunal erred by confining meaning of "in any way dependent" in definition of "dependant" in trust deed to financial dependence</catchphrase>
+<catchphrase >whether tribunal erred in finding that mother of deceased's daughter was deceased's "spouse"</catchphrase>
+<catchphrase >whether tribunal erred by not making findings on what it called "disputes of fact of minor issues"</catchphrase>
+<catchphrase >whether tribunal correctly understood its review role under s 37 of the superannuation (resolution of complaints) act 1993 (cth)</catchphrase>
+<catchphrase >superannuation</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -150,20 +150,20 @@
 <sentence id="s75">22 The respondent submitted that, contrary to the appellants' submission, the Tribunal was not required to conduct a hearing de novo and had approached its task in accordance with the authorities.</sentence>
 <sentence id="s76">It relied on the Full Court in Cameron v Board of Trustees of the State Public Sector Superannuation Scheme [2003] FCAFC 214 ; (2003) 130 FCR 122 where it was held that the Tribunal's task in reviewing a decision pursuant to s 37 of the Complaints Act was not to determine whether the decision complained of was the correct or preferable decision but to form a view, from the perspective of the trustee, as to whether the trustee's decision was fair and reasonable having regard to the framework of the governing rules and terms of the applicable fund.</sentence>
 <sentence id="s77">It held also that the Tribunal could be satisfied that a trustee's decision was fair and reasonable without reaching its own preliminary view of the issues on the material before it.</sentence>
-<sentence id="s78">It relied also on the decisions of Mansfield J in Hornsby v Military Superannuation &amp; Benefits Board of Trustees No 1 [2003] FCA 54 ; (2003) 126 FCR 484 and Lykogiannis v Retail Employees Superannuation Pty Ltd [2000] FCA 327 ; (2000) 97 FCR 361 at [48] .</sentence>
+<sentence id="s78">It relied also on the decisions of Mansfield J in Hornsby v Military Superannuation amp; Benefits Board of Trustees No 1 [2003] FCA 54 ; (2003) 126 FCR 484 and Lykogiannis v Retail Employees Superannuation Pty Ltd [2000] FCA 327 ; (2000) 97 FCR 361 at [48] .</sentence>
 <sentence id="s79">The third issue 
  
 23 The third issue concerned the Tribunal's conclusions that Ms Ifield was the deceased's spouse and was dependent on him.</sentence>
 <sentence id="s80">The appellants submitted that the Tribunal had erred by giving undue weight to irrelevant matters and failing to give adequate weight to relevant matters.</sentence>
 <sentence id="s81">In particular, the appellants submitted that:
  
-&#8226; The Tribunal did not consider whether the deceased ordinarily lived with Ms Ifield on a "permanent and bona fide basis".</sentence>
+#8226; The Tribunal did not consider whether the deceased ordinarily lived with Ms Ifield on a "permanent and bona fide basis".</sentence>
 <sentence id="s82">It instead proceeded on the basis that she was his spouse, without providing its reasons for this finding.</sentence>
-<sentence id="s83">&#8226; The Tribunal failed to give any weight to a number of relevant facts.</sentence>
+<sentence id="s83">#8226; The Tribunal failed to give any weight to a number of relevant facts.</sentence>
 <sentence id="s84">These facts were that the deceased member did not claim Ms Ifield as a de facto on his tax returns, that the de facto was receiving the sole parent pension at the time she claimed to be in a spousal relationship with the deceased, that the deceased member earned almost five times that of the de facto spouse (in relation to The Tribunal's finding that household expenses were shared between the deceased member and the de facto), and that Ms Ifield was not named as a co-tenant on the lease of the premises at which the deceased member lived at the time of his death.</sentence>
-<sentence id="s85">&#8226; The Tribunal found that the deceased intended sharing his future with Ms Ifield and that they were "in a loving, committed relationship" on the basis of an unexecuted loan application.</sentence>
-<sentence id="s86">&#8226; The Tribunal reached its conclusion that the deceased and Ms Ifield were in a loving and committed relationship despite the failure of the deceased member to nominate her as a beneficiary for the purposes of the superannuation scheme, to claim the existence of a de facto relationship on his tax returns or to include her name on the lease of the premises where he resided at the time of his death.</sentence>
-<sentence id="s87">&#8226; The Tribunal said that it was not prepared to involve itself in "disputes of fact of minor issues" without explaining the facts and issues to which it was referring.</sentence>
+<sentence id="s85">#8226; The Tribunal found that the deceased intended sharing his future with Ms Ifield and that they were "in a loving, committed relationship" on the basis of an unexecuted loan application.</sentence>
+<sentence id="s86">#8226; The Tribunal reached its conclusion that the deceased and Ms Ifield were in a loving and committed relationship despite the failure of the deceased member to nominate her as a beneficiary for the purposes of the superannuation scheme, to claim the existence of a de facto relationship on his tax returns or to include her name on the lease of the premises where he resided at the time of his death.</sentence>
+<sentence id="s87">#8226; The Tribunal said that it was not prepared to involve itself in "disputes of fact of minor issues" without explaining the facts and issues to which it was referring.</sentence>
 <sentence id="s88">By ignoring or not involving itself in many disputes of fact, the Tribunal had failed to address whether the trustee's decision was fair and reasonable in all the circumstances and unfairly restricted its review task.</sentence>
 <sentence id="s89">Further, the Tribunal was not constrained by the rules of evidence and it was entitled, if not required, to consider disputes of fact.</sentence>
 <sentence id="s90">24 The respondent submitted that the Tribunal's finding that Ms Ifield was a de facto spouse was a finding of fact.</sentence>
@@ -230,4 +230,8 @@ Dated: 24 October 2006
  
  </sentence>
 </sentences>
-</case>
+</case>/case>
+ 
+ </sentence>
+</sentences>
+</case>/case>

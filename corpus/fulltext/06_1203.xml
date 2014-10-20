@@ -3,10 +3,10 @@
 <name>WebCentral Group Limited, in the matter of WebCentral Group Limited (No 2) [2006] FCA 1203 (12 September 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1203.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">compromise or arrangement</catchphrase>
-<catchphrase "id=c1">"no encumbrances" clause in scheme</catchphrase>
-<catchphrase "id=c2">whether court should approve scheme containing a provision that shares will be transferred free of all encumbrances. held : scheme approved subject to deletion of the "no encumbrances" clause.</catchphrase>
-<catchphrase "id=c3">corporations</catchphrase>
+<catchphrase >compromise or arrangement</catchphrase>
+<catchphrase >"no encumbrances" clause in scheme</catchphrase>
+<catchphrase >whether court should approve scheme containing a provision that shares will be transferred free of all encumbrances. held : scheme approved subject to deletion of the "no encumbrances" clause.</catchphrase>
+<catchphrase >corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -62,7 +62,7 @@
 16 Mr Oakes made a detailed written submission in favour of approval of the Scheme containing this clause.</sentence>
 <sentence id="s32">To summarise his submission would not adequately reflect it, but I think it fair to say that he seeks to call in aid, with reference to authorities, the following propositions:
  
- &#8226; that a shareholder holds its shares subject to the risk of disposition under the Act , including a transfer pursuant to a Court-approved scheme of arrangement; &#8226; that the holder of a security interest in shares does not obtain an interest higher than that of the registered holder of the shares; and &#8226; that a transfer pursuant to a Court-approved scheme of arrangement will "override the proprietary interest of the holder of a security interest in the shares, although not in the scheme consideration".</sentence>
+ #8226; that a shareholder holds its shares subject to the risk of disposition under the Act , including a transfer pursuant to a Court-approved scheme of arrangement; #8226; that the holder of a security interest in shares does not obtain an interest higher than that of the registered holder of the shares; and #8226; that a transfer pursuant to a Court-approved scheme of arrangement will "override the proprietary interest of the holder of a security interest in the shares, although not in the scheme consideration".</sentence>
 <sentence id="s33">
 
 17 For the first proposition, senior counsel referred to several authorities, including Cambridge Gas Transport Corporation v The Official Committee of Unsecured Creditors (of Navigator Holdings Plc and others) [2006] UKPC 26 , especially at [26].</sentence>
@@ -122,7 +122,7 @@ and cl 2.6 of the constitution provides that WCG is:
  
 25 It is proposed that there be set out as attachments to the form of orders:
  
- &#8226; the Scheme of Arrangement as approved at the Scheme Meeting, with the alterations now made pursuant to s 411(6) highlighted; and &#8226; the Scheme of Arrangement as approved by the Court, incorporating those alterations, but without highlighting.</sentence>
+ #8226; the Scheme of Arrangement as approved at the Scheme Meeting, with the alterations now made pursuant to s 411(6) highlighted; and #8226; the Scheme of Arrangement as approved by the Court, incorporating those alterations, but without highlighting.</sentence>
 <sentence id="s56">
 
 In this way, as senior counsel says, what has occurred can be readily identified.</sentence>
@@ -507,4 +507,6 @@ Ref: MVR:WEB022/3
  
  </sentence>
 </sentences>
-</case>
+</case>case>e>
+</sentences>
+</case>case>

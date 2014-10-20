@@ -3,36 +3,36 @@
 <name>Australasian Performing Right Association Limited v Monster Communications Pty Limited [2006] FCA 1806 (21 December 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1806.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">copyright</catchphrase>
-<catchphrase "id=c1">infringement</catchphrase>
-<catchphrase "id=c2">licence</catchphrase>
-<catchphrase "id=c3">where company engaged in the marketing and supply of ringtones and related products to users of mobile telephones</catchphrase>
-<catchphrase "id=c4">where licences required for the communication to public via short message service (sms) or interactive voice response services (ivr services) of the parts of the musical works embodied in ringtones and owned by the applicants</catchphrase>
-<catchphrase "id=c5">whether licences on foot</catchphrase>
-<catchphrase "id=c6">unlicensed communication of works found to infringe copyright</catchphrase>
-<catchphrase "id=c7">copyright</catchphrase>
-<catchphrase "id=c8">damages</catchphrase>
-<catchphrase "id=c9">circumstances justifying award of additional damages</catchphrase>
-<catchphrase "id=c10">flagrancy</catchphrase>
-<catchphrase "id=c11">deterrence</catchphrase>
-<catchphrase "id=c12">quantum of additional damages</catchphrase>
-<catchphrase "id=c13">where reckless disregard for intellectual property rights of others</catchphrase>
-<catchphrase "id=c14">copyright act 1968 (cth) s 115(4)</catchphrase>
-<catchphrase "id=c15">general contractual principles</catchphrase>
-<catchphrase "id=c16">construction and interpretation of contracts</catchphrase>
-<catchphrase "id=c17">where licences required for the communication to public via short message service (sms) or interactive voice response services (ivr services) of the parts of the musical works embodied in ringtones and owned by the applicants</catchphrase>
-<catchphrase "id=c18">whether licences on foot</catchphrase>
-<catchphrase "id=c19">where meaning of licences terms in dispute</catchphrase>
-<catchphrase "id=c20">meaning of "retail price"</catchphrase>
-<catchphrase "id=c21">use of surrounding circumstances to assist in interpretation of written contract in case of ambiguity</catchphrase>
-<catchphrase "id=c22">breach of contract</catchphrase>
-<catchphrase "id=c23">proof of damages</catchphrase>
-<catchphrase "id=c24">where evidence insufficient for trial judge to make precise calculation of damages</catchphrase>
-<catchphrase "id=c25">where expert evidence inconclusive</catchphrase>
-<catchphrase "id=c26">intellectual property</catchphrase>
-<catchphrase "id=c27">intellectual property</catchphrase>
-<catchphrase "id=c28">contract</catchphrase>
-<catchphrase "id=c29">damages</catchphrase>
+<catchphrase >copyright</catchphrase>
+<catchphrase >infringement</catchphrase>
+<catchphrase >licence</catchphrase>
+<catchphrase >where company engaged in the marketing and supply of ringtones and related products to users of mobile telephones</catchphrase>
+<catchphrase >where licences required for the communication to public via short message service (sms) or interactive voice response services (ivr services) of the parts of the musical works embodied in ringtones and owned by the applicants</catchphrase>
+<catchphrase >whether licences on foot</catchphrase>
+<catchphrase >unlicensed communication of works found to infringe copyright</catchphrase>
+<catchphrase >copyright</catchphrase>
+<catchphrase >damages</catchphrase>
+<catchphrase >circumstances justifying award of additional damages</catchphrase>
+<catchphrase >flagrancy</catchphrase>
+<catchphrase >deterrence</catchphrase>
+<catchphrase >quantum of additional damages</catchphrase>
+<catchphrase >where reckless disregard for intellectual property rights of others</catchphrase>
+<catchphrase >copyright act 1968 (cth) s 115(4)</catchphrase>
+<catchphrase >general contractual principles</catchphrase>
+<catchphrase >construction and interpretation of contracts</catchphrase>
+<catchphrase >where licences required for the communication to public via short message service (sms) or interactive voice response services (ivr services) of the parts of the musical works embodied in ringtones and owned by the applicants</catchphrase>
+<catchphrase >whether licences on foot</catchphrase>
+<catchphrase >where meaning of licences terms in dispute</catchphrase>
+<catchphrase >meaning of "retail price"</catchphrase>
+<catchphrase >use of surrounding circumstances to assist in interpretation of written contract in case of ambiguity</catchphrase>
+<catchphrase >breach of contract</catchphrase>
+<catchphrase >proof of damages</catchphrase>
+<catchphrase >where evidence insufficient for trial judge to make precise calculation of damages</catchphrase>
+<catchphrase >where expert evidence inconclusive</catchphrase>
+<catchphrase >intellectual property</catchphrase>
+<catchphrase >intellectual property</catchphrase>
+<catchphrase >contract</catchphrase>
+<catchphrase >damages</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -280,8 +280,8 @@ Although the attachment clearly showed that the status of the document was a dra
  
  
  
- &#8226; Monster's sales data could not be linked by volume or value to revenue figures set out in the Telstra statements, Monster's own MYOB accounting records or its BAS statements;
- &#8226; Notwithstanding that it was difficult, given the data provided by Monster, to ascertain definitively the number of downloads purchased by a customer in a single call session, it appeared to Deloitte that there was an inconsistency in the sales data which enabled Deloitte to imply: 
+ #8226; Monster's sales data could not be linked by volume or value to revenue figures set out in the Telstra statements, Monster's own MYOB accounting records or its BAS statements;
+ #8226; Notwithstanding that it was difficult, given the data provided by Monster, to ascertain definitively the number of downloads purchased by a customer in a single call session, it appeared to Deloitte that there was an inconsistency in the sales data which enabled Deloitte to imply: 
  
  
 
@@ -317,36 +317,36 @@ Although the attachment clearly showed that the status of the document was a dra
 <sentence id="s225">APRA and AMCOS also claimed the audit costs of $37,400 as due under the relevant licences.</sentence>
 <sentence id="s226">When Monster failed to pay any of these invoices, AMCOS caused a creditor's statutory demand under s 459E(2)(e) of the Corporations Act 2001 (Cth) to be served on Monster alleging non-payment of the $37,400 debt for the audit fee.</sentence>
 <sentence id="s227">Ultimately, Monster paid that fee in late July 2005, within the time permitted under the statutory demand.</sentence>
-<sentence id="s228">54 On 22 July 2005 Banki Haddock Fiora wrote to Monster's new solicitors, CG Gillis &amp; Co, demanding full payment of the licence fee invoices by 29 July 2005.</sentence>
+<sentence id="s228">54 On 22 July 2005 Banki Haddock Fiora wrote to Monster's new solicitors, CG Gillis amp; Co, demanding full payment of the licence fee invoices by 29 July 2005.</sentence>
 <sentence id="s229">Monster did not pay any money for licence fees within that time.</sentence>
 <sentence id="s230">Thus, APRA and AMCOS had received no IVR royalties at all from Monster for the term of the IVR licences commencing on 1 July 2003.</sentence>
 <sentence id="s231">On 17 August 2005 AMCOS and APRA terminated each of the IVR licences.</sentence>
 <sentence id="s232">55 Soon afterward Banki Haddock Fiora wrote to Monster saying that they were instructed that APRA and AMCOS would withdraw the notice of termination if Monster paid the full amount of the licence fee invoices by 25 August 2005.</sentence>
-<sentence id="s233">CG Gillis &amp; Co responded on 25 August 2005 raising a number of arguments that the notice of termination was invalid.</sentence>
+<sentence id="s233">CG Gillis amp; Co responded on 25 August 2005 raising a number of arguments that the notice of termination was invalid.</sentence>
 <sentence id="s234">Only one of those arguments is still pressed.</sentence>
 <sentence id="s235">That is that APRA and AMCOS had over claimed because they had applied gross call revenues of about $8.34 million instead of the amount of net call revenue of about $7.2 million to the calculation of royalties.</sentence>
-<sentence id="s236">56 After APRA and AMCOS had given the notice of termination of the IVR agreements on 17 August 2005, Bank Haddock Fiora sent a facsimile to CG Gillis &amp; Co threatening to initiate 'take down' procedures which involved seeking to have Telstra disconnect Monster's IVR services.</sentence>
+<sentence id="s236">56 After APRA and AMCOS had given the notice of termination of the IVR agreements on 17 August 2005, Bank Haddock Fiora sent a facsimile to CG Gillis amp; Co threatening to initiate 'take down' procedures which involved seeking to have Telstra disconnect Monster's IVR services.</sentence>
 <sentence id="s237">Ultimately, Telstra did not act on a notice that was served, although had it done so it would have considerable impact on Monster's overall business.</sentence>
 <sentence id="s238">57 On 14 September 2005 Monster offered to pay the full amount of the outstanding interim IVR royalties invoices in consideration of APRA and AMCOS granting new licences together with certain other conditions.</sentence>
 <sentence id="s239">Thereafter, the solicitors for the parties communicated with each other exchanging draft new IVR licences.</sentence>
 <sentence id="s240">58 On 16 September 2005 Monster paid APRA and AMCOS $150,000 and on 14 October 2005 the balance of $54,947.29 owing under the two IVR licence invoices issued earlier that year was paid.</sentence>
 <sentence id="s241">59 On 24 October 2005 Banki Haddock Fiora sent for execution by Monster a draft agreement settling their present dispute on the old IVR licences, together with draft new IVR licences commencing with effect from 18 August 2005.</sentence>
-<sentence id="s242">CG Gillis &amp; Co responded on 27 October 2005 with some proposed variations to the draft documents.</sentence>
+<sentence id="s242">CG Gillis amp; Co responded on 27 October 2005 with some proposed variations to the draft documents.</sentence>
 <sentence id="s243">The next day Banki Haddock Fiora responded with a set of draft documents which simply incorporated the changes suggested by Monster's solicitors.</sentence>
-<sentence id="s244">No response to that letter of 28 October 2005 was received from Monster until 7 February 2006 when CG Gillis &amp; Co returned the three executed agreements to Banki Haddock Fiora.</sentence>
+<sentence id="s244">No response to that letter of 28 October 2005 was received from Monster until 7 February 2006 when CG Gillis amp; Co returned the three executed agreements to Banki Haddock Fiora.</sentence>
 <sentence id="s245">In the meantime, the parties had had a substantial dispute over the SMS licences, which, as will appear shortly, were terminated by APRA and AMCOS on 12 December 2005.</sentence>
 <sentence id="s246">SMS LICENCES DISPUTE 
  
-60 On 2 September 2005, Banki Haddock Fiora wrote to CG Gillis &amp; Co noting that, despite requests, Monster had failed to provide APRA and AMCOS with any revenue or music use information for the three quarters ending 30 June 2005.</sentence>
+60 On 2 September 2005, Banki Haddock Fiora wrote to CG Gillis amp; Co noting that, despite requests, Monster had failed to provide APRA and AMCOS with any revenue or music use information for the three quarters ending 30 June 2005.</sentence>
 <sentence id="s247">In addition, the letter stated that the revenue and music use information required to be provided within 30 days after the end of each quarter under schedule 2 of the SMS licences had not been provided.</sentence>
 <sentence id="s248">It demanded, pursuant to cl 10.1(a) of the APRA SMS agreement, and cl 11.1(a) of the AMCOS SMS agreement that Monster provide each of APRA and AMCOS with its music use and revenue information in respect of the 3 quarters specified.</sentence>
 <sentence id="s249">The references to the two clauses were to the termination provisions in each SMS agreement which entitled the licensor to terminate it immediately by notice to the licensee if the latter had breached any term of the agreement and failed to remedy the breach within 7 days after being required in writing to do so by the licensor.</sentence>
 <sentence id="s250">APRA and AMCOS demanded, pursuant to their rights under the SMS agreements, that within 7 days Monster provide them with its music use and revenue information in respect of the three quarters.</sentence>
-<sentence id="s251">On 26 September 2005 Banki Haddock Fiora wrote to CG Gillis &amp; Co, confirming that the SMS agreements remained on foot, but made a further demand for the music use and revenue information for the three quarters ending 30 June 2005.</sentence>
+<sentence id="s251">On 26 September 2005 Banki Haddock Fiora wrote to CG Gillis amp; Co, confirming that the SMS agreements remained on foot, but made a further demand for the music use and revenue information for the three quarters ending 30 June 2005.</sentence>
 <sentence id="s252">61 Banki Haddock Fiora wrote again on 30 November 2005, this time in noting that APRA and AMCOS had not received Monster's revenue and music use information for the 4 quarters to 30 September 2005.</sentence>
 <sentence id="s253">A further demand was made, invoking each of the termination clauses, for that information to be provided within 7 days.</sentence>
 <sentence id="s254">It is common ground that Monster did not provide any SMS licence information in answer to any of the 3 letters of demand.</sentence>
-<sentence id="s255">Thus, on 12 December 2005 Banki Haddock Fiora wrote to CG Gillis &amp; Co terminating each of the SMS agreements.</sentence>
+<sentence id="s255">Thus, on 12 December 2005 Banki Haddock Fiora wrote to CG Gillis amp; Co terminating each of the SMS agreements.</sentence>
 <sentence id="s256">It is in that context that consideration needs to be given as to whether the offer of APRA and AMCOS to enter into new IVR agreements, which had been made on 28 October 2005, continued to remain open for acceptance up to 7 February 2006.</sentence>
 <sentence id="s257">62 In late January 2006 Monster made a payment of $15,000 to APRA and AMCOS said to be on account of amounts due under the SMS agreements.</sentence>
 <sentence id="s258">Monster paid a further $15,000 on 16 February 2006.</sentence>
@@ -417,14 +417,14 @@ Although the attachment clearly showed that the status of the document was a dra
 <sentence id="s307">Nonetheless, that arrangement between Monster and the telecommunications network does not change the fundamental character of the advertised price from being the retail price.</sentence>
 <sentence id="s308">71 The use of the concept of agency to overcome the need for privity is a technique which was described in Toll (FGCT) Pty Limited v Alphapharm Pty Limited [2004] HCA 52 ; (2004) 219 CLR 165 at 193 [79] by Gleeson CJ, Gummow, Hayne, Callinan and Heydon JJ adopting the words of Lord Bingham of Cornhill (in Homburg Houtimport BV v Agrosin Private Ltd [2003] UKHL 12 ; [2004] 1 AC 715 at 744) as 'a deft and commercially-inspired response to technical English rules of contract, particularly those governing privity and consideration'.</sentence>
 <sentence id="s309">As their Honours went on to note in the case of a stevedore seeking the benefit of a Himalaya clause against a consignee of damaged cargo, courts have been ready to conclude that the carrier was acting with the stevedore's authority.</sentence>
-<sentence id="s310">As Lord Wilberforce said in his classic opinion in New Zealand Shipping Co Ltd v AM Satterthwaite &amp; Co Ltd [1975] AC 154 at 167E, the law of contract takes a practical approach in commercial situations '... often at the cost of forcing the facts to fit uneasily into the slots of offer, acceptance and consideration'.</sentence>
+<sentence id="s310">As Lord Wilberforce said in his classic opinion in New Zealand Shipping Co Ltd v AM Satterthwaite amp; Co Ltd [1975] AC 154 at 167E, the law of contract takes a practical approach in commercial situations '... often at the cost of forcing the facts to fit uneasily into the slots of offer, acceptance and consideration'.</sentence>
 <sentence id="s311">Even if Monster be correct to say that at the end of the day it received a lesser sum than that which the customer paid for the download, that was a result of Monster entering into arrangements with the telecommunications networks, perhaps on behalf of the customer or perhaps on its own behalf, it matters not, for the purposes of ensuring that the customer bought the download at the overall price Monster advertised that it was charging.</sentence>
 <sentence id="s312">72 For these reasons, I am of opinion that 'retail price' has its ordinary and natural meaning, namely the price at which Monster advertised the downloads for sale.</sentence>
 <sentence id="s313">QUESTION 2: DID APRA AND AMCOS VALIDLY TERMINATE THE SMS LICENCES ON 12 DECEMBER 2005?</sentence>
 <sentence id="s314">
  
 73 During the whole of the period in which the SMS licences operated Monster never complied with its obligation, in Schedule 2, to supply within 30 days after the end of each quarter, each APRA and AMCOS with copies of its actual revenue statements from its telecommunications service provider.</sentence>
-<sentence id="s315">74 On 2 September 2005 Banki Haddock Fiora wrote to CG Gillis &amp; Co referring to requests from APRA and AMCOS that Monster provide its revenue and music use information for the quarters ending 31 December 2004, 31 March 2005 and 30 June 2006.</sentence>
+<sentence id="s315">74 On 2 September 2005 Banki Haddock Fiora wrote to CG Gillis amp; Co referring to requests from APRA and AMCOS that Monster provide its revenue and music use information for the quarters ending 31 December 2004, 31 March 2005 and 30 June 2006.</sentence>
 <sentence id="s316">Nothing had been provided previously.</sentence>
 <sentence id="s317">75 I am of opinion that APRA and AMCOS were entitled to terminate and validly terminated each of the SMS licences on 12 December 2005 because no actual revenue statement of Monster's telecommunications carrier or service provider for its SMS services referred to in schedule 2 to each SMS licence had been supplied by Monster.</sentence>
 <sentence id="s318">76 Moreover, as I have found above, Monster had not provided APRA and AMCOS with the draft EDI format information, contrary to the requirements specified in the email of 4 March 2005.</sentence>
@@ -437,7 +437,7 @@ Although the attachment clearly showed that the status of the document was a dra
 <sentence id="s325">78 Next, Monster argued that if APRA and AMCOS had not prescribed a form, no obligation arose under either of the respective cll 5 or 6.</sentence>
 <sentence id="s326">That obviously is correct.</sentence>
 <sentence id="s327">But, for the reasons I have already given, I am of opinion that the form was sufficiently prescribed by either Mr Mallett's conversation with Mr Chong in February or March 2005 and or by the email of 4 March 2005.</sentence>
-<sentence id="s328">Monster submitted that the demand of Banki Haddock Fiora to CG Gillis &amp; Co made on 2 September 2005 for revenue and music use information did not refer to the form prescribed.</sentence>
+<sentence id="s328">Monster submitted that the demand of Banki Haddock Fiora to CG Gillis amp; Co made on 2 September 2005 for revenue and music use information did not refer to the form prescribed.</sentence>
 <sentence id="s329">In my opinion that was not necessary.</sentence>
 <sentence id="s330">I find that a form had been prescribed for the provision of the information by Mr Mallett saying that Telstra statements and Monster's sales records could be given.</sentence>
 <sentence id="s331">Mr Mallett's reference to Telstra would have been understood by Mr Chong to relate to whatever entity was Monster's telecommunications service provider for each of the IVR and SMS services.</sentence>
@@ -629,9 +629,9 @@ Although the attachment clearly showed that the status of the document was a dra
 <sentence id="s475">The letter to Mr Chong and Monster enclosing the interim invoices said that APRA and AMCOS had calculated a minimum amount payable under the IVR licences based on the information provided to the auditors by Monster.</sentence>
 <sentence id="s476">The interim invoices were said to be 'not for the full amount that APRA/AMCOS will be claiming under the agreements.</sentence>
 <sentence id="s477">By issuing the enclosed invoices we in no way waive of our rights to claim the full amount of licence fees owing'.</sentence>
-<sentence id="s478">112 On 22 July 2005 Banki Haddock Fiora wrote to CG Gillis &amp; Co demanding full payment of the 30 May licence fee invoices by 29 July 2005.</sentence>
+<sentence id="s478">112 On 22 July 2005 Banki Haddock Fiora wrote to CG Gillis amp; Co demanding full payment of the 30 May licence fee invoices by 29 July 2005.</sentence>
 <sentence id="s479">Although the letter did not nominate the clauses of each IVR licence dealing with termination, it did say that if Monster failed to comply with the demand APRA and AMCOS would have no hesitation in enforcing their respective rights.</sentence>
-<sentence id="s480">113 On 17 August 2005 Bank Haddock Fiora wrote to CG Gillis &amp; Co terminating each IVR agreement pursuant to cl 10.1 of the APRA IVR agreement and cl 11.1 of the AMCOS IVR agreement, on the basis that no payment had been made of either of the interim fees the subject of the audit.</sentence>
+<sentence id="s480">113 On 17 August 2005 Bank Haddock Fiora wrote to CG Gillis amp; Co terminating each IVR agreement pursuant to cl 10.1 of the APRA IVR agreement and cl 11.1 of the AMCOS IVR agreement, on the basis that no payment had been made of either of the interim fees the subject of the audit.</sentence>
 <sentence id="s481">Since cl 6.3 of the APRA IVR agreement (cl 7.3 of the AMCOS one) had required the licensee to pay within 14 days after the date of an invoice the full amount of the invoice issued on receipt by APRA of information from an audit under cl 8, Monster was in breach of that obligation by the middle of June 2005.</sentence>
 <sentence id="s482">The letter of 22 July 2005 to Monster's solicitors made clear that the breach needed to be remedied within 7 days.</sentence>
 <sentence id="s483">It was not.</sentence>
@@ -700,9 +700,9 @@ Although the attachment clearly showed that the status of the document was a dra
 <sentence id="s546">
  
 127 Mr Mallett gave instructions for Banki Haddock Fiora's correspondence in late October 2005 in which APRA and AMCOS offered to enter into a resolution of the earlier dispute and to issue new IVR licences to Monster.</sentence>
-<sentence id="s547">When the letter from CG Gillis &amp; Co of 7 February 2006 (Ex 2) was received, Mr Mallett's lay understanding was that Monster, by Mr Chong as its managing director, had executed all three forms of agreement which had been sent with Banki Haddock Fiora's letter of 28 October 2005.</sentence>
+<sentence id="s547">When the letter from CG Gillis amp; Co of 7 February 2006 (Ex 2) was received, Mr Mallett's lay understanding was that Monster, by Mr Chong as its managing director, had executed all three forms of agreement which had been sent with Banki Haddock Fiora's letter of 28 October 2005.</sentence>
 <sentence id="s548">I am satisfied that a reasonable person in the position of the parties would have understood the new IVR licences to have been executed by Mr Chong on behalf of Monster.</sentence>
-<sentence id="s549">It was the only client on whose behalf CG Gillis &amp; Co appeared to have written on 7 February 2006.</sentence>
+<sentence id="s549">It was the only client on whose behalf CG Gillis amp; Co appeared to have written on 7 February 2006.</sentence>
 <sentence id="s550">128 Monster argued that the offer of 28 October 2005 was open to be accepted over three months later on 7 February 2006.</sentence>
 <sentence id="s551">In general, the law implies that when no time limit for the exercise of a right is stipulated, the right may be exercised within a reasonable time unless there are indications to the contrary: Reid v Moreland Timber Co Pty Limited [1946] HCA 48 ; (1946) 73 CLR 1 at 13 per Dixon J.</sentence>
 <sentence id="s552">I am of opinion that this statement of the rule, coming from a case in contract, is just as applicable to a case where an offer to enter into a contract is made.</sentence>
@@ -968,10 +968,10 @@ He said that parties to commercial negotiations frequently use their bargaining 
 <sentence id="s793">Mr White considered that data base tampering was unlikely because:
  
  
- &#8226; the very large number of download records and call records generated each day would require editing of over 2,000 separate files on a real time basis;
- &#8226; if tampering occurred, the file date and times would have to be altered to the date on which the tampering was done which would have had to be about midnight on each date of the files in the review period.</sentence>
+ #8226; the very large number of download records and call records generated each day would require editing of over 2,000 separate files on a real time basis;
+ #8226; if tampering occurred, the file date and times would have to be altered to the date on which the tampering was done which would have had to be about midnight on each date of the files in the review period.</sentence>
 <sentence id="s794">Mr White thought this was inherently unlikely;
- &#8226; alternatively, Monster would have to utilize special purpose software to make the alterations, which Mr White thought unlikely.</sentence>
+ #8226; alternatively, Monster would have to utilize special purpose software to make the alterations, which Mr White thought unlikely.</sentence>
 <sentence id="s795">
  
 
@@ -997,7 +997,7 @@ He said that parties to commercial negotiations frequently use their bargaining 
 <sentence id="s814">They continued:
  
  'Indeed, in Jones v Schiffmann ((1971) [1971] HCA 52 ; 124 CLR 303 at 308) Menzies J went so far as to say that the "assessment of damages ... does sometimes, of necessity, involve what is guess work rather than estimation".</sentence>
-<sentence id="s815">Where precise evidence is not available the Court must do the best it can ( Biggin &amp; Co Ltd v Permanite Ltd [1951] 1 KB 422 at 438 per Devlin J)' See too at 174 CLR at 119 per Deane J, 138 per Toohey J.</sentence>
+<sentence id="s815">Where precise evidence is not available the Court must do the best it can ( Biggin amp; Co Ltd v Permanite Ltd [1951] 1 KB 422 at 438 per Devlin J)' See too at 174 CLR at 119 per Deane J, 138 per Toohey J.</sentence>
 <sentence id="s816">
 
 178 This is a case where APRA and AMCOS cannot adduce precise evidence of what has been lost in Monster's records.</sentence>
@@ -1038,10 +1038,10 @@ He said that parties to commercial negotiations frequently use their bargaining 
 <sentence id="s847">186 The next question under s 115(4)(b) is for the Court to be satisfied that it is proper to make such an award having regard to all relevant matters, including but not limited to:
  
  
- &#8226; the flagrancy of the infringement;
- &#8226; the need to deter similar infringements;
- &#8226; the conduct of Monster and Mr Chong after any act constituting the infringement, or if relevant, after they were informed of the alleged infringement;
- &#8226; any benefit shown to have accrued to Monster or Mr Chong by reason of the infringement.</sentence>
+ #8226; the flagrancy of the infringement;
+ #8226; the need to deter similar infringements;
+ #8226; the conduct of Monster and Mr Chong after any act constituting the infringement, or if relevant, after they were informed of the alleged infringement;
+ #8226; any benefit shown to have accrued to Monster or Mr Chong by reason of the infringement.</sentence>
 <sentence id="s848">
  
 
@@ -1231,7 +1231,7 @@ Dated: 21 December 2006
  
  Counsel for the Respondent: Mr IM Jackman SC and Mr JL Lazarus 
  
- Solicitor for the Respondent: CG Gillis &amp; Co 
+ Solicitor for the Respondent: CG Gillis amp; Co 
  
  Date of Hearing: 2-6 October 2006 
  
@@ -1247,5 +1247,22 @@ Dated: 21 December 2006
  URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/1806.html 
  
  </sentence>
+</sentences>
+</case>ence>
+</sentences>
+</case>ent: 21 December 2006 
+
+
+ 
+ 
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/1806.html 
+ 
+ </sentence>
+</sentences>
+</case>ence>
 </sentences>
 </case>

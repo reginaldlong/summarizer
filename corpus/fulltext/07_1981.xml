@@ -3,12 +3,12 @@
 <name>Haslam v Money For Living (No 2) [2007] FCA 1981 (21 December 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1981.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">notice of motion</catchphrase>
-<catchphrase "id=c1">rectification of register maintained under transfer of land act 1958 (vic)</catchphrase>
-<catchphrase "id=c2">where no dispute between parties that various contracts, transfers, deeds and leases were void ab initio</catchphrase>
-<catchphrase "id=c3">order directing registrar of titles to alter register</catchphrase>
-<catchphrase "id=c4">appropriate procedure to adopt to secure rectification of the register</catchphrase>
-<catchphrase "id=c5">conveyancing</catchphrase>
+<catchphrase >notice of motion</catchphrase>
+<catchphrase >rectification of register maintained under transfer of land act 1958 (vic)</catchphrase>
+<catchphrase >where no dispute between parties that various contracts, transfers, deeds and leases were void ab initio</catchphrase>
+<catchphrase >order directing registrar of titles to alter register</catchphrase>
+<catchphrase >appropriate procedure to adopt to secure rectification of the register</catchphrase>
+<catchphrase >conveyancing</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -94,11 +94,11 @@ See also McMullin v ICI Australia Operations Pty Ltd (1998) 84 FCR 1 at 4 (per W
 <sentence id="s55">15 The other parties submitted that, in the circumstances, it was both appropriate and necessary that the orders sought be made in order to ensure that justice is done.</sentence>
 <sentence id="s56">They relied on the following matters:
  
- &#8226; The purpose and effect of an order for rescission under s 87 of the Trade Practices Act is to restore the parties to the situation they respectively occupied immediately before the relevant contract was made.</sentence>
-<sentence id="s57">&#8226; Although ordinary conveyancing procedure could be adopted in order to restore the parties to their former position such a process would be discordant with the notion of rescission because it would involve the affirmation of the efficacy of the arrangements which were being displaced.</sentence>
-<sentence id="s58">&#8226; The adoption of ordinary conveyancing procedure would operate unfairly on some of the parties to the deed of settlement because it would mean that they were more likely to be required to pay imposts such as land tax and stamp duty than would be the case if the orders sought were to be made.</sentence>
-<sentence id="s59">&#8226; Resort to the ordinary conveyancing procedure would also occasion legal costs and delay which would not otherwise be incurred.</sentence>
-<sentence id="s60">&#8226; There is a risk that, unless the order is made, the settlement agreement may collapse.</sentence>
+ #8226; The purpose and effect of an order for rescission under s 87 of the Trade Practices Act is to restore the parties to the situation they respectively occupied immediately before the relevant contract was made.</sentence>
+<sentence id="s57">#8226; Although ordinary conveyancing procedure could be adopted in order to restore the parties to their former position such a process would be discordant with the notion of rescission because it would involve the affirmation of the efficacy of the arrangements which were being displaced.</sentence>
+<sentence id="s58">#8226; The adoption of ordinary conveyancing procedure would operate unfairly on some of the parties to the deed of settlement because it would mean that they were more likely to be required to pay imposts such as land tax and stamp duty than would be the case if the orders sought were to be made.</sentence>
+<sentence id="s59">#8226; Resort to the ordinary conveyancing procedure would also occasion legal costs and delay which would not otherwise be incurred.</sentence>
+<sentence id="s60">#8226; There is a risk that, unless the order is made, the settlement agreement may collapse.</sentence>
 <sentence id="s61">
 
 16 In my view these considerations support the making of the proposed order.</sentence>
@@ -138,13 +138,13 @@ Dated: 21 December 2007
  
  Counsel for the Thirteenth Respondent: Ms S Burchell 
  
- Solicitor for the Thirteenth Respondent: Monahan &amp; Rowell 
+ Solicitor for the Thirteenth Respondent: Monahan amp; Rowell 
  
  Counsel for the Fourteenth Respondent: Mr W Rimmer 
  
  Solicitor for the Fourteenth Respondent: Victorian Government Solicitor 
  
- Counsel for the Fifteenth Respondent: Mr M Sifris SC &amp; Mr S Maiden 
+ Counsel for the Fifteenth Respondent: Mr M Sifris SC amp; Mr S Maiden 
  
  Solicitor for the Fifteenth Respondent: Gadens Lawyers 
  
@@ -165,4 +165,7 @@ Dated: 21 December 2007
  
  </sentence>
 </sentences>
-</case>
+</case></case> 
+ </sentence>
+</sentences>
+</case></case>

@@ -3,13 +3,13 @@
 <name>H Lundbeck A/S v Commissioner of Patents [2006] FCA 163 (1 March 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/163.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">patents regulations 1991</catchphrase>
-<catchphrase "id=c1">reg 10.7(7)</catchphrase>
-<catchphrase "id=c2">whether valid</catchphrase>
-<catchphrase "id=c3">whether ultra vires s 228 of the patents act 1990 (cth)</catchphrase>
-<catchphrase "id=c4">whether retrospective subordinate legislation</catchphrase>
-<catchphrase "id=c5">whether amendment of the register as required by reg 10.7(7) affects substantive rights of patentee, by reducing extended term of patent.</catchphrase>
-<catchphrase "id=c6">patents</catchphrase>
+<catchphrase >patents regulations 1991</catchphrase>
+<catchphrase >reg 10.7(7)</catchphrase>
+<catchphrase >whether valid</catchphrase>
+<catchphrase >whether ultra vires s 228 of the patents act 1990 (cth)</catchphrase>
+<catchphrase >whether retrospective subordinate legislation</catchphrase>
+<catchphrase >whether amendment of the register as required by reg 10.7(7) affects substantive rights of patentee, by reducing extended term of patent.</catchphrase>
+<catchphrase >patents</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -30,7 +30,7 @@
 <sentence id="s10">It was Alphapharm which drew to the attention of the Commissioner the alleged error as to what was the true 'first regulatory approval date'.</sentence>
 <sentence id="s11">The Commissioner takes the position that if Alphapharm is correct in its contention that that date is earlier than the one on which she acted when she entered particulars of the extension in the Register, reg 10.7(7) requires her to amend the entry.</sentence>
 <sentence id="s12">Alphapharm contends that the consequence of the alleged error is that the extension was invalidly granted and that all reference to it should be removed from the Register, whereas the Commissioner contends that the consequence is only that the entry reflects an excessively long extension, and that the Register should be amended only so as to refer to a shorter period.</sentence>
-<sentence id="s13">5 The third proceeding is NSD 1870 of 2005 ('the TGA proceeding') between Lundbeck Australia as applicant and the Secretary of the Department of Health &amp; Ageing of the Commonwealth of Australia as respondent.</sentence>
+<sentence id="s13">5 The third proceeding is NSD 1870 of 2005 ('the TGA proceeding') between Lundbeck Australia as applicant and the Secretary of the Department of Health amp; Ageing of the Commonwealth of Australia as respondent.</sentence>
 <sentence id="s14">In that proceeding, Lundbeck Australia applies for orders restraining the respondent ('the Secretary') from using what it contends is 'protected information' within the meaning of s 25A of the Therapeutic Goods Act 1989 (Cth) ('the TGA') in considering any application made by any third party for registration of therapeutic goods containing (+)-citalopram.</sentence>
 <sentence id="s15">On 15 June 2005, Alphapharm had applied to the Secretary for the registration of such therapeutic goods under the TGA.</sentence>
 <sentence id="s16">6 By orders made on 28 November 2005, I ordered that Alphapharm be joined as second respondent in the TGA proceeding.</sentence>
@@ -471,13 +471,13 @@ It is not disputed that subsections (2), (3) and (4) were satisfied in the prese
 <sentence id="s164">49 Regulation 10.7(7) provides for circumstances not covered by ss 75 and 192.</sentence>
 <sentence id="s165">Assume that:
  
-&#8226; a patentee obtained an extension upon a misrepresentation to the Commissioner as to the first regulatory approval date;
+#8226; a patentee obtained an extension upon a misrepresentation to the Commissioner as to the first regulatory approval date;
  
-&#8226; that there was no opposition to the application for the extension; 
+#8226; that there was no opposition to the application for the extension; 
  
-&#8226; that no aggrieved party applied for rectification of the Register under s 192; and
+#8226; that no aggrieved party applied for rectification of the Register under s 192; and
  
-&#8226; that the Commissioner became aware of the misrepresentation.</sentence>
+#8226; that the Commissioner became aware of the misrepresentation.</sentence>
 <sentence id="s166">According to Lundbeck's argument, nothing could be done.</sentence>
 <sentence id="s167">I do not think the Act evinces an intention that nothing should be able to be done in these circumstances or that ss 45 and 192 are intended to be a code in the present respect.</sentence>
 <sentence id="s168">The Act does, however, in ss 187, 191 and 195(1) referred to earlier, reveal a legislative intention that the Register should not contain false entries.</sentence>
@@ -540,4 +540,8 @@ Dated: 1 March 2006
  
  </sentence>
 </sentences>
-</case>
+</case>case>63.html 
+ 
+ </sentence>
+</sentences>
+</case>case>

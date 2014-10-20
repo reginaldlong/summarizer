@@ -3,11 +3,11 @@
 <name>Sood v Crown Diagnostic Imaging Pty Ltd [2006] FCA 715 (30 May 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/715.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for stay of proceedings under sequestration order pending appeal</catchphrase>
-<catchphrase "id=c1">where assets frozen by order pursuant to proceeds of crime act 2002 (cth)</catchphrase>
-<catchphrase "id=c2">possible release of funds for costs of appeal</catchphrase>
-<catchphrase "id=c3">stay granted</catchphrase>
-<catchphrase "id=c4">bankruptcy</catchphrase>
+<catchphrase >application for stay of proceedings under sequestration order pending appeal</catchphrase>
+<catchphrase >where assets frozen by order pursuant to proceeds of crime act 2002 (cth)</catchphrase>
+<catchphrase >possible release of funds for costs of appeal</catchphrase>
+<catchphrase >stay granted</catchphrase>
+<catchphrase >bankruptcy</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -42,7 +42,7 @@ Dated: 8 June 2006
  
  Counsel for the Official Trustee in Bankruptcy: Mr JT Johnson 
  
- Solicitor for the Official Trustee in Bankruptcy: Ms K Britton of Sally Nash &amp; Co 
+ Solicitor for the Official Trustee in Bankruptcy: Ms K Britton of Sally Nash amp; Co 
  
  Counsel for the Commonwealth Director of Public Prosecutions (amicus): Mr T Muir 
  
@@ -58,4 +58,7 @@ Dated: 8 June 2006
  
  </sentence>
 </sentences>
-</case>
+</case>>
+ </sentence>
+</sentences>
+</case>>

@@ -3,11 +3,11 @@
 <name>Collins v Northern Territory of Australia [2006] FCA 1698 (8 December 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1698.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">patents act 1990</catchphrase>
-<catchphrase "id=c1">whether granting of certain licences allowing removal of bark and wood from crown land a "supply" for the purposes of s 117</catchphrase>
-<catchphrase "id=c2">whether supply of an input into a patented process can amount to contributory infringement under s 117</catchphrase>
-<catchphrase "id=c3">whether timber or bark and wood from timber a "staple commercial product"</catchphrase>
-<catchphrase "id=c4">intellectual property law</catchphrase>
+<catchphrase >patents act 1990</catchphrase>
+<catchphrase >whether granting of certain licences allowing removal of bark and wood from crown land a "supply" for the purposes of s 117</catchphrase>
+<catchphrase >whether supply of an input into a patented process can amount to contributory infringement under s 117</catchphrase>
+<catchphrase >whether timber or bark and wood from timber a "staple commercial product"</catchphrase>
+<catchphrase >intellectual property law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -88,9 +88,9 @@ That order was made to address the alleged contributory infringement of the pate
 <sentence id="s32">The Collins agree that the appropriate description of the arrangement was a licence as described.</sentence>
 <sentence id="s33">The Territory contends that
  
-&#8226; the grant of the licences, being permissive, did not involve the Territory in supplying the timber to ACOC;
+#8226; the grant of the licences, being permissive, did not involve the Territory in supplying the timber to ACOC;
  
-&#8226; if it did supply the timber to ACOC, that the product it supplied was the timber itself, but that the timber, or parts of it, is only an input into the product the use of which by ACOC (it is assumed for present purposes) would have infringed the patent, and that in the case of a process patent such as the patent it is the process or method which constitutes the infringement and not the supply of an input.</sentence>
+#8226; if it did supply the timber to ACOC, that the product it supplied was the timber itself, but that the timber, or parts of it, is only an input into the product the use of which by ACOC (it is assumed for present purposes) would have infringed the patent, and that in the case of a process patent such as the patent it is the process or method which constitutes the infringement and not the supply of an input.</sentence>
 <sentence id="s34">Consequently, the Territory contends that on the Collins' own allegations and on the evidence, there can be no contributory infringement of the patent as s 117(1) simply does not apply.</sentence>
 <sentence id="s35">13 The second issue is a more straightforward one.</sentence>
 <sentence id="s36">It addresses whether the timber is a "staple commercial product" as referred to in s 117(2)(b).</sentence>
@@ -130,7 +130,7 @@ It therefore appears that the exclusive rights of the Collins through the patent
 <sentence id="s56">It is not the timber (or the wood and bark from the timber) which the patent protects but the process by which the wood and bark from the timber is used so as to result in the product, namely blue cypress oil.</sentence>
 <sentence id="s57">The use of the bark and wood from the timber does not infringe the patent per se.</sentence>
 <sentence id="s58">It is the method or process of production which is protected by the patent.</sentence>
-<sentence id="s59">18 As counsel for the Territory recognised, there is an apparent difference in the views of the Full Court in Anaesthetic Supplies Pty Ltd v Rescare Ltd (1994) 50 FCR 1 ( Rescare ) on the one hand and in Bristol-Myers Squibb Company v FH Faulding &amp; Co Ltd [2000] FCA 316 ; (2000) 97 FCR 524 ( Bristol-Myers ) on the other, as to the construction of s 117(1).</sentence>
+<sentence id="s59">18 As counsel for the Territory recognised, there is an apparent difference in the views of the Full Court in Anaesthetic Supplies Pty Ltd v Rescare Ltd (1994) 50 FCR 1 ( Rescare ) on the one hand and in Bristol-Myers Squibb Company v FH Faulding amp; Co Ltd [2000] FCA 316 ; (2000) 97 FCR 524 ( Bristol-Myers ) on the other, as to the construction of s 117(1).</sentence>
 <sentence id="s60">19 In Rescare , Lockhart J (with whom Wilcox J agreed) at 24 said:
  
  "The lasts remaining point is whether the primary judge erred in holding that s 117 of the 1990 Act did not apply in relation to the alleged infringement of claims 9 and 11 in that he held that it was a precondition to the operation of that section in relation to a method claim that there be a product the use of which would infringe that method claim.</sentence>
@@ -147,7 +147,7 @@ The other member of the Full Court, Sheppard J, did not address the issue.</sent
 <sentence id="s66">" 
  
 
-Gummow J in Sartas No 1 Pty Ltd v Koukourou &amp; Partners Pty Ltd (1994) 30 IPR 479 at 495 repeated that view.</sentence>
+Gummow J in Sartas No 1 Pty Ltd v Koukourou amp; Partners Pty Ltd (1994) 30 IPR 479 at 495 repeated that view.</sentence>
 <sentence id="s67">20 The contrast with Bristol-Myers can be seen from the remarks of Black CJ and Lehane J at 559 [95] where their Honours said:
  
  "We may say, with all the advantages of hindsight, that the drafting of s 117 is less than felicitous ... it is perhaps a pity that the drafter chose to use the phrase 'use of a product', which contains such a clear reference to the terminology of para (a) of the definition of 'exploit'.</sentence>
@@ -271,4 +271,6 @@ Dated: 7 December 2006
  
  </sentence>
 </sentences>
-</case>
+</case>ase>/sentence>
+</sentences>
+</case>ase>

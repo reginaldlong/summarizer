@@ -3,10 +3,10 @@
 <name>Cadbury Schweppes Pty Ltd v Darrell Lea Chocolate Shops Pty Ltd (No 5) [2007] FCA 1245 (16 August 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1245.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">expert opinion evidence held to have been wrongly excluded by the trial judge</catchphrase>
-<catchphrase "id=c1">order by the full court for further hearing by trial judge</catchphrase>
-<catchphrase "id=c2">whether reasonable apprehension of bias</catchphrase>
-<catchphrase "id=c3">practice and procedure</catchphrase>
+<catchphrase >expert opinion evidence held to have been wrongly excluded by the trial judge</catchphrase>
+<catchphrase >order by the full court for further hearing by trial judge</catchphrase>
+<catchphrase >whether reasonable apprehension of bias</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -147,7 +147,7 @@
  97 Cadbury does not have an exclusive reputation in the use of this dark purple colour in connection with chocolate.</sentence>
 <sentence id="s72">Other traders have, with Cadbury's knowledge, for many years used a similar shade of purple.</sentence>
 <sentence id="s73">Cadbury has not consistently enforced its alleged exclusive reputation.</sentence>
-<sentence id="s74">In relation to its chief competitor Nestl&eacute;, Cadbury has, for its own commercial reasons, permitted a use of purple in relation to popular chocolate products.</sentence>
+<sentence id="s74">In relation to its chief competitor Nestleacute;, Cadbury has, for its own commercial reasons, permitted a use of purple in relation to popular chocolate products.</sentence>
 <sentence id="s75">
  
  98 Cadbury markets many chocolate products which have little or no purple in their packaging.</sentence>
@@ -398,7 +398,7 @@
 <sentence id="s187">There would, he said, be further argument over the possible exclusion of evidence under the s 135 discretion.</sentence>
 <sentence id="s188">35 Mr Houghton referred to the various passages already quoted from the evidence ruling which were critical of Dr Gibbs' evidence and also the remarks about policy considerations which he said would raise a reasonable apprehension of bias.</sentence>
 <sentence id="s189">36 Mr Houghton also referred to a passage from the trial judgment at [43]-[51] where I discussed the evidence of Darrell Lea witness Anne McGlinchey as to how Darrell Lea came to use purple at Christmas in the years 2000-2004.</sentence>
-<sentence id="s190">This evidence was important, because if it is found that a trader intended to mislead consumers that would be strong evidence that they were in fact misled: Australian Woollen Mills Ltd v F S Walton &amp; Co Ltd [1937] HCA 51 ; (1937) 58 CLR 641 at 657.</sentence>
+<sentence id="s190">This evidence was important, because if it is found that a trader intended to mislead consumers that would be strong evidence that they were in fact misled: Australian Woollen Mills Ltd v F S Walton amp; Co Ltd [1937] HCA 51 ; (1937) 58 CLR 641 at 657.</sentence>
 <sentence id="s191">37 Ms McGlinchey was cross-examined.</sentence>
 <sentence id="s192">I accepted her as a witness of truth for the reasons set out in the trial judgment.</sentence>
 <sentence id="s193">Mr Houghton submitted that at a final hearing Cadbury may well seek to put to witnesses, previously cross-examined, matters arising from the expert evidence previously excluded.</sentence>
@@ -452,4 +452,6 @@ Dated: 16 August 2007
  
  </sentence>
 </sentences>
-</case>
+</case>e>ence>
+</sentences>
+</case>e>

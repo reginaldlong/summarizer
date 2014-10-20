@@ -3,15 +3,15 @@
 <name>Harrington v The Honourable Kevin Andrews MP, Minister for Immigration and Citizenship [2007] FCA 1287 (22 August 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1287.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for constitutional writs</catchphrase>
-<catchphrase "id=c1">where applicant's visa cancelled under s 501(2) migration act 1958 (cth)</catchphrase>
-<catchphrase "id=c2">where minister had regard to non-disclosable information</catchphrase>
-<catchphrase "id=c3">where substance of non-disclosable information not put to the applicant prior to decision</catchphrase>
-<catchphrase "id=c4">where departmental representative induced belief in applicant that applicant would have opportunity to put forward further information and submissions in support of his case after any decision to cancel applicant's visa</catchphrase>
-<catchphrase "id=c5">where applicant did not put forward all the information he would have put forward but for that belief</catchphrase>
-<catchphrase "id=c6">whether failure to put the substance of the non-disclosable information was a breach of the rules of procedural fairness</catchphrase>
-<catchphrase "id=c7">whether applicant denied procedural fairness by reason of being denied the opportunity to put all relevant information before the minister.</catchphrase>
-<catchphrase "id=c8">administrative law</catchphrase>
+<catchphrase >application for constitutional writs</catchphrase>
+<catchphrase >where applicant's visa cancelled under s 501(2) migration act 1958 (cth)</catchphrase>
+<catchphrase >where minister had regard to non-disclosable information</catchphrase>
+<catchphrase >where substance of non-disclosable information not put to the applicant prior to decision</catchphrase>
+<catchphrase >where departmental representative induced belief in applicant that applicant would have opportunity to put forward further information and submissions in support of his case after any decision to cancel applicant's visa</catchphrase>
+<catchphrase >where applicant did not put forward all the information he would have put forward but for that belief</catchphrase>
+<catchphrase >whether failure to put the substance of the non-disclosable information was a breach of the rules of procedural fairness</catchphrase>
+<catchphrase >whether applicant denied procedural fairness by reason of being denied the opportunity to put all relevant information before the minister.</catchphrase>
+<catchphrase >administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -77,7 +77,7 @@ I said that I would deliver reasons and these are my reasons.</sentence>
  
  
  (a) further character references; and
- (b) information from the Applicant's fianc&eacute;, Ms Rachel James, concerning the impact of the possible cancellation upon her and her children;
+ (b) information from the Applicant's fianceacute;, Ms Rachel James, concerning the impact of the possible cancellation upon her and her children;
  (c) a detailed response to the report from Department of Correctional Services prepared by Ms Fiona Beevor that was before the Respondent;
  
  
@@ -91,7 +91,7 @@ I said that I would deliver reasons and these are my reasons.</sentence>
 5 As to the first ground, the applicant no longer contends that the reports from the Parole Board of South Australia ("Parole Board reports") were not non-disclosable information.</sentence>
 <sentence id="s18">In other words, the applicant accepts that they were non-disclosable information within the provisions of the Act .</sentence>
 <sentence id="s19">He contends that he should have been advised of the substance of the information in the Parole Board reports and that the Minister's failure to do so was a breach of the rules of procedural fairness.</sentence>
-<sentence id="s20">As to the second ground, I heard evidence on the applicant's side from the applicant and his fianc&eacute;, Ms Rachel James, and on the Minister's side, from Mr David Maynard.</sentence>
+<sentence id="s20">As to the second ground, I heard evidence on the applicant's side from the applicant and his fianceacute;, Ms Rachel James, and on the Minister's side, from Mr David Maynard.</sentence>
 <sentence id="s21">6 It is convenient in this case to set out the relevant legislative provisions before setting out the facts.</sentence>
 <sentence id="s22">Relevant legislative provisions 
  
@@ -432,9 +432,9 @@ I said that I would deliver reasons and these are my reasons.</sentence>
 <sentence id="s137">The further information to be taken into account includes the following documents, copies of which are attached:
  
  
- &#61863; Offender History Report (Attachment A)
- &#61863; Supreme Court of SA (Court of Criminal Appeal) Certificate of Record and Judgment of 20 April 2003 (Attachment B)
- &#61863; SOTAP report of Shawn Sowerbutts (Attachment C) 
+ #61863; Offender History Report (Attachment A)
+ #61863; Supreme Court of SA (Court of Criminal Appeal) Certificate of Record and Judgment of 20 April 2003 (Attachment B)
+ #61863; SOTAP report of Shawn Sowerbutts (Attachment C) 
  
  
  In preparing your comments please read fully and carefully the contents of the Minister's Direction No 21.</sentence>
@@ -706,4 +706,8 @@ Dated: 22 August 2007
  
  </sentence>
 </sentences>
-</case>
+</case>case>th/FCA/2007/1287.html 
+ 
+ </sentence>
+</sentences>
+</case>case>

@@ -3,11 +3,11 @@
 <name>Riddle v Telstra Corporation Limited (includes Corrigendum dated 15 February 2006) [2006] FCA 58 (10 February 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/58.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">commonwealth employees</catchphrase>
-<catchphrase "id=c1">jurisdiction of administrative appeals tribunal</catchphrase>
-<catchphrase "id=c2">whether tribunal made findings on review inconsistent with findings supporting prior determination of liability not the subject of review</catchphrase>
-<catchphrase "id=c3">whether tribunal may make such findings.</catchphrase>
-<catchphrase "id=c4">compensation</catchphrase>
+<catchphrase >commonwealth employees</catchphrase>
+<catchphrase >jurisdiction of administrative appeals tribunal</catchphrase>
+<catchphrase >whether tribunal made findings on review inconsistent with findings supporting prior determination of liability not the subject of review</catchphrase>
+<catchphrase >whether tribunal may make such findings.</catchphrase>
+<catchphrase >compensation</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -326,7 +326,7 @@ The s 14 determination undoubtedly involved findings on the first four matters r
 
 47 For a disease to be compensable under the SRC Act something more than a mere temporal connection must be found; there must be a material contribution towards either the contraction of the disease or an aggravation of it: See the definition of 'disease' in s 4(1) of the SRC Act and Treloar v Australian Telecommunications Commission (1990) 26 FCR 316.</sentence>
 <sentence id="s139">The Tribunal's finding that there had been a temporal connection only between the onset of the applicant's symptoms and his work precludes any finding that the applicant had suffered a work-related disease which was therefore compensable.</sentence>
-<sentence id="s140">That finding was a finding of fact: March v (E &amp; MH) Stramare Pty Ltd [1991] HCA 12 ; (1991) 171 CLR 506 esp.</sentence>
+<sentence id="s140">That finding was a finding of fact: March v (E amp; MH) Stramare Pty Ltd [1991] HCA 12 ; (1991) 171 CLR 506 esp.</sentence>
 <sentence id="s141">per Mason CJ at 515-517.</sentence>
 <sentence id="s142">48 As to (ii), no inconsistency exists between the Tribunal's finding that the applicant had experienced the spontaneous onset of symptoms whilst walking home from work on 19 February 2003 and the Tribunal's further finding that the nature and conditions of his employment with the respondent had not materially contributed to an aggravation of his underlying, pre-existing degenerative spinal condition.</sentence>
 <sentence id="s143">The Tribunal accepted the medical evidence that 'with Mr Riddle's type of pathology, the onset of symptoms as the applicant experienced, is not necessarily related to trauma or physical activity' (at [93]).</sentence>
@@ -359,7 +359,7 @@ The s 14 determination undoubtedly involved findings on the first four matters r
 50 The applicant essentially asserts that there was no evidence which supported the Tribunal's decision that the applicant's impairment was a result of the natural progression of the applicant's lumbar spine and was not attributable to the nature and conditions of his employment.</sentence>
 <sentence id="s147">51 That assertion wrongly presumes, however, that the only evidence relied upon by the Tribunal in arriving at that decision was that referred to in [96] --- [100] of the Tribunal's reasons for decision.</sentence>
 <sentence id="s148">The content of what was said by the Tribunal in [101] of its reasons for decision denies that presumption and evidence capable of supporting the Tribunal's conclusion was referred to in the Tribunal's reasons at [64], [69], [71] --- [74], [76] and, especially at [93].</sentence>
-<sentence id="s149">52 The giving by a tribunal of allegedly inadequate weight to certain matters and undue weight to others does not, itself, establish a case of unreasonableness of the kind referred to in Associated Provincial Picture Houses Ltd v Wednesbury Corporation Ltd [1947] EWCA Civ 1 ; [1948] 1 KB 223; Minister for Immigration &amp; Multicultural Affairs v Eshetu [1999] HCA 21 ; (1999) 197 CLR 611; Minister for Aboriginal Affairs v Peko-Wallsend Ltd [1986] HCA 40 ; (1986) 162 CLR 24.</sentence>
+<sentence id="s149">52 The giving by a tribunal of allegedly inadequate weight to certain matters and undue weight to others does not, itself, establish a case of unreasonableness of the kind referred to in Associated Provincial Picture Houses Ltd v Wednesbury Corporation Ltd [1947] EWCA Civ 1 ; [1948] 1 KB 223; Minister for Immigration amp; Multicultural Affairs v Eshetu [1999] HCA 21 ; (1999) 197 CLR 611; Minister for Aboriginal Affairs v Peko-Wallsend Ltd [1986] HCA 40 ; (1986) 162 CLR 24.</sentence>
 <sentence id="s150">53 A decision will be vitiated by Wednesbury unreasonableness, unless no decision-maker, acting reasonably, could have made that decision or it is shown that the decision was so unreasonable that no reasonable person could have come to it.</sentence>
 <sentence id="s151">In applying this standard a court must proceed with caution lest it exceed its supervisory role by reviewing the decision on the merits: Minister for Aboriginal Affairs v Peko-Wallsend Ltd at 41 --- 42, per Mason J; Attorney-General (NSW) v Quin [1990] HCA 21 ; (1990) 170 CLR 1 at 36 --- 37, per Brennan J.</sentence>
 <sentence id="s152">It is not enough to show that another decision-maker might have reached a different result or even that the Court takes the view that a different decision would have been more appropriate: Eshetu at 626 --- 627, per Gleeson CJ and McHugh J; 'Friends of Hinchinbrook Society Inc v Minister for Environment (No.</sentence>
@@ -402,7 +402,7 @@ Dated: 10 February 2006
 
  Counsel for the Applicant: Mr D Richards 
  
- Solicitor for the Applicant: Slater &amp; Gordon 
+ Solicitor for the Applicant: Slater amp; Gordon 
  
  Counsel for the Respondent: Mr A Robertson SC
 Mr B Kelly 
@@ -426,4 +426,6 @@ Mr B Kelly
  
  </sentence>
 </sentences>
-</case>
+</case>se></sentence>
+</sentences>
+</case>se>

@@ -3,15 +3,15 @@
 <name>Srour v Minister for Immigration and Multicultural Affairs [2006] FCA 1228 (15 September 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1228.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from federal magistrates court</catchphrase>
-<catchphrase "id=c1">application for spouse visa</catchphrase>
-<catchphrase "id=c2">where tribunal not satisfied of spousal relationship and found no evidence to support alternative criteria including clause 100.221(4) of sch 2 to the migration regulations 1994</catchphrase>
-<catchphrase "id=c3">where evidence before tribunal of child of relationship</catchphrase>
-<catchphrase "id=c4">whether evidence of informal access arrangements required to satisfy clause 100.221(4)</catchphrase>
-<catchphrase "id=c5">whether appellant satisfied criteria by reason of parental responsibility obligations under statute</catchphrase>
-<catchphrase "id=c6">'has custody or joint custody of, or access to', 'any other formal maintenance obligation'</catchphrase>
-<catchphrase "id=c7">migration</catchphrase>
-<catchphrase "id=c8">words and phrases</catchphrase>
+<catchphrase >appeal from federal magistrates court</catchphrase>
+<catchphrase >application for spouse visa</catchphrase>
+<catchphrase >where tribunal not satisfied of spousal relationship and found no evidence to support alternative criteria including clause 100.221(4) of sch 2 to the migration regulations 1994</catchphrase>
+<catchphrase >where evidence before tribunal of child of relationship</catchphrase>
+<catchphrase >whether evidence of informal access arrangements required to satisfy clause 100.221(4)</catchphrase>
+<catchphrase >whether appellant satisfied criteria by reason of parental responsibility obligations under statute</catchphrase>
+<catchphrase >'has custody or joint custody of, or access to', 'any other formal maintenance obligation'</catchphrase>
+<catchphrase >migration</catchphrase>
+<catchphrase >words and phrases</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -160,9 +160,9 @@
 <sentence id="s55">The Tribunal invites you to provide the following information: 
  
  
- &#8226; a certified copy of your daughter's birth certificate; 
- &#8226; advice about any custody or joint custody or access arrangements that you and your wife have in respect of your daughter including informal arrangements and/or residence orders or contact orders under the Family Law Act 1975 ; 
- &#8226; any obligation you have under a child maintenance order under the Family Law Act 1975 , or any other formal maintenance obligation.</sentence>
+ #8226; a certified copy of your daughter's birth certificate; 
+ #8226; advice about any custody or joint custody or access arrangements that you and your wife have in respect of your daughter including informal arrangements and/or residence orders or contact orders under the Family Law Act 1975 ; 
+ #8226; any obligation you have under a child maintenance order under the Family Law Act 1975 , or any other formal maintenance obligation.</sentence>
 <sentence id="s56">" 
  
 
@@ -218,7 +218,7 @@
 <sentence id="s89">Even if the appellant had not become aware of that invitation, the letter was taken to have been given to him in accordance with s 441C because it had been given to him by one of the methods prescribed in s 441A.</sentence>
 <sentence id="s90">His Honour also found that the Tribunal had complied with its obligations under s 360 in relation to the information it obtained from Micaela Callan's conversation with the sponsor, by its letters dated 3 and 4 June whereby the appellant was invited to provide additional information.</sentence>
 <sentence id="s91">24 The remaining grounds centred on the minute of 27 May 2004.</sentence>
-<sentence id="s92">The appellant's then solicitor, Mr Newman of Newman &amp; Associates, claimed that the minute evinced a denial of natural justice by the Tribunal.</sentence>
+<sentence id="s92">The appellant's then solicitor, Mr Newman of Newman amp; Associates, claimed that the minute evinced a denial of natural justice by the Tribunal.</sentence>
 <sentence id="s93">It was submitted that Ms Callan's advice to the sponsor that she no longer had standing was incorrect, because the sponsor was the legitimate representative of the appellant and was there to represent the appellant at the hearing.</sentence>
 <sentence id="s94">It was further submitted that Ms Callan had purported to exercise functions of the Tribunal by shutting out the sponsor's evidence, in possible breach of ss 354 and 357 of the Act.</sentence>
 <sentence id="s95">25 His Honour also observed that the decision in respect of the sponsor's standing was not necessarily made by Ms Callan, or at least not made in isolation or without the authority of the Tribunal member, since the Tribunal decision addressed the issue of standing at [26] of its reasons.</sentence>
@@ -262,7 +262,7 @@
 <sentence id="s123">Whether the Tribunal erred in finding the appellant did not satisfy par 100.221(4) 
  
 34 The construction of the wording in clause 100.221(4)(c)(ii) has previously been considered in two decisions of this Court, in both cases by a single judge.</sentence>
-<sentence id="s124">The first is the judgment of Sundberg J in Yazbeck v Minister for Immigration &amp; Multicultural Affairs [2002] FCA 980 ; (2002) 124 FCR 458 (" Yazbeck ").</sentence>
+<sentence id="s124">The first is the judgment of Sundberg J in Yazbeck v Minister for Immigration amp; Multicultural Affairs [2002] FCA 980 ; (2002) 124 FCR 458 (" Yazbeck ").</sentence>
 <sentence id="s125">The applicant in that case had been refused a permanent visa of the same type as that applied for in the present case.</sentence>
 <sentence id="s126">Also as in the present appeal, the delegate had refused to grant the permanent visa on the basis that the relationship was not genuine and continuing, and the Tribunal reached the same view.</sentence>
 <sentence id="s127">In his amended application in this Court, the applicant contended that the Tribunal had erred in not finding that he satisfied items (A) and (E) of subclause 100.221(4).</sentence>
@@ -415,7 +415,7 @@ Dated: 15 September 2006
 
  Counsel for the Appellant: J Shaw (7 June 2006) 
  
- Solicitor for the Appellant: Newman &amp; Associates (26 April 2006)
+ Solicitor for the Appellant: Newman amp; Associates (26 April 2006)
 H M Symonds and Britten (7 June 2006) 
  
  Counsel for the First Respondent: S A Mason 
@@ -436,4 +436,8 @@ H M Symonds and Britten (7 June 2006)
  
  </sentence>
 </sentences>
-</case>
+</case>/case>h/FCA/2006/1228.html 
+ 
+ </sentence>
+</sentences>
+</case>/case>

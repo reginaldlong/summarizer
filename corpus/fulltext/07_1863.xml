@@ -3,14 +3,14 @@
 <name>The Wilderness Society Inc. v The Hon. Malcolm Turnbull, Minister for the Environment and Water Resources [2007] FCA 1863 (30 November 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1863.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">costs</catchphrase>
-<catchphrase "id=c1">discretion to award costs</catchphrase>
-<catchphrase "id=c2">public interest litigation</catchphrase>
-<catchphrase "id=c3">applicant brought proceeding in public interest</catchphrase>
-<catchphrase "id=c4">applicant wholly unsuccessful</catchphrase>
-<catchphrase "id=c5">whether public interest nature of proceeding sufficient reason to deny costs to successful respondents. held : costs awarded to the successful respondents</catchphrase>
-<catchphrase "id=c6">public interest considerations relevant but not sufficient to alter usual rule that costs follow the event.</catchphrase>
-<catchphrase "id=c7">practice and procedure</catchphrase>
+<catchphrase >costs</catchphrase>
+<catchphrase >discretion to award costs</catchphrase>
+<catchphrase >public interest litigation</catchphrase>
+<catchphrase >applicant brought proceeding in public interest</catchphrase>
+<catchphrase >applicant wholly unsuccessful</catchphrase>
+<catchphrase >whether public interest nature of proceeding sufficient reason to deny costs to successful respondents. held : costs awarded to the successful respondents</catchphrase>
+<catchphrase >public interest considerations relevant but not sufficient to alter usual rule that costs follow the event.</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -28,7 +28,7 @@
 3 Gunns seeks orders that TWS pay its costs on a party and party basis, including reserved costs and the costs of the application for costs.</sentence>
 <sentence id="s9">4 The Court's jurisdiction to award costs in a proceeding derives from s 43 of the Federal Court of Australia Act 1976 (Cth) (Federal Court Act) which provides that, except as provided by any other Act, the award of costs is in the discretion of the Court or Judge.</sentence>
 <sentence id="s10">The discretion so conferred is unconfined, save for any relevant provision of another Act that alters that position and save that it must be exercised judicially.</sentence>
-<sentence id="s11">5 In Donald Campbell &amp; Co Ltd v Pollak [1927] AC 732 the House of Lords examined the Court of Appeal's discretion to award costs, framed in similar terms to the Federal Court Act, by s 5 of the Judicature Act 1890 (UK).</sentence>
+<sentence id="s11">5 In Donald Campbell amp; Co Ltd v Pollak [1927] AC 732 the House of Lords examined the Court of Appeal's discretion to award costs, framed in similar terms to the Federal Court Act, by s 5 of the Judicature Act 1890 (UK).</sentence>
 <sentence id="s12">In that case Viscount Cave LC said at 811-812 (Viscount Dunedin, Lord Phillimore and Lord Carson agreeing):
  
  A successful defendant ... has no doubt, in the absence of special circumstances, a reasonable expectation of obtaining an order for the payment of his costs by the plaintiff; ... and the Court has an absolute and unfettered discretion to award or not to award them.</sentence>
@@ -40,7 +40,7 @@
 <sentence id="s16">That principle has been re-stated many times, for example, in Latoudis v Casey [1990] HCA 59 ; (1990) 170 CLR 534 Dawson J said at 557: 
  
  Whilst the discretion was absolute and unfettered, it was to be exercised judicially, that is to say, not by reference to irrelevant or extraneous considerations, but upon facts connected with or leading up to the litigation.</sentence>
-<sentence id="s17">A successful party in a non jury case had, in the absence of special circumstances, a reasonable expectation of obtaining an order for costs in his favour, but no right until he obtained an order; nevertheless, it was said that a court should not exercise the discretion against a successful party "except for some reason connected with the case": Donald Campbell &amp; Co v Pollak ... 
+<sentence id="s17">A successful party in a non jury case had, in the absence of special circumstances, a reasonable expectation of obtaining an order for costs in his favour, but no right until he obtained an order; nevertheless, it was said that a court should not exercise the discretion against a successful party "except for some reason connected with the case": Donald Campbell amp; Co v Pollak ... 
 
  Further support for that proposition is found in Oshlack v Richmond River Council [1998] HCA 11 ; (1998) 193 CLR 72 where McHugh J (in dissent) said at 96:
  
@@ -119,11 +119,11 @@
 <sentence id="s63">21 Furthermore, TWS submits that the present case reveals additional factors that would warrant a departure from the usual order as to costs.</sentence>
 <sentence id="s64">They are:
  
-&#8226; the statutory nature of the decisions made by the Minister including the complex environmental, factual and legal setting in which the decisions were made;
+#8226; the statutory nature of the decisions made by the Minister including the complex environmental, factual and legal setting in which the decisions were made;
  
-&#8226; the identity of the applicant and the nature of the challenge brought by TWS concerning the issues raised and the merits of the argument; and
+#8226; the identity of the applicant and the nature of the challenge brought by TWS concerning the issues raised and the merits of the argument; and
  
-&#8226; the importance of access to the courts to enable judicial supervision of important environmental issues.</sentence>
+#8226; the importance of access to the courts to enable judicial supervision of important environmental issues.</sentence>
 <sentence id="s65">22 The first point raises arguments in favour of the importance of the proper administration of justice and of the EPBC Act.</sentence>
 <sentence id="s66">The EPBC Act contains important matters relating to the conservation and management of the Australian environment including matters concerning Australia's international obligations.</sentence>
 <sentence id="s67">These submissions point out that the Gunns pulp mill is a massive undertaking with a significant impact on the environment and that the approval or otherwise of the pulp mill remains a matter of great controversy both within and outside Tasmania.</sentence>
@@ -210,4 +210,8 @@ Dated: 30 November 2007
  
  </sentence>
 </sentences>
-</case>
+</case>case>2007/1863.html 
+ 
+ </sentence>
+</sentences>
+</case>case>

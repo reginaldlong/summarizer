@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <case>
-<name>The King &amp; I Pty Ltd, in the matter of The King &amp; I Pty Ltd [2007] FCA 2085 (21 December 2007)</name>
+<name>The King amp; I Pty Ltd, in the matter of The King amp; I Pty Ltd [2007] FCA 2085 (21 December 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/2085.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">termination of winding up of company</catchphrase>
-<catchphrase "id=c1">quality of evidence on solvency and profitability</catchphrase>
-<catchphrase "id=c2">source of support for termination</catchphrase>
-<catchphrase "id=c3">capitalisation of debt</catchphrase>
-<catchphrase "id=c4">assessment of cause of winding up</catchphrase>
-<catchphrase "id=c5">corporations</catchphrase>
+<catchphrase >termination of winding up of company</catchphrase>
+<catchphrase >quality of evidence on solvency and profitability</catchphrase>
+<catchphrase >source of support for termination</catchphrase>
+<catchphrase >capitalisation of debt</catchphrase>
+<catchphrase >assessment of cause of winding up</catchphrase>
+<catchphrase >corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
  
-1 On 5 September 2006 The King &amp; I Pty Ltd (the company) was wound up on the grounds of insolvency.</sentence>
+1 On 5 September 2006 The King amp; I Pty Ltd (the company) was wound up on the grounds of insolvency.</sentence>
 <sentence id="s1">The plaintiff, Mervyn Malcolm Posner was appointed liquidator.</sentence>
 <sentence id="s2">Mr Posner now applies for the winding up to be terminated as the company is solvent and all creditors support the termination of the winding up.</sentence>
 <sentence id="s3">The company is now trading very profitably in providing conventional real estate agency services in rural Western Australia.</sentence>
@@ -103,7 +103,7 @@
 <sentence id="s33">The nature of the business carried on by the company should be demonstrated, and whether or not the conduct of the company was in any way contrary to 'commercial morality' or the 'public interest': Krextile Holdings Pty Ltd v Widdows (supra).</sentence>
 <sentence id="s34">" 
 
-5 It is necessary to take into account the broad interests of both present and future prospective creditors, contributories and the 'public interest including matters of commercial morality' (see Mercy &amp; Sons Pty Ltd v Wanari Pty Ltd [2000] NSWSC 756 ; (2000) 157 FLR 107; Re Nardell Coal Corp Pty Ltd [2004] NSWSC 281 ; (2004) 182 FLR 290 and Re Data Homes Pty Ltd [1972] 2 NSWLR 22).</sentence>
+5 It is necessary to take into account the broad interests of both present and future prospective creditors, contributories and the 'public interest including matters of commercial morality' (see Mercy amp; Sons Pty Ltd v Wanari Pty Ltd [2000] NSWSC 756 ; (2000) 157 FLR 107; Re Nardell Coal Corp Pty Ltd [2004] NSWSC 281 ; (2004) 182 FLR 290 and Re Data Homes Pty Ltd [1972] 2 NSWLR 22).</sentence>
 <sentence id="s35">6 As to more specific matters, as future creditors are concerned, an important consideration arises if the proposal for termination of the winding up preserves existing debt.</sentence>
 <sentence id="s36">If that is so, it is necessary to ascertain what arrangements exist and whether those arrangements are binding for the subordination of claimants of such debt to newly incurred debts and/or whether there is any proposal to capitalise debts: see Re Data Homes [1972] 2 NSWLR 22 at 27 and Re Nardell [2004] NSWSC 281 ; 182 FLR 290 at 78.</sentence>
 <sentence id="s37">In this application, there are two possible debts requiring consideration of this nature.</sentence>
@@ -125,7 +125,7 @@
  
  
  31.</sentence>
-<sentence id="s44">In any application under s.482 for an order terminating winding up, the onus is on the applicant to make out a positive case for termination: Re Calgary &amp; Edmonton Land Co Ltd [1975] 1 WLR 355 at pp.358-9.</sentence>
+<sentence id="s44">In any application under s.482 for an order terminating winding up, the onus is on the applicant to make out a positive case for termination: Re Calgary amp; Edmonton Land Co Ltd [1975] 1 WLR 355 at pp.358-9.</sentence>
 <sentence id="s45">Where the ground for winding up was insolvency, an indispensable part of the applicant's task is to prove solvency.</sentence>
 <sentence id="s46">As a matter of public policy or commercial morality, the court will not countenance the return of an insolvent company to the mainstream of commercial life: see, for example, Re Mascot Home Furnishers Pty Ltd [1970] VR 593; Re Denistone Real Estate Pty Ltd [1970] 3 NSWR 327; Re Data Homes Pty Ltd [1971] 1 NSWLR 338.</sentence>
 <sentence id="s47">Upon an application of the present kind, as in the case of defence to a winding up summons where the presumption of insolvency operates, the party bearing the onus of proof must lead the "fullest and best" evidence of the financial position: Commonwealth Bank of Australia v Begonia (1993) 11 ACLC 477.</sentence>
@@ -273,4 +273,8 @@ Dated: 21 December 2007
  
  </sentence>
 </sentences>
-</case>
+</case>case> 
+ 
+ </sentence>
+</sentences>
+</case>case>

@@ -3,12 +3,12 @@
 <name>Egglishaw v Australian Crime Commission [2006] FCA 819 (30 June 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/819.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">judicial review pursuant to judiciary act 1903 (cth) s 39b</catchphrase>
-<catchphrase "id=c1">search warrant executed by respondent, notice to produce issued by respondent and conduct engaged in by respondent pursuant to both impugned as unlawful</catchphrase>
-<catchphrase "id=c2">burden of proof</catchphrase>
-<catchphrase "id=c3">extent to which burden lies on respondent</catchphrase>
-<catchphrase "id=c4">how respondent discharges burden</catchphrase>
-<catchphrase "id=c5">administrative law</catchphrase>
+<catchphrase >judicial review pursuant to judiciary act 1903 (cth) s 39b</catchphrase>
+<catchphrase >search warrant executed by respondent, notice to produce issued by respondent and conduct engaged in by respondent pursuant to both impugned as unlawful</catchphrase>
+<catchphrase >burden of proof</catchphrase>
+<catchphrase >extent to which burden lies on respondent</catchphrase>
+<catchphrase >how respondent discharges burden</catchphrase>
+<catchphrase >administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -51,9 +51,9 @@ The first condition referred to things that are originals or copies of any of a 
  
  3 The warrant was directed to Gail McClure, a "constable" within the meaning of the Crimes Act 1914 (Cth) who is a member of the Commission's staff.</sentence>
 <sentence id="s8">It authorised Ms McClure to (among other things):
- &#8226; enter the hotel room referred to at [2] in the period between 7.00am and 9.00pm;
- &#8226; search the hotel room for evidential material of the kind described at [2]; and
- &#8226; seize such evidential material.</sentence>
+ #8226; enter the hotel room referred to at [2] in the period between 7.00am and 9.00pm;
+ #8226; search the hotel room for evidential material of the kind described at [2]; and
+ #8226; seize such evidential material.</sentence>
 <sentence id="s9">
 
 It also authorised her to "exercise such other of the powers available under Division 2 of Part 1AA of [the Crimes] Act as are appropriate in the circumstances of the case".</sentence>
@@ -83,12 +83,12 @@ It also authorised her to "exercise such other of the powers available under Div
  
  11 By an application filed on 21 December 2005 (the application), the applicant seeks relief under ss 39B(1) and (1A) of the Judiciary Act 1903 (Cth).</sentence>
 <sentence id="s31">First, it seeks declarations that:
- &#8226; the application for the warrant "was and is ultra vires, unlawful and of no force and effect";
- &#8226; the decision to issue the warrant "was and is unlawful";
- &#8226; the warrant "was and is ultra vires, void, unlawful and of no force and effect";
- &#8226; "the seizure, use and communication of materials obtained by the ... warrant was and is unlawful";
- &#8226; the notice "was and is unlawful and of no force and effect"; and
- &#8226; "the use and communication of materials obtained under the notice ... was and is unlawful".</sentence>
+ #8226; the application for the warrant "was and is ultra vires, unlawful and of no force and effect";
+ #8226; the decision to issue the warrant "was and is unlawful";
+ #8226; the warrant "was and is ultra vires, void, unlawful and of no force and effect";
+ #8226; "the seizure, use and communication of materials obtained by the ... warrant was and is unlawful";
+ #8226; the notice "was and is unlawful and of no force and effect"; and
+ #8226; "the use and communication of materials obtained under the notice ... was and is unlawful".</sentence>
 <sentence id="s32">
 
 Second, it seeks orders quashing or setting aside the application for the warrant, the issue of the warrant, the warrant and the notice.</sentence>
@@ -97,9 +97,9 @@ Second, it seeks orders quashing or setting aside the application for the warran
 <sentence id="s35">
  12 The second respondent has indicated that she will submit to any order made by this Court, save that she wishes to be heard as to any order for costs that might be made against her.</sentence>
 <sentence id="s36">13 The issues that fall for determination are:
- &#8226; the applicant's attack on the warrant on the same grounds as those dealt with by Young J in A2 v Australian Crime Commission [2006] FCA 106 (the A2 point);
- &#8226; his attack on the procedure by which the Commission obtained the notebook; and
- &#8226; his attack on the procedure by which the Commission obtained the DVDs.</sentence>
+ #8226; the applicant's attack on the warrant on the same grounds as those dealt with by Young J in A2 v Australian Crime Commission [2006] FCA 106 (the A2 point);
+ #8226; his attack on the procedure by which the Commission obtained the notebook; and
+ #8226; his attack on the procedure by which the Commission obtained the DVDs.</sentence>
 <sentence id="s37">
  THE A2 POINT 
  
@@ -301,8 +301,8 @@ The expression "evidential material" is defined in s 3C as "a thing relevant to 
 <sentence id="s79">First it was said that the notebook was seized pursuant to s 3F at the hotel room rather than at the Commission's offices.</sentence>
 <sentence id="s80">Consequently, the making of the forensic image at the Commission's offices was unlawful because it was not done in accordance with s 3L.</sentence>
 <sentence id="s81">Then it was said that even if the notebook was not seized pursuant to s 3F at the hotel room:
- &#8226; it should not have been taken from the hotel room to the Commission's offices because the Commission should have used the procedure provided for in ss 3L(1) and (1A); and
- &#8226; in any case, the Commission failed to comply with s 3K(2)(a)(i) when it moved the notebook from the hotel room to its offices.</sentence>
+ #8226; it should not have been taken from the hotel room to the Commission's offices because the Commission should have used the procedure provided for in ss 3L(1) and (1A); and
+ #8226; in any case, the Commission failed to comply with s 3K(2)(a)(i) when it moved the notebook from the hotel room to its offices.</sentence>
 <sentence id="s82">
  Was the notebook seized pursuant to s 3F at the hotel?</sentence>
 <sentence id="s83">
@@ -358,14 +358,14 @@ The expression "evidential material" is defined in s 3C as "a thing relevant to 
 <sentence id="s125">
  
  33 Sections 3F , 3K and 3L provide a person executing a search warrant with a variety of options:
- &#8226; seizure simpliciter: s 3F(1)(c) ;
- &#8226; bringing to the warrant premises equipment to examine or process a thing in order to determine whether it may be seized: s 3K(1) ;
- &#8226; removing from the premises a thing to examine or process elsewhere in order to determine whether it may be seized: s 3K(2) ;
- &#8226; operating electronic equipment at the premises, copying the data found thereby on to a device brought to the premises and removing that device from the premises: ss 3L(1) and (1A);
- &#8226; operating electronic equipment at the premises and then seizing it: s 3L(2)(a) --- but only if it is "not practicable" to use certain other procedures provided for by s 3L: 
+ #8226; seizure simpliciter: s 3F(1)(c) ;
+ #8226; bringing to the warrant premises equipment to examine or process a thing in order to determine whether it may be seized: s 3K(1) ;
+ #8226; removing from the premises a thing to examine or process elsewhere in order to determine whether it may be seized: s 3K(2) ;
+ #8226; operating electronic equipment at the premises, copying the data found thereby on to a device brought to the premises and removing that device from the premises: ss 3L(1) and (1A);
+ #8226; operating electronic equipment at the premises and then seizing it: s 3L(2)(a) --- but only if it is "not practicable" to use certain other procedures provided for by s 3L: 
  s 3L(3) ;
- &#8226; operating electronic equipment at the premises, using facilities at the premises to create documents therefrom and then seizing them: s 3L(2)(b) ; or
- &#8226; securing electronic equipment at the premises so that it may be operated with the assistance of an expert: ss 3L(4) and (6).</sentence>
+ #8226; operating electronic equipment at the premises, using facilities at the premises to create documents therefrom and then seizing them: s 3L(2)(b) ; or
+ #8226; securing electronic equipment at the premises so that it may be operated with the assistance of an expert: ss 3L(4) and (6).</sentence>
 <sentence id="s126">
 
 Only some of those options involve seizure.</sentence>
@@ -377,8 +377,8 @@ Only some of those options involve seizure.</sentence>
 <sentence id="s131">There is no hierarchy of options.</sentence>
 <sentence id="s132">After all, the Commission could just as easily have used the procedure provided for in ss 3K(1) or 3L(4) and (6).</sentence>
 <sentence id="s133">Further, the contention assumes that:
- &#8226; s 3L exhaustively defines how any electronic equipment found at the warrant premises must be dealt with; and
- &#8226; s 3L(2)(a) exhaustively defines the circumstances in which such equipment may be seized.</sentence>
+ #8226; s 3L exhaustively defines how any electronic equipment found at the warrant premises must be dealt with; and
+ #8226; s 3L(2)(a) exhaustively defines the circumstances in which such equipment may be seized.</sentence>
 <sentence id="s134">
 
 There is nothing in the Act to support those assumptions.</sentence>
@@ -386,8 +386,8 @@ There is nothing in the Act to support those assumptions.</sentence>
 <sentence id="s136">
  
  35 The applicant complains that the Commission:
- &#8226; has failed to show that, in the terms of s 3K(2)(a)(i), it was "significantly more practicable to [move the notebook to the Commission's offices] having regard to the timeliness and cost of examining ... the [notebook there] and the availability of expert assistance"; and
- &#8226; in taking the notebook to its offices, failed to have regard to those matters that
+ #8226; has failed to show that, in the terms of s 3K(2)(a)(i), it was "significantly more practicable to [move the notebook to the Commission's offices] having regard to the timeliness and cost of examining ... the [notebook there] and the availability of expert assistance"; and
+ #8226; in taking the notebook to its offices, failed to have regard to those matters that
 s 3K(2)(a)(i) says it must.</sentence>
 <sentence id="s137">36 The complaint is misconceived and without merit.</sentence>
 <sentence id="s138">The onus is on the applicant to show that s 3K(2)(a)(i) was not satisfied.</sentence>
@@ -485,8 +485,8 @@ Mr Andrew also deposed to the provision of the DVDs to the applicant, the servic
  
  
  46 The statement of claim pleaded that:
- &#8226; "[i]n the premises, s 29 ... did not authorise a member of staff of the [Commission] to require the applicant to produce the [DVDs] pursuant to the notice" (para 17); and
- &#8226; "[b]y reason of the foregoing ... the notice ... was issued for an unlawful purpose [and] was unlawful and of no force and effect" (para 18(c)).</sentence>
+ #8226; "[i]n the premises, s 29 ... did not authorise a member of staff of the [Commission] to require the applicant to produce the [DVDs] pursuant to the notice" (para 17); and
+ #8226; "[b]y reason of the foregoing ... the notice ... was issued for an unlawful purpose [and] was unlawful and of no force and effect" (para 18(c)).</sentence>
 <sentence id="s187">
 
 However, the grounds on which the notice is impugned were not exposed until the applicant filed and served written submissions in reply --- on the day the hearing of the application commenced.</sentence>
@@ -571,8 +571,8 @@ Clearly, the situation in the instant proceeding was different from that in Pugl
 <sentence id="s237">55 The Commission did not adduce evidence that the examiner was satisfied in the requisite sense.</sentence>
 <sentence id="s238">That lack of evidence is unexceptionable because the applicant failed to adduce evidence that the examiner was not so satisfied and first raised the issue of whether or not the examiner was so satisfied on the day the hearing of the application commenced.</sentence>
 <sentence id="s239">For those reasons:
- &#8226; it is not appropriate for me to draw an inference of the sort described by Windeyer J in Jones v Dunkel [1959] HCA 8 ; (1959) 101 CLR 298 at 320-321 from the Commission's failure to adduce evidence from Messrs Hellings or Goodchild --- whose roles in the procurement of the notice are described at [44](d) --- or the examiner; and
- &#8226; I need not deal with the applicant's contention that the examiner could not have been satisfied in the requisite sense when he issued the notice because he must have known that the Commission created the DVDs and/or that the applicant was not, at that point in time, in "custody, possession and/or control" of the DVDs.</sentence>
+ #8226; it is not appropriate for me to draw an inference of the sort described by Windeyer J in Jones v Dunkel [1959] HCA 8 ; (1959) 101 CLR 298 at 320-321 from the Commission's failure to adduce evidence from Messrs Hellings or Goodchild --- whose roles in the procurement of the notice are described at [44](d) --- or the examiner; and
+ #8226; I need not deal with the applicant's contention that the examiner could not have been satisfied in the requisite sense when he issued the notice because he must have known that the Commission created the DVDs and/or that the applicant was not, at that point in time, in "custody, possession and/or control" of the DVDs.</sentence>
 <sentence id="s240">
  CONCLUSION 
  
@@ -581,7 +581,7 @@ Clearly, the situation in the instant proceeding was different from that in Pugl
 <sentence id="s242">In Johnson v Williams (2000) 58 ALD 1 at [24] and [25], the Full Court of this Court said:
  "One matter that is properly to be taken into account in proceedings to quash or have declared invalid an administrative decision is whether there has been delay in bringing the proceeding.</sentence>
 <sentence id="s243">Courts quite properly take the view that there is a need for a speedy determination of the validity of an administrative decision.</sentence>
-<sentence id="s244">The interests of good administration and third parties are at stake: O'Reilly v Mackman [1983] UKHL 1 ; [1983] 2 AC 237 at 284; Caswell v Dairy Produce Quota Tribunal for England &amp; Wales [1990] UKHL 5 ; [1990] 2 AC 738.</sentence>
+<sentence id="s244">The interests of good administration and third parties are at stake: O'Reilly v Mackman [1983] UKHL 1 ; [1983] 2 AC 237 at 284; Caswell v Dairy Produce Quota Tribunal for England amp; Wales [1990] UKHL 5 ; [1990] 2 AC 738.</sentence>
 <sentence id="s245">Unreasonable or unaccounted for delay cannot be tolerated.</sentence>
 <sentence id="s246">
  
@@ -633,7 +633,7 @@ Dated: 30 June 2006
 Mr N Lucarelli QC
 Mr A Thomas 
  
- Solicitor for the Applicant: Browne &amp; Co 
+ Solicitor for the Applicant: Browne amp; Co 
  
  Counsel for the First Respondent: Ms D Mortimer SC
 Dr S Donaghue 
@@ -651,5 +651,10 @@ Dr S Donaghue
  URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/819.html 
  
  </sentence>
+</sentences>
+</case>/sentence>
+</sentences>
+</case>es>
+</case>/sentence>
 </sentences>
 </case>

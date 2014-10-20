@@ -3,19 +3,19 @@
 <name>Lawrance v Chief Executive Officer, CRS Australia [2006] FCA 341 (5 April 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/341.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">review of administrative appeals tribunal ("aat") decision</catchphrase>
-<catchphrase "id=c1">application for documents under freedom of information act 1982 (cth)</catchphrase>
-<catchphrase "id=c2">whether reasonable steps taken to locate documents</catchphrase>
-<catchphrase "id=c3">whether documents exist</catchphrase>
-<catchphrase "id=c4">whether findings of fact supported by evidence</catchphrase>
-<catchphrase "id=c5">whether irrelevant considerations taken into account</catchphrase>
-<catchphrase "id=c6">whether wednesbury unreasonable</catchphrase>
-<catchphrase "id=c7">procedural fairness</catchphrase>
-<catchphrase "id=c8">whether reasonable opportunity to cross examine witnesses and make submissions</catchphrase>
-<catchphrase "id=c9">power of aat to control proceedings</catchphrase>
-<catchphrase "id=c10">relevance to proceedings</catchphrase>
-<catchphrase "id=c11">administrative law</catchphrase>
-<catchphrase "id=c12">administrative law</catchphrase>
+<catchphrase >review of administrative appeals tribunal ("aat") decision</catchphrase>
+<catchphrase >application for documents under freedom of information act 1982 (cth)</catchphrase>
+<catchphrase >whether reasonable steps taken to locate documents</catchphrase>
+<catchphrase >whether documents exist</catchphrase>
+<catchphrase >whether findings of fact supported by evidence</catchphrase>
+<catchphrase >whether irrelevant considerations taken into account</catchphrase>
+<catchphrase >whether wednesbury unreasonable</catchphrase>
+<catchphrase >procedural fairness</catchphrase>
+<catchphrase >whether reasonable opportunity to cross examine witnesses and make submissions</catchphrase>
+<catchphrase >power of aat to control proceedings</catchphrase>
+<catchphrase >relevance to proceedings</catchphrase>
+<catchphrase >administrative law</catchphrase>
+<catchphrase >administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -68,10 +68,10 @@
  10 Apart from the 'T' documents lodged pursuant to s 37 of the AAT Act , the AAT had substantial documentary evidence before it including:- 
  
  
- &#8226; Two lengthy affidavits affirmed by the applicant on 28 July 2004 and 20 September 2004, the latter comprising 77 handwritten pages and a chronology;
- &#8226; An affidavit of Ms Janine Wood ("Ms Wood") of CRS affirmed 27 August 2004 ; 
- &#8226; An affidavit of Ms Margaret Carmody ("Ms Carmody") of CRS affirmed 23 August 2004; and
- &#8226; CRS Client Service Charter and CRS Privacy and Personal Information Statement .</sentence>
+ #8226; Two lengthy affidavits affirmed by the applicant on 28 July 2004 and 20 September 2004, the latter comprising 77 handwritten pages and a chronology;
+ #8226; An affidavit of Ms Janine Wood ("Ms Wood") of CRS affirmed 27 August 2004 ; 
+ #8226; An affidavit of Ms Margaret Carmody ("Ms Carmody") of CRS affirmed 23 August 2004; and
+ #8226; CRS Client Service Charter and CRS Privacy and Personal Information Statement .</sentence>
 <sentence id="s28">
  
  
@@ -146,21 +146,21 @@
  The decision of Senior Member Kelly 
  
  20 Senior Member Kelly made the following factual findings:-
- &#9679; CRS does not collect or store an individual's sensitive personal or health information unless that person is a client, employee or contractor of CRS.</sentence>
-<sentence id="s44">&#9679; Vocational rehabilitation is a voluntary process and such programs are provided in consultation with the client.</sentence>
+ #9679; CRS does not collect or store an individual's sensitive personal or health information unless that person is a client, employee or contractor of CRS.</sentence>
+<sentence id="s44">#9679; Vocational rehabilitation is a voluntary process and such programs are provided in consultation with the client.</sentence>
 <sentence id="s45">The service would not be provided with the consent of a third party only.</sentence>
-<sentence id="s46">&#9679; CRS Australia does not conduct surveillance; it is not an investigative agency.</sentence>
-<sentence id="s47">&#9679; CRS has conducted searches as detailed in the evidence given by their witnesses.</sentence>
+<sentence id="s46">#9679; CRS Australia does not conduct surveillance; it is not an investigative agency.</sentence>
+<sentence id="s47">#9679; CRS has conducted searches as detailed in the evidence given by their witnesses.</sentence>
 <sentence id="s48">No records have been found relating to the applicant.</sentence>
-<sentence id="s49">&#9679; Searches were also conducted of CRS' electronic archives to relevant e-mails and other documentation in relation to Ms Smith and Ms Perrottet.</sentence>
+<sentence id="s49">#9679; Searches were also conducted of CRS' electronic archives to relevant e-mails and other documentation in relation to Ms Smith and Ms Perrottet.</sentence>
 <sentence id="s50">No records were found relating to Ms Perrottet.</sentence>
-<sentence id="s51">&#9679; Electronic holding in relation to Ms Smith were located, including e-mail and other documentation amounting to 400 megabytes of material.</sentence>
+<sentence id="s51">#9679; Electronic holding in relation to Ms Smith were located, including e-mail and other documentation amounting to 400 megabytes of material.</sentence>
 <sentence id="s52">A manual search would be required to determine whether any of the material was relevant.</sentence>
 <sentence id="s53">It would take four days to recover the material from IT services and, on a conservative estimate, 100 hours to review it.</sentence>
-<sentence id="s54">&#9679; The relationship between the applicant and Ms Smith was purely one of friendship.</sentence>
+<sentence id="s54">#9679; The relationship between the applicant and Ms Smith was purely one of friendship.</sentence>
 <sentence id="s55">Ms Smith was not involved in any activity relating to CRS activities in respect of the applicant.</sentence>
-<sentence id="s56">&#9679; Apart from the applicant's belief, arrived at in hindsight, there is no other evidence to suggest any connection between CRS and the applicant.</sentence>
-<sentence id="s57">&#9679; If CRS did hold documents or information about a program or service relating to the applicant, it would have been found by the searches already conducted.</sentence>
+<sentence id="s56">#9679; Apart from the applicant's belief, arrived at in hindsight, there is no other evidence to suggest any connection between CRS and the applicant.</sentence>
+<sentence id="s57">#9679; If CRS did hold documents or information about a program or service relating to the applicant, it would have been found by the searches already conducted.</sentence>
 <sentence id="s58">21 Senior Member Kelly was satisfied that all reasonable steps had been taken to find the documents the subject of the applicant's request.</sentence>
 <sentence id="s59">The learned Senior Member went on to conclude that the documents did not exist.</sentence>
 <sentence id="s60">
@@ -240,7 +240,7 @@
  
  
  11.</sentence>
-<sentence id="s82">The Tribunal applied the wrong principles or did not apply any principles, in considering whether all reasonable steps had been made to locate documents under s 24A of the Freedom of Information Act 1982 : Lombardo v Federal Commissioner of Taxation (1979) 40 FLR 208; Re Anti-Fluoride Association (1985) 8 ALD 163; Langer v Telstra Corporation Ltd [2002] AATA 341 ; Beesley v Commissioner of Police [2000] NSW ADT 52 ; Secretary, Department of Treasury &amp; Finance v Kelly [2001] VSCA 26 18 VAR 427; Beesley v Australian Federal Police [2001] FCA 836 ; Re SRB and SRG (1994) 33 ALD 171.</sentence>
+<sentence id="s82">The Tribunal applied the wrong principles or did not apply any principles, in considering whether all reasonable steps had been made to locate documents under s 24A of the Freedom of Information Act 1982 : Lombardo v Federal Commissioner of Taxation (1979) 40 FLR 208; Re Anti-Fluoride Association (1985) 8 ALD 163; Langer v Telstra Corporation Ltd [2002] AATA 341 ; Beesley v Commissioner of Police [2000] NSW ADT 52 ; Secretary, Department of Treasury amp; Finance v Kelly [2001] VSCA 26 18 VAR 427; Beesley v Australian Federal Police [2001] FCA 836 ; Re SRB and SRG (1994) 33 ALD 171.</sentence>
 <sentence id="s83">
  
  
@@ -287,14 +287,14 @@
  
  
  
- &#8722; the statement at para 32 that the 'relationship with Ms Lawrance (and Bev Smith) was purely one of friendship'.</sentence>
+ #8722; the statement at para 32 that the 'relationship with Ms Lawrance (and Bev Smith) was purely one of friendship'.</sentence>
 <sentence id="s93">
- &#8722; the remark at para 11 of the AAT reasons regarding what lead to the applicant becoming aware of surveillance in 1999 and at what point in time in 1999 that she gained this awareness.</sentence>
+ #8722; the remark at para 11 of the AAT reasons regarding what lead to the applicant becoming aware of surveillance in 1999 and at what point in time in 1999 that she gained this awareness.</sentence>
 <sentence id="s94">
- &#8722; the finding at para 26 that CRS is not involved in investigating and monitoring/surveillance activity 
- &#8722; the finding at para 32 that 'Apart from Ms Lawrance's belief, arrived at in hindsight, there is no other evidence to suggest that there was any connection between CRS and Ms Lawrance'.</sentence>
+ #8722; the finding at para 26 that CRS is not involved in investigating and monitoring/surveillance activity 
+ #8722; the finding at para 32 that 'Apart from Ms Lawrance's belief, arrived at in hindsight, there is no other evidence to suggest that there was any connection between CRS and Ms Lawrance'.</sentence>
 <sentence id="s95">
- &#8722; The findings at para 30.</sentence>
+ #8722; The findings at para 30.</sentence>
 <sentence id="s96">
  
  
@@ -325,8 +325,8 @@
  
  26 In this question the applicant asserts that Senior Member Kelly's conduct of the proceeding involved a denial of procedural fairness.</sentence>
 <sentence id="s104">This is expanded upon in questions 5, 6, 7 and 9 in which the applicant claims that Senior Member Kelly:-
- &#9679; interrupted the applicant and refused to give her a reasonable opportunity to present her case; and
- &#9679; failed to adjourn the hearing to deal with the non-attendance of witnesses summonsed by the applicant.</sentence>
+ #9679; interrupted the applicant and refused to give her a reasonable opportunity to present her case; and
+ #9679; failed to adjourn the hearing to deal with the non-attendance of witnesses summonsed by the applicant.</sentence>
 <sentence id="s105">27 It may be accepted as a general statement of principle that if directions are given by a court or tribunal that have the effect of fettering cross-examination so that a witness's evidence on relevant issues cannot be properly tested, there is a denial of procedural fairness.</sentence>
 <sentence id="s106">But it must be emphasised that this proposition is subject to the discretion of the decision maker to control cross-examination so as to ensure relevance and to guard against repetition and prolixity; see R v Australian Broadcasting Tribunal; Ex parte Hardiman [1980] HCA 13 ; (1980) 144 CLR 13 at 34-35; Australian Postal Commission v Hayes (1989) 87 ALR 283 at 289 per Wilcox J.</sentence>
 <sentence id="s107">28 In Minh v Minister for Immigration and Multicultural Affairs (1998) 86 FCR 304 at 314, Weinberg J observed that the duty to act fairly may be breached if a party is not given a reasonable opportunity to make relevant submissions, to give evidence and to call witnesses.</sentence>
@@ -452,12 +452,12 @@
  
  59 This question asserts that the AAT made five factual findings without evidence.</sentence>
 <sentence id="s179">Each was supported by evidence (or was not a finding) as follows:-
- &#9679; The finding that Ms Smith's relationship with the applicant was purely one of friendship was supported by Ms Smith's evidence; see [12] and [13] above.</sentence>
-<sentence id="s180">&#9679; The remark at [11] of Senior Member Kelly's reasons as to what lead the applicant to become aware of surveillance was not a finding.</sentence>
+ #9679; The finding that Ms Smith's relationship with the applicant was purely one of friendship was supported by Ms Smith's evidence; see [12] and [13] above.</sentence>
+<sentence id="s180">#9679; The remark at [11] of Senior Member Kelly's reasons as to what lead the applicant to become aware of surveillance was not a finding.</sentence>
 <sentence id="s181">It was the applicant's contention.</sentence>
-<sentence id="s182">&#9679; The finding that CRS does not conduct surveillance was supported by the evidence of Ms Wood and Ms Carmody that CRS only collects and holds information about individuals who are CRS clients, employees or contractors, and by the letter from CRS of 8 March 2004 to which I referred at [47] of my judgment in matter NSD 55 of 2005.</sentence>
-<sentence id="s183">&#9679; The finding that there is no evidence, other than the applicant's belief, that there was any connection between CRS and the applicant is a finding drawn from the evidence of the applicant, Ms Wood, Ms Carmody, Ms Smith, Ms Perrottet and Ms O'Neill.</sentence>
-<sentence id="s184">&#9679; The finding that CRS's searches were unable identify or make contact with any relatives of the applicant is supported by an email from Ms Wood of 8 March 2005 which is document 'T11' and appears at page 27 of the Appeal Papers.</sentence>
+<sentence id="s182">#9679; The finding that CRS does not conduct surveillance was supported by the evidence of Ms Wood and Ms Carmody that CRS only collects and holds information about individuals who are CRS clients, employees or contractors, and by the letter from CRS of 8 March 2004 to which I referred at [47] of my judgment in matter NSD 55 of 2005.</sentence>
+<sentence id="s183">#9679; The finding that there is no evidence, other than the applicant's belief, that there was any connection between CRS and the applicant is a finding drawn from the evidence of the applicant, Ms Wood, Ms Carmody, Ms Smith, Ms Perrottet and Ms O'Neill.</sentence>
+<sentence id="s184">#9679; The finding that CRS's searches were unable identify or make contact with any relatives of the applicant is supported by an email from Ms Wood of 8 March 2005 which is document 'T11' and appears at page 27 of the Appeal Papers.</sentence>
 <sentence id="s185">
 
 
@@ -512,5 +512,13 @@ Dated: 5 April 2006
  URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/341.html 
  
  </sentence>
+</sentences>
+</case>ence>
+</sentences>
+</case>/au/cases/cth/FCA/2006/341.html 
+ 
+ </sentence>
+</sentences>
+</case>ence>
 </sentences>
 </case>

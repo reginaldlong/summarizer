@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <case>
-<name>Military Rehabilitation &amp; Compensation Commission v Perry [2007] FCA 1586 (16 November 2007)</name>
+<name>Military Rehabilitation amp; Compensation Commission v Perry [2007] FCA 1586 (16 November 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1586.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from administrative appeals tribunal</catchphrase>
-<catchphrase "id=c1">effect of amendment to s 8(9) of safety, rehabilitation and compensation act 1988 (cth)</catchphrase>
-<catchphrase "id=c2">whether s 8(6) of act continues to apply to commonwealth employee who has ceased to be employed</catchphrase>
-<catchphrase "id=c3">how s 8(9b) of act applies where injury suffered prior to commencement of subsection</catchphrase>
-<catchphrase "id=c4">section 8(9b) of act provides for continued application of s 8(6)</catchphrase>
-<catchphrase "id=c5">whether s 8(9b) has retrospective operation</catchphrase>
-<catchphrase "id=c6">amendment has future action on past events and is not retrospective</catchphrase>
-<catchphrase "id=c7">administrative law</catchphrase>
+<catchphrase >appeal from administrative appeals tribunal</catchphrase>
+<catchphrase >effect of amendment to s 8(9) of safety, rehabilitation and compensation act 1988 (cth)</catchphrase>
+<catchphrase >whether s 8(6) of act continues to apply to commonwealth employee who has ceased to be employed</catchphrase>
+<catchphrase >how s 8(9b) of act applies where injury suffered prior to commencement of subsection</catchphrase>
+<catchphrase >section 8(9b) of act provides for continued application of s 8(6)</catchphrase>
+<catchphrase >whether s 8(9b) has retrospective operation</catchphrase>
+<catchphrase >amendment has future action on past events and is not retrospective</catchphrase>
+<catchphrase >administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -27,19 +27,19 @@
 <sentence id="s8">Mr Perry was in receipt of the increment as at his date of discharge and would have been entitled to the increment had he not been medically discharged due to his compensable condition.</sentence>
 <sentence id="s9">3 The chronology set out is relevantly:
  
- &#8226; Mr Perry was injured in December 2000.</sentence>
-<sentence id="s10">&#8226; On 1 October 2001 the Safety, Rehabilitation and Compensation and Other Legislation Amendment Act 2001 (Cth) ('the Amending Act') which amended the Safety, Rehabilitation and Compensation Act 1988 ('the SRC Act') came into force.</sentence>
+ #8226; Mr Perry was injured in December 2000.</sentence>
+<sentence id="s10">#8226; On 1 October 2001 the Safety, Rehabilitation and Compensation and Other Legislation Amendment Act 2001 (Cth) ('the Amending Act') which amended the Safety, Rehabilitation and Compensation Act 1988 ('the SRC Act') came into force.</sentence>
 <sentence id="s11">Relevantly s 8(9) of the SRC Act was repealed and replaced with ss 8(9) and 8(9A) to (9D).</sentence>
 <sentence id="s12">Mr Perry was still in employment.</sentence>
-<sentence id="s13">&#8226; On 29 October 2001 Mr Perry lodged a claim for compensation.</sentence>
-<sentence id="s14">&#8226; On 4 February 2002 the Commission accepted liability for the condition.</sentence>
-<sentence id="s15">&#8226; On 7 July 2002 Mr Perry was discharged from the Navy and became a person who ' has ceased...to be employed by the Commonwealth ' within s 8(9B) of the SRC Act as amended ('the Act').</sentence>
+<sentence id="s13">#8226; On 29 October 2001 Mr Perry lodged a claim for compensation.</sentence>
+<sentence id="s14">#8226; On 4 February 2002 the Commission accepted liability for the condition.</sentence>
+<sentence id="s15">#8226; On 7 July 2002 Mr Perry was discharged from the Navy and became a person who ' has ceased...to be employed by the Commonwealth ' within s 8(9B) of the SRC Act as amended ('the Act').</sentence>
 <sentence id="s16">
 
 4 A delegate of the Department of Veterans' Affairs ('the Delegate') determined that Mr Perry continued to be entitled to the increment by the application of s 8(6) of the Act.</sentence>
 <sentence id="s17">On review of the Delegate's decision ('the Determination'), the authorised reconsideration officer ('the Officer') concluded that the Delegate's decision was incorrect, stating:
  
- After careful consideration of the matter, I determine that you are eligible for Flying Allowance (Qualification &amp; Skill) at the increment 2-4 years, which was the increment at the time of your discharge.</sentence>
+ After careful consideration of the matter, I determine that you are eligible for Flying Allowance (Qualification amp; Skill) at the increment 2-4 years, which was the increment at the time of your discharge.</sentence>
 <sentence id="s18">I further determine that you are not eligible for any further incremental increases of your allowance, and that your allowance should only increase by the Wage Cost Index increase which occurs annually on 1 July.</sentence>
 <sentence id="s19">
  
@@ -223,9 +223,9 @@
  
 22 The alternatives proposed for the application of s 8(9B) of the Act to Mr Perry, as an employee who has been injured and has ceased to be employed by the Commonwealth, are:
  
- &#8226; Does s 8(9B) provide for the continued application of s 8(6) prior to the increase by reference to the Wage Cost Index, so that the employee has the benefit of s 8(6) increments as well as the indexed increases?</sentence>
+ #8226; Does s 8(9B) provide for the continued application of s 8(6) prior to the increase by reference to the Wage Cost Index, so that the employee has the benefit of s 8(6) increments as well as the indexed increases?</sentence>
 <sentence id="s77">That is, are the normal weekly earnings calculated under subs (6) and, if the employee has ceased to be employed, further increased by reference to the Wage Cost Index?</sentence>
-<sentence id="s78">&#8226; If not, does s 8(9B) have retrospective operation to deprive the employee of the increments otherwise payable under s 8(6)?</sentence>
+<sentence id="s78">#8226; If not, does s 8(9B) have retrospective operation to deprive the employee of the increments otherwise payable under s 8(6)?</sentence>
 <sentence id="s79">That is, are normal weekly earnings increased by the application of ss 8(6) and 8(9) up to the date of cessation of employment and thereafter increased only by reference to the Wage Cost Index?</sentence>
 <sentence id="s80">
 
@@ -411,4 +411,10 @@ Dated: 15 November 2007
  
  </sentence>
 </sentences>
+</case>>
+</case>/1586.html 
+ 
+ </sentence>
+</sentences>
+</case>>
 </case>

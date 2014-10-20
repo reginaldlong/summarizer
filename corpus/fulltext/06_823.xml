@@ -3,10 +3,10 @@
 <name>In the matter of Rose, a bankrupt; Godfrey v Whitton [2006] FCA 823 (22 June 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/823.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">s 129 demand and s 139zq notice under the bankruptcy act set aside, by consent</catchphrase>
-<catchphrase "id=c1">whether costs should be ordered against the official receiver</catchphrase>
-<catchphrase "id=c2">whether costs should be ordered against the trustee and/or the official receiver on an indemnity basis</catchphrase>
-<catchphrase "id=c3">costs</catchphrase>
+<catchphrase >s 129 demand and s 139zq notice under the bankruptcy act set aside, by consent</catchphrase>
+<catchphrase >whether costs should be ordered against the official receiver</catchphrase>
+<catchphrase >whether costs should be ordered against the trustee and/or the official receiver on an indemnity basis</catchphrase>
+<catchphrase >costs</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -202,7 +202,7 @@ Dated: 29 June 2006
 
  Counsel for the Applicant: A P Spencer 
  
- Solicitor for the Applicant: Sally Nash &amp; Co 
+ Solicitor for the Applicant: Sally Nash amp; Co 
  
  Counsel for the First Respondent: J E Richards 
  
@@ -222,4 +222,6 @@ Dated: 29 June 2006
  
  </sentence>
 </sentences>
-</case>
+</case>>tence>
+</sentences>
+</case>>

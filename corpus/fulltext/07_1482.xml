@@ -3,9 +3,9 @@
 <name>Carey v Carey [2007] FCA 1482 (10 August 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1482.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">ex parte application</catchphrase>
-<catchphrase "id=c1">preliminary discovery and preservation of assets</catchphrase>
-<catchphrase "id=c2">practice and procedure</catchphrase>
+<catchphrase >ex parte application</catchphrase>
+<catchphrase >preliminary discovery and preservation of assets</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -26,7 +26,7 @@
 <sentence id="s11">A document issued by Lombard entitled 'Procuration' bears the name of the deceased and a specimen signature of the respondent.</sentence>
 <sentence id="s12">The address for correspondence is shown as Vernes Gestion S.A.</sentence>
 <sentence id="s13">The document was signed by the deceased in Mosman on 17 March 2000.</sentence>
-<sentence id="s14">6 On 3 April 2007 Richard Arthur Schmidt, the applicants' solicitor wrote to Teece Hodgson &amp; Ward, solicitors for the respondent, seeking details of several share transactions which were made by the respondent for the deceased in the period 1 July 2000 until the date of death of the deceased.</sentence>
+<sentence id="s14">6 On 3 April 2007 Richard Arthur Schmidt, the applicants' solicitor wrote to Teece Hodgson amp; Ward, solicitors for the respondent, seeking details of several share transactions which were made by the respondent for the deceased in the period 1 July 2000 until the date of death of the deceased.</sentence>
 <sentence id="s15">The respondent's solicitor did not respond.</sentence>
 <sentence id="s16">However by letter dated 3 May 2000 a copy of a letter was forwarded to Mr Schmidt which recorded that Vernes Gestion of Geneva had opened a bank account on 21 February 2000 in the name of the deceased.</sentence>
 <sentence id="s17">7 Based upon such information Mr Schmidt sought details of an amount of $500,000 believed by him to have been deposited into that account.</sentence>
@@ -89,7 +89,7 @@ Dated: 10 August 2007
 
  Counsel for the Applicant: A W Street SC 
  
- Solicitor for the Applicant Bull Son &amp; Schmidt 
+ Solicitor for the Applicant Bull Son amp; Schmidt 
  
  Date of Hearing: 8, 10 August 2007 
  
@@ -103,4 +103,5 @@ Dated: 10 August 2007
  
  </sentence>
 </sentences>
-</case>
+</case>e>/sentences>
+</case>e>

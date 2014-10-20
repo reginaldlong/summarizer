@@ -3,10 +3,10 @@
 <name>Feng v Minister for Immigration and Multicultural and Indigenous Affairs [2006] FCA 846 (4 July 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/846.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">student visa</catchphrase>
-<catchphrase "id=c1">failure by tribunal to deal with applicant's contention</catchphrase>
-<catchphrase "id=c2">whether jurisdictional error</catchphrase>
-<catchphrase "id=c3">migration</catchphrase>
+<catchphrase >student visa</catchphrase>
+<catchphrase >failure by tribunal to deal with applicant's contention</catchphrase>
+<catchphrase >whether jurisdictional error</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -258,18 +258,18 @@
  'When you attended the Department on 23 March 2004, in response to a section 20 notice from Curtin..., you provided the following documents: 
  
  
- &#8226; a Statement of Academic Record dated 10 February 2004 from Curtin in relation to your...course, indicating that: you were exempted from 8 subjects in semester 1 of 2003; you passed 2 of the 4 subjects studied in semester 1 of 2003; you failed 2 of the 3 subjects that you studied in semester 2 of 2003.</sentence>
+ #8226; a Statement of Academic Record dated 10 February 2004 from Curtin in relation to your...course, indicating that: you were exempted from 8 subjects in semester 1 of 2003; you passed 2 of the 4 subjects studied in semester 1 of 2003; you failed 2 of the 3 subjects that you studied in semester 2 of 2003.</sentence>
 <sentence id="s54">You were terminated from the course and your overall weighted average was 44.57%; 
  
  
  
- &#8226; a Statement of Academic Record dated 23 February 2004 from Curtin indicating that in the summer programme you had received a mark of 51% for the subject that you had not completed in Semester 2 of 2003; 
+ #8226; a Statement of Academic Record dated 23 February 2004 from Curtin indicating that in the summer programme you had received a mark of 51% for the subject that you had not completed in Semester 2 of 2003; 
  
- &#8226; a letter dated 11 December 2003 from Curtin stating that you had been terminated from your course as your progress had not been satisfactory and that you had a right of appeal against this decision; 
+ #8226; a letter dated 11 December 2003 from Curtin stating that you had been terminated from your course as your progress had not been satisfactory and that you had a right of appeal against this decision; 
  
- &#8226; a letter dated 7 January 2004 from Curtin indicating that your appeal against your termination from your course had been refused as you were unable to provide reasonable grounds for your poor performance of 44.57%; 
+ #8226; a letter dated 7 January 2004 from Curtin indicating that your appeal against your termination from your course had been refused as you were unable to provide reasonable grounds for your poor performance of 44.57%; 
  
- &#8226; a copy of a written Non-Compliance Notification (NCN) letter under section 20 of the Education Services for Overseas Students Act 2000 notice that was sent to you on 19 March 2004, citing the following particulars of breach: Terminated from course: unsatisfactory academic performance due to failures, including non completion.</sentence>
+ #8226; a copy of a written Non-Compliance Notification (NCN) letter under section 20 of the Education Services for Overseas Students Act 2000 notice that was sent to you on 19 March 2004, citing the following particulars of breach: Terminated from course: unsatisfactory academic performance due to failures, including non completion.</sentence>
 <sentence id="s55">
  
  
@@ -403,4 +403,6 @@ Dated: 4 July 2006
  
  </sentence>
 </sentences>
-</case>
+</case>case>e>
+</sentences>
+</case>case>

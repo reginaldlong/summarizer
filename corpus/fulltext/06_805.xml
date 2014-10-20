@@ -3,10 +3,10 @@
 <name>SZHBK v Minister for Immigration and Multicultural Affairs [2006] FCA 805 (19 June 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/805.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">whether former s 425 of the migration act required more by way of notice of a proposed tribunal hearing than compliance with former s 426</catchphrase>
-<catchphrase "id=c1">whether shortcomings of an adviser to an applicant for review can affect the validity of a tribunal decision on such a review</catchphrase>
-<catchphrase "id=c2">refusal of constitutional writ relief on discretionary grounds</catchphrase>
-<catchphrase "id=c3">migration</catchphrase>
+<catchphrase >whether former s 425 of the migration act required more by way of notice of a proposed tribunal hearing than compliance with former s 426</catchphrase>
+<catchphrase >whether shortcomings of an adviser to an applicant for review can affect the validity of a tribunal decision on such a review</catchphrase>
+<catchphrase >refusal of constitutional writ relief on discretionary grounds</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -41,11 +41,11 @@
  'I declare that: 
  
  
- &#8226; The information I have supplied on or with this form is complete, correct and up-to-date in every detail 
+ #8226; The information I have supplied on or with this form is complete, correct and up-to-date in every detail 
  
  ... 
  
- &#8226; I undertake to inform the Department of Immigration and Ethnic Affairs if I change my address for more than 14 days while my application is being considered.</sentence>
+ #8226; I undertake to inform the Department of Immigration and Ethnic Affairs if I change my address for more than 14 days while my application is being considered.</sentence>
 <sentence id="s22">
  
  ...' 
@@ -58,7 +58,7 @@
 <sentence id="s25">9 On 13 November 1997 the Tribunal wrote to the appellant at his nominated 'home address' in Enmore, with a copy to Chun George Ao at 340/401 Sussex Street, Sydney, NSW, 2000, acknowledging receipt of the Application for Review.</sentence>
 <sentence id="s26">10 On 13 October 1998 the Tribunal wrote again to the appellant at his nominated 'home address' advising that the Tribunal was unable to make a favourable decision on the material relating to his application alone.</sentence>
 <sentence id="s27">11 A copy of that letter would appear to have been sent to 340/401 Sussex Street, Sydney, NSW, 2000.</sentence>
-<sentence id="s28">For some unexplained reason the copy was directed to 'K &amp; Z Marketing Pty Ltd' at the address in Sussex Street.</sentence>
+<sentence id="s28">For some unexplained reason the copy was directed to 'K amp; Z Marketing Pty Ltd' at the address in Sussex Street.</sentence>
 <sentence id="s29">On 20 October the copy of the letter addressed to the appellant at his Enmore address was returned to the Tribunal marked 'no such person at address'.</sentence>
 <sentence id="s30">However, it is clear that the copy directed to the Sussex Street address reached the appellant's adviser.</sentence>
 <sentence id="s31">12 On 3 November 1998 the adviser rang the Tribunal to indicate that the appellant had not received his offer of hearing letter.</sentence>
@@ -73,14 +73,14 @@
  
 14 The letter nominated a hearing date and time which was Wednesday, 9 December 1998 at 9 am.</sentence>
 <sentence id="s36">A copy of the letter advising the appellant of this hearing date was also sent to the address 340/401 Sussex Street, Sydney, NSW, 2000.</sentence>
-<sentence id="s37">Again, for an unexplained reason, it was also addressed to 'K &amp; Z Marketing Pty Ltd'.</sentence>
+<sentence id="s37">Again, for an unexplained reason, it was also addressed to 'K amp; Z Marketing Pty Ltd'.</sentence>
 <sentence id="s38">15 The letter addressed to the appellant at his Enmore address was returned to the Tribunal on 12 November 1998.</sentence>
 <sentence id="s39">16 On 23 November 1998 the Tribunal contacted the appellant's adviser to inform him that the letter sent to the appellant at his nominated Enmore address had been returned and that the Tribunal had not been told of any change of address in writing.</sentence>
 <sentence id="s40">The adviser indicated that he had difficulty in contacting the appellant as the appellant was 'always moving about and not informing him of any changes of address'.</sentence>
 <sentence id="s41">17 The Tribunal informed the adviser that the appellant had an obligation to inform the Tribunal of any change of address and that if the Tribunal did not hear from the appellant it would proceed to make a decision on his appeal on the material before it.</sentence>
 <sentence id="s42">18 It seems clear that no response was provided.</sentence>
 <sentence id="s43">19 The appellant did not appear before the Tribunal on 9 December at the specified time and place.</sentence>
-<sentence id="s44">Accordingly the Tribunal proceeded to decide the matter without the benefit of the appellant's assistance and by letter dated 10 December 1998 the Tribunal forwarded the decision and reasons for decision of the Tribunal, which was to affirm the decision of the Minister's delegate not to grant a protection visa, to the appellant at his Enmore address and to the appellant's adviser at K &amp; Z Marketing Pty Ltd at 340/401 Sussex Street, Sydney, NSW, 2000.</sentence>
+<sentence id="s44">Accordingly the Tribunal proceeded to decide the matter without the benefit of the appellant's assistance and by letter dated 10 December 1998 the Tribunal forwarded the decision and reasons for decision of the Tribunal, which was to affirm the decision of the Minister's delegate not to grant a protection visa, to the appellant at his Enmore address and to the appellant's adviser at K amp; Z Marketing Pty Ltd at 340/401 Sussex Street, Sydney, NSW, 2000.</sentence>
 <sentence id="s45">20 It is unnecessary in these reasons to deal with the Tribunal's decision.</sentence>
 <sentence id="s46">The Tribunal was not satisfied that the applicant before it was a political activist at risk of attracting the adverse attention of the authorities in the People's Republic of China.</sentence>
 <sentence id="s47">It was not satisfied that he had a well-founded fear of persecution in China, due to his political opinion, were he to return.</sentence>
@@ -235,4 +235,6 @@ The Appellant appeared in person
  
  </sentence>
 </sentences>
-</case>
+</case>case>e>
+</sentences>
+</case>case>

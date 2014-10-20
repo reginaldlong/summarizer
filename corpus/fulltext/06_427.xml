@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <case>
-<name>Australian Securities &amp; Investments Commission v McDougall [2006] FCA 427 (20 April 2006)</name>
+<name>Australian Securities amp; Investments Commission v McDougall [2006] FCA 427 (20 April 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/427.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">unregistered managed investment scheme</catchphrase>
-<catchphrase "id=c1">unlicensed financial services business</catchphrase>
-<catchphrase "id=c2">whether declarations appropriate</catchphrase>
-<catchphrase "id=c3">whether scope of injunctive relief appropriate</catchphrase>
-<catchphrase "id=c4">whether winding up of company necessary</catchphrase>
-<catchphrase "id=c5">corporations</catchphrase>
+<catchphrase >unregistered managed investment scheme</catchphrase>
+<catchphrase >unlicensed financial services business</catchphrase>
+<catchphrase >whether declarations appropriate</catchphrase>
+<catchphrase >whether scope of injunctive relief appropriate</catchphrase>
+<catchphrase >whether winding up of company necessary</catchphrase>
+<catchphrase >corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -339,11 +339,11 @@ Similar claims were made on the website at other times.</sentence>
 <sentence id="s122">Having read previous emails and perhaps speaking with you over the phone this may come as no surprise to you.</sentence>
 <sentence id="s123">
  
- As a result a new structure has formed an alliance with a large membership organisation that plans to take the new program both nationally &amp; internationally.</sentence>
+ As a result a new structure has formed an alliance with a large membership organisation that plans to take the new program both nationally amp; internationally.</sentence>
 <sentence id="s124">But before this can happen, FullTank is required by ASIC to fully dissolve the original membership, resulting in the closure of the original program.</sentence>
 <sentence id="s125">
  
- Most of you have indicated your willingness to continue your involvement in a fuel program &amp; it is FullTank's intention to honour their obligations however one of two things must happen before they can proceed with the new fuel program:..." 
+ Most of you have indicated your willingness to continue your involvement in a fuel program amp; it is FullTank's intention to honour their obligations however one of two things must happen before they can proceed with the new fuel program:..." 
  
 
 The email went on to state that two options were available to investors: either they could elect to receive a reimbursement from the receivers, or they could elect to cease involvement in the original Scheme and to continue membership under a new structure.</sentence>
@@ -476,7 +476,7 @@ The email went on to state that two options were available to investors: either 
 <sentence id="s204">50 I consider that McDougall, as the sole director and controller of BTS and as one of the registered owners of the business name Chargeitcards, was also carrying on an unlicensed financial services business in contravention of s 911A(1).</sentence>
 <sentence id="s205">Further and in any event, McDougall was acting as a representative of BTS in offering and promoting memberships in the Scheme.</sentence>
 <sentence id="s206">As such, McDougall was only exempt from the requirement that he hold an Australian financial services licence if BTS itself held such a licence, and it did not.</sentence>
-<sentence id="s207">51 Numerous cases have held that s 911A of the Act extends to a company director who conducts or is involved in a company's carrying on of a financial services business without an Australian financial services licence: see Australian Securities and Investments Commission v Giann &amp; Giann Pty Ltd [2005] FCA 81 ; (2005) 141 FCR 278; Australian Securities and Investments Commission v Manito Pty Ltd (2005) 53 ACSR 56; Australian Securities and Investments Commission v Drury Management Pty Ltd [2004] QSC 68.</sentence>
+<sentence id="s207">51 Numerous cases have held that s 911A of the Act extends to a company director who conducts or is involved in a company's carrying on of a financial services business without an Australian financial services licence: see Australian Securities and Investments Commission v Giann amp; Giann Pty Ltd [2005] FCA 81 ; (2005) 141 FCR 278; Australian Securities and Investments Commission v Manito Pty Ltd (2005) 53 ACSR 56; Australian Securities and Investments Commission v Drury Management Pty Ltd [2004] QSC 68.</sentence>
 <sentence id="s208">52 In all the circumstances, I am satisfied that BTS and McDougall each contravened the provisions of s 911A by carrying on a financial services business without holding an Australian financial services licence covering the provision of financial services under or in connection with the Scheme.</sentence>
 <sentence id="s209">DECLARATORY RELIEF 
  
@@ -712,11 +712,11 @@ Dated: 20 April 2006
 
  Counsel for the Applicant: M R Scott 
  
- Solicitor for the Applicant: Australian Securities &amp; Investments Commission 
+ Solicitor for the Applicant: Australian Securities amp; Investments Commission 
  
  Counsel for the Respondents: P Ehrlich 
  
- Solicitor for the Respondents: Schetzer Brott &amp; Appel 
+ Solicitor for the Respondents: Schetzer Brott amp; Appel 
  
  Solicitor for the Receivors: N Fryde 
  
@@ -734,4 +734,8 @@ Dated: 20 April 2006
  
  </sentence>
 </sentences>
-</case>
+</case>/case>
+ 
+ </sentence>
+</sentences>
+</case>/case>

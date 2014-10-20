@@ -3,9 +3,9 @@
 <name>SZKOB v Minister for Immigration and Citizenship [2007] FCA 1949 (26 November 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1949.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">migration act 1958 (cth) does not entitle an applicant to be provided with a transcript of visa application interview</catchphrase>
-<catchphrase "id=c1">common law procedural fairness does not require an applicant to be provided with a transcript of visa application interview under migration act 1958 (cth)</catchphrase>
-<catchphrase "id=c2">migration</catchphrase>
+<catchphrase >migration act 1958 (cth) does not entitle an applicant to be provided with a transcript of visa application interview</catchphrase>
+<catchphrase >common law procedural fairness does not require an applicant to be provided with a transcript of visa application interview under migration act 1958 (cth)</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -73,7 +73,7 @@ d) that he gave evidence that he " was only arrested after writing a letter to t
 <sentence id="s31">12 Given the denials, it is perhaps understandable that the Appellant desires a transcript of what was in fact said during the departmental interview.</sentence>
 <sentence id="s32">In the present appeal however, there are a number of answers to the Appellant's contentions.</sentence>
 <sentence id="s33">First, it is not considered that there was any requirement to provide the Appellant with transcript or recording of the interview .</sentence>
-<sentence id="s34">In some circumstances, fairness may require a transcript of proceedings to be provided: see National Companies &amp; Securities Commission v Bankers Trust Australia Ltd (1989) 24 FCR 217.</sentence>
+<sentence id="s34">In some circumstances, fairness may require a transcript of proceedings to be provided: see National Companies amp; Securities Commission v Bankers Trust Australia Ltd (1989) 24 FCR 217.</sentence>
 <sentence id="s35">There is, however, no immutable requirement to do so: see Adler v Cantwell (1988) 14 ACLR 658.</sentence>
 <sentence id="s36">13 The content of the requirements of procedural fairness is to be determined by reference to the context in which a particular dispute arises including, in particular, the legislative regime being administered.</sentence>
 <sentence id="s37">In the present circumstances, s 422B of the Migration Act 1958 (Cth) provides that Div 4 of Pt 7 " is taken too be an exhaustive statement of the requirements of the natural justice hearing rule ".</sentence>
@@ -102,7 +102,7 @@ The Tribunal was thus on notice of the difficulties said to be operating and the
 <sentence id="s56">17 Fourth, there is no breach of s 424A(1).</sentence>
 <sentence id="s57">The Federal Magistrates Court expressed that:
  
- [28] Turning to the Applicant's claims in his application, I am not of the view that the Applicant has any entitlement to receive any tape-recording or transcript of an interview with an officer of the Department of Immigration &amp; Citizenship.</sentence>
+ [28] Turning to the Applicant's claims in his application, I am not of the view that the Applicant has any entitlement to receive any tape-recording or transcript of an interview with an officer of the Department of Immigration amp; Citizenship.</sentence>
 <sentence id="s58">The Applicant is certainly entitled to receive a tape-recording of his evidence to the Refugee Review Tribunal, but that is a different matter.</sentence>
 <sentence id="s59">The Applicant in his first ground takes issue with what he is reported to have said at the Departmental hearing, but in my view his complaint is a challenge to the Tribunal's factual findings and is in effect a request for the Court to conduct a merits review.</sentence>
 <sentence id="s60">That is not available on judicial review as I have explained.</sentence>
@@ -162,4 +162,5 @@ Dated: 18 December 2007
  
  </sentence>
 </sentences>
-</case>
+</case>e>/sentences>
+</case>e>

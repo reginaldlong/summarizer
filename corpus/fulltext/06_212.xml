@@ -3,13 +3,13 @@
 <name>Deangrove Pty Limited (Receivers and Managers Appointed) v Buckby [2006] FCA 212 (14 March 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/212.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">receivers' duties in relation to exercise of power of sale</catchphrase>
-<catchphrase "id=c1">where receiver rejected offer to purchase property</catchphrase>
-<catchphrase "id=c2">consideration of s 420a of the corporations act 2001 (cth)</catchphrase>
-<catchphrase "id=c3">whether receiver exercised his power and discharged his duty with degree of care and diligence that a reasonable person would exercise in the circumstances then prevailing</catchphrase>
-<catchphrase "id=c4">whether receiver failed to take all reasonable case to sell property for not less than its market value or alternatively if the property did not have a market value the best price reasonable obtainable in the circumstances</catchphrase>
-<catchphrase "id=c5">no breach of common law or statutory duties.</catchphrase>
-<catchphrase "id=c6">corporations</catchphrase>
+<catchphrase >receivers' duties in relation to exercise of power of sale</catchphrase>
+<catchphrase >where receiver rejected offer to purchase property</catchphrase>
+<catchphrase >consideration of s 420a of the corporations act 2001 (cth)</catchphrase>
+<catchphrase >whether receiver exercised his power and discharged his duty with degree of care and diligence that a reasonable person would exercise in the circumstances then prevailing</catchphrase>
+<catchphrase >whether receiver failed to take all reasonable case to sell property for not less than its market value or alternatively if the property did not have a market value the best price reasonable obtainable in the circumstances</catchphrase>
+<catchphrase >no breach of common law or statutory duties.</catchphrase>
+<catchphrase >corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -78,7 +78,7 @@
 <sentence id="s47">It expressed concern that the appointment of the respondents as receiver and manager would impact adversely on the marketability of all units in the Development.</sentence>
 <sentence id="s48">It appears that soon thereafter Islands sought legal advice with respect to its position under the Deed.</sentence>
 <sentence id="s49">A meeting was held on 24 January 2000 between Mr Buckby, representatives of IHL and their respective legal advisers to discuss the Deed.</sentence>
-<sentence id="s50">19 By a letter dated 27 January 2000 B M Culley &amp; Associates Pty Ltd ('Culley') confirmed advice, apparently earlier given to Mr Buckby by telephone, that it had not been paid in full for the work undertaken by it as the builder of the Development.</sentence>
+<sentence id="s50">19 By a letter dated 27 January 2000 B M Culley amp; Associates Pty Ltd ('Culley') confirmed advice, apparently earlier given to Mr Buckby by telephone, that it had not been paid in full for the work undertaken by it as the builder of the Development.</sentence>
 <sentence id="s51">It sought Mr Buckby's assistance to ensure prompt payment of the monies outstanding.</sentence>
 <sentence id="s52">Shortly thereafter, by a facsimile transmission dated 3 February 2000 from Culley's solicitor, Culley expressed interest in acquiring 15 unspecified units in the Development for a sale price of $90 000 inclusive of furniture.</sentence>
 <sentence id="s53">20 On the same day (ie 3 February 2000) McCullough Robertson, a firm of solicitors acting for Islands, sent a letter to the Bank asserting, amongst other things, that the appointment of the respondents had substantially reduced the market value of the 49 units the subject of the Deed.</sentence>
@@ -196,7 +196,7 @@
  
  
  ' RE: DEANGROVE PTY LTD (RECEIVER AND MANAGER APPOINTED) ACN 077 503 532 
- IHL AUSTRALIA PTY LTD &amp; ANOR -V- COMMONWEALTH BANK OF AUSTRALIA &amp; ANOR 
+ IHL AUSTRALIA PTY LTD amp; ANOR -V- COMMONWEALTH BANK OF AUSTRALIA amp; ANOR 
  
  
  
@@ -254,9 +254,9 @@
  
  
  
- &#8226; the market in Cairns is still very subdued 
- &#8226; the latest valuation indicated that the value of the property had dropped considerably since the first valuation 
- &#8226; the finance costs to acquire the property were high against the projected return.</sentence>
+ #8226; the market in Cairns is still very subdued 
+ #8226; the latest valuation indicated that the value of the property had dropped considerably since the first valuation 
+ #8226; the finance costs to acquire the property were high against the projected return.</sentence>
 <sentence id="s139">' (emphasis added) 
  
  
@@ -345,7 +345,7 @@
  
 
 53 In forming a judgment as to whether a receiver took all reasonable care as required by s 420A , it is necessary to have regard to the sale process adopted by the receiver.</sentence>
-<sentence id="s163">The issue to be determined is whether that process was not one where all reasonable care was taken to sell the property for its market value, whatever that value was, or alternatively for the best price reasonably obtainable ( Artistic Builders Pty Ltd v Elliott &amp; Tuthill (Mortgages) Pty Ltd (2002) 10 BPR 19,565 at [126]).</sentence>
+<sentence id="s163">The issue to be determined is whether that process was not one where all reasonable care was taken to sell the property for its market value, whatever that value was, or alternatively for the best price reasonably obtainable ( Artistic Builders Pty Ltd v Elliott amp; Tuthill (Mortgages) Pty Ltd (2002) 10 BPR 19,565 at [126]).</sentence>
 <sentence id="s164">54 The respondents contended that s 420A requires care to be taken in relation to the price at which any sale of property of a corporation is in fact made and imposes no obligation of care in relation to potential sales not made.</sentence>
 <sentence id="s165">On this basis they argued that s 420A had no relevance to the letter dated 5 May 2000 by which IHL's offer to purchase the 49 units was rejected.</sentence>
 <sentence id="s166">55 I am inclined to doubt that the above contention reflects a proper reading of s 420A.</sentence>
@@ -513,4 +513,8 @@ Dated: 14 March 2006
  
  </sentence>
 </sentences>
-</case>
+</case></case>.html 
+ 
+ </sentence>
+</sentences>
+</case></case>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <case>
-<name>SZJBE v Minister for Immigration &amp; Citizenship [2007] FCA 190 (13 February 2007)</name>
+<name>SZJBE v Minister for Immigration amp; Citizenship [2007] FCA 190 (13 February 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/190.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for leave to appeal from orders made by the federal magistrates court</catchphrase>
-<catchphrase "id=c1">where the refugee review tribunal has regard to any record of the proceedings of the review made by the tribunal as previously constituted under s 422(2)</catchphrase>
-<catchphrase "id=c2">migration</catchphrase>
+<catchphrase >application for leave to appeal from orders made by the federal magistrates court</catchphrase>
+<catchphrase >where the refugee review tribunal has regard to any record of the proceedings of the review made by the tribunal as previously constituted under s 422(2)</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -141,4 +141,5 @@ Dated: 22 February 2007
  
  </sentence>
 </sentences>
-</case>
+</case>></sentences>
+</case>>

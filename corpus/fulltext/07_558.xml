@@ -3,12 +3,12 @@
 <name>GE Capital Finance Pty Ltd v Commissioner of Taxation [2007] FCA 558 (19 April 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/558.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">whether interest income to which a non-resident beneficiary is entitled is to be assessed to the trustee at the corporate rate under s 98(3) of the income tax assessment act 1936 (cth) ('the act') or is subject to withholding tax at a lower rate under s 128b of the act</catchphrase>
-<catchphrase "id=c1">construction</catchphrase>
-<catchphrase "id=c2">where provisions of the act are read as one with the international tax agreements act 1953 (cth)</catchphrase>
-<catchphrase "id=c3">whether any relevant inconsistency</catchphrase>
-<catchphrase "id=c4">income tax</catchphrase>
-<catchphrase "id=c5">statutory interpretation</catchphrase>
+<catchphrase >whether interest income to which a non-resident beneficiary is entitled is to be assessed to the trustee at the corporate rate under s 98(3) of the income tax assessment act 1936 (cth) ('the act') or is subject to withholding tax at a lower rate under s 128b of the act</catchphrase>
+<catchphrase >construction</catchphrase>
+<catchphrase >where provisions of the act are read as one with the international tax agreements act 1953 (cth)</catchphrase>
+<catchphrase >whether any relevant inconsistency</catchphrase>
+<catchphrase >income tax</catchphrase>
+<catchphrase >statutory interpretation</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -50,13 +50,13 @@
 4 The facts were not in contention and can be summarised as follows.</sentence>
 <sentence id="s7">The applicant at all relevant times:
  
- &#8226; was incorporated pursuant to the Corporations Act 2001 (Cth);
- &#8226; was a resident of Australia within the definition in s 6(1) of the Assessment Act;
- &#8226; had its central management and control in Australia;
- &#8226; was the trustee of the Highland trust estate which was established as a unit trust by deed dated 7 January 1999;
- &#8226; carried on business in Australia as trustee of the Highland trust estate, in accordance with its powers under the trust deed;
- &#8226; in the course of that business, made short term loans in Australia to businesses to finance the payment of insurance policy premiums and professional fees; and 
- &#8226; derived: 
+ #8226; was incorporated pursuant to the Corporations Act 2001 (Cth);
+ #8226; was a resident of Australia within the definition in s 6(1) of the Assessment Act;
+ #8226; had its central management and control in Australia;
+ #8226; was the trustee of the Highland trust estate which was established as a unit trust by deed dated 7 January 1999;
+ #8226; carried on business in Australia as trustee of the Highland trust estate, in accordance with its powers under the trust deed;
+ #8226; in the course of that business, made short term loans in Australia to businesses to finance the payment of insurance policy premiums and professional fees; and 
+ #8226; derived: 
  
  
  (i) interest on loans to pay insurance premiums and professional fees;
@@ -67,19 +67,19 @@
 
 5 GECIH, at all relevant times:
  
- &#8226; was incorporated in and has been managed and controlled in the USA;
- &#8226; carried on business in the USA;
- &#8226; did not carry on business in Australia;
- &#8226; was the only beneficiary of the Highland trust estate, holding all 100 units issued;
- &#8226; was presently entitled to the whole of the Highland trust estate's income; and
- &#8226; was a resident of the USA within the meaning and for the purpose of both the Assessment Act and the Convention Between the Government of Australia and the Government of the United States of America for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on Income (6 August 1982) [1983] ATS 16 (entered into force 31 October 1983) (as unamended by the United States Protocol) ('USA Double Tax Treaty').</sentence>
+ #8226; was incorporated in and has been managed and controlled in the USA;
+ #8226; carried on business in the USA;
+ #8226; did not carry on business in Australia;
+ #8226; was the only beneficiary of the Highland trust estate, holding all 100 units issued;
+ #8226; was presently entitled to the whole of the Highland trust estate's income; and
+ #8226; was a resident of the USA within the meaning and for the purpose of both the Assessment Act and the Convention Between the Government of Australia and the Government of the United States of America for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on Income (6 August 1982) [1983] ATS 16 (entered into force 31 October 1983) (as unamended by the United States Protocol) ('USA Double Tax Treaty').</sentence>
 <sentence id="s9">
 
 6 In each of the 2000 to 2005 income years, the applicant as trustee of the Highland trust estate:
  
- &#8226; set aside the whole of the trust income for the benefit of GECIH;
- &#8226; retained and remitted to the respondent withholding tax under s 128B of Div IIA of Part III of the Assessment Act, at the rate of 10% of the Highland trust estate's gross interest income; and
- &#8226; was liable to and paid income tax upon all of the Highland trust estate's income other than interest income.</sentence>
+ #8226; set aside the whole of the trust income for the benefit of GECIH;
+ #8226; retained and remitted to the respondent withholding tax under s 128B of Div IIA of Part III of the Assessment Act, at the rate of 10% of the Highland trust estate's gross interest income; and
+ #8226; was liable to and paid income tax upon all of the Highland trust estate's income other than interest income.</sentence>
 <sentence id="s10">
  THE ISSUE IN THE PROCEEDINGS AND THE PARTIES' CONTENTIONS 
  
@@ -310,8 +310,8 @@ However, it must be remembered that s 128B(3)(h)(ii) provides that s 128B does n
  
  
  
- "In re Woods' Estate; Ex parte Her Majesty's Commissioners of Works &amp; Buildings the Court of Appeal held that if a subsequent Act bring into itself by reference some of the clauses of a former Act, the legal effect of that is to write those sections into the new Act just as if they had been actually printed into it.</sentence>
-<sentence id="s115">It has also been held that where two Acts are to be read together the Court must construe every part of each of them as if it had been contained in one Act, unless there is some manifest discrepancy making it necessary to hold that the latter Act has to some extent modified something found in the earlier Act: see Hart v Hudson Bros Ltd ; Phillips v Parnaby , and Williams v Tooth &amp; Co Ltd .</sentence>
+ "In re Woods' Estate; Ex parte Her Majesty's Commissioners of Works amp; Buildings the Court of Appeal held that if a subsequent Act bring into itself by reference some of the clauses of a former Act, the legal effect of that is to write those sections into the new Act just as if they had been actually printed into it.</sentence>
+<sentence id="s115">It has also been held that where two Acts are to be read together the Court must construe every part of each of them as if it had been contained in one Act, unless there is some manifest discrepancy making it necessary to hold that the latter Act has to some extent modified something found in the earlier Act: see Hart v Hudson Bros Ltd ; Phillips v Parnaby , and Williams v Tooth amp; Co Ltd .</sentence>
 <sentence id="s116">" (Footnotes omitted).</sentence>
 <sentence id="s117">
  
@@ -333,7 +333,7 @@ See also McGillivray v Piper (2000) 182 ALR 282.</sentence>
 <sentence id="s131">Section 3(11) is not directed to the operation of the withholding tax provisions and provisions that actually impose tax, and was introduced as an enabling provision only to assist in the taxing of distributions to a trust beneficiary which has a non-resident in the context of the business profits article where the concept of a permanent establishment is significant.</sentence>
 <sentence id="s132">Each of s 3(11) and s 128B can thus operate without affecting the operation of the other and without any inconsistency.</sentence>
 <sentence id="s133">46 Even if the purpose for the introduction of s 3(11), or the mischief to which s 3(11) was addressed, was in fact to effectively modify or affect the operation of s 128B(3)(h)(ii), my view is that the purpose has not been implemented.</sentence>
-<sentence id="s134">I am mindful of the comments of Kirby J in James Hardie &amp; Coy Pty Ltd v Seltsam Pty Ltd [1998] HCA 78 ; (1998) 196 CLR 53 at 82 that "unless driven to the result by unyielding words, no judicial satisfaction is to be derived from concluding that the manifest target of legislation has been missed".</sentence>
+<sentence id="s134">I am mindful of the comments of Kirby J in James Hardie amp; Coy Pty Ltd v Seltsam Pty Ltd [1998] HCA 78 ; (1998) 196 CLR 53 at 82 that "unless driven to the result by unyielding words, no judicial satisfaction is to be derived from concluding that the manifest target of legislation has been missed".</sentence>
 <sentence id="s135">However, again assuming in favour of the purpose contended for by the respondent, I cannot ignore the actual words of the legislation: see Mills v Meeking [1990] HCA 6 ; (1990) 169 CLR 214 at 235, and R v L (1994) 49 FCR 534 at 538.</sentence>
 <sentence id="s136">In my view, the text and context of s 3(11) in the Agreements Act does not allow the court to read that provision as being reasonably capable of applying to the operation of the withholding tax provisions, or more specifically to the operation of s 128B(3)(h)(ii): see generally the discussion in Pearce DC and Geddes RS, Statutory Interpretation in Australia (6 th ed, Butterworths, 2006) pp 51-58.</sentence>
 <sentence id="s137">Even adopting a position which would allow courts a flexible approach to overcome what could be said to be a drafting failure to facilitate the legislative intention, the respondent in this case cannot overcome the text and context in which s 3(11) appears.</sentence>
@@ -370,4 +370,8 @@ Dated: 19 April 2007
  
  </sentence>
 </sentences>
+</case>/sentences>
+</case>e>
+</sentences>
+</case>/sentences>
 </case>

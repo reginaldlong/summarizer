@@ -3,15 +3,15 @@
 <name>WorldAudio Limited v Australian Communications and Media Authority [2006] FCA 8 (16 January 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/8.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">applicants held radiocommunications apparatus licence for purposes of radio broadcast</catchphrase>
-<catchphrase "id=c1">broadcast activity undertaken from location other than transmission site specified in condition of the licence</catchphrase>
-<catchphrase "id=c2">request to authority to vary that licence condition to accord with reality as to location of broadcast</catchphrase>
-<catchphrase "id=c3">authority refused to vary licence condition</catchphrase>
-<catchphrase "id=c4">authority refused to reconsider and to give reasons for that refusal</catchphrase>
-<catchphrase "id=c5">application for review of those alleged decisions</catchphrase>
-<catchphrase "id=c6">objection to competency of application for review</catchphrase>
-<catchphrase "id=c7">whether refusals constituted decisions made under an enactment</catchphrase>
-<catchphrase "id=c8">administrative law</catchphrase>
+<catchphrase >applicants held radiocommunications apparatus licence for purposes of radio broadcast</catchphrase>
+<catchphrase >broadcast activity undertaken from location other than transmission site specified in condition of the licence</catchphrase>
+<catchphrase >request to authority to vary that licence condition to accord with reality as to location of broadcast</catchphrase>
+<catchphrase >authority refused to vary licence condition</catchphrase>
+<catchphrase >authority refused to reconsider and to give reasons for that refusal</catchphrase>
+<catchphrase >application for review of those alleged decisions</catchphrase>
+<catchphrase >objection to competency of application for review</catchphrase>
+<catchphrase >whether refusals constituted decisions made under an enactment</catchphrase>
+<catchphrase >administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -605,7 +605,7 @@ Purportedly in the light of that dicta , the Authority contended that its '... d
 <sentence id="s232">' In any event, as the applicants rightly pointed out, whether or not mandamus might be available against the Authority in relation to the operation of s 111 of the Act, relief pursuant to s 39B(1A) of the Judiciary Act for declaratory relief was sought by the applicants' amended application which Jacobson J accepted for filing in Court on 25 August 2005.</sentence>
 <sentence id="s233">I have of course earlier referred to the applicants' case for relief being framed on that basis by way of additional or alternative relief to that afforded by the ADJR Act.</sentence>
 <sentence id="s234">53 As to what the Authority referred to as its 'related alternative motion', the Authority contended that since AusCoast is currently broadcasting from premises which are not the premises specified on the conditions of its licence, such conduct was unlawful and improper.</sentence>
-<sentence id="s235">Accordingly, in case the Court was otherwise minded to entertain a grant of relief following a substantive hearing, it was submitted that relief should be refused as a matter of discretion; since the applicants here seek to protect and validate unlawful and improper conduct, and thereby attract the operation of the maxim of equity 'he who comes into equity must come with clean hands', discussed in R Meagher, D Heydon and M Leeming, Meagher, Gummow and Lehane's Equity Doctrines &amp; Remedies , (4 th ed) at [3-110].</sentence>
+<sentence id="s235">Accordingly, in case the Court was otherwise minded to entertain a grant of relief following a substantive hearing, it was submitted that relief should be refused as a matter of discretion; since the applicants here seek to protect and validate unlawful and improper conduct, and thereby attract the operation of the maxim of equity 'he who comes into equity must come with clean hands', discussed in R Meagher, D Heydon and M Leeming, Meagher, Gummow and Lehane's Equity Doctrines amp; Remedies , (4 th ed) at [3-110].</sentence>
 <sentence id="s236">The relief presently sought by the applicants is however in the nature of administrative and not equitable relief, the applicants having not purportedly founded any case on equitable estoppel.</sentence>
 <sentence id="s237">In any event I am of course presently concerned with the Authority's notice of objection to competency.</sentence>
 <sentence id="s238">The relevance of any such matters so raised by the Authority is limited to the Court's determination of final relief, should the Authority's objection to competency fail wholly or in part.</sentence>
@@ -694,4 +694,8 @@ Dated: 16 January 2006
  
  </sentence>
 </sentences>
-</case>
+</case>>cases/cth/FCA/2006/8.html 
+ 
+ </sentence>
+</sentences>
+</case>>

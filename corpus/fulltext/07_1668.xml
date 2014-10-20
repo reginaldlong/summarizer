@@ -3,13 +3,13 @@
 <name>Bolnisi Gold NL, in the matter of Bolnisi Gold NL (Corrigendum dated 14 November 2007) [2007] FCA 1668 (2 November 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1668.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">scheme of arrangement</catchphrase>
-<catchphrase "id=c1">cash and scrip scheme</catchphrase>
-<catchphrase "id=c2">condition subsequent</catchphrase>
-<catchphrase "id=c3">scheme conditional on a certain plan of arrangement being approved under canadian law</catchphrase>
-<catchphrase "id=c4">"no shop" and "break fee" provisions</catchphrase>
-<catchphrase "id=c5">deemed warranty of freedom from encumbrances. held : order made that meeting of company's members be convened to consider and, if thought fit, agree to the scheme.</catchphrase>
-<catchphrase "id=c6">corporations</catchphrase>
+<catchphrase >scheme of arrangement</catchphrase>
+<catchphrase >cash and scrip scheme</catchphrase>
+<catchphrase >condition subsequent</catchphrase>
+<catchphrase >scheme conditional on a certain plan of arrangement being approved under canadian law</catchphrase>
+<catchphrase >"no shop" and "break fee" provisions</catchphrase>
+<catchphrase >deemed warranty of freedom from encumbrances. held : order made that meeting of company's members be convened to consider and, if thought fit, agree to the scheme.</catchphrase>
+<catchphrase >corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -36,9 +36,9 @@
 <sentence id="s15">9 Implementation of the Scheme is also subject to:
  
  
- &#8226; Approval by Coeur shareholders on 3 December 2007 of a resolution increasing Coeur's share capital;
- &#8226; The passing by Bolnisi shareholders at Bolnisi's annual general meeting on 4 December 2007 of a resolution changing Bolnisi's status from a no liability company to a proprietary company limited by shares; and
- &#8226; Foreign Investment Review Board (FIRB) approval, an application for which was lodged on 10 August 2007.</sentence>
+ #8226; Approval by Coeur shareholders on 3 December 2007 of a resolution increasing Coeur's share capital;
+ #8226; The passing by Bolnisi shareholders at Bolnisi's annual general meeting on 4 December 2007 of a resolution changing Bolnisi's status from a no liability company to a proprietary company limited by shares; and
+ #8226; Foreign Investment Review Board (FIRB) approval, an application for which was lodged on 10 August 2007.</sentence>
 <sentence id="s16">
  
 
@@ -84,7 +84,7 @@ On 11 September 2007 the FIRB issued a letter to Coeur's solicitors, Freehills, 
  
 22 By cl 8.2(b) of the Scheme, the Bolnisi shareholders are deemed to warrant to Coeur that the shares the subject of the transfer to Coeur Australia will be unencumbered and that the shareholders will have full power and capacity to transfer them to that company.</sentence>
 <sentence id="s43">The attention of Bolnisi shareholders is drawn to the deemed warranty in the Scheme Booklet.</sentence>
-<sentence id="s44">I have no difficulty with such a deemed warranty: see Re APN News &amp; Media Ltd (2007) 62 ACSR 400 at [57]---[63].</sentence>
+<sentence id="s44">I have no difficulty with such a deemed warranty: see Re APN News amp; Media Ltd (2007) 62 ACSR 400 at [57]---[63].</sentence>
 <sentence id="s45">"No Shop" and "Break Fee" Provisions 
  
 23 Clause 12 of the MIA is headed "Exclusivity" and may be described as containing a "no shop" provision.</sentence>
@@ -94,7 +94,7 @@ On 11 September 2007 the FIRB issued a letter to Coeur's solicitors, Freehills, 
 <sentence id="s49">24 The amount of the break fee is US$7.78 million.</sentence>
 <sentence id="s50">Interestingly, as counsel for Bolnisi observe in their submission, in this case the break fee is "reciprocal", that is to say, the break fee is payable by Coeur, as well as by Bolnisi, in the circumstances set out in the MIA.</sentence>
 <sentence id="s51">Of course the break fee is not payable by Bolnisi merely because its shareholders do not agree to the Scheme.</sentence>
-<sentence id="s52">25 I discussed no shop and no talk and break free provisions in Re APN News &amp; Media Ltd (2007) 62 ACSR 400 at [25]---[55] and in Re Investa Properties Ltd [2007] FCA 1104 at [31] ---[35].</sentence>
+<sentence id="s52">25 I discussed no shop and no talk and break free provisions in Re APN News amp; Media Ltd (2007) 62 ACSR 400 at [25]---[55] and in Re Investa Properties Ltd [2007] FCA 1104 at [31] ---[35].</sentence>
 <sentence id="s53">In the present case, Norman Alfred Seckold, the Chairman and a Director of Bolnisi, states as follows in his affidavit of 25 October 2007: 
  
  
@@ -181,4 +181,8 @@ Dated: 2 November 2007
  
  </sentence>
 </sentences>
-</case>
+</case>case>68.html 
+ 
+ </sentence>
+</sentences>
+</case>case>

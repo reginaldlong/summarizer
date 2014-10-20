@@ -3,9 +3,9 @@
 <name>Lion Nathan Australia Pty Ltd (ACN 008 596 370) v Coopers Brewery Limited (ACN 007 871 409) (No 3) [2006] FCA 1023 (2 August 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1023.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">interlocutory relief granted in favour of plaintiff</catchphrase>
-<catchphrase "id=c1">where interlocutory relief effectively resolves application for final relief</catchphrase>
-<catchphrase "id=c2">costs</catchphrase>
+<catchphrase >interlocutory relief granted in favour of plaintiff</catchphrase>
+<catchphrase >where interlocutory relief effectively resolves application for final relief</catchphrase>
+<catchphrase >costs</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -31,7 +31,7 @@
 <sentence id="s18">I reserved the costs of the application for further consideration.</sentence>
 <sentence id="s19">The meeting of shareholders was held, modifications were made to the constitution of Coopers Brewery and ultimately the takeover offer that had been propounded by Lion Nathan lapsed.</sentence>
 <sentence id="s20">7 There is considerable authority which deals with the issue of the appropriate order to make as to the costs of proceedings where the proceedings are either sought to be discontinued or do not proceed to a final hearing.</sentence>
-<sentence id="s21">I have been referred to a number of those authorities, in particular J T Stratford &amp; Son Ltd v Lindley (No 2) [1969] 3 All ER 1122; Australian Securities Commission v Aust-Home Investments Limited (1993) 44 FCR 194; O'Keeffe Nominees Pty Limited v BP Australia Limited (No 2) (1995) 55 FCR 591; Re Minister for Immigration and Ethnic Affairs of the Commonwealth of Australia; Ex parte Lai Qin [1997] HCA 6 ; (1997) 186 CLR 622; and One.Tel Limited v Commissioner of Taxation [2000] FCA 270 ; (2000) 101 FCR 548.</sentence>
+<sentence id="s21">I have been referred to a number of those authorities, in particular J T Stratford amp; Son Ltd v Lindley (No 2) [1969] 3 All ER 1122; Australian Securities Commission v Aust-Home Investments Limited (1993) 44 FCR 194; O'Keeffe Nominees Pty Limited v BP Australia Limited (No 2) (1995) 55 FCR 591; Re Minister for Immigration and Ethnic Affairs of the Commonwealth of Australia; Ex parte Lai Qin [1997] HCA 6 ; (1997) 186 CLR 622; and One.Tel Limited v Commissioner of Taxation [2000] FCA 270 ; (2000) 101 FCR 548.</sentence>
 <sentence id="s22">8 It is a trite proposition that the power to order costs by the Court is in the Court's discretion: see s 43 of the Federal Court of Australia Act 1976 (Cth).</sentence>
 <sentence id="s23">In Australian Securities Commission v Aust-Home Investments Limited (supra) at 201, Hill J, having referred to a number of cases including Stratford v Lindley (No 2) (supra), set out a number of propositions which he considered were supported by the authorities.</sentence>
 <sentence id="s24">In particular, as to the fifth proposition to which he referred, Hill J said: 
@@ -167,4 +167,5 @@ Dated: 8 August 2006
  
  </sentence>
 </sentences>
-</case>
+</case>></sentences>
+</case>>

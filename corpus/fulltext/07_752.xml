@@ -3,9 +3,9 @@
 <name>Hilditch Pty Ltd v Dorval Kaiun KK [2007] FCA 752 (11 May 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/752.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">practice and procedure</catchphrase>
-<catchphrase "id=c1">proper approach to issues in the admiralty and maritime list.</catchphrase>
-<catchphrase "id=c2">admiralty and maritime</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
+<catchphrase >proper approach to issues in the admiralty and maritime list.</catchphrase>
+<catchphrase >admiralty and maritime</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -181,7 +181,7 @@ Dated: 4 June 2007
  
  Counsel for the Defendant: Mr C Fairfield 
  
- Solicitor for the Defendant: Ambrose Rajadurai &amp; Associates 
+ Solicitor for the Defendant: Ambrose Rajadurai amp; Associates 
  
  Date of Hearing: 11 May 2007 
  
@@ -195,4 +195,5 @@ Dated: 4 June 2007
  
  </sentence>
 </sentences>
-</case>
+</case>></sentences>
+</case>>

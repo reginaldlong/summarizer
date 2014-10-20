@@ -3,16 +3,16 @@
 <name>Moloney v New Zealand [2006] FCA 438 (21 April 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/438.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">overseas</catchphrase>
-<catchphrase "id=c1">new zealand</catchphrase>
-<catchphrase "id=c2">eligibility</catchphrase>
-<catchphrase "id=c3">application for review</catchphrase>
-<catchphrase "id=c4">very old allegations of sexual offences against vulnerable children alleged against (members of a religious order)</catchphrase>
-<catchphrase "id=c5">whether age of charges in the circumstances made it 'unjust or oppressive' to surrender them</catchphrase>
-<catchphrase "id=c6">'review' of magistrate's decision</catchphrase>
-<catchphrase "id=c7">differences in australian and new zealand criminal law and procedure</catchphrase>
-<catchphrase "id=c8">principle in bannister v new zealand [1999] fca 362 ; (1999) 86 fcr 417.</catchphrase>
-<catchphrase "id=c9">extradition</catchphrase>
+<catchphrase >overseas</catchphrase>
+<catchphrase >new zealand</catchphrase>
+<catchphrase >eligibility</catchphrase>
+<catchphrase >application for review</catchphrase>
+<catchphrase >very old allegations of sexual offences against vulnerable children alleged against (members of a religious order)</catchphrase>
+<catchphrase >whether age of charges in the circumstances made it 'unjust or oppressive' to surrender them</catchphrase>
+<catchphrase >'review' of magistrate's decision</catchphrase>
+<catchphrase >differences in australian and new zealand criminal law and procedure</catchphrase>
+<catchphrase >principle in bannister v new zealand [1999] fca 362 ; (1999) 86 fcr 417.</catchphrase>
+<catchphrase >extradition</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -37,11 +37,11 @@
  
 5 The charges involved comprise:
  
- &#8226; alleged breaches of s 142(1)(b) of the Crimes Act 1961 (NZ) --- an offence of committing sodomy on a boy under the age of 16 years.</sentence>
+ #8226; alleged breaches of s 142(1)(b) of the Crimes Act 1961 (NZ) --- an offence of committing sodomy on a boy under the age of 16 years.</sentence>
 <sentence id="s14">This offence appears to have carried (under the then applicable New Zealand legislation) a maximum sentence of 14 years' imprisonment.</sentence>
-<sentence id="s15">&#8226; alleged breaches of s 140(1)(b) --- that is, doing an indecent act upon a boy aged under 16 years.</sentence>
+<sentence id="s15">#8226; alleged breaches of s 140(1)(b) --- that is, doing an indecent act upon a boy aged under 16 years.</sentence>
 <sentence id="s16">Such an offence had a maximum penalty of 10 years' imprisonment.</sentence>
-<sentence id="s17">&#8226; alleged breaches of s 140(1)(c) --- inducing a boy under 16 years to do an indecent act upon the accused.</sentence>
+<sentence id="s17">#8226; alleged breaches of s 140(1)(c) --- inducing a boy under 16 years to do an indecent act upon the accused.</sentence>
 <sentence id="s18">The maximum penalty was also 10 years' imprisonment.</sentence>
 <sentence id="s19">
 
@@ -424,14 +424,14 @@ s 140(1)(b)
 <sentence id="s182">The purely procedural requirements under Part II are more complex, requiring reports to and the involvement of the Attorney-General.</sentence>
 <sentence id="s183">However, a person facing extradition to a Part II country may not in general be surrendered only: 
  
- &#8226; for a 'political' offence (s 7(a));
- &#8226; if the purpose of the prosecution is to discriminate against the person for race, religion, nationality or political opinion (s 7(b));
- &#8226; if the trial or detention would be discriminatory on those grounds (s 7(c));
- &#8226; where double jeopardy would be involved (s 7 (e));
- &#8226; for what is only a military offence under Australian law (s 7 (d));
- &#8226; if the foreign offence would not have amounted to an offence in Australia punishable by at least 12 months' imprisonment (ss 5, 16(2)(a)(ii), and 19 (2)(c)).</sentence>
-<sentence id="s184">&#8226; if the person would be subjected to torture (s 22(3)(b)), or the death penalty (s 22(3)(c));
- &#8226; if the applicant country does not give an assurance that only the subject offence will be charged (the 'speciality assurance') (s 22(3)(d) and (4)).</sentence>
+ #8226; for a 'political' offence (s 7(a));
+ #8226; if the purpose of the prosecution is to discriminate against the person for race, religion, nationality or political opinion (s 7(b));
+ #8226; if the trial or detention would be discriminatory on those grounds (s 7(c));
+ #8226; where double jeopardy would be involved (s 7 (e));
+ #8226; for what is only a military offence under Australian law (s 7 (d));
+ #8226; if the foreign offence would not have amounted to an offence in Australia punishable by at least 12 months' imprisonment (ss 5, 16(2)(a)(ii), and 19 (2)(c)).</sentence>
+<sentence id="s184">#8226; if the person would be subjected to torture (s 22(3)(b)), or the death penalty (s 22(3)(c));
+ #8226; if the applicant country does not give an assurance that only the subject offence will be charged (the 'speciality assurance') (s 22(3)(d) and (4)).</sentence>
 <sentence id="s185">
 
 43 Under Part II, s 19(5) also provides: 'In the proceedings, the person to whom the proceedings relate is not entitled to adduce, and the magistrate is not entitled to receive, evidence to contradict an allegation that the person has engaged in conduct constituting an extradition offence for which the surrender of the person is sought.</sentence>
@@ -951,9 +951,9 @@ His Honour's suggestions were, as earlier indicated, approved by a majority in C
 <sentence id="s426">
  
  The idea that these serious disadvantages are unimportant and that the jury, unaided, will somehow sort things out by simply resolving the claims and denials in oath against oath must be firmly rejected.</sentence>
-<sentence id="s427">http://www.lexisnexis.com/au/legal/frame.do?tokenKey=rsh-23.108386.53949933563&amp;target=results_DocumentContent&amp;parent=docview - 03-02526fn188#03-02526fn188 That idea is contrary to the repeated authority of this court in and since Longman.</sentence>
+<sentence id="s427">http://www.lexisnexis.com/au/legal/frame.do?tokenKey=rsh-23.108386.53949933563amp;target=results_DocumentContentamp;parent=docview - 03-02526fn188#03-02526fn188 That idea is contrary to the repeated authority of this court in and since Longman.</sentence>
 <sentence id="s428">The jury need the assistance of the trial judge to warn, from the law's long experience, that trials with such potentially grave consequences for liberty and reputation need to be fought with forensic weapons.</sentence>
-<sentence id="s429">http://www.lexisnexis.com/au/legal/frame.do?tokenKey=rsh-23.108386.53949933563&amp;target=results_DocumentContent&amp;parent=docview - 03-02526fn189#03-02526fn189 The passage of time -- especially great time -- may make it difficult, or impossible, to secure such weapons for an adequate defence.</sentence>
+<sentence id="s429">http://www.lexisnexis.com/au/legal/frame.do?tokenKey=rsh-23.108386.53949933563amp;target=results_DocumentContentamp;parent=docview - 03-02526fn189#03-02526fn189 The passage of time -- especially great time -- may make it difficult, or impossible, to secure such weapons for an adequate defence.</sentence>
 <sentence id="s430">A jury may not understand this.</sentence>
 <sentence id="s431">A judge will.</sentence>
 <sentence id="s432">And the law requires that the judge warn the jury in clear and unmistakable terms .</sentence>
@@ -1190,7 +1190,7 @@ Dated: 21 April 2006
 
  Counsel for the Applicants: Mr P Byrne SC/Mr M Thangaraj 
  
- Solicitor for the Applicants: Greg Walsh &amp; Co 
+ Solicitor for the Applicants: Greg Walsh amp; Co 
  
  Counsel for the Respondents: Mr I Bourke 
  
@@ -1354,4 +1354,10 @@ Parliament of the Commonwealth of Australia, Joint Standing Committee on Treatie
  
  </sentence>
 </sentences>
+</case>ntences>
+</case>FCA/2006/438.html 
+ 
+ </sentence>
+</sentences>
+</case>ntences>
 </case>

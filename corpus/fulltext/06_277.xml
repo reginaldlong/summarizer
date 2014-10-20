@@ -3,17 +3,17 @@
 <name>In the matter of Ansett Australia Limited (ACN 004 209410) [2006] FCA 277 (22 March 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/277.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application by deed administrators for directions pursuant to ss 447a(1) and 447d (1) of the corporations act 2001 (cth)</catchphrase>
-<catchphrase "id=c1">where deed administrators seek to pool assets and liabilities of group of companies into one company</catchphrase>
-<catchphrase "id=c2">where deed administrators seek to give effect to a deed of compromise between one company and three major creditors</catchphrase>
-<catchphrase "id=c3">manner in which deed administrators seek to vote on pooling proposal at creditors' meetings</catchphrase>
-<catchphrase "id=c4">exercise of casting vote</catchphrase>
-<catchphrase "id=c5">voting inter-company debt</catchphrase>
-<catchphrase "id=c6">where conflict of interest of deed administrators in capacity as deed administrators and as trustees</catchphrase>
-<catchphrase "id=c7">where pooling proposal will disadvantage some priority and non-priority creditors of companies and beneficiaries of trusts</catchphrase>
-<catchphrase "id=c8">where group of companies historically operated as a single business in some respects</catchphrase>
-<catchphrase "id=c9">where administration is time-consuming and expensive if there is no pooling and each company continues to be administered separately</catchphrase>
-<catchphrase "id=c10">corporations</catchphrase>
+<catchphrase >application by deed administrators for directions pursuant to ss 447a(1) and 447d (1) of the corporations act 2001 (cth)</catchphrase>
+<catchphrase >where deed administrators seek to pool assets and liabilities of group of companies into one company</catchphrase>
+<catchphrase >where deed administrators seek to give effect to a deed of compromise between one company and three major creditors</catchphrase>
+<catchphrase >manner in which deed administrators seek to vote on pooling proposal at creditors' meetings</catchphrase>
+<catchphrase >exercise of casting vote</catchphrase>
+<catchphrase >voting inter-company debt</catchphrase>
+<catchphrase >where conflict of interest of deed administrators in capacity as deed administrators and as trustees</catchphrase>
+<catchphrase >where pooling proposal will disadvantage some priority and non-priority creditors of companies and beneficiaries of trusts</catchphrase>
+<catchphrase >where group of companies historically operated as a single business in some respects</catchphrase>
+<catchphrase >where administration is time-consuming and expensive if there is no pooling and each company continues to be administered separately</catchphrase>
+<catchphrase >corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -223,15 +223,15 @@
 <sentence id="s56">That estimate does not take account of any amount which might be received by AAE if the $150 million received under the MOU is apportioned; nor does it take account of the likely future costs of administering AAE separately if there is no pooling.</sentence>
 <sentence id="s57">23 The AAE Pooling Compromise Deed provides for the three bank creditors agreeing:
  
- &#8226; to vote in favour of pooling at the AAE pooling meeting and at any other pooling meeting of a company in the Ansett Group of which they are a creditor; 
+ #8226; to vote in favour of pooling at the AAE pooling meeting and at any other pooling meeting of a company in the Ansett Group of which they are a creditor; 
 
 
  
- &#8226; save for the National Australia Bank, not to lodge a proof of debt against any company in the Ansett Group following pooling; 
+ #8226; save for the National Australia Bank, not to lodge a proof of debt against any company in the Ansett Group following pooling; 
 
 
  
- &#8226; to the release of certain claims.</sentence>
+ #8226; to the release of certain claims.</sentence>
 <sentence id="s58">
 
 In return, AAL is to pay from the pooled assets, $7 million to the National Australia Bank Limited, $10 million to the Commonwealth Bank of Australia and $10 million to BNP Paribas.</sentence>
@@ -443,10 +443,10 @@ In the no-pooling (with AAE compromise) scenario the $49 million return to third
 <sentence id="s155">In summary, the Administrators say that the difference between the pooling and the no-pooling scenarios with AAE compromise (without taking into account the extra administration costs that will be incurred in a no-pooling scenario) is that with pooling:
 
  
- &#8226; Group employees receive $13.5 million more than with no-pooling
- &#8226; SEESA Scheme receives $8.5 million more than with no-pooling
- &#8226; AAE Bank Creditors have no change
- &#8226; Third party non-priority creditors receive $22.0 million less than they would with no-pooling.</sentence>
+ #8226; Group employees receive $13.5 million more than with no-pooling
+ #8226; SEESA Scheme receives $8.5 million more than with no-pooling
+ #8226; AAE Bank Creditors have no change
+ #8226; Third party non-priority creditors receive $22.0 million less than they would with no-pooling.</sentence>
 <sentence id="s156">
 
  55 However, it seems to me that the appropriate comparison to be made in relation to a pooling/no-pooling comparison is between pooling with the AAE Pooling Compromise Deed implemented and no pooling without the AAE Pooling Compromise Deed being implemented.</sentence>
@@ -457,10 +457,10 @@ In the no-pooling (with AAE compromise) scenario the $49 million return to third
 <sentence id="s161">Thus, if there is no pooling of the assets and liabilities of all the companies in the Ansett Group, there is no fund out of which the payments to the AAE Bank Creditors can be made.</sentence>
 <sentence id="s162">56 That being so, it seems that the difference between the pooling and the no-pooling scenarios (without taking into account the extra administration costs that will be incurred in a no-pooling scenario) is that with pooling:
  
- &#8226; Group employees receive $19.8 million more than with no-pooling
- &#8226; SEESA Scheme receives $12.6 million more than with no-pooling
- &#8226; AAE Bank Creditors have the benefit of the AAE Pooling Compromise Deed
- &#8226; Third party non-priority creditors receive $32.4 million less than they would with no-pooling.</sentence>
+ #8226; Group employees receive $19.8 million more than with no-pooling
+ #8226; SEESA Scheme receives $12.6 million more than with no-pooling
+ #8226; AAE Bank Creditors have the benefit of the AAE Pooling Compromise Deed
+ #8226; Third party non-priority creditors receive $32.4 million less than they would with no-pooling.</sentence>
 <sentence id="s163">
 
 57 According to the Administrators, pooling has different effects for priority creditors and non-priority creditors depending upon the particular company in the Ansett Group involved.</sentence>
@@ -831,13 +831,13 @@ Young J found support for this principle of consolidation in corporate insolvenc
 <sentence id="s320">Powell J relied on the following statement in Archbold on Bankruptcy , 11 th ed, p 598 as a formulation of the exception:
  
  
- "'Where (the joint and separate) estates are so blended together as to render it impracticable to keep them separate, they may be consolidated; but not where the accounts can be kept distinct, and a single creditor objects (In re Buliver; Ex p Sheppard (1833) Mon &amp; B 415; 3 Dea &amp; C 190); and even if the creditors at a general meeting agree to consolidate the estates, they will not be consolidated without it is ascertained that the proposed consolidation will be for the benefit of creditors generally (In re Higton and Breever; Ex p Strutt (1821) 1 G1 &amp; J29)': Archbold on Bankruptcy, 11 th ed, p 598.</sentence>
+ "'Where (the joint and separate) estates are so blended together as to render it impracticable to keep them separate, they may be consolidated; but not where the accounts can be kept distinct, and a single creditor objects (In re Buliver; Ex p Sheppard (1833) Mon amp; B 415; 3 Dea amp; C 190); and even if the creditors at a general meeting agree to consolidate the estates, they will not be consolidated without it is ascertained that the proposed consolidation will be for the benefit of creditors generally (In re Higton and Breever; Ex p Strutt (1821) 1 G1 amp; J29)': Archbold on Bankruptcy, 11 th ed, p 598.</sentence>
 <sentence id="s321">' 
 
 
 Powell J continued:
  
- "To this must be added, as a gloss, that the mere fact that proofs may be difficult of investigation or that difficult questions may arise as to whether creditors are joint or separate creditors seems not to be sufficient to bring a case within the exception: Re Kriegel; Waring &amp; Co; Ex parte Trotman (1893) 68 LT 588; 10 Morr 99; Re Sydney Barker &amp; Co (1914) 21 Mans 238".</sentence>
+ "To this must be added, as a gloss, that the mere fact that proofs may be difficult of investigation or that difficult questions may arise as to whether creditors are joint or separate creditors seems not to be sufficient to bring a case within the exception: Re Kriegel; Waring amp; Co; Ex parte Trotman (1893) 68 LT 588; 10 Morr 99; Re Sydney Barker amp; Co (1914) 21 Mans 238".</sentence>
 <sentence id="s322">
 
 
@@ -896,15 +896,15 @@ However, Finkelstein J was not required to address this issue in circumstances w
 96 The Administrators submitted that pooling was justified on the basis of a number of propositions to be extracted from United States of America authorities.</sentence>
 <sentence id="s349">They relied upon what they called:
  
- &#8226; the reliance test as a single economic unit; 
+ #8226; the reliance test as a single economic unit; 
 
 
  
- &#8226; the entanglement test, that is to say the interrelationship of the companies in the group is so hopelessly inter-related that to disentangle it would be both time and cost prohibitive; and 
+ #8226; the entanglement test, that is to say the interrelationship of the companies in the group is so hopelessly inter-related that to disentangle it would be both time and cost prohibitive; and 
 
 
  
- &#8226; the balancing test, that is to say the benefits of the consolidation outweigh the harm it would cause creditors if there was no consolidation.</sentence>
+ #8226; the balancing test, that is to say the benefits of the consolidation outweigh the harm it would cause creditors if there was no consolidation.</sentence>
 <sentence id="s350">
 
 
@@ -1257,4 +1257,10 @@ Dated: 22 March 2006
  
  </sentence>
 </sentences>
+</case>/sentences>
+</case>/cth/FCA/2006/277.html 
+ 
+ </sentence>
+</sentences>
+</case>/sentences>
 </case>

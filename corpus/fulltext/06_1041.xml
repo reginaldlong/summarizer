@@ -3,12 +3,12 @@
 <name>Carver v de Robillard [2006] FCA 1041 (11 August 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1041.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">creditor's petition</catchphrase>
-<catchphrase "id=c1">bankruptcy notice</catchphrase>
-<catchphrase "id=c2">whether personal service of each document required</catchphrase>
-<catchphrase "id=c3">applicability of reg 16.01 of bankruptcy regulations to service of each class of document. held : reg 16.01 applied to bankruptcy notice but not to creditor's petition, which must be served personally. whether requirement of personal service can be waived. held : yes</catchphrase>
-<catchphrase "id=c4">and it was waived by debtor's participating in hearing and doing other acts without challenging service.</catchphrase>
-<catchphrase "id=c5">bankruptcy</catchphrase>
+<catchphrase >creditor's petition</catchphrase>
+<catchphrase >bankruptcy notice</catchphrase>
+<catchphrase >whether personal service of each document required</catchphrase>
+<catchphrase >applicability of reg 16.01 of bankruptcy regulations to service of each class of document. held : reg 16.01 applied to bankruptcy notice but not to creditor's petition, which must be served personally. whether requirement of personal service can be waived. held : yes</catchphrase>
+<catchphrase >and it was waived by debtor's participating in hearing and doing other acts without challenging service.</catchphrase>
+<catchphrase >bankruptcy</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -152,7 +152,7 @@ A footnote stated:
 <sentence id="s62">Mr Cotsis was plainly honest and straightforward in his evidence, and had good recall.</sentence>
 <sentence id="s63">I have no doubt that on 16 November 2005 copies of the Bankruptcy Notice with the Extension Notice stapled to it were:
  
- &#8226; deposited by Mr Cotsis in the Document Exchange facility at Newtown in an envelope addressed to the Debtor at the Debtor's Document Exchange box DX 1091, Sydney; and &#8226; delivered personally by Mr Cotsis to the receptionist at the address at Level 12, 111 Elizabeth Street, Sydney.</sentence>
+ #8226; deposited by Mr Cotsis in the Document Exchange facility at Newtown in an envelope addressed to the Debtor at the Debtor's Document Exchange box DX 1091, Sydney; and #8226; delivered personally by Mr Cotsis to the receptionist at the address at Level 12, 111 Elizabeth Street, Sydney.</sentence>
 <sentence id="s64">
 
 21 The question remains, though, was this effective service?</sentence>
@@ -170,7 +170,7 @@ A footnote stated:
 <sentence id="s76">Without them a judgment creditor would not be able to serve upon a judgment debtor a document having the effect that the Act gives to a "Bankruptcy Notice".</sentence>
 <sentence id="s77">26 It follows that the Act alone, or the Act together with the Bankruptcy Regulations , permits a bankruptcy notice to be served on a judgment debtor.</sentence>
 <sentence id="s78">As such, reg 16.01 applied to enable the Creditor to serve the Bankruptcy Notice in the various ways described in that regulation.</sentence>
-<sentence id="s79">27 Since writing the foregoing paragraphs, I have become aware of the observations made by the Full Court in Skalkos v T &amp; S Recoveries Pty Ltd [2004] FCAFC 321 ; (2004) 141 FCR 107 at [31] , and earlier by Tamberlin J in Silvas v Silvas [1997] FCA 206 , with which my conclusion is in accord.</sentence>
+<sentence id="s79">27 Since writing the foregoing paragraphs, I have become aware of the observations made by the Full Court in Skalkos v T amp; S Recoveries Pty Ltd [2004] FCAFC 321 ; (2004) 141 FCR 107 at [31] , and earlier by Tamberlin J in Silvas v Silvas [1997] FCA 206 , with which my conclusion is in accord.</sentence>
 <sentence id="s80">Third ground of opposition: 
  "The Creditor's Petition was not served" 
  
@@ -290,4 +290,8 @@ Dated: 11 August 2006
  
  </sentence>
 </sentences>
-</case>
+</case>se>ml 
+ 
+ </sentence>
+</sentences>
+</case>se>

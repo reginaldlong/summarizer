@@ -3,14 +3,14 @@
 <name>Chiropedic Bedding Pty Ltd v Radburg Pty Ltd [2007] FCA 1869 (29 November 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1869.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">validity of registration</catchphrase>
-<catchphrase "id=c1">publication prior to registration</catchphrase>
-<catchphrase "id=c2">publication at trade fair</catchphrase>
-<catchphrase "id=c3">whether official exhibition or officially recognized international exhibition</catchphrase>
-<catchphrase "id=c4">official exhibition</catchphrase>
-<catchphrase "id=c5">international exhibition</catchphrase>
-<catchphrase "id=c6">designs</catchphrase>
-<catchphrase "id=c7">words and phrases</catchphrase>
+<catchphrase >validity of registration</catchphrase>
+<catchphrase >publication prior to registration</catchphrase>
+<catchphrase >publication at trade fair</catchphrase>
+<catchphrase >whether official exhibition or officially recognized international exhibition</catchphrase>
+<catchphrase >official exhibition</catchphrase>
+<catchphrase >international exhibition</catchphrase>
+<catchphrase >designs</catchphrase>
+<catchphrase >words and phrases</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -81,9 +81,9 @@
 <sentence id="s41">This was the so-called principle of equal protection.</sentence>
 <sentence id="s42">11 Of concern to a number of delegates was the risk of piracy of works on display at international exhibitions.</sentence>
 <sentence id="s43">Some States had passed laws to prevent this kind of piracy.</sentence>
-<sentence id="s44">For example, the purpose of s 3 of the Designs Act 1850 (UK) (13 &amp; 14 Vict, 104) was to provide protection against piracy for foreign exhibitors at the Great Exhibition of 1851, sometimes called the Crystal Palace Exhibition.</sentence>
+<sentence id="s44">For example, the purpose of s 3 of the Designs Act 1850 (UK) (13 amp; 14 Vict, 104) was to provide protection against piracy for foreign exhibitors at the Great Exhibition of 1851, sometimes called the Crystal Palace Exhibition.</sentence>
 <sentence id="s45">It gave them the opportunity of finding "either manufacturers or capitalists" to take up their invention or design before going to the trouble and expense of obtaining registration: Minutes of Evidence of Select Committee of House of Lords to Consider the Bill for the Designs Act 1850, 12 March 1851, at 9.</sentence>
-<sentence id="s46">In May 1855, France enacted similar legislation which provided protection for industrial inventions and manufacturing designs admitted to the Paris International Exhibition of 1855: Y Plasseraud and F Savignon, Paris 1883 Genes&#277; Du Droit Unioniste Des Brevets (1981) at 98.</sentence>
+<sentence id="s46">In May 1855, France enacted similar legislation which provided protection for industrial inventions and manufacturing designs admitted to the Paris International Exhibition of 1855: Y Plasseraud and F Savignon, Paris 1883 Genes#277; Du Droit Unioniste Des Brevets (1981) at 98.</sentence>
 <sentence id="s47">12 Article 11 required contracting States to enact legislation that would grant temporary protection to industrial property exhibited at certain exhibitions.</sentence>
 <sentence id="s48">The article was drafted in general terms.</sentence>
 <sentence id="s49">It was intended to do no more than lay down the broad subject matter of legislation that contracting States were to introduce, leaving it to those States to decide upon the precise means of achieving the stated ends: Professor G Bodenhausen, Guide to the Application of the Paris Convention for the Protection of Industrial Properties (1968) at 149 (Bodenhausen).</sentence>
@@ -119,7 +119,7 @@
 <sentence id="s59">It is permissible to have regard to the French text in the case of ambiguity or obscurity.</sentence>
 <sentence id="s60">The French version of Art 11(1) reads: 
  
- "Les pays de l'Union accorderont, conform&eacute;ment &agrave; leur legislation int&eacute;rieure, une protection temporaire aux inventions brevetables, aux m&#335;d&eacute;les d'utilit&eacute;, aux dessins ou mod&eacute;les industriels ainsi qu'aux marques de fabrique ou de commerce, pour les produits qui figureront aux expositions internationales officielles ou officiellement reconnues organis&eacute;es sur le territoire de l'un deux.</sentence>
+ "Les pays de l'Union accorderont, conformeacute;ment agrave; leur legislation inteacute;rieure, une protection temporaire aux inventions brevetables, aux m#335;deacute;les d'utiliteacute;, aux dessins ou modeacute;les industriels ainsi qu'aux marques de fabrique ou de commerce, pour les produits qui figureront aux expositions internationales officielles ou officiellement reconnues organiseacute;es sur le territoire de l'un deux.</sentence>
 <sentence id="s61">"
  
 
@@ -129,8 +129,8 @@
 <sentence id="s64">Although hard to make out, the lawyer's argument is as follows:
  
  "In the expression, 'expositions internationales officielles ou officiellement reconnues' the word 'ou' ('or') qualifies the exhibition as being neither 'an international official exhibition' or 'an officially recognised exhibition'.</sentence>
-<sentence id="s65">This is because 'reconnues' has been conjugated from the verb 'reconna&icirc;tre' ('to recognise') which can be conjugated with the auxiliary 'to be' and, therefore, when taking the form of a past participle, takes the form of the object of the sentence.</sentence>
-<sentence id="s66">In this case 'reconna&icirc;tre' has been conjugated in the feminine case [sic] and plural form and must therefore be a reference to the word 'exhibition'.</sentence>
+<sentence id="s65">This is because 'reconnues' has been conjugated from the verb 'reconnaicirc;tre' ('to recognise') which can be conjugated with the auxiliary 'to be' and, therefore, when taking the form of a past participle, takes the form of the object of the sentence.</sentence>
+<sentence id="s66">In this case 'reconnaicirc;tre' has been conjugated in the feminine case [sic] and plural form and must therefore be a reference to the word 'exhibition'.</sentence>
 <sentence id="s67">'Exhibition' in French being a feminine noun and, in this case, it is plural.</sentence>
 <sentence id="s68">"
  
@@ -254,4 +254,10 @@ S Ryan
  
  </sentence>
 </sentences>
+</case>ces>
+</case>69.html 
+ 
+ </sentence>
+</sentences>
+</case>ces>
 </case>

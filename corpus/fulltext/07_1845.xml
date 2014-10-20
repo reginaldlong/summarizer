@@ -3,10 +3,10 @@
 <name>King Furniture Australia v Dare Gallery [2007] FCA 1845 (5 December 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1845.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">comparison advertising</catchphrase>
-<catchphrase "id=c1">conduct to be judged at time of advertisements and not at point of sale</catchphrase>
-<catchphrase "id=c2">corrective advertising</catchphrase>
-<catchphrase "id=c3">misleading or deceptive conduct</catchphrase>
+<catchphrase >comparison advertising</catchphrase>
+<catchphrase >conduct to be judged at time of advertisements and not at point of sale</catchphrase>
+<catchphrase >corrective advertising</catchphrase>
+<catchphrase >misleading or deceptive conduct</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -274,7 +274,7 @@ and (in the context of the relief sought):
  
  
  
- &#8226; Dare Gallery offers a "Lifetime structural guarantee" on the "Montreaux" sofa whereas King Furniture does not offer a Lifetime Guarantee on their "Phoenix" sofa:
+ #8226; Dare Gallery offers a "Lifetime structural guarantee" on the "Montreaux" sofa whereas King Furniture does not offer a Lifetime Guarantee on their "Phoenix" sofa:
  
  
  
@@ -285,7 +285,7 @@ and (in the context of the relief sought):
  
  
  
- &#8226; Dare Gallery offers a "10 year Warranty on foam" on their "Montreaux" sofa whereas King Furniture does not offer a full 10 year warranty on foam in their "Phoenix" sofa: ...
+ #8226; Dare Gallery offers a "10 year Warranty on foam" on their "Montreaux" sofa whereas King Furniture does not offer a full 10 year warranty on foam in their "Phoenix" sofa: ...
  
  Dare Gallery offers a 2 year guarantee against manufacturing faults on fabric, stitching, zippers and all other elements of their sofas.</sentence>
 <sentence id="s120">Dare Gallery also offer a structural warranty for the frame and structural components of the sofa and this is a full warranty for the life of the sofa.</sentence>
@@ -295,10 +295,10 @@ and (in the context of the relief sought):
 <sentence id="s124">Dare Gallery offers a full 10 year warranty on foam and webbing and will repair it on a "no fault" basis at no cost to the consumer during the 10 year period.</sentence>
 <sentence id="s125">...
  
- King Furniture offers a 15 year diminishing "pro-rata" warranty, covering the frame and all components including fabrics, leathers, foam, feather &amp; fibre fillings, suspension, springs, mechanisms, zippers, fasteners &amp; legs.</sentence>
+ King Furniture offers a 15 year diminishing "pro-rata" warranty, covering the frame and all components including fabrics, leathers, foam, feather amp; fibre fillings, suspension, springs, mechanisms, zippers, fasteners amp; legs.</sentence>
 <sentence id="s126">The King Furniture Warranty diminishes such that after 2 years the consumer has to pay 25% of the total cost of repairs, and the King Furniture Warranty continues to diminish until at 15 or above years the consumer must pay 100% of the cost of the repairs.</sentence>
 <sentence id="s127">Further, the King Furniture Warranty only covers manufacturer's defects, does not cover wear and tear, and does not cover freight, labour, transport.</sentence>
-<sentence id="s128">King Furniture's 15 year diminishing "pro-rata" warranty only covers manufacturing faults with the frame and all components including fabrics, leathers, foam, feather &amp; fibre fillings, suspension, springs, mechanisms, zippers, fasteners &amp; legs.</sentence>
+<sentence id="s128">King Furniture's 15 year diminishing "pro-rata" warranty only covers manufacturing faults with the frame and all components including fabrics, leathers, foam, feather amp; fibre fillings, suspension, springs, mechanisms, zippers, fasteners amp; legs.</sentence>
 <sentence id="s129">The King Furniture warranty states "depending on the covering and the degree of use the covering materials cushion fillings and suspension may need to get replaced periodically at the customers expense".</sentence>
 <sentence id="s130">This is not a lifetime guarantee on the structure of the sofa.</sentence>
 <sentence id="s131">King Furniture's 15 year diminishing "pro-rata" warranty (covers only 31% of costs of defective component after 10 years), and does not cover freight, labour, transport.</sentence>
@@ -570,7 +570,7 @@ Dated: 5 December 2007
 
  Counsel for the Applicant: J Stevenson SC, G Wright 
  
- Solicitor for the Applicant: Colin Biggers &amp; Paisley 
+ Solicitor for the Applicant: Colin Biggers amp; Paisley 
  
  Counsel for the Respondent: A K Panna SC 
  
@@ -590,4 +590,6 @@ Dated: 5 December 2007
  
  </sentence>
 </sentences>
-</case>
+</case></case>
+</sentences>
+</case></case>

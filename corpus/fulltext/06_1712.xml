@@ -3,13 +3,13 @@
 <name>Slick v Westpac Banking Corporation (ACN 007 457 141)(No 2) [2006] FCA 1712 (8 December 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1712.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">discovery</catchphrase>
-<catchphrase "id=c1">motion seeking further discovery</catchphrase>
-<catchphrase "id=c2">relevant principles</catchphrase>
-<catchphrase "id=c3">whether party failed to take appropriate steps to locate electronic documents</catchphrase>
-<catchphrase "id=c4">factors relevant to exercise of discretion</catchphrase>
-<catchphrase "id=c5">appropriate form of orders</catchphrase>
-<catchphrase "id=c6">practice and procedure</catchphrase>
+<catchphrase >discovery</catchphrase>
+<catchphrase >motion seeking further discovery</catchphrase>
+<catchphrase >relevant principles</catchphrase>
+<catchphrase >whether party failed to take appropriate steps to locate electronic documents</catchphrase>
+<catchphrase >factors relevant to exercise of discretion</catchphrase>
+<catchphrase >appropriate form of orders</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -37,7 +37,7 @@
 <sentence id="s16">However, it seems to me that I have power to make the orders under s 23 of the Federal Court of Australia Act 1976 (Cth) if I consider it to be appropriate.</sentence>
 <sentence id="s17">8 In my view, the exercise of the power is informed by similar considerations to those which underlie the power conferred by O 15 r 8.</sentence>
 <sentence id="s18">Thus, the Court may refuse to make an order if it would be unduly oppressive to the other party.</sentence>
-<sentence id="s19">As Mummery J said in Molnlycke AB v Procter &amp; Gamble Limited (No 3) [1990] RPC 498 at 503:
+<sentence id="s19">As Mummery J said in Molnlycke AB v Procter amp; Gamble Limited (No 3) [1990] RPC 498 at 503:
  
  The Court takes account of such considerations as the value of the discovery to the person seeking it and the burden imposed on the party giving it, with a view to restricting the volume of documents and the labour and expense involved to that which is necessary for fairly disposing of the issues in the case.</sentence>
 <sentence id="s20">
@@ -49,7 +49,7 @@
 <sentence id="s22">His Honour also directed Telstra to file a report setting out the steps taken to comply with that order.</sentence>
 <sentence id="s23">11 In deciding to make orders for additional discovery, his Honour was satisfied that Telstra had failed to fully comply with its discovery obligations.</sentence>
 <sentence id="s24">His Honour was also satisfied that the tapes contained much material that was relevant to the issues in the proceedings.</sentence>
-<sentence id="s25">12 In NT Power Generation Pty Limited v Power &amp; Water Authority [1999] FCA 1669 , Mansfield J declined to limit discovery to email communications which existed in hard copy form at the time of the order.</sentence>
+<sentence id="s25">12 In NT Power Generation Pty Limited v Power amp; Water Authority [1999] FCA 1669 , Mansfield J declined to limit discovery to email communications which existed in hard copy form at the time of the order.</sentence>
 <sentence id="s26">His Honour indicated at [2] that it would impose a very substantial burden on the respondents to restore and examine the back up tapes.</sentence>
 <sentence id="s27">13 However, he was not satisfied that the material which might be recoverable electronically was sufficiently insubstantial to warrant the order sought by the Respondents limiting discovery to hard copy documents.</sentence>
 <sentence id="s28">His Honour said at [17]:
@@ -191,7 +191,7 @@ Dated: 8 December 2006
 
  Counsel for the Applicant: A T S Dawson 
  
- Solicitor for the Applicant: Colin Biggers &amp; Paisley 
+ Solicitor for the Applicant: Colin Biggers amp; Paisley 
  
  Counsel for the Respondent: D B Studdy 
  
@@ -209,4 +209,8 @@ Dated: 8 December 2006
  
  </sentence>
 </sentences>
-</case>
+</case>se>1712.html 
+ 
+ </sentence>
+</sentences>
+</case>se>

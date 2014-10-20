@@ -3,12 +3,12 @@
 <name>AMP Services Ltd v Manning (No 3) [2007] FCA 510 (11 April 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/510.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">speculative action</catchphrase>
-<catchphrase "id=c1">solicitor and client costs awarded</catchphrase>
-<catchphrase "id=c2">o 62 r 36a</catchphrase>
-<catchphrase "id=c3">not applicable where claims are bona fide and complex</catchphrase>
-<catchphrase "id=c4">costs apportioned between issues</catchphrase>
-<catchphrase "id=c5">costs</catchphrase>
+<catchphrase >speculative action</catchphrase>
+<catchphrase >solicitor and client costs awarded</catchphrase>
+<catchphrase >o 62 r 36a</catchphrase>
+<catchphrase >not applicable where claims are bona fide and complex</catchphrase>
+<catchphrase >costs apportioned between issues</catchphrase>
+<catchphrase >costs</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -63,7 +63,7 @@ Dated: 11 April 2007
  Counsel for the Defendants: P Jopling QC 
 P H Solomon 
  
- Solicitor for the Defendants: A J Macken &amp; Co 
+ Solicitor for the Defendants: A J Macken amp; Co 
  
  Date of Written Submissions: 23 February 2007 
  
@@ -77,4 +77,8 @@ P H Solomon
  
  </sentence>
 </sentences>
-</case>
+</case>>html 
+ 
+ </sentence>
+</sentences>
+</case>>

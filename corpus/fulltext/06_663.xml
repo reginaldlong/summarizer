@@ -3,10 +3,10 @@
 <name>SZFIO v Minister for Immigration and Multicultural Affairs [2006] FCA 663 (10 May 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/663.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for leave to appeal from orders made by federal magistrate dismissing applicant's application for review of decision of minister's delegate refusing applicant protection visa</catchphrase>
-<catchphrase "id=c1">decision of minister's delegate previously affirmed by refugee review tribunal</catchphrase>
-<catchphrase "id=c2">application for review of decision of tribunal previously dismissed by federal magistrate and judge of federal court.</catchphrase>
-<catchphrase "id=c3">migration</catchphrase>
+<catchphrase >application for leave to appeal from orders made by federal magistrate dismissing applicant's application for review of decision of minister's delegate refusing applicant protection visa</catchphrase>
+<catchphrase >decision of minister's delegate previously affirmed by refugee review tribunal</catchphrase>
+<catchphrase >application for review of decision of tribunal previously dismissed by federal magistrate and judge of federal court.</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -58,7 +58,7 @@
 <sentence id="s25">7.</sentence>
 <sentence id="s26">On 23 September 2005 the applicant applied to this court for leave to appeal.</sentence>
 <sentence id="s27">8.</sentence>
-<sentence id="s28">On 7 October 2005 Bennett J dismissed the application for leave to appeal: SZFIO v Minister for Immigration and Multicultural and Indigenous Affairs &amp; Anor [2005] FCA 1449.</sentence>
+<sentence id="s28">On 7 October 2005 Bennett J dismissed the application for leave to appeal: SZFIO v Minister for Immigration and Multicultural and Indigenous Affairs amp; Anor [2005] FCA 1449.</sentence>
 <sentence id="s29">9.</sentence>
 <sentence id="s30">An application for review of the delegate's decision was lodged in the Federal Magistrates Court by the applicant on 26 October 2005.</sentence>
 <sentence id="s31">That is the application which is the subject of the second order made by the Magistrate.</sentence>
@@ -98,4 +98,6 @@ Dated: 31 May 2006
  
  </sentence>
 </sentences>
-</case>
+</case>>tence>
+</sentences>
+</case>>

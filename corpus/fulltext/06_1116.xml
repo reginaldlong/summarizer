@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <case>
-<name>MZXAI v Minister for Immigration &amp; Multicultural Affairs [2006] FCA 1116 (22 August 2006)</name>
+<name>MZXAI v Minister for Immigration amp; Multicultural Affairs [2006] FCA 1116 (22 August 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1116.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from federal magistrate</catchphrase>
-<catchphrase "id=c1">no question of principle</catchphrase>
-<catchphrase "id=c2">appeal dismissed</catchphrase>
-<catchphrase "id=c3">migration</catchphrase>
+<catchphrase >appeal from federal magistrate</catchphrase>
+<catchphrase >no question of principle</catchphrase>
+<catchphrase >appeal dismissed</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -16,10 +16,10 @@
 <sentence id="s2">2 The Tribunal found that the appellant did not have a well-founded fear of persecution if returned to India in the reasonably foreseeable future.</sentence>
 <sentence id="s3">His Honour below rejected the following points raised on behalf of the appellant: 
  
- &#8226; the Tribunal's decision lacked logic;
- &#8226; the Tribunal failed to determine whether the appellant was a member of a particular social group;
- &#8226; the Tribunal erroneously rejected letters of support for the appellant; and
- &#8226; the Tribunal failed to consider the issue of relocation within India.</sentence>
+ #8226; the Tribunal's decision lacked logic;
+ #8226; the Tribunal failed to determine whether the appellant was a member of a particular social group;
+ #8226; the Tribunal erroneously rejected letters of support for the appellant; and
+ #8226; the Tribunal failed to consider the issue of relocation within India.</sentence>
 <sentence id="s4">
  
  3 His Honour in the Court below correctly dismissed each of the appellant's submissions on the above issues.</sentence>
@@ -66,4 +66,6 @@ Dated: 23 August 2006
  
  </sentence>
 </sentences>
-</case>
+</case>case>e>
+</sentences>
+</case>case>

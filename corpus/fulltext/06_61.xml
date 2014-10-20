@@ -3,12 +3,12 @@
 <name>Peter Hillig as Administrator of Worimi Local Aboriginal Land Council v Minister for Lands for New South Wales, State Minister under the Native Title Act 1993 (Cth) [2006] FCA 61 (9 February 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/61.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application to be joined as a party</catchphrase>
-<catchphrase "id=c1">native title act 1993 (cth) s 84(3)</catchphrase>
-<catchphrase "id=c2">whether interests of adjoining landowners affected by determination</catchphrase>
-<catchphrase "id=c3">whether interests indirect, remote or lacking in substance</catchphrase>
-<catchphrase "id=c4">interest is in possible development of the land after determination made</catchphrase>
-<catchphrase "id=c5">native title</catchphrase>
+<catchphrase >application to be joined as a party</catchphrase>
+<catchphrase >native title act 1993 (cth) s 84(3)</catchphrase>
+<catchphrase >whether interests of adjoining landowners affected by determination</catchphrase>
+<catchphrase >whether interests indirect, remote or lacking in substance</catchphrase>
+<catchphrase >interest is in possible development of the land after determination made</catchphrase>
+<catchphrase >native title</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -70,14 +70,14 @@
 7 The Parkinsons do not claim to hold native title.</sentence>
 <sentence id="s16">They claim an interest that may be affected by a determination on the following bases:
  
- &#8226; The Parkinsons have been owners of property adjoining the land since 1991.</sentence>
-<sentence id="s17">&#8226; Before acquiring the property, the Parkinsons conducted searches with respect to the land.</sentence>
+ #8226; The Parkinsons have been owners of property adjoining the land since 1991.</sentence>
+<sentence id="s17">#8226; Before acquiring the property, the Parkinsons conducted searches with respect to the land.</sentence>
 <sentence id="s18">It was then a dedicated public reserve and this status was affirmed by the New South Wales Department of Land and Water Conservation.</sentence>
 <sentence id="s19">They claim that they relied upon written representations from the Department of Land and Water Conservation, the Department of Urban Affairs and Planning, the Minister for Aboriginal Affairs and on representations in a 1980 New South Wales Government Gazette that the land would remain a reserve.</sentence>
-<sentence id="s20">&#8226; The Parkinsons asserted that it was "in the public interest" that they be joined because they had been led astray by the New South Wales government.</sentence>
-<sentence id="s21">&#8226; The Parkinsons fear that any development of the land may ' impinge on our light, air flow, privacy, views and general ambience for which we and others paid ' , may cause air and noise pollution during construction, may detrimentally affect their home's foundations and may result in a substantial decrease in the value of their property.</sentence>
-<sentence id="s22">&#8226; The Parkinsons purport to seek to be parties to the proceedings on behalf of other adjoining owners and nearby residents.</sentence>
-<sentence id="s23">&#8226; A petition has been presented to Port Stephens Council bearing 460 signatures asking the Council to take steps to "protect" the land and prevent development.</sentence>
+<sentence id="s20">#8226; The Parkinsons asserted that it was "in the public interest" that they be joined because they had been led astray by the New South Wales government.</sentence>
+<sentence id="s21">#8226; The Parkinsons fear that any development of the land may ' impinge on our light, air flow, privacy, views and general ambience for which we and others paid ' , may cause air and noise pollution during construction, may detrimentally affect their home's foundations and may result in a substantial decrease in the value of their property.</sentence>
+<sentence id="s22">#8226; The Parkinsons purport to seek to be parties to the proceedings on behalf of other adjoining owners and nearby residents.</sentence>
+<sentence id="s23">#8226; A petition has been presented to Port Stephens Council bearing 460 signatures asking the Council to take steps to "protect" the land and prevent development.</sentence>
 <sentence id="s24">
 
 8 The Parkinsons make no assertion one way or the other as to the existence of native title.</sentence>
@@ -148,11 +148,11 @@
  'In my view, when regard is had to the subject matter, scope and purpose of the relevant provisions of the Act standing as a party under the Act is restricted to persons whose interests : 
  
  
- &#8226; may be genuinely, demonstrably and not indirectly affected by a determination of native title 
+ #8226; may be genuinely, demonstrably and not indirectly affected by a determination of native title 
  
- &#8226; are not remote or so insubstantial that it will be mere speculation as to whether and, if so, how they may be actually affected by the determination 
+ #8226; are not remote or so insubstantial that it will be mere speculation as to whether and, if so, how they may be actually affected by the determination 
  
- &#8226; can be defined with reasonable certainty and is in each case readily ascertainable as a matter of fact and law.</sentence>
+ #8226; can be defined with reasonable certainty and is in each case readily ascertainable as a matter of fact and law.</sentence>
 <sentence id="s52">
  
  
@@ -160,7 +160,7 @@
 <sentence id="s53">' (Emphasis in original)
  
 
-18 The decision of the Full Court in Byron Environment, in particular as to the consequence of the definition of "interest" in s 253 for the purposes of s 84 , is not affected or diminished by the subsequent changes in the Native Title Act ( Jack Woodridge on behalf of the Gomilaroi People v Minister for Land &amp; Water Conservation for the State of New South Wales, State Minister under the Native Title Act 1993 (Cth) [2001] FCA 419 ; (2003) 108 FCR 527 per Katz J).</sentence>
+18 The decision of the Full Court in Byron Environment, in particular as to the consequence of the definition of "interest" in s 253 for the purposes of s 84 , is not affected or diminished by the subsequent changes in the Native Title Act ( Jack Woodridge on behalf of the Gomilaroi People v Minister for Land amp; Water Conservation for the State of New South Wales, State Minister under the Native Title Act 1993 (Cth) [2001] FCA 419 ; (2003) 108 FCR 527 per Katz J).</sentence>
 <sentence id="s54">19 In Wilson (on behalf of the Bandjalang People) v Minister for Land and Water Conservation (NSW) [2003] FCA 307 ; (2003) 198 ALR 238, two applications for a determination of native title of adjoining areas of land and water were lodged by the applicant, the Bandjalang people.</sentence>
 <sentence id="s55">Included among the respondents to the second claim were a number of members of the New South Wales Farmers Association, none of whom had any interest in the lands the subject of the first claim but who had interests of various types in parcels of land within the second claim.</sentence>
 <sentence id="s56">The farmers sought to be joined as parties to the first claim or that the claims be consolidated.</sentence>
@@ -256,4 +256,8 @@ Dated: 9 February 2006
  
  </sentence>
 </sentences>
+</case>s>
+</case></sentence>
+</sentences>
+</case>s>
 </case>

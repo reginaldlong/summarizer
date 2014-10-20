@@ -3,13 +3,13 @@
 <name>Traljesic v Attorney-General of the Commonwealth of Australia [2006] FCA 125 (9 February 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/125.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">national security</catchphrase>
-<catchphrase "id=c1">review of decision to issue certificate under sections 36 , 39a and 39b of the administrative appeals tribunal act 1975 (cth)</catchphrase>
-<catchphrase "id=c2">where legal representative sought access to evidence adduced by asio officers</catchphrase>
-<catchphrase "id=c3">whether risk of inadvertent disclosure an irrelevant consideration by decision maker</catchphrase>
-<catchphrase "id=c4">where risk of disclosure is unsubstantiated or speculative</catchphrase>
-<catchphrase "id=c5">whether decision was a decision which was so unreasonable that no reasonable decision maker could come to it</catchphrase>
-<catchphrase "id=c6">administrative law</catchphrase>
+<catchphrase >national security</catchphrase>
+<catchphrase >review of decision to issue certificate under sections 36 , 39a and 39b of the administrative appeals tribunal act 1975 (cth)</catchphrase>
+<catchphrase >where legal representative sought access to evidence adduced by asio officers</catchphrase>
+<catchphrase >whether risk of inadvertent disclosure an irrelevant consideration by decision maker</catchphrase>
+<catchphrase >where risk of disclosure is unsubstantiated or speculative</catchphrase>
+<catchphrase >whether decision was a decision which was so unreasonable that no reasonable decision maker could come to it</catchphrase>
+<catchphrase >administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -705,7 +705,7 @@ Dated: 22 February 2006
 
  Counsel for the Applicant: D. Bernie 
  
- Solicitor for the Applicant: Hopper &amp; Co. Lawyers 
+ Solicitor for the Applicant: Hopper amp; Co. Lawyers 
  
  Counsel for the Respondent: N.J. Williams S.C.</sentence>
 <sentence id="s216">Solicitor for the Respondent: Australian Government Solicitor 
@@ -722,4 +722,8 @@ Dated: 22 February 2006
  
  </sentence>
 </sentences>
-</case>
+</case>>06/125.html 
+ 
+ </sentence>
+</sentences>
+</case>>

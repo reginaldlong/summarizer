@@ -3,13 +3,13 @@
 <name>SZKLV v Minister for Immigration and Citizenship [2007] FCA 1927 (19 November 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1927.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">visa</catchphrase>
-<catchphrase "id=c1">protection visa</catchphrase>
-<catchphrase "id=c2">tribunal received further material from applicant after it had handed down its decision</catchphrase>
-<catchphrase "id=c3">tribunal had advised applicant by letter to last address supplied by applicant that it intended to hand down its decision on a particular date</catchphrase>
-<catchphrase "id=c4">whether tribunal denied applicant procedural fairness in failing to take further material into account</catchphrase>
-<catchphrase "id=c5">no denial of procedural fairness</catchphrase>
-<catchphrase "id=c6">migration</catchphrase>
+<catchphrase >visa</catchphrase>
+<catchphrase >protection visa</catchphrase>
+<catchphrase >tribunal received further material from applicant after it had handed down its decision</catchphrase>
+<catchphrase >tribunal had advised applicant by letter to last address supplied by applicant that it intended to hand down its decision on a particular date</catchphrase>
+<catchphrase >whether tribunal denied applicant procedural fairness in failing to take further material into account</catchphrase>
+<catchphrase >no denial of procedural fairness</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -17,7 +17,7 @@
 
  
 1 The principal question raised by this appeal is whether jurisdictional error can be established in relation to a decision of the Refugee Review Tribunal ("the Tribunal"), on the basis that the Tribunal did not consider material it received from the appellant after it had handed down its decision.</sentence>
-<sentence id="s1">The appeal is from a judgment of the Federal Magistrates Court SZKLV v Minister for Immigration &amp; Anor [2007] FMCA 1406.</sentence>
+<sentence id="s1">The appeal is from a judgment of the Federal Magistrates Court SZKLV v Minister for Immigration amp; Anor [2007] FMCA 1406.</sentence>
 <sentence id="s2">The learned Federal Magistrate dismissed the appellant's application for judicial review of the Tribunal's decision.</sentence>
 <sentence id="s3">The Tribunal was reviewing a decision of a delegate of the first respondent, the Minister for Immigration and Citizenship ("the Minister"), refusing to grant to the appellant a protection visa.</sentence>
 <sentence id="s4">2 The appellant is a citizen of the People's Republic of China.</sentence>
@@ -151,4 +151,8 @@ Dated: 6 December 2007
  
  </sentence>
 </sentences>
-</case>
+</case>>7/1927.html 
+ 
+ </sentence>
+</sentences>
+</case>>

@@ -3,19 +3,19 @@
 <name>Secretary, Department of Employment and Workplace Relations v Richards [2007] FCA 1710 (9 November 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1710.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">social security</catchphrase>
-<catchphrase "id=c1">appeal from the administrative appeals tribunal (aat)</catchphrase>
-<catchphrase "id=c2">respondent required to repay tab till shortfalls from wages pursuant to employment contract</catchphrase>
-<catchphrase "id=c3">whether money repaid constitutes income which should be declared to centrelink for the purposes of calculating parenting payment</catchphrase>
-<catchphrase "id=c4">definition of income within the meaning of section 8(1) social security act 1991 (cth)</catchphrase>
-<catchphrase "id=c5">definition of "ordinary income" within the meaning of section 1072 social security act</catchphrase>
-<catchphrase "id=c6">whether definition of income within the meaning of section 8(1) relevant to definition of "ordinary income" in section 1072</catchphrase>
-<catchphrase "id=c7">whether money subsequently repaid by the respondent to her employer pursuant to her employment contract not money earned, derived or received by her for her own use and benefit</catchphrase>
-<catchphrase "id=c8">"income"</catchphrase>
-<catchphrase "id=c9">"earned, derived or received"</catchphrase>
-<catchphrase "id=c10">"own use or benefit"</catchphrase>
-<catchphrase "id=c11">administrative law</catchphrase>
-<catchphrase "id=c12">words and phrases</catchphrase>
+<catchphrase >social security</catchphrase>
+<catchphrase >appeal from the administrative appeals tribunal (aat)</catchphrase>
+<catchphrase >respondent required to repay tab till shortfalls from wages pursuant to employment contract</catchphrase>
+<catchphrase >whether money repaid constitutes income which should be declared to centrelink for the purposes of calculating parenting payment</catchphrase>
+<catchphrase >definition of income within the meaning of section 8(1) social security act 1991 (cth)</catchphrase>
+<catchphrase >definition of "ordinary income" within the meaning of section 1072 social security act</catchphrase>
+<catchphrase >whether definition of income within the meaning of section 8(1) relevant to definition of "ordinary income" in section 1072</catchphrase>
+<catchphrase >whether money subsequently repaid by the respondent to her employer pursuant to her employment contract not money earned, derived or received by her for her own use and benefit</catchphrase>
+<catchphrase >"income"</catchphrase>
+<catchphrase >"earned, derived or received"</catchphrase>
+<catchphrase >"own use or benefit"</catchphrase>
+<catchphrase >administrative law</catchphrase>
+<catchphrase >words and phrases</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -36,19 +36,19 @@
  
 3 The background to this appeal, as outlined in the AAT decision, does not appear to be in contention, and may be summarised as follows:
  
-&#8226; On 3 December 2002 the respondent lodged a claim with Centrelink for a Parenting Payment, which claim was approved.</sentence>
-<sentence id="s11">&#8226; At that time the respondent was employed at the Queensport Hotel on a part time basis.</sentence>
+#8226; On 3 December 2002 the respondent lodged a claim with Centrelink for a Parenting Payment, which claim was approved.</sentence>
+<sentence id="s11">#8226; At that time the respondent was employed at the Queensport Hotel on a part time basis.</sentence>
 <sentence id="s12">On or about 19 September 2003 the respondent advised Centrelink that she had changed employment and was working for the Wellington Point Hotel ("the Hotel") managing the TAB agency there.</sentence>
-<sentence id="s13">&#8226; It was an oral term of the employment agreement between the respondent and the Hotel that she was to repay to the Hotel any shortfalls in the TAB till that occurred while she was operating it.</sentence>
-<sentence id="s14">&#8226; The respondent believed that she was obliged to declare to Centrelink her wages after making good any TAB till shortfalls and that this amount would be used to calculate her Parenting Payment from Centrelink.</sentence>
-<sentence id="s15">&#8226; During the period September 2003 to June 2004 the respondent repaid till shortfalls on eight occasions totalling $1,746.50.</sentence>
+<sentence id="s13">#8226; It was an oral term of the employment agreement between the respondent and the Hotel that she was to repay to the Hotel any shortfalls in the TAB till that occurred while she was operating it.</sentence>
+<sentence id="s14">#8226; The respondent believed that she was obliged to declare to Centrelink her wages after making good any TAB till shortfalls and that this amount would be used to calculate her Parenting Payment from Centrelink.</sentence>
+<sentence id="s15">#8226; During the period September 2003 to June 2004 the respondent repaid till shortfalls on eight occasions totalling $1,746.50.</sentence>
 <sentence id="s16">This included one occasion where a fraud was perpetrated on the TAB in the amount of $1,300.</sentence>
 <sentence id="s17">The person responsible for the shortfall was subsequently prosecuted for criminal conduct, and that person repaid the loss to the Hotel.</sentence>
 <sentence id="s18">I understand that the Hotel subsequently reimbursed the respondent the sum of $1,300.</sentence>
-<sentence id="s19">&#8226; In the financial year ending 30 June 2005 the respondent repaid till shortfalls on a number of occasions in the total sum of $807.75.</sentence>
-<sentence id="s20">&#8226; In April 2005 an "Employee Payment Summary" was provided by the Hotel to Centrelink indicating that the respondent had been paid wages of $30,600 during the period 20 September 2003 to 9 April 2005.</sentence>
+<sentence id="s19">#8226; In the financial year ending 30 June 2005 the respondent repaid till shortfalls on a number of occasions in the total sum of $807.75.</sentence>
+<sentence id="s20">#8226; In April 2005 an "Employee Payment Summary" was provided by the Hotel to Centrelink indicating that the respondent had been paid wages of $30,600 during the period 20 September 2003 to 9 April 2005.</sentence>
 <sentence id="s21">On the declarations of income that the respondent had made to Centrelink her income for that period was stated as $27,761.76 (representing the wages the respondent had received minus till shortfalls repaid to the Hotel).</sentence>
-<sentence id="s22">&#8226; Because parenting payment varies depending upon income, Centrelink reviewed the discrepancy.</sentence>
+<sentence id="s22">#8226; Because parenting payment varies depending upon income, Centrelink reviewed the discrepancy.</sentence>
 <sentence id="s23">Centrelink informed the respondent that:
  
  
@@ -59,8 +59,8 @@
 <sentence id="s24">
  
 
-&#8226; Centrelink forwarded the decision for further review by an Authorised Review Officer (ARO) who informed the respondent that the view the respondent had taken of the amount of income to inform Centrelink was not correct, and Centrelink's decision to ask the respondent to repay a debt of $1,341.87 was correct.</sentence>
-<sentence id="s25">&#8226; The respondent repaid the amount of $1,341.87 to Centrelink, but appealed the decision to the SSAT.</sentence>
+#8226; Centrelink forwarded the decision for further review by an Authorised Review Officer (ARO) who informed the respondent that the view the respondent had taken of the amount of income to inform Centrelink was not correct, and Centrelink's decision to ask the respondent to repay a debt of $1,341.87 was correct.</sentence>
+<sentence id="s25">#8226; The respondent repaid the amount of $1,341.87 to Centrelink, but appealed the decision to the SSAT.</sentence>
 <sentence id="s26">SSAT decision 
  
 4 The SSAT set aside the decision of the ARO, and remitted the matter for reconsideration with a direction that the respondent's income for the purposes of the parenting payment did not include amounts repaid by her to the Hotel in respect of TAB till shortfalls.</sentence>
@@ -155,13 +155,13 @@
 11 In respect of grounds 1 and 4 the applicant contended that the AAT erred in law in its interpretation of the "ordinary income" test in Module E of the Rates Calculator.</sentence>
 <sentence id="s79">In particular,
  
-&#8226; As provided by Note 2 of Module E of the Rates Calculator, the application of the ordinary income test is affected by s 1072.</sentence>
+#8226; As provided by Note 2 of Module E of the Rates Calculator, the application of the ordinary income test is affected by s 1072.</sentence>
 <sentence id="s80">Step 1 of Module E of the Rates Calculator requires the calculation of the person's ordinary income on a yearly basis.</sentence>
-<sentence id="s81">&#8226; Section 1072 defines "ordinary income" and refers in turn to subs 8(1) for the definition of "income".</sentence>
-<sentence id="s82">&#8226; Section 1072 , when construed in light of the provisions in s 8(1) and (2) provides in effect that a reference in the Act to a person's ordinary income is a reference to the gross income amount earned, derived or received for the person's own use or benefit by any means and from any source, without any reduction.</sentence>
-<sentence id="s83">&#8226; The AAT failed to take that approach and in effect ignored the provisions of s 1072 , focusing in isolation on the s 8(1) definition of "income".</sentence>
+<sentence id="s81">#8226; Section 1072 defines "ordinary income" and refers in turn to subs 8(1) for the definition of "income".</sentence>
+<sentence id="s82">#8226; Section 1072 , when construed in light of the provisions in s 8(1) and (2) provides in effect that a reference in the Act to a person's ordinary income is a reference to the gross income amount earned, derived or received for the person's own use or benefit by any means and from any source, without any reduction.</sentence>
+<sentence id="s83">#8226; The AAT failed to take that approach and in effect ignored the provisions of s 1072 , focusing in isolation on the s 8(1) definition of "income".</sentence>
 <sentence id="s84">In other words, the AAT seems to have construed s 1072 only by reference to the s 8(1) definition of income, rather than the provisions of s 1072 itself.</sentence>
-<sentence id="s85">&#8226; The AAT expressly said, in error, that the words of s 1072 "without any reduction" were "not to the point", and ignored the words "gross" and "from all sources".</sentence>
+<sentence id="s85">#8226; The AAT expressly said, in error, that the words of s 1072 "without any reduction" were "not to the point", and ignored the words "gross" and "from all sources".</sentence>
 <sentence id="s86">Grounds of appeal 2 and 3 
  
 12 Although the AAT acknowledged that there had been a "nominal receipt" by the respondent of the amounts of the till shortfalls, and that the respondent "used those sums to satisfy her contractual obligation to make good shortfalls", the AAT erred in failing to find that the money had therefore been "received by the person for the person's own use" as prescribed in s 8.</sentence>
@@ -170,12 +170,12 @@
 13 In summary, the applicant submits that the AAT misapplied the term "own use or benefit" within the context of s 8(1).</sentence>
 <sentence id="s88">In particular:
  
-&#8226; The phrase does not call for an assessment as to whether a person can in fact use the earnings as they wish or benefit from the earnings in an absolute sense.</sentence>
-<sentence id="s89">&#8226; The fact that the money may be earmarked to meet a particular obligation does not detract from the fact that the money is for the person's own use or benefit: Kear v Secretary, Department of Social Security [1998] 1087 FCA.</sentence>
-<sentence id="s90">&#8226; The fact that the repayments were made in respect of tasks performed by the respondent and made to the same entity who paid her wages seems to have clouded the issue.</sentence>
+#8226; The phrase does not call for an assessment as to whether a person can in fact use the earnings as they wish or benefit from the earnings in an absolute sense.</sentence>
+<sentence id="s89">#8226; The fact that the money may be earmarked to meet a particular obligation does not detract from the fact that the money is for the person's own use or benefit: Kear v Secretary, Department of Social Security [1998] 1087 FCA.</sentence>
+<sentence id="s90">#8226; The fact that the repayments were made in respect of tasks performed by the respondent and made to the same entity who paid her wages seems to have clouded the issue.</sentence>
 <sentence id="s91">The situation is analogous to an employee who is found liable to the employer for damages for negligence arising out of the employee's actions in the workplace: even if the damages awarded were deducted from wages of the employee it could not be said that the employee's earnings were the lesser sum after the deduction of the damages award.</sentence>
-<sentence id="s92">&#8226; The circumstances surrounding the payment by the respondent and later reimbursement of $1,300 highlights the error in the AAT's approach.</sentence>
-<sentence id="s93">&#8226; The AAT appears to have been influenced by the fact that the applicant was unable to identify a benefit to the respondent from the amounts of the shortfalls.</sentence>
+<sentence id="s92">#8226; The circumstances surrounding the payment by the respondent and later reimbursement of $1,300 highlights the error in the AAT's approach.</sentence>
+<sentence id="s93">#8226; The AAT appears to have been influenced by the fact that the applicant was unable to identify a benefit to the respondent from the amounts of the shortfalls.</sentence>
 <sentence id="s94">This is clearly an irrelevant consideration as the Act provides for the alternative of "use or benefit".</sentence>
 <sentence id="s95">The respondent in this case clearly used the amounts to meet her obligations.</sentence>
 <sentence id="s96">In any event the respondent did benefit from such amounts in that her superannuation entitlements were calculated on the basis of her gross earnings without deduction for the shortfalls as was apparent from the Employee Payment Summary provided by her employer.</sentence>
@@ -301,7 +301,7 @@
 <sentence id="s141">2.</sentence>
 <sentence id="s142">The Act contemplates different types of income - for example, ordinary income, business income (ss 1074 and 1075 ), deemed income from financial asserts (ss 1076 to 1085), employment income (s 8(1A) and (1B)) and income from personal exertion (s 8(1)) and maintenance income (s 10).</sentence>
 <sentence id="s143">Each is clearly a species of income.</sentence>
-<sentence id="s144">I agree with comments of the learned authors of Social Security in Australia (T Carney &amp; P Hanks, Oxford University Press, Melbourne 1994 at 120) that "income under the Social Security Act is a multi-layered concept.</sentence>
+<sentence id="s144">I agree with comments of the learned authors of Social Security in Australia (T Carney amp; P Hanks, Oxford University Press, Melbourne 1994 at 120) that "income under the Social Security Act is a multi-layered concept.</sentence>
 <sentence id="s145">At the core is 'income in relation to a person'...".</sentence>
 <sentence id="s146">3.</sentence>
 <sentence id="s147">"Ordinary income" is defined as a species of income, namely income that is not maintenance income or an exempt lump sum.</sentence>
@@ -342,15 +342,15 @@
  
 34 In relation to the concept of income being "earned, derived or received", it is clear that:
  
-&#8226; the use of the verbs "earned", "derived" and "received" in juxtaposition in the definition of "income" in the Act suggests that each was intended to have a different meaning: Sheppard J in Inguanti v Secretary, Department of Social Security (1988) 80 ALR 307 at 311
+#8226; the use of the verbs "earned", "derived" and "received" in juxtaposition in the definition of "income" in the Act suggests that each was intended to have a different meaning: Sheppard J in Inguanti v Secretary, Department of Social Security (1988) 80 ALR 307 at 311
  
-&#8226; income cannot be "earned, derived or received" unless it is also realised: Read 167 CLR per Mason CJ, Deane and Gaudron JJ at 67
+#8226; income cannot be "earned, derived or received" unless it is also realised: Read 167 CLR per Mason CJ, Deane and Gaudron JJ at 67
  
-&#8226; income can be realised - and hence received - even if temporarily it is not accessible: Rose 21 FCR at 245
+#8226; income can be realised - and hence received - even if temporarily it is not accessible: Rose 21 FCR at 245
  
-&#8226; income can be "derived" within the meaning of s 8(1) even if it is not at that time received ( Inguanti 80 ALR at 311)
+#8226; income can be "derived" within the meaning of s 8(1) even if it is not at that time received ( Inguanti 80 ALR at 311)
  
-&#8226; "earned" relates to personal earnings and profits ( Inguanti 80 ALR at 310).</sentence>
+#8226; "earned" relates to personal earnings and profits ( Inguanti 80 ALR at 310).</sentence>
 <sentence id="s173">35 In this case, although Deputy President Hack expressed doubt as to whether the relevant income in these proceedings had been "earned, derived or received" (at [22] of the AAT's Reasons for Decision), it does not appear in dispute before me that the respondent has derived, or "constructively" received, the gross amount from the Hotel including the TAB till shortfalls withheld (TS p 11 ll 32-45, p 12 ll 32-37).</sentence>
 <sentence id="s174">Accordingly, it is not necessary for me to consider this issue further.</sentence>
 <sentence id="s175">36 It is in contention, however, that the respondent earned, derived or received the sums representing the TAB till shortfalls for her "own use or benefit" within the meaning of s 8(1).</sentence>
@@ -400,15 +400,15 @@
 <sentence id="s205">French J held that the amounts received by the respondents were "income" within the Act, notwithstanding that they had been not been received in exchange for anything; further his Honour accepted that the amounts had been received for the respondents' own use or benefit (at 44).</sentence>
 <sentence id="s206">However in my view the facts of the case before me are distinguishable from McLaughlin 81 FCR 35, in that:
  
-&#8226; whereas the income in fact earned, derived or received by the respondent in these proceedings was determined by reference to, inter alia , till shortfalls -
+#8226; whereas the income in fact earned, derived or received by the respondent in these proceedings was determined by reference to, inter alia , till shortfalls -
  
-&#8226; in McLaughlin 81 FCR 35 the power of the Authority to demand repayment of the amount paid to the respondents would appear to have required a determination that there had in fact been a breach of a term of the contract by the respondents; further the terms of the agreement between the Authority and the respondent stated that, if the Authority did not seek repayment by the respondents before a certain time, the respondents were not liable to repay any amounts paid by the Authority.</sentence>
+#8226; in McLaughlin 81 FCR 35 the power of the Authority to demand repayment of the amount paid to the respondents would appear to have required a determination that there had in fact been a breach of a term of the contract by the respondents; further the terms of the agreement between the Authority and the respondent stated that, if the Authority did not seek repayment by the respondents before a certain time, the respondents were not liable to repay any amounts paid by the Authority.</sentence>
 <sentence id="s207">Other than the provision with respect to possible breach of contract, there appeared to be no limitation on the entitlement of the respondents to deal with the moneys paid by the Authority as they chose.</sentence>
 <sentence id="s208">50 In identifying whether amounts received are for the "own use and benefit" of the recipient, there is in my view a substantial difference between:
  
-&#8226; the obligation of the respondent to "make good" till shortfalls (however incurred) arising in the course of her employment, which in turn determines the income of the respondent, as was the case here, and
+#8226; the obligation of the respondent to "make good" till shortfalls (however incurred) arising in the course of her employment, which in turn determines the income of the respondent, as was the case here, and
  
-&#8226; the contractual power of the Authority in McLaughlin 81 FCR 35 to demand repayment of paid amounts being limited to a period of time, and dependent upon a breach by the respondents of any terms of the agreement, but which power depended upon identification of such "breach" having taken place as a matter of contract law.</sentence>
+#8226; the contractual power of the Authority in McLaughlin 81 FCR 35 to demand repayment of paid amounts being limited to a period of time, and dependent upon a breach by the respondents of any terms of the agreement, but which power depended upon identification of such "breach" having taken place as a matter of contract law.</sentence>
 <sentence id="s209">51 Accordingly, contrary to the submissions of the applicant I do not find the decision in McLaughlin 81 FCR 35 helpful in identifying whether moneys received by respondent in the case before me were for her "own use and benefit".</sentence>
 <sentence id="s210">$1,300 TAB till shortfall 
  
@@ -444,5 +444,13 @@ Dated: 9 November 2007
  URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/1710.html 
  
  </sentence>
+</sentences>
+</case>sentence>
+</sentences>
+</case>ases/cth/FCA/2007/1710.html 
+ 
+ </sentence>
+</sentences>
+</case>sentence>
 </sentences>
 </case>

@@ -3,12 +3,12 @@
 <name>Brereton v Australian Securities and Investments Commission [2007] FCA 651 (4 May 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/651.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">reinstatement of company</catchphrase>
-<catchphrase "id=c1">standing</catchphrase>
-<catchphrase "id=c2">whether director or creditor "person aggrieved"</catchphrase>
-<catchphrase "id=c3">"person aggrieved"</catchphrase>
-<catchphrase "id=c4">corporations</catchphrase>
-<catchphrase "id=c5">words and phrases</catchphrase>
+<catchphrase >reinstatement of company</catchphrase>
+<catchphrase >standing</catchphrase>
+<catchphrase >whether director or creditor "person aggrieved"</catchphrase>
+<catchphrase >"person aggrieved"</catchphrase>
+<catchphrase >corporations</catchphrase>
+<catchphrase >words and phrases</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -88,7 +88,7 @@
 <sentence id="s72">That is, a voluntary payment in discharge of another's debt does not ordinarily entitle the payee to reimbursement.</sentence>
 <sentence id="s73">But this rule may not be absolute.</sentence>
 <sentence id="s74">There is an argument that a right of restitution would exist if the payment amounts to a "necessitous intervention".</sentence>
-<sentence id="s75">See generally Mason &amp; Carter, "Restitution Law in Australia" (1 st ed, 1995) ch 8; Goff &amp; Jones, "The Law of Restitution" (5 th ed, 1998) ch 17.</sentence>
+<sentence id="s75">See generally Mason amp; Carter, "Restitution Law in Australia" (1 st ed, 1995) ch 8; Goff amp; Jones, "The Law of Restitution" (5 th ed, 1998) ch 17.</sentence>
 <sentence id="s76">The relevant factors are these.</sentence>
 <sentence id="s77">Mr Brereton was a director.</sentence>
 <sentence id="s78">In that capacity he was under an obligation to ensure the company paid its annual fees.</sentence>
@@ -116,7 +116,7 @@ Dated: 4 May 2007
 
  Counsel for the Plaintiff: P Hayes QC 
  
- Solicitor for the Plaintiff: Michael Brereton &amp; Co 
+ Solicitor for the Plaintiff: Michael Brereton amp; Co 
  
  Appearing for the 2nd Defendant: A Cox 
  
@@ -138,4 +138,8 @@ Dated: 4 May 2007
  
  </sentence>
 </sentences>
-</case>
+</case>se>ml 
+ 
+ </sentence>
+</sentences>
+</case>se>

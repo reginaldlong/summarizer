@@ -3,11 +3,11 @@
 <name>Dresna Pty Ltd v Linknarf Management Services Pty Ltd (In Liq) (No 2) [2006] FCA 755 (15 June 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/755.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">costs</catchphrase>
-<catchphrase "id=c1">circumstances under which indemnity costs will be ordered</catchphrase>
-<catchphrase "id=c2">calderbank offers</catchphrase>
-<catchphrase "id=c3">whether offer by respondents to accept substantial amount by way of costs if applicant discontinues proceeding constitutes a calderbank offer</catchphrase>
-<catchphrase "id=c4">practice and procedure</catchphrase>
+<catchphrase >costs</catchphrase>
+<catchphrase >circumstances under which indemnity costs will be ordered</catchphrase>
+<catchphrase >calderbank offers</catchphrase>
+<catchphrase >whether offer by respondents to accept substantial amount by way of costs if applicant discontinues proceeding constitutes a calderbank offer</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -25,9 +25,9 @@
 <sentence id="s8">They say that such costs are warranted because:
  
  
- &#8226; the applicant conducted the litigation in a manner that was wasteful, causing loss of time and inconvenience to the parties, and to the Court;
- &#8226; the proceeding had been commenced or continued in circumstances where the applicant, properly advised, should have known that it had no chance of success; and 
- &#8226; there was an imprudent refusal of an offer of compromise, essentially contained in what was described as a "Calderbank" letter or letters.</sentence>
+ #8226; the applicant conducted the litigation in a manner that was wasteful, causing loss of time and inconvenience to the parties, and to the Court;
+ #8226; the proceeding had been commenced or continued in circumstances where the applicant, properly advised, should have known that it had no chance of success; and 
+ #8226; there was an imprudent refusal of an offer of compromise, essentially contained in what was described as a "Calderbank" letter or letters.</sentence>
 <sentence id="s9">
  
  
@@ -133,4 +133,6 @@ Dated: 15 June 2006
  
  </sentence>
 </sentences>
-</case>
+</case>se></sentence>
+</sentences>
+</case>se>

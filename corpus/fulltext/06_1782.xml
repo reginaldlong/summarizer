@@ -3,11 +3,11 @@
 <name>Williams v Minister for Justice and Customs [2006] FCA 1782 (20 December 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1782.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">judicial review of minister's notice under s 16 of the extradition act</catchphrase>
-<catchphrase "id=c1">statutory preconditions to issue of notice</catchphrase>
-<catchphrase "id=c2">whether material before the minister identified the conduct that the minister was required to consider under s 16(2)(a)(ii)</catchphrase>
-<catchphrase "id=c3">whether the material before the minister was so inadequate that his opinion as to dual criminality was perverse in the wednesbury sense</catchphrase>
-<catchphrase "id=c4">extradition</catchphrase>
+<catchphrase >judicial review of minister's notice under s 16 of the extradition act</catchphrase>
+<catchphrase >statutory preconditions to issue of notice</catchphrase>
+<catchphrase >whether material before the minister identified the conduct that the minister was required to consider under s 16(2)(a)(ii)</catchphrase>
+<catchphrase >whether the material before the minister was so inadequate that his opinion as to dual criminality was perverse in the wednesbury sense</catchphrase>
+<catchphrase >extradition</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -205,7 +205,7 @@ The requirement in s 16(2)(a)(ii) that the relevant conduct be an extradition of
 27 In the same case Brennan J said at 65-6:
  
  'The department does not have to draw the Minister's attention to every communication it receives and to every fact its officers know.</sentence>
-<sentence id="s88">Part of a department's function is to undertake an analysis, evaluation and pr&eacute;cis of material to which the Minister is bound to have regard or to which the Minister may wish to have regard in making decisions.</sentence>
+<sentence id="s88">Part of a department's function is to undertake an analysis, evaluation and preacute;cis of material to which the Minister is bound to have regard or to which the Minister may wish to have regard in making decisions.</sentence>
 <sentence id="s89">The press of ministerial business necessitates efficient performance of that departmental function... Reliance on the departmental appreciation is not tantamount to an impermissible delegation of the ministerial function.</sentence>
 <sentence id="s90">A Minister may retain his power to make a decision while relying on his Department to draw his attention to the salient facts.</sentence>
 <sentence id="s91">' 
@@ -269,4 +269,7 @@ Dated: 20 December 2006
  
  </sentence>
 </sentences>
-</case>
+</case>>
+ </sentence>
+</sentences>
+</case>>

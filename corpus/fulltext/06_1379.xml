@@ -3,14 +3,14 @@
 <name>ASP Holdings Ltd v Pan Australia Shipping Pty Ltd [2006] FCA 1379 (18 October 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1379.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">demise charterer</catchphrase>
-<catchphrase "id=c1">notice of termination</catchphrase>
-<catchphrase "id=c2">notice uncertain</catchphrase>
-<catchphrase "id=c3">termination conditional</catchphrase>
-<catchphrase "id=c4">whether redelivery required</catchphrase>
-<catchphrase "id=c5">leave to commence action in rem against ship</catchphrase>
-<catchphrase "id=c6">admiralty</catchphrase>
-<catchphrase "id=c7">corporations</catchphrase>
+<catchphrase >demise charterer</catchphrase>
+<catchphrase >notice of termination</catchphrase>
+<catchphrase >notice uncertain</catchphrase>
+<catchphrase >termination conditional</catchphrase>
+<catchphrase >whether redelivery required</catchphrase>
+<catchphrase >leave to commence action in rem against ship</catchphrase>
+<catchphrase >admiralty</catchphrase>
+<catchphrase >corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -67,7 +67,7 @@
 <sentence id="s49">" 9 With these sections in mind Mr Horgan for ASP argued that the owner was forbidden from giving a notice that would determine the charter as that was prohibited by s 440C.</sentence>
 <sentence id="s50">He referred me to Barclays Mercantile Business Finance Ltd v Sibec Developments Ltd [1992] 1 WLR 1253 to support the view that this was a reasonably arguable proposition.</sentence>
 <sentence id="s51">10 I do not feel able to accept Mr Horgan's argument.</sentence>
-<sentence id="s52">The effect of s 440C is to prevent possession (actual or constructive) being taken of property in the hands of the administrators: Cinema Plus Ltd (Administrators Appointed) v Australia &amp; New Zealand Banking Group Ltd [2000] NSWCA 195 ; (2000) 49 NSWLR 513, 545.</sentence>
+<sentence id="s52">The effect of s 440C is to prevent possession (actual or constructive) being taken of property in the hands of the administrators: Cinema Plus Ltd (Administrators Appointed) v Australia amp; New Zealand Banking Group Ltd [2000] NSWCA 195 ; (2000) 49 NSWLR 513, 545.</sentence>
 <sentence id="s53">The notice determining the charter, even if it were effective, did not remove possession of the vessel from Pan Australia.</sentence>
 <sentence id="s54">In any event, it is plain that s 441J permits the giving of a notice of termination.</sentence>
 <sentence id="s55">In Re Java 452 Pty Ltd (Administrators Appointed) (1999) 32 ACSR 507, 515 Byrne J said in relation to a notice to determine a tenancy that the result of ss 440C and 441J was that "although the lessor may not recover possession, it may take steps to perfect its right to possession which right might be exercisable, if available, at the end of the administration".</sentence>
@@ -207,7 +207,7 @@ He went on to say (at 520) that it:
 <sentence id="s162">24 Asquith LJ delivered a short judgment in which he pointed out, at 457, that in Phipps v Rogers it was observed that "each case must be decided on its own facts and circumstances" and that "the circumstances there were that the tenant was forced by the form of notice to answer questions both of law and fact interlocked with each other and calling for a much more complex calculus than anything involved in the [instant] case.</sentence>
 <sentence id="s163">" The other judge, Lord Greene MR, also put Phipps v Rogers to one side as being a difficult case to understand, observing, at 458, that the difficulties presented to the tenant in that case were difficulties of construction and difficulties of fact.</sentence>
 <sentence id="s164">He rejected the suggestion that a termination notice giving rise to a difficult question of construction was necessarily invalid.</sentence>
-<sentence id="s165">25 The last case is Allam &amp; Co Ltd v Europa Poster Services Ltd [1968] 1 WLR 638.</sentence>
+<sentence id="s165">25 The last case is Allam amp; Co Ltd v Europa Poster Services Ltd [1968] 1 WLR 638.</sentence>
 <sentence id="s166">I need not go into the facts.</sentence>
 <sentence id="s167">I cite the case for the observation by Buckley J who looked closely at Phipps v Rogers and Addis v Burrows and (at 652) said this: "No doubt if those cases are both good law, as I must assume that they are, the question of the validity of the notice, the interpretation of which involves some question of law, must become a question of degree.</sentence>
 <sentence id="s168">There must be cases which, because of the difficulty or complexity of the case, fall within the principle of Phipps v Rogers .</sentence>
@@ -297,7 +297,7 @@ Dated: 20 October 2006
 <sentence id="s245">VID 1092 of 2006 and VID 1099 of 2006: Mr S Horgan 
  
  Solicitor for the Plaintiff in proceeding nos.</sentence>
-<sentence id="s246">VID 1092 of 2006 and VID 1099 of 2006: Holman Fenwick &amp; Willan 
+<sentence id="s246">VID 1092 of 2006 and VID 1099 of 2006: Holman Fenwick amp; Willan 
  
  Counsel for the Defendant in proceeding no.</sentence>
 <sentence id="s247">VID 1092 of 2006: Mr J Evans 
@@ -323,4 +323,8 @@ Dated: 20 October 2006
  
  </sentence>
 </sentences>
-</case>
+</case>se>A/2006/1379.html 
+ 
+ </sentence>
+</sentences>
+</case>se>

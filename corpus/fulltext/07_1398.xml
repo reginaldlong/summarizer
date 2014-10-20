@@ -3,11 +3,11 @@
 <name>Telstra Corporation Limited v Minister for Communications, Information Technology and the Arts [2007] FCA 1398 (5 September 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1398.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">use of notices to produce in applications for discovery by a prospective respondent under o15a r6</catchphrase>
-<catchphrase "id=c1">whether fishing constitutes oppression</catchphrase>
-<catchphrase "id=c2">the necessary distinction between 'apparent relevance' and 'relevance leading to admissibility' in the document production process</catchphrase>
-<catchphrase "id=c3">practice and procedure</catchphrase>
-<catchphrase "id=c4">subpoenas and notices to produce</catchphrase>
+<catchphrase >use of notices to produce in applications for discovery by a prospective respondent under o15a r6</catchphrase>
+<catchphrase >whether fishing constitutes oppression</catchphrase>
+<catchphrase >the necessary distinction between 'apparent relevance' and 'relevance leading to admissibility' in the document production process</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
+<catchphrase >subpoenas and notices to produce</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -378,31 +378,31 @@ Mansfield J expressed the same view in Global Intertrade Pty Ltd v Adelaide Fest
  
  
  
- &#8226; commercial secrets; 
+ #8226; commercial secrets; 
  
  
  
  
  
- &#8226; proprietary information, for example information about how a particular technical or business solution is to be provided; 
+ #8226; proprietary information, for example information about how a particular technical or business solution is to be provided; 
  
  
  
  
  
- &#8226; an applicant's internal costing information or information about its profit margins; 
+ #8226; an applicant's internal costing information or information about its profit margins; 
  
  
  
  
  
- &#8226; pricing structures (where this information would reveal whether an applicant was making a profit or loss on the supply of a particular good or service) which excludes publicly available pricing structures; and 
+ #8226; pricing structures (where this information would reveal whether an applicant was making a profit or loss on the supply of a particular good or service) which excludes publicly available pricing structures; and 
  
  
  
  
  
- &#8226; intellectual property matters where these relate to an applicant's competitive position.</sentence>
+ #8226; intellectual property matters where these relate to an applicant's competitive position.</sentence>
 <sentence id="s86">
  
  
@@ -412,7 +412,7 @@ Mansfield J expressed the same view in Global Intertrade Pty Ltd v Adelaide Fest
  
  
  
- &#8226; that disclosure is required by law; 
+ #8226; that disclosure is required by law; 
  
  
  ... 
@@ -890,11 +890,11 @@ Mansfield J expressed the same view in Global Intertrade Pty Ltd v Adelaide Fest
  
  
  
- &#9679; of the breadth of the phrase "relating to" in sub-paragraph (a) of category 1; 
+ #9679; of the breadth of the phrase "relating to" in sub-paragraph (a) of category 1; 
  
- &#9679; category 1 is not limited to documents in the possession of certain persons within Telstra; and 
+ #9679; category 1 is not limited to documents in the possession of certain persons within Telstra; and 
  
- &#9679; category 1 is not limited to any date range other than being "after" 27 September 2006; 
+ #9679; category 1 is not limited to any date range other than being "after" 27 September 2006; 
  
  
  
@@ -1003,4 +1003,8 @@ Dated: 5 September 2007
  
  </sentence>
 </sentences>
+</case>>
+</case>ence>
+</sentences>
+</case>>
 </case>

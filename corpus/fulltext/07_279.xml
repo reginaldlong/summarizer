@@ -3,15 +3,15 @@
 <name>G S Technology Pty Ltd v Brisbane City Council [2007] FCA 279 (7 March 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/279.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">estoppel by judgment</catchphrase>
-<catchphrase "id=c1">res judicata</catchphrase>
-<catchphrase "id=c2">issue estoppel</catchphrase>
-<catchphrase "id=c3">cause of action estoppel</catchphrase>
-<catchphrase "id=c4">exploitation</catchphrase>
-<catchphrase "id=c5">crown exploitation</catchphrase>
-<catchphrase "id=c6">crown use</catchphrase>
-<catchphrase "id=c7">estoppel</catchphrase>
-<catchphrase "id=c8">intellectual property</catchphrase>
+<catchphrase >estoppel by judgment</catchphrase>
+<catchphrase >res judicata</catchphrase>
+<catchphrase >issue estoppel</catchphrase>
+<catchphrase >cause of action estoppel</catchphrase>
+<catchphrase >exploitation</catchphrase>
+<catchphrase >crown exploitation</catchphrase>
+<catchphrase >crown use</catchphrase>
+<catchphrase >estoppel</catchphrase>
+<catchphrase >intellectual property</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -246,7 +246,7 @@
 <sentence id="s65">This latter allegation appears to have involved a denial that the relevant water meter assemblies were within any claim in the previous patent.</sentence>
 <sentence id="s66">By its cross-claim the Council sought revocation of the previous patent.</sentence>
 <sentence id="s67">Its grounds were said to appear in particulars of objection which do not appear in Ms Whiting's affidavit.</sentence>
-<sentence id="s68">However the grounds ventilated at the trial appear from the reasons for judgment ( Stack v Brisbane City Council [1999] FCA 1279) and from the reasons of the Full Court ( Stack v Davies Shephard Pty Ltd &amp; Ors [2001] FCA 501).</sentence>
+<sentence id="s68">However the grounds ventilated at the trial appear from the reasons for judgment ( Stack v Brisbane City Council [1999] FCA 1279) and from the reasons of the Full Court ( Stack v Davies Shephard Pty Ltd amp; Ors [2001] FCA 501).</sentence>
 <sentence id="s69">One ground of invalidity was that neither Stack nor GST was entitled to the patent because Stack was not the sole inventor.</sentence>
 <sentence id="s70">13 Following the trial, on 15 September 1999, his Honour declared that Stack was not, at any material time, entitled to the grant of a patent based upon provisional specification PK 2036 or upon application 85236/91.</sentence>
 <sentence id="s71">His Honour further declared that Stack was not entitled to the grant to him of petty patent 645740, and that GST (who claimed through Stack) was also not so entitled.</sentence>
@@ -397,7 +397,7 @@ For present purposes, elements (c) and (d) are of primary relevance.</sentence>
  
 
 28 Such a manner of new manufacture may not necessarily be a patentable invention under the Act.</sentence>
-<sentence id="s148">See the decision of the High Court in N V Philips Gloeilampenfabrieken &amp; Anor v Mirabella International Pty Ltd [1995] HCA 15 ; (1995) 183 CLR 655.</sentence>
+<sentence id="s148">See the decision of the High Court in N V Philips Gloeilampenfabrieken amp; Anor v Mirabella International Pty Ltd [1995] HCA 15 ; (1995) 183 CLR 655.</sentence>
 <sentence id="s149">Other requirements of the Act must also be satisfied.</sentence>
 <sentence id="s150">The inclusion in the definition of an 'alleged' invention is also relevant.</sentence>
 <sentence id="s151">It is arguable that s 165 contemplates remuneration for exploitation of an invention which is not patentable.</sentence>
@@ -498,7 +498,7 @@ For present purposes, elements (c) and (d) are of primary relevance.</sentence>
 <sentence id="s220">Presumably, he might join him as a respondent and, in any event, would presumably hold the benefit of any judgment on trust for the two of them.</sentence>
 <sentence id="s221">Such an unlikely result suggests that the better view is that Stack would not be prevented from claiming with Grieves as joint applicants, and that GST may claim through them jointly.</sentence>
 <sentence id="s222">42 There is another approach to the question which leads to the same result.</sentence>
-<sentence id="s223">At par 383 in Spencer Bower, Turner &amp; Handley, The Doctrine of Res Judicata (3rd edition) the learned author observes:
+<sentence id="s223">At par 383 in Spencer Bower, Turner amp; Handley, The Doctrine of Res Judicata (3rd edition) the learned author observes:
  
  'There is substantial authority that there can be no res judicata in a changing situation.</sentence>
 <sentence id="s224">' 
@@ -514,7 +514,7 @@ For present purposes, elements (c) and (d) are of primary relevance.</sentence>
 <sentence id="s229">' 
  
 
-44 Similarly, in Carl Zeiss Stiftung v Rayner &amp; Keeler Ltd (No 2) [1967] AC 853, the House of Lords was concerned with the question of whether a local authority (the council of Gera) was the legal representative of a German corporation at a particular date.</sentence>
+44 Similarly, in Carl Zeiss Stiftung v Rayner amp; Keeler Ltd (No 2) [1967] AC 853, the House of Lords was concerned with the question of whether a local authority (the council of Gera) was the legal representative of a German corporation at a particular date.</sentence>
 <sentence id="s230">In earlier proceedings in West Germany it had been held that the council was not authorized to represent the corporation.</sentence>
 <sentence id="s231">At 913, Lord Reid observed:
  
@@ -577,4 +577,8 @@ Mr A Duffy
  
  </sentence>
 </sentences>
-</case>
+</case>ase>/cth/FCA/2007/279.html 
+ 
+ </sentence>
+</sentences>
+</case>ase>

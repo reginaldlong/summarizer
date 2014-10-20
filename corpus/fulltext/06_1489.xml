@@ -3,12 +3,12 @@
 <name>Liyanage v Minister for Immigration and Multicultural Affairs [2006] FCA 1489 (10 November 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1489.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from judgment and orders of federal magistrate affirming migration review tribunal decision</catchphrase>
-<catchphrase "id=c1">breach of condition 8202</catchphrase>
-<catchphrase "id=c2">student visa cancelled pursuant to s 116 of the migration act 1958 (cth) on ground of failure to attend at least 80% of contact hours</catchphrase>
-<catchphrase "id=c3">whether federal magistrate erred</catchphrase>
-<catchphrase "id=c4">whether jurisdictional error established</catchphrase>
-<catchphrase "id=c5">migration</catchphrase>
+<catchphrase >appeal from judgment and orders of federal magistrate affirming migration review tribunal decision</catchphrase>
+<catchphrase >breach of condition 8202</catchphrase>
+<catchphrase >student visa cancelled pursuant to s 116 of the migration act 1958 (cth) on ground of failure to attend at least 80% of contact hours</catchphrase>
+<catchphrase >whether federal magistrate erred</catchphrase>
+<catchphrase >whether jurisdictional error established</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -300,13 +300,13 @@
 <sentence id="s72">It stated that the notice of intention to cancel the visa clearly set out the grounds of the alleged breach and that the appellant had been given time to consider the notice and prepare his response.</sentence>
 <sentence id="s73">30 Second, it held that once a breach of condition 8202 had been established, s 116(3) and reg 2.43(2)(b) operated to make cancellation of the visa in such circumstances mandatory.</sentence>
 <sentence id="s74">The Tribunal held that it had no discretion to set aside the cancellation.</sentence>
-<sentence id="s75">In that regard it relied upon the judgments of Minister for Immigration &amp; Multicultural Affairs v Nguyen [2002] FCA 460 and Minister for Immigration &amp; Multicultural Affairs v Hou [2002] FCA 574.</sentence>
+<sentence id="s75">In that regard it relied upon the judgments of Minister for Immigration amp; Multicultural Affairs v Nguyen [2002] FCA 460 and Minister for Immigration amp; Multicultural Affairs v Hou [2002] FCA 574.</sentence>
 <sentence id="s76">31 The Tribunal noted that the Migration Amendment Regulations 2005 (No.</sentence>
 <sentence id="s77">8) (Cth) had introduced an "exceptional circumstances" test in relation to visas cancelled under s 116.</sentence>
 <sentence id="s78">However, as that amendment only applied to visas cancelled on or after 8 October 2005 it did not assist the appellant.</sentence>
 <sentence id="s79">32 Last, the Tribunal found that the appellant had in fact breached condition 8202.</sentence>
 <sentence id="s80">It applied Pradhan v Minister for Immigration and Multicultural Affairs [1999] FCA 1240 ; (1999) 94 FCR 91 in concluding that the operative version of condition 8202 was that which applied on the date the visa was granted.</sentence>
-<sentence id="s81">33 The Tribunal referred to the decisions of Quan v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2004] FCA 764 at [33] - [34] per Jacobson J and Singh v Minister for Immigration and Ethnic Affairs [1994] FCA 1011 , and found that it was required to be satisfied "to a high degree" that the information upon which the visa cancellation was based was correct.</sentence>
+<sentence id="s81">33 The Tribunal referred to the decisions of Quan v Minister for Immigration amp; Multicultural amp; Indigenous Affairs [2004] FCA 764 at [33] - [34] per Jacobson J and Singh v Minister for Immigration and Ethnic Affairs [1994] FCA 1011 , and found that it was required to be satisfied "to a high degree" that the information upon which the visa cancellation was based was correct.</sentence>
 <sentence id="s82">34 The Tribunal found that there had been errors in the calculations of attendance for both terms 1 and 2.</sentence>
 <sentence id="s83">In term 1, it found that the medical certificates had not been taken into account as they should have been and, as a result, the appellant had in fact attended 91% of classes.</sentence>
 <sentence id="s84">Accordingly, he was not found to have breached condition 8202 in that term.</sentence>
@@ -336,12 +336,12 @@
  
 41 The appellant has appealed to this Court from the whole of the judgment of the Federal Magistrate on the basis that his Honour:
  
- &#8226; failed to find that the Tribunal identified the wrong issue, asked the wrong question, relied on irrelevant material or ignored relevant material, and therefore acted without jurisdiction;
- &#8226; failed to find that the s 20 notice was defective and invalid as it did not accurately reflect the situation of the appellant at all material times;
- &#8226; failed to find that the Tribunal misconstrued and misapplied the operation of condition 8202; 
- &#8226; failed to find that the Tribunal denied the appellant procedural fairness; 
- &#8226; erred in concluding that the errors of law committed by the Tribunal were validated by s 474 of the Migration Act and did not constitute jurisdictional errors warranting review or the grant of prerogative writs; and
- &#8226; erred in dismissing the application.</sentence>
+ #8226; failed to find that the Tribunal identified the wrong issue, asked the wrong question, relied on irrelevant material or ignored relevant material, and therefore acted without jurisdiction;
+ #8226; failed to find that the s 20 notice was defective and invalid as it did not accurately reflect the situation of the appellant at all material times;
+ #8226; failed to find that the Tribunal misconstrued and misapplied the operation of condition 8202; 
+ #8226; failed to find that the Tribunal denied the appellant procedural fairness; 
+ #8226; erred in concluding that the errors of law committed by the Tribunal were validated by s 474 of the Migration Act and did not constitute jurisdictional errors warranting review or the grant of prerogative writs; and
+ #8226; erred in dismissing the application.</sentence>
 <sentence id="s106">
 
 42 The Minister has conceded that the notice issued by the Institute did not comply with the requirements of s 20 of the ESOS Act and was therefore invalid.</sentence>
@@ -401,4 +401,8 @@ Dated: 10 November 2006
  
  </sentence>
 </sentences>
+</case>s>
+</case></sentence>
+</sentences>
+</case>s>
 </case>

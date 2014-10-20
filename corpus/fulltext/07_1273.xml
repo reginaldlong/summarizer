@@ -3,31 +3,31 @@
 <name>Haneef v Minister for Immigration and Citizenship [2007] FCA 1273 (21 August 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1273.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">section 501 migration act</catchphrase>
-<catchphrase "id=c1">power of minister to cancel visa</catchphrase>
-<catchphrase "id=c2">where migration act grants a discretion to cancel visa if a) minister reasonably suspects visa holder does not pass character test and b) cancellation is in the national interest</catchphrase>
-<catchphrase "id=c3">where migration act provides character test not passed if visa holder has or has had an association with someone else, or with a group or organisation whom the minister reasonably suspects has been or is involved in criminal conduct</catchphrase>
-<catchphrase "id=c4">where minister cancelled applicant's visa</catchphrase>
-<catchphrase "id=c5">where applicant sought review of decision pursuant to s 476a migration act</catchphrase>
-<catchphrase "id=c6">commonwealth constitution</catchphrase>
-<catchphrase "id=c7">where jurisdiction of the same kind exercisable by the high court under s 75(v) invested in the federal court by s 476a migration act</catchphrase>
-<catchphrase "id=c8">where applicant seeks constitutional writs</catchphrase>
-<catchphrase "id=c9">whether minister acted ultra vires by misconstruing 'association', failing to take into account relevant considerations, taking irrelevant considerations into account or acting for an improper purpose</catchphrase>
-<catchphrase "id=c10">whether applicant has or has had an 'association' with those involved in criminal conduct</catchphrase>
-<catchphrase "id=c11">meaning of 'association' in s 501(6)(b) migration act</catchphrase>
-<catchphrase "id=c12">where 'association' not met by any association with a person, group or organisation</catchphrase>
-<catchphrase "id=c13">where minister asked the wrong question and applied the wrong test to determine 'association'</catchphrase>
-<catchphrase "id=c14">where minister did not otherwise take irrelevant considerations into account or fail to take account of relevant considerations</catchphrase>
-<catchphrase "id=c15">where no improper purpose established having regard to the scope and purpose of the migration act</catchphrase>
-<catchphrase "id=c16">constitutional writs</catchphrase>
-<catchphrase "id=c17">s 75(v)</catchphrase>
-<catchphrase "id=c18">where minister committed jurisdictional error and decision ultra vires</catchphrase>
-<catchphrase "id=c19">writ of certiorari issued quashing decision</catchphrase>
-<catchphrase "id=c20">prohibition and/or injunction issued</catchphrase>
-<catchphrase "id=c21">declaration made declaring the status of the applicant as a lawful non-citizen</catchphrase>
-<catchphrase "id=c22">migration</catchphrase>
-<catchphrase "id=c23">constitutional law</catchphrase>
-<catchphrase "id=c24">constitutional law</catchphrase>
+<catchphrase >section 501 migration act</catchphrase>
+<catchphrase >power of minister to cancel visa</catchphrase>
+<catchphrase >where migration act grants a discretion to cancel visa if a) minister reasonably suspects visa holder does not pass character test and b) cancellation is in the national interest</catchphrase>
+<catchphrase >where migration act provides character test not passed if visa holder has or has had an association with someone else, or with a group or organisation whom the minister reasonably suspects has been or is involved in criminal conduct</catchphrase>
+<catchphrase >where minister cancelled applicant's visa</catchphrase>
+<catchphrase >where applicant sought review of decision pursuant to s 476a migration act</catchphrase>
+<catchphrase >commonwealth constitution</catchphrase>
+<catchphrase >where jurisdiction of the same kind exercisable by the high court under s 75(v) invested in the federal court by s 476a migration act</catchphrase>
+<catchphrase >where applicant seeks constitutional writs</catchphrase>
+<catchphrase >whether minister acted ultra vires by misconstruing 'association', failing to take into account relevant considerations, taking irrelevant considerations into account or acting for an improper purpose</catchphrase>
+<catchphrase >whether applicant has or has had an 'association' with those involved in criminal conduct</catchphrase>
+<catchphrase >meaning of 'association' in s 501(6)(b) migration act</catchphrase>
+<catchphrase >where 'association' not met by any association with a person, group or organisation</catchphrase>
+<catchphrase >where minister asked the wrong question and applied the wrong test to determine 'association'</catchphrase>
+<catchphrase >where minister did not otherwise take irrelevant considerations into account or fail to take account of relevant considerations</catchphrase>
+<catchphrase >where no improper purpose established having regard to the scope and purpose of the migration act</catchphrase>
+<catchphrase >constitutional writs</catchphrase>
+<catchphrase >s 75(v)</catchphrase>
+<catchphrase >where minister committed jurisdictional error and decision ultra vires</catchphrase>
+<catchphrase >writ of certiorari issued quashing decision</catchphrase>
+<catchphrase >prohibition and/or injunction issued</catchphrase>
+<catchphrase >declaration made declaring the status of the applicant as a lawful non-citizen</catchphrase>
+<catchphrase >migration</catchphrase>
+<catchphrase >constitutional law</catchphrase>
+<catchphrase >constitutional law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -689,11 +689,11 @@
 <sentence id="s223">94 In considering whether a non-citizen has been involved in activities indicating contempt, or disregard, for the law or for human rights, the Direction 21 includes, but is not limited to a consideration of the following matters:
  
  
- &#8226; engaging in business activities which fall short of criminal fraud requiring proof beyond reasonable doubt, but which, on a more likely than not basis, are disreputable and reflect poorly on a non-citizen's moral qualities;
- &#8226; continual evasion or non-payment of debt;
- &#8226; continual disregard as to payments of family maintenance;
- &#8226; involvement in activities such as organised crime, terrorism, drug related activities, political extremism, extortion, "white collar" crime, fraud, breaches of immigration law; or 
- &#8226; involvement in war crimes or crimes against humanity.</sentence>
+ #8226; engaging in business activities which fall short of criminal fraud requiring proof beyond reasonable doubt, but which, on a more likely than not basis, are disreputable and reflect poorly on a non-citizen's moral qualities;
+ #8226; continual evasion or non-payment of debt;
+ #8226; continual disregard as to payments of family maintenance;
+ #8226; involvement in activities such as organised crime, terrorism, drug related activities, political extremism, extortion, "white collar" crime, fraud, breaches of immigration law; or 
+ #8226; involvement in war crimes or crimes against humanity.</sentence>
 <sentence id="s224">
  
  
@@ -758,7 +758,7 @@
  
  
  
- (j) That Dr Haneef advised the AFP that in June/July 2004 and November 2004 he visited Kafeel at Cambridge University and further advised the AFP that in October 2005 Kafeel loaned Dr Haneef &#8356;300 to sit a medical exam; 
+ (j) That Dr Haneef advised the AFP that in June/July 2004 and November 2004 he visited Kafeel at Cambridge University and further advised the AFP that in October 2005 Kafeel loaned Dr Haneef #8356;300 to sit a medical exam; 
  
  
  
@@ -1559,16 +1559,16 @@
 171 The Tribunal said, at [35], that it was submitted on behalf of the Minister that a relevant association existed by virtue of: 
  
  
- &#8226; The Applicant's her ex-husbands marriage continuing from November 1991 until its dissolution in July 2000;
- &#8226; three children resulting from the relationship;
- &#8226; the Applicant and her ex-husband living under the same roof as recently as late 1998 and early 1999.</sentence>
+ #8226; The Applicant's her ex-husbands marriage continuing from November 1991 until its dissolution in July 2000;
+ #8226; three children resulting from the relationship;
+ #8226; the Applicant and her ex-husband living under the same roof as recently as late 1998 and early 1999.</sentence>
 <sentence id="s468">The Tribunal accepts the evidence of the Applicant that there was not a resumption of cohabitation.</sentence>
-<sentence id="s469">&#8226; the application for a subclass 457 visa being joint;
- &#8226; the initial ownership of shares in Golden Win International Pty Ltd;
- &#8226; the joint venture agreement and the investment of monies derived from Mr Wong's business;
- &#8226; the transfer by Mr Wong of his interest in Golden Win International Pty Ltd to the Applicant as part of the divorce settlement and the Applicant using monies so provided;
- &#8226; a continuing financial link between the Applicant and Mr Wong by reason of the divorce settlement;
- &#8226; contact between them by telephone and face to face in Hong Kong in association with Mr Wong spending time with the children.</sentence>
+<sentence id="s469">#8226; the application for a subclass 457 visa being joint;
+ #8226; the initial ownership of shares in Golden Win International Pty Ltd;
+ #8226; the joint venture agreement and the investment of monies derived from Mr Wong's business;
+ #8226; the transfer by Mr Wong of his interest in Golden Win International Pty Ltd to the Applicant as part of the divorce settlement and the Applicant using monies so provided;
+ #8226; a continuing financial link between the Applicant and Mr Wong by reason of the divorce settlement;
+ #8226; contact between them by telephone and face to face in Hong Kong in association with Mr Wong spending time with the children.</sentence>
 <sentence id="s470">
  
  
@@ -2180,7 +2180,7 @@
 <sentence id="s821">"
  
 318 In Minister for Aboriginal and Torres Strait Islander Affairs v State of Western Australia , the Full Court of the Federal Court (Black CJ, Burchett and Kiefel JJ) at 62 (citing the Lebanese Moslem Association ) concluded that the Minister's failure to call evidence allowed the Court to more confidently draw an inference favourable to the other party.</sentence>
-<sentence id="s822">See also Citibank Ltd v Federal Commissioner of Taxation &amp; Others (1988) 83 ALR 144 at 159, where Lockhart J notes that if the inference is capable of applying to Ministers and senior corporate executives, then it is capable of applying to senior public servants (citing to Lebanese Moslem Association, Cross on Evidence, and Electronics Industries Ltd v Mayor of City of Oakleigh [1973] VR 177 at 189).</sentence>
+<sentence id="s822">See also Citibank Ltd v Federal Commissioner of Taxation amp; Others (1988) 83 ALR 144 at 159, where Lockhart J notes that if the inference is capable of applying to Ministers and senior corporate executives, then it is capable of applying to senior public servants (citing to Lebanese Moslem Association, Cross on Evidence, and Electronics Industries Ltd v Mayor of City of Oakleigh [1973] VR 177 at 189).</sentence>
 <sentence id="s823">319 In Minister for Immigration and Multicultural Affairs v Jia , Kirby J and Callinan J, in separate opinions, observed that the rule in Jones v Dunkel may not apply in the same way to Ministers as it does to others.</sentence>
 <sentence id="s824">320 Kirby J said at [143]:
  
@@ -2239,7 +2239,7 @@ Dated: 21 August 2007
 
  Counsel for the Applicant: S Keim SC, with D Rangiah, and N Kidson 
  
- Solicitor for the Applicant: Ryan &amp; Bosscher Lawyers 
+ Solicitor for the Applicant: Ryan amp; Bosscher Lawyers 
  
  Counsel for the Respondent: The Solicitor-General, D Bennett QC with R Derrington SC, P Bickford and E Ford 
  
@@ -2257,4 +2257,13 @@ Dated: 21 August 2007
  
  </sentence>
 </sentences>
+</case>entences>
+</case>
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/1273.html 
+ 
+ </sentence>
+</sentences>
+</case>entences>
 </case>

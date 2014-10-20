@@ -3,19 +3,19 @@
 <name>Elliott v Minister for Immigration and Multicultural and Indigenous Affairs (with Corrigendum dated 22 March 2006) [2006] FCA 67 (9 February 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/67.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">remaining relative visa</catchphrase>
-<catchphrase "id=c1">tribunal affirmed delegate's decision to refuse</catchphrase>
-<catchphrase "id=c2">application for review</catchphrase>
-<catchphrase "id=c3">tribunal accepted effect of full court decision was to negate previous ground of review</catchphrase>
-<catchphrase "id=c4">tribunal found applicant had not satisfied it he had not had contact with his overseas near relatives within a reasonable period</catchphrase>
-<catchphrase "id=c5">no failure to ask right question</catchphrase>
-<catchphrase "id=c6">no misapplication of the requirement of 'contact'</catchphrase>
-<catchphrase "id=c7">no misapplication of onus of proof</catchphrase>
-<catchphrase "id=c8">no wrong choice of three years as a reasonable period</catchphrase>
-<catchphrase "id=c9">no failure to consider merits</catchphrase>
-<catchphrase "id=c10">no application of policy to preclusion of regulatory provision</catchphrase>
-<catchphrase "id=c11">no misconstruction of policy</catchphrase>
-<catchphrase "id=c12">migration</catchphrase>
+<catchphrase >remaining relative visa</catchphrase>
+<catchphrase >tribunal affirmed delegate's decision to refuse</catchphrase>
+<catchphrase >application for review</catchphrase>
+<catchphrase >tribunal accepted effect of full court decision was to negate previous ground of review</catchphrase>
+<catchphrase >tribunal found applicant had not satisfied it he had not had contact with his overseas near relatives within a reasonable period</catchphrase>
+<catchphrase >no failure to ask right question</catchphrase>
+<catchphrase >no misapplication of the requirement of 'contact'</catchphrase>
+<catchphrase >no misapplication of onus of proof</catchphrase>
+<catchphrase >no wrong choice of three years as a reasonable period</catchphrase>
+<catchphrase >no failure to consider merits</catchphrase>
+<catchphrase >no application of policy to preclusion of regulatory provision</catchphrase>
+<catchphrase >no misconstruction of policy</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -160,9 +160,9 @@
 <sentence id="s50">Non-social, unavoidable contact, for example: 
  
  
- &#8226; for legal reasons such as the settling of a will, disposing of property or signing documents or 
- &#8226; making contact with a relative at [the Department's] request 
- &#8226; should not be regarded as 'contact' for the purposes of this regulation.</sentence>
+ #8226; for legal reasons such as the settling of a will, disposing of property or signing documents or 
+ #8226; making contact with a relative at [the Department's] request 
+ #8226; should not be regarded as 'contact' for the purposes of this regulation.</sentence>
 <sentence id="s51">
  
  
@@ -186,17 +186,17 @@
  It is policy that, in the absence of evidence to the contrary, contact, if made: 
  
  
- &#8226; has been in the context of a social relationship and 
- &#8226; has been throughout the period in question.</sentence>
+ #8226; has been in the context of a social relationship and 
+ #8226; has been throughout the period in question.</sentence>
 <sentence id="s53">
  
  
  In other words, it is for the applicant to demonstrate (or otherwise satisfy the decision-maker) that: 
  
  
- &#8226; there has been no contact or 
- &#8226; if there has been contact, it has not been in the context of a "social relationship" 
- &#8226; if there has been contact (whether or not in the context of a social relationship), it has been single instances rather than throughout the period in question.</sentence>
+ #8226; there has been no contact or 
+ #8226; if there has been contact, it has not been in the context of a "social relationship" 
+ #8226; if there has been contact (whether or not in the context of a social relationship), it has been single instances rather than throughout the period in question.</sentence>
 <sentence id="s54">
  
  
@@ -213,10 +213,10 @@
  The following may be useful as a basis for an interview and assessing the genuineness of the applicant's claims: 
  
  
- &#8226; the reasons for there being no contact 
- &#8226; whether the lack of contact is due to a passive attitude towards family relationships 
- &#8226; whether the Australian relative has had contact with the relevant ONR [overseas near relative] with whom the applicant is claiming not to have had contact 
- &#8226; the applicant's attitude towards the ONR [overseas near relative] in circumstances of family crisis or family celebration.</sentence>
+ #8226; the reasons for there being no contact 
+ #8226; whether the lack of contact is due to a passive attitude towards family relationships 
+ #8226; whether the Australian relative has had contact with the relevant ONR [overseas near relative] with whom the applicant is claiming not to have had contact 
+ #8226; the applicant's attitude towards the ONR [overseas near relative] in circumstances of family crisis or family celebration.</sentence>
 <sentence id="s56">' 
 
 23 The Tribunal then continued:
@@ -523,7 +523,7 @@ Dated: 9 February 2006
 
  Counsel for the Applicant: SA Walker 
  
- Solicitor for the Applicant: Friedman Lurie Singh &amp; D'Angelo 
+ Solicitor for the Applicant: Friedman Lurie Singh amp; D'Angelo 
  
  Counsel for the Respondents: PR Macliver 
  
@@ -545,4 +545,10 @@ Dated: 9 February 2006
  
  </sentence>
 </sentences>
+</case>nces>
+</case>austlii.edu.au/au/cases/cth/FCA/2006/67.html 
+ 
+ </sentence>
+</sentences>
+</case>nces>
 </case>

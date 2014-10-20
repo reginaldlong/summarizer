@@ -3,15 +3,15 @@
 <name>Deputy Commissioner of Taxation v De Simone Consulting Pty Ltd [2007] FCA 548 (20 March 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/548.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">winding up</catchphrase>
-<catchphrase "id=c1">insolvency</catchphrase>
-<catchphrase "id=c2">statutory demand not complied with</catchphrase>
-<catchphrase "id=c3">rebuttable presumption of insolvency</catchphrase>
-<catchphrase "id=c4">proof of solvency</catchphrase>
-<catchphrase "id=c5">whether audited accounts necessary</catchphrase>
-<catchphrase "id=c6">application withdrawn</catchphrase>
-<catchphrase "id=c7">costs of the application</catchphrase>
-<catchphrase "id=c8">corporations</catchphrase>
+<catchphrase >winding up</catchphrase>
+<catchphrase >insolvency</catchphrase>
+<catchphrase >statutory demand not complied with</catchphrase>
+<catchphrase >rebuttable presumption of insolvency</catchphrase>
+<catchphrase >proof of solvency</catchphrase>
+<catchphrase >whether audited accounts necessary</catchphrase>
+<catchphrase >application withdrawn</catchphrase>
+<catchphrase >costs of the application</catchphrase>
+<catchphrase >corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -51,18 +51,18 @@
 <sentence id="s32">8 I now turn to the basis upon which the Deputy Commissioner says he is entitled to his costs.</sentence>
 <sentence id="s33">The argument is that Mr De Simone's affidavit did not prove the solvency of the company and a winding up order would have been made had the Deputy Commissioner decided not to withdraw his application.</sentence>
 <sentence id="s34">In this connection I was told of a practice that has developed by which a company wishing to prove its solvency must produce audited accounts that evidence solvency.</sentence>
-<sentence id="s35">The practice is said to flow from the cases referred to by Weinberg J in Ace Contractors &amp; Staff Pty Ltd v Westgarth Development Pty Ltd [1999] FCA 728 , a decision that has been cited with approval in Expile Pty Ltd v Jabb's Excavations Pty Ltd (2003) 45 ACSR 711, a decision of the Court of Appeal of New South Wales.</sentence>
+<sentence id="s35">The practice is said to flow from the cases referred to by Weinberg J in Ace Contractors amp; Staff Pty Ltd v Westgarth Development Pty Ltd [1999] FCA 728 , a decision that has been cited with approval in Expile Pty Ltd v Jabb's Excavations Pty Ltd (2003) 45 ACSR 711, a decision of the Court of Appeal of New South Wales.</sentence>
 <sentence id="s36">9 To put what I am about to say into its proper context I will set out the first three propositions that appear in the relevant part of Weinberg J's reasons.</sentence>
 <sentence id="s37">He said (at para 44):
  
  "The authorities which govern the operation of s 459G of the Corporations Law seem to me to establish the following propositions: 
 
-&#8226; The respondent is presumed to be insolvent and as such bears the onus of proving its solvency: s 459C(2) and (3); 
+#8226; The respondent is presumed to be insolvent and as such bears the onus of proving its solvency: s 459C(2) and (3); 
  
-&#8226; In order to discharge that onus the Court should ordinarily be presented with the "fullest and best" evidence of the financial position of the respondent.</sentence>
+#8226; In order to discharge that onus the Court should ordinarily be presented with the "fullest and best" evidence of the financial position of the respondent.</sentence>
 <sentence id="s38">
  
-&#8226; Unaudited accounts and unverified claims of ownership or valuation are not ordinarily probative of solvency.</sentence>
+#8226; Unaudited accounts and unverified claims of ownership or valuation are not ordinarily probative of solvency.</sentence>
 <sentence id="s39">Nor are bald assertions of solvency arising from a general review of the accounts, even if made by qualified accountants who have detailed knowledge of how those accounts were prepared.</sentence>
 <sentence id="s40">" 
  
@@ -146,4 +146,8 @@ Dated: 17 April 2007
  
  </sentence>
 </sentences>
-</case>
+</case>ase>/cth/FCA/2007/548.html 
+ 
+ </sentence>
+</sentences>
+</case>ase>

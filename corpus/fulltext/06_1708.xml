@@ -3,15 +3,15 @@
 <name>Rogers v Asset Loan Co Pty Ltd [2006] FCA 1708 (7 December 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1708.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for summary judgment</catchphrase>
-<catchphrase "id=c1">application for dismissal or permanent stay</catchphrase>
-<catchphrase "id=c2">whether applicant has standing to pursue claims</catchphrase>
-<catchphrase "id=c3">whether claims are actionable in the federal court</catchphrase>
-<catchphrase "id=c4">undischarged bankrupt</catchphrase>
-<catchphrase "id=c5">whether pleadings disclose cause of action which remains with bankrupt pursuant to s 116(2)(g) bankruptcy act 1966 (cth)</catchphrase>
-<catchphrase "id=c6">meaning of 'personal injury or wrong' within s 116(2)(g) bankruptcy act</catchphrase>
-<catchphrase "id=c7">practice and procedure</catchphrase>
-<catchphrase "id=c8">bankruptcy</catchphrase>
+<catchphrase >application for summary judgment</catchphrase>
+<catchphrase >application for dismissal or permanent stay</catchphrase>
+<catchphrase >whether applicant has standing to pursue claims</catchphrase>
+<catchphrase >whether claims are actionable in the federal court</catchphrase>
+<catchphrase >undischarged bankrupt</catchphrase>
+<catchphrase >whether pleadings disclose cause of action which remains with bankrupt pursuant to s 116(2)(g) bankruptcy act 1966 (cth)</catchphrase>
+<catchphrase >meaning of 'personal injury or wrong' within s 116(2)(g) bankruptcy act</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
+<catchphrase >bankruptcy</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -30,7 +30,7 @@
 <sentence id="s9">Similarly, although Mr Rogers is the respondent to this notice of motion, I shall continue to refer to him as 'the applicant'.</sentence>
 <sentence id="s10">APPLICATION BEFORE GREENWOOD J 
  
-4 The factual background to this matter is set out at some length in the judgment of Greenwood J in Rogers v Asset Loan Co Pty Ltd &amp; Ors [2006] FCA 434 at [8] ---[27].</sentence>
+4 The factual background to this matter is set out at some length in the judgment of Greenwood J in Rogers v Asset Loan Co Pty Ltd amp; Ors [2006] FCA 434 at [8] ---[27].</sentence>
 <sentence id="s11">The applicant and the respondents before his Honour were the same parties as are currently before me.</sentence>
 <sentence id="s12">Before his Honour, the applicant sought various orders, including interlocutory relief restraining the respondents from exercising a power of sale, and in respect of a number of loan agreements, deeds of settlement, mortgages and other instruments relating to various properties.</sentence>
 <sentence id="s13">5 At that hearing the respondents submitted, and Greenwood J found, that the majority of Mr Rogers' claims for final relief involved claims related to the legal or beneficial interest of the applicant in property which vested in the trustee in bankruptcy, and accordingly in respect of which the applicant had no standing to institute legal proceedings ([2006] FCA 434 at [35]).</sentence>
@@ -88,13 +88,13 @@
 <sentence id="s38">16 The statement of claim contains paragraphs numbered 1 to 706 --- although there are a number of paragraphs with letters appended (for example, pars 40a, 43a and indeed there is a par 701n).</sentence>
 <sentence id="s39">A significant proportion of the document is represented by:
  
-&#8226; submissions (for example pars 702-706)
+#8226; submissions (for example pars 702-706)
  
-&#8226; allegations, some of which are irrelevant in the context of this litigation (for example an allegation that the solicitor advising the respondents 'practised law... while not licensed as a practitioner in Queensland' in par 706, and allegations of crimes committed by the respondents)
+#8226; allegations, some of which are irrelevant in the context of this litigation (for example an allegation that the solicitor advising the respondents 'practised law... while not licensed as a practitioner in Queensland' in par 706, and allegations of crimes committed by the respondents)
  
-&#8226; historical details as claimed by the respondent (in particular the first 213 paragraphs of the statement of claim), and
+#8226; historical details as claimed by the respondent (in particular the first 213 paragraphs of the statement of claim), and
  
-&#8226; some data which is irrelevant (for example pars 21, 32 and 42 which specify the ages of a number of the respondents and par 466 which describes in derogatory terms the manner in which the solicitor for the respondents was dressed in Court).</sentence>
+#8226; some data which is irrelevant (for example pars 21, 32 and 42 which specify the ages of a number of the respondents and par 466 which describes in derogatory terms the manner in which the solicitor for the respondents was dressed in Court).</sentence>
 <sentence id="s40">17 To the extent that I can ascertain, the primary prayer for relief is in par 705, where the applicant claims the sum of $45 million.</sentence>
 <sentence id="s41">THE CASE OF THE RESPONDENTS 
  
@@ -128,9 +128,9 @@ d. there is significant doubt that s 60 Trade Practices Act could give rise to p
 <sentence id="s56">A number of related sub-issues arise here:
  
  
- &#8226; whether he has pleaded an injury or wrong which is personal to him as distinct from an injury or wrong which is properly to be pursued by the trustee in bankruptcy
- &#8226; whether he has pleaded personal injury or wrong attributable to the conduct of the respondents --- in other words whether he has drawn a nexus between the conduct of the respondents and the personal injury or wrong he claims to have suffered
- &#8226; the nature of the personal injury or wrong he has suffered and which founds his cause of action --- in other words whether he has articulated the nature of the personal injury or wrong he claims to have suffered.</sentence>
+ #8226; whether he has pleaded an injury or wrong which is personal to him as distinct from an injury or wrong which is properly to be pursued by the trustee in bankruptcy
+ #8226; whether he has pleaded personal injury or wrong attributable to the conduct of the respondents --- in other words whether he has drawn a nexus between the conduct of the respondents and the personal injury or wrong he claims to have suffered
+ #8226; the nature of the personal injury or wrong he has suffered and which founds his cause of action --- in other words whether he has articulated the nature of the personal injury or wrong he claims to have suffered.</sentence>
 <sentence id="s57">
  
 
@@ -144,19 +144,19 @@ d. there is significant doubt that s 60 Trade Practices Act could give rise to p
 24 As Greenwood J noted in his judgment ([2006] FCA 434 at [4]) with respect to the claims of the applicant against the respondents, the most immediate difficulty confronting the applicant is the question of whether he has standing in connection with this litigation, on the basis that a sequestration order in respect of the applicant's estate was made on 23 February 2005.</sentence>
 <sentence id="s63">His Honour explained:
  
-&#8226; the effect of s 58 Bankruptcy Act , which vests the property of the bankrupt in the registered trustee (at [36])
+#8226; the effect of s 58 Bankruptcy Act , which vests the property of the bankrupt in the registered trustee (at [36])
  
-&#8226; the meaning of 'property of the bankrupt' for the purposes of s 58 , which is defined as 'the property divisible among the bankrupt's creditors; and any rights and powers in relation to that property that would have been exercisable by the bankrupt if he or she had not become a bankrupt' (at [36])
+#8226; the meaning of 'property of the bankrupt' for the purposes of s 58 , which is defined as 'the property divisible among the bankrupt's creditors; and any rights and powers in relation to that property that would have been exercisable by the bankrupt if he or she had not become a bankrupt' (at [36])
  
-&#8226; the fact that property divisible amongst the creditors for the purposes in s 116 includes 'the capacity to exercise, and to take proceedings for exercising all such powers in, over or in respect of property as might have been exercised by the bankrupt for his own benefit at the commencement of the bankruptcy or at any time after the commencement of the bankruptcy and before his discharge' (at [37])
+#8226; the fact that property divisible amongst the creditors for the purposes in s 116 includes 'the capacity to exercise, and to take proceedings for exercising all such powers in, over or in respect of property as might have been exercised by the bankrupt for his own benefit at the commencement of the bankruptcy or at any time after the commencement of the bankruptcy and before his discharge' (at [37])
  
-&#8226; that only the trustee in bankruptcy is entitled to seek remedial orders in respect of property, contractual rights, security interests, and related entitlements (at [43])
+#8226; that only the trustee in bankruptcy is entitled to seek remedial orders in respect of property, contractual rights, security interests, and related entitlements (at [43])
  
-&#8226; that the exemption in s 116(2)(g) with respect to wrongs done to the bankrupt is limited to those cases where the essential cause of action is the personal injury done to the person or feelings of the bankrupt, as distinct from where the damages or part of them are to be estimated by reference to the bankrupt's rights of property (at [45]-[47]; cf Daemar v Industrial Commission of New South Wales (1988) 79 ALR 591 at 601, Cox v Journeaux (No 2) [1935] HCA 48 ; (1935) 52 CLR 713 at 721, Faulkner v Bluett (1981) 52 FLR 115 at 119)
+#8226; that the exemption in s 116(2)(g) with respect to wrongs done to the bankrupt is limited to those cases where the essential cause of action is the personal injury done to the person or feelings of the bankrupt, as distinct from where the damages or part of them are to be estimated by reference to the bankrupt's rights of property (at [45]-[47]; cf Daemar v Industrial Commission of New South Wales (1988) 79 ALR 591 at 601, Cox v Journeaux (No 2) [1935] HCA 48 ; (1935) 52 CLR 713 at 721, Faulkner v Bluett (1981) 52 FLR 115 at 119)
  
-&#8226; that a claim with respect to a wrong done to the applicant characterised by reference to the anxiety, stress and pain felt by the bankrupt in respect of a recognised cause of action remains with the applicant under s 116(2)(g) Bankruptcy Act (at [46]) and
+#8226; that a claim with respect to a wrong done to the applicant characterised by reference to the anxiety, stress and pain felt by the bankrupt in respect of a recognised cause of action remains with the applicant under s 116(2)(g) Bankruptcy Act (at [46]) and
  
-&#8226; that in the case before his Honour the claims were not claims for damages founded upon immediate reference to the distress and anxiety caused to the bankrupt without reference to his rights of property (at [49]); further the applicant's claim for final relief was a consequential claim necessarily connected with the applicant's interests in property (at [50]).</sentence>
+#8226; that in the case before his Honour the claims were not claims for damages founded upon immediate reference to the distress and anxiety caused to the bankrupt without reference to his rights of property (at [49]); further the applicant's claim for final relief was a consequential claim necessarily connected with the applicant's interests in property (at [50]).</sentence>
 <sentence id="s64">25 It is unnecessary for me to add to the comments of Greenwood J with respect to the consequences of the bankruptcy of the applicant and its impact on his standing in the case before me.</sentence>
 <sentence id="s65">Clearly, for the applicant --- as distinct from his trustee in bankruptcy --- to have standing to maintain a cause of action it is necessary that he not only plead that a personal injury or wrong has been done to him, but that the essential cause of action is that personal injury or wrong has been done to him.</sentence>
 <sentence id="s66">TRADE PRACTICES ACT 
@@ -205,7 +205,7 @@ d. there is significant doubt that s 60 Trade Practices Act could give rise to p
  
  '...the section is not intended to impose, by a side-wind, an overlay of Commonwealth law upon every field of legislative control into which a corporation might stray for the purposes of, or in connection with, carrying on its trading or commercial activities.</sentence>
 <sentence id="s80">What the section is concerned with is the conduct of a corporation towards persons, be they consumers or not, with whom it (or those whose interests it represents or is seeking to promote) has or may have dealings in the course of those activities or transactions which, of their nature, bear a trading or commercial character.</sentence>
-<sentence id="s81">' (Mason CJ, Deane, Dawson &amp; Gaudron JJ at 604) 
+<sentence id="s81">' (Mason CJ, Deane, Dawson amp; Gaudron JJ at 604) 
 
 31 Sections 51AA and 52 Trade Practices Act apply to interactions between corporations and other parties in the commercial context, involving commercial transactions.</sentence>
 <sentence id="s82">To the extent that these legislative provisions are relevant in this context (and there are possible issues with respect to their relevance in respect of conduct in relation to financial services, which I need not discuss for the purposes of this judgment), it is difficult to comprehend a case where these sections would be relevant and where, in the event of the bankruptcy of a person complaining about breach of either section, the trustee in bankruptcy of the complainant would not be the appropriate party to institute litigation.</sentence>
@@ -213,11 +213,11 @@ d. there is significant doubt that s 60 Trade Practices Act could give rise to p
 <sentence id="s84">In the event that the consumer becomes bankrupt, it follows that any legal action arising from the contractual relationship between the consumer and the corporation vests in the trustee in bankruptcy.</sentence>
 <sentence id="s85">Although there is little case law interpreting this section:
  
-&#8226; The word 'undue', which qualifies 'harassment', suggests that what is done must, having regard to the circumstances, extend beyond that which is acceptable or reasonable ( ACCC v Maritime Union of Australia [2001] FCA 1549 ; [2001] 114 FCR 472 per Hill J at 486).</sentence>
-<sentence id="s86">&#8226; 'Harassment' in this context means persistent disturbance or torment ( ACCC v Maritime Union of Australia at 485).</sentence>
+#8226; The word 'undue', which qualifies 'harassment', suggests that what is done must, having regard to the circumstances, extend beyond that which is acceptable or reasonable ( ACCC v Maritime Union of Australia [2001] FCA 1549 ; [2001] 114 FCR 472 per Hill J at 486).</sentence>
+<sentence id="s86">#8226; 'Harassment' in this context means persistent disturbance or torment ( ACCC v Maritime Union of Australia at 485).</sentence>
 <sentence id="s87">'Undue harassment' therefore means that conduct which amounts to harassment will only amount to a contravention of the section where what is done goes beyond the normal limits which, in the circumstances, society would regard as acceptable or reasonable and not excessive or disproportionate ( ACCC v Maritime Union of Australia at 485).</sentence>
 <sentence id="s88">Accordingly, it follows that the section contemplates that some harassment of a consumer by a corporation in connection with the supply or possible supply of goods or services or in respect of payment for goods or services by a consumer can be tolerated and is not unlawful.</sentence>
-<sentence id="s89">&#8226; 'Coercion' carries with it the connotation of force or compulsion or threats of force or compulsion negating choice or freedom to act ( Hodges v Webb [1920] 2 Ch 70 at 85-87 per Peterson J, ACCC v Maritime Union of Australia at 485-486).</sentence>
+<sentence id="s89">#8226; 'Coercion' carries with it the connotation of force or compulsion or threats of force or compulsion negating choice or freedom to act ( Hodges v Webb [1920] 2 Ch 70 at 85-87 per Peterson J, ACCC v Maritime Union of Australia at 485-486).</sentence>
 <sentence id="s90">33 An essential ingredient of the cause of action founded upon s 60 is that the undue harassment or coercion occurs 'in connection with the supply or possible supply of goods or services to a consumer or the payment for goods or services by a consumer'.</sentence>
 <sentence id="s91">Accordingly, to the extent that any cause of action arose from the use of physical force or intimidation where the requisite connection is not established, it may be that the appropriate cause of action would be in tort, which does not rely on the contractual relationship inherent in the application of s 60.</sentence>
 <sentence id="s92">34 However, despite submissions concerning whether s 60 can give rise to a claim for personal injury or wrong, I note that the respondents have accepted that there can be damages for personal injury under the Trade Practices Act .</sentence>
@@ -249,7 +249,7 @@ a.</sentence>
 <sentence id="s109">' 
  
 
-(note similar comments by Dillon LJ in Lonrho plc v Fayed (No 5) [1994] 1 All ER 188 at 194, Branson J in Kirela Pty Ltd v Westfield Holdings Ltd [2002] FCA 1223 at [15] , Ryan J in PFD Food Services Pty Ltd v NAFDA Pty Ltd [2003] FCA 682 at [18] - [19] , and Smart AJ in Markisic v Dept of Community Services of New South Wales &amp; Ors [2005] NSWSC 1373 at [115] )
+(note similar comments by Dillon LJ in Lonrho plc v Fayed (No 5) [1994] 1 All ER 188 at 194, Branson J in Kirela Pty Ltd v Westfield Holdings Ltd [2002] FCA 1223 at [15] , Ryan J in PFD Food Services Pty Ltd v NAFDA Pty Ltd [2003] FCA 682 at [18] - [19] , and Smart AJ in Markisic v Dept of Community Services of New South Wales amp; Ors [2005] NSWSC 1373 at [115] )
  
 b.</sentence>
 <sentence id="s110">The respondents are entitled to know the case they are to meet ( Gould and Birbeck and Bacon v Mount Oxide Mines Ltd (in liq) [1916] HCA 81 ; (1916) 22 CLR 490 at 517; Bare v Pulham [1982] 148 CLR 568; Banque Commerciale SA (en liquidation) v Akhil Holdings Ltd [1990] HCA 11 ; (1990) 169 CLR 279 at 286, Barclays Bank v Boulter [1999] UKHL 39 ; [1999] 1 WLR 1919 at 1923; and note O 12 r 1(1) Federal Court Rules ) and the pleadings must be sufficiently clear, so that the case against the respondents is clear.</sentence>
@@ -361,7 +361,7 @@ a.</sentence>
 59 Similarly to Count 2, although the applicant claims that he suffered 'personal injury' in respect of this conduct of the respondents, the substance of this complaint is that he suffered financial injury in respect of transactions involving the Mal Campbell Drive property.</sentence>
 <sentence id="s186">Claims with respect to financial damage have clearly vested in the applicant's trustee in bankruptcy.</sentence>
 <sentence id="s187">60 In any event, although the applicant complains of conduct of the respondents in relation to the property, the only wrongs of which he complains in substance are the burglary of his house and theft of documents in par 379 (which amounted, inter alia , to harassment, intimidation and coercion), and defamation in par 382.</sentence>
-<sentence id="s188">61 A claim in respect of defamation of the injured party so far as it concerns his credit, character and reputation remains with the injured party as it relates to a personal injury: ex parte Vine in re Wilson (1878) 8 Ch D 364, Wilson v United Counties Bank Ltd [1920] AC 102 at 111 and 128, Holmes v Goodyear Tyre &amp; Rubber Co (Aust) Ltd (1984) 55 ALR 594.</sentence>
+<sentence id="s188">61 A claim in respect of defamation of the injured party so far as it concerns his credit, character and reputation remains with the injured party as it relates to a personal injury: ex parte Vine in re Wilson (1878) 8 Ch D 364, Wilson v United Counties Bank Ltd [1920] AC 102 at 111 and 128, Holmes v Goodyear Tyre amp; Rubber Co (Aust) Ltd (1984) 55 ALR 594.</sentence>
 <sentence id="s189">If this did give rise to a cause of action (and I make no comment as to this), in the absence of a Trade Practices Act claim or any other matter which enlivens the Court's jurisdiction, the only place it could be pursued would be in the State courts.</sentence>
 <sentence id="s190">62 In relation to the balance of this complaint however:
  
@@ -388,7 +388,7 @@ f. In relation to the failure of the applicant to particularise his personal inj
 68 Similarly to Count 2, although the applicant claims that he suffered 'personal injury' in respect of this conduct of the respondents, the substance of this complaint is that he suffered financial injury in respect of transactions involving the Toogoom land.</sentence>
 <sentence id="s205">Claims with respect to financial damage have clearly vested in the applicant's trustee in bankruptcy.</sentence>
 <sentence id="s206">69 The applicant also complains about the failure of the respondents to make payments to him pursuant to a Deed (pars 407-412).</sentence>
-<sentence id="s207">Refusal to advance funds in circumstances where a party is obliged to do so clearly falls into the realms of breach of contract: Rivkin &amp; Co Ltd v Young (1996) 22 ACSR 589; Vision Telecommunications Pty Ltd &amp; Ors v Australia and New Zealand Banking Group Ltd [2001] WASC 139 at [73] .</sentence>
+<sentence id="s207">Refusal to advance funds in circumstances where a party is obliged to do so clearly falls into the realms of breach of contract: Rivkin amp; Co Ltd v Young (1996) 22 ACSR 589; Vision Telecommunications Pty Ltd amp; Ors v Australia and New Zealand Banking Group Ltd [2001] WASC 139 at [73] .</sentence>
 <sentence id="s208">There is no evidence before this Court supporting an allegation of breach of contract by the respondents.</sentence>
 <sentence id="s209">To the extent that there was such evidence, the claim would vest in the applicant's trustee in bankruptcy.</sentence>
 <sentence id="s210">70 Otherwise, in relation to this complaint I repeat my comments in pars (a) to (f) above under the discussion concerning Count 8.</sentence>
@@ -502,7 +502,7 @@ c. despite claiming personal injury, the applicant does not particularise the na
 <sentence id="s275">Count 21 paragraphs 612-622: in contravention of sections 51AA , 52 and 60 Trade Practices Act the respondents intimidated a witness, gave her false information, and caused the witness to feel hatred and fear towards the applicant, which caused the applicant to suffer personal injury 
  
 107 At best, the only cause of action I can identify from this Count is a possible defamation action by the applicant against the respondents (pars 619-622).</sentence>
-<sentence id="s276">As I explained earlier in this judgment in relation to Count 8, a claim in respect of defamation remains with the injured party as it relates to a personal injury: ex parte Vine in re Wilson; Wilson v United Counties Bank Ltd ; Holmes v Goodyear Tyre &amp; Rubber Co (Aust) Ltd .</sentence>
+<sentence id="s276">As I explained earlier in this judgment in relation to Count 8, a claim in respect of defamation remains with the injured party as it relates to a personal injury: ex parte Vine in re Wilson; Wilson v United Counties Bank Ltd ; Holmes v Goodyear Tyre amp; Rubber Co (Aust) Ltd .</sentence>
 <sentence id="s277">If this did give rise to a cause of action (and I make no comment as to this), in the absence of a Trade Practices Act claim or any other matter which enlivens the Court's jurisdiction, the only place it could be pursued would be in the State courts.</sentence>
 <sentence id="s278">Count 22 paragraphs 623-640: in contravention of sections 51AA , 52 and 60 Trade Practices Act , the third and fourth respondents gave false evidence to the Federal Court of Australia, which dishonest conduct caused the applicant to suffer personal injury 
  
@@ -519,7 +519,7 @@ c. despite claiming personal injury, the applicant does not particularise the na
 <sentence id="s284">111 To the extent that any respondent has committed perjury, no private right of action exists in the applicant.</sentence>
 <sentence id="s285">Count 23 paragraphs 641-646: in contravention of sections 51AA, 52 and 60 Trade Practices Act , the respondents defamed and harassed the applicant including by publishing a website which humiliated and defamed the applicant, and therefore caused him to suffer personal injury 
  
-112 As I explained earlier in this judgment in relation to Count 8, a claim in respect of defamation remains with the injured party as it relates to a personal injury: ex parte Vine in re Wilson; Wilson v United Counties Bank Ltd ; Holmes v Goodyear Tyre &amp; Rubber Co (Aust) Ltd .</sentence>
+112 As I explained earlier in this judgment in relation to Count 8, a claim in respect of defamation remains with the injured party as it relates to a personal injury: ex parte Vine in re Wilson; Wilson v United Counties Bank Ltd ; Holmes v Goodyear Tyre amp; Rubber Co (Aust) Ltd .</sentence>
 <sentence id="s286">If this did give rise to a cause of action (and I make no comment as to this), in the absence of a Trade Practices Act claim or any other matter which enlivens the Court's jurisdiction, the only place it could be pursued would be in the State courts.</sentence>
 <sentence id="s287">Count 24 paragraphs 647-654: in contravention of sections 51AA , 52 and 60 Trade Practices Act , the respondents breached an undertaking to the Federal Court given in relation to QUD224/2004 to the effect that they would not engage in conduct that was harassment, intimidation, stalking and coercion of the applicant, thus causing personal injury to the applicant 
  
@@ -583,11 +583,11 @@ c. despite claiming personal injury, the applicant does not particularise the na
 <sentence id="s324">The applicant submitted that the Court should have regard to the provisions of s 87(1D) Trade Practices Act when determining the issues, and identified particular conduct of the respondents.</sentence>
 <sentence id="s325">The applicant also submitted in par 706 that:
  
-&#8226; he has lost his businesses and now cannot hold a building licence for five years through no fault of his own
+#8226; he has lost his businesses and now cannot hold a building licence for five years through no fault of his own
  
-&#8226; the applicant cannot be a director of a company due to fraud, intimidation and misuse of the bankruptcy jurisdiction by the respondents
+#8226; the applicant cannot be a director of a company due to fraud, intimidation and misuse of the bankruptcy jurisdiction by the respondents
  
-&#8226; the applicant has been prevented from earning a living and suffered personal injury, as he cannot be a company director.</sentence>
+#8226; the applicant has been prevented from earning a living and suffered personal injury, as he cannot be a company director.</sentence>
 <sentence id="s326">130 No cause of action arises from this 'special pleading'.</sentence>
 <sentence id="s327">SUMMARY 
  
@@ -602,17 +602,17 @@ c. despite claiming personal injury, the applicant does not particularise the na
 134 In my view, the case before me exhibits none of these attributes.</sentence>
 <sentence id="s332">To the extent that the statement of claim pleads causes of action at all:
  
-&#8226; the applicant lacks standing in almost all Counts on account of his bankruptcy
+#8226; the applicant lacks standing in almost all Counts on account of his bankruptcy
  
-&#8226; even if the applicant did have standing under s 116(2)(g) Bankruptcy Act because he had rights to recover damages or compensation in respect of personal injuries or wrongs, throughout the statement of claim he has consistently failed to particularise the personal injury or wrong done to him and failed to draw a nexus between the conduct of the respondents and any personal injury or wrong done to him
+#8226; even if the applicant did have standing under s 116(2)(g) Bankruptcy Act because he had rights to recover damages or compensation in respect of personal injuries or wrongs, throughout the statement of claim he has consistently failed to particularise the personal injury or wrong done to him and failed to draw a nexus between the conduct of the respondents and any personal injury or wrong done to him
  
-&#8226; such causes of action as the applicant retains personally --- including potentially damages for defamation and trespass --- are, in my view, pursuable only in the State Courts, not the Federal Court.</sentence>
+#8226; such causes of action as the applicant retains personally --- including potentially damages for defamation and trespass --- are, in my view, pursuable only in the State Courts, not the Federal Court.</sentence>
 <sentence id="s333">SHOULD THE APPLICANT BE GIVEN ANOTHER OPPORTUNITY TO REPLEAD?</sentence>
 <sentence id="s334">
  
 135 As I noted earlier in this judgment, the function of pleadings is to state with sufficient clarity the case that must be met.</sentence>
 <sentence id="s335">136 This is not a case where parts of the pleadings could simply be struck out and the action remain on foot.</sentence>
-<sentence id="s336">As Lander J observed in A ustralian Competition and Consumer Commission v Fox Symes &amp; Associates Pty Ltd [2005] FCA 1071: 
+<sentence id="s336">As Lander J observed in A ustralian Competition and Consumer Commission v Fox Symes amp; Associates Pty Ltd [2005] FCA 1071: 
  
  'If a Statement of Claim is shown to disclose no reasonable cause of action, then it will be appropriate, rather than to strike out individual paragraphs of the Statement of Claim, to strike out the whole of the Statement of Claim.</sentence>
 <sentence id="s337">' (at [107]) 
@@ -631,16 +631,16 @@ c. despite claiming personal injury, the applicant does not particularise the na
 139 Although ordinarily a party should be given an opportunity to replead in accordance with the rules ( Turner v The Bulletin Newspaper Co Pty Ltd [1974] HCA 25 ; (1974) 131 CLR 69 per Barwick CJ (Mason J agreeing) at 81; cf Fox Symes at [95]) in my view it would be unjust to the respondents to allow the applicant yet another opportunity to re-plead.</sentence>
 <sentence id="s341">In particular I note:
  
-&#8226; Greenwood J had earlier dismissed an application by the applicant for interlocutory relief in this matter on the basis that, inter alia , the applicant lacked standing to bring the application, but noted that it was possible that the applicant could formulate a statement of claim involving rights which had not vested in the trustee in bankruptcy ( Rogers v Asset Loan Co Pty Ltd &amp; Ors [2006] FCA 434 at [48] )
+#8226; Greenwood J had earlier dismissed an application by the applicant for interlocutory relief in this matter on the basis that, inter alia , the applicant lacked standing to bring the application, but noted that it was possible that the applicant could formulate a statement of claim involving rights which had not vested in the trustee in bankruptcy ( Rogers v Asset Loan Co Pty Ltd amp; Ors [2006] FCA 434 at [48] )
  
-&#8226; on 15 June 2006 the applicant filed a Statement of Claim
+#8226; on 15 June 2006 the applicant filed a Statement of Claim
  
-&#8226; on 19 June 2006 the applicant filed an Amended Statement of Claim, although this amended statement of claim was not provided to the respondents until 29 June 2006 when the parties appeared in Court
+#8226; on 19 June 2006 the applicant filed an Amended Statement of Claim, although this amended statement of claim was not provided to the respondents until 29 June 2006 when the parties appeared in Court
  
-&#8226; when this matter came before me for the notice of motion to be heard on 29 June 2006, it became apparent that the applicant would in fact need to file a further amended statement of claim.</sentence>
+#8226; when this matter came before me for the notice of motion to be heard on 29 June 2006, it became apparent that the applicant would in fact need to file a further amended statement of claim.</sentence>
 <sentence id="s342">I ordered that the applicant be given 21 days in which to file a further amended statement of claim
  
-&#8226; the applicant did so in compliance with this order, but then also filed a second further amended statement of claim 10 days later.</sentence>
+#8226; the applicant did so in compliance with this order, but then also filed a second further amended statement of claim 10 days later.</sentence>
 <sentence id="s343">140 As Mason CJ and Brennan and Toohey JJ observed in Munnings v Australian Government Solicitor [1994] HCA 12 ; (1994) 120 ALR 586 at 589:
  
  '...</sentence>
@@ -735,6 +735,16 @@ Dated: 7 December 2006
  
  AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
  URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/1708.html 
+ 
+ </sentence>
+</sentences>
+</case>l 
+ 
+ </sentence>
+</sentences>
+</case>nce>
+</sentences>
+</case>l 
  
  </sentence>
 </sentences>

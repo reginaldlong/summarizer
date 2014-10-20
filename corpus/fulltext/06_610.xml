@@ -3,11 +3,11 @@
 <name>Pacer v Star Kitchens Pty Limited [2006] FCA 610 (25 May 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/610.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application to set aside bankruptcy notice</catchphrase>
-<catchphrase "id=c1">complex history of disputation including proceedings in local court</catchphrase>
-<catchphrase "id=c2">pending decision in local court</catchphrase>
-<catchphrase "id=c3">proceedings adjourned generally with liberty to restore</catchphrase>
-<catchphrase "id=c4">bankruptcy</catchphrase>
+<catchphrase >application to set aside bankruptcy notice</catchphrase>
+<catchphrase >complex history of disputation including proceedings in local court</catchphrase>
+<catchphrase >pending decision in local court</catchphrase>
+<catchphrase >proceedings adjourned generally with liberty to restore</catchphrase>
+<catchphrase >bankruptcy</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -23,14 +23,14 @@
 <sentence id="s7">That application for leave was apparently refused by the Local Court on 23 October 2003.</sentence>
 <sentence id="s8">The final hearing of the Local Court proceedings subsequently took place on 27 October and 5 December 2003.</sentence>
 <sentence id="s9">3 The tenor of Mr Pacer's amended defence to Star Kitchen's claim in the Local Court was that he had never personally entered into any contract with Star Kitchens for the provision of work or materials.</sentence>
-<sentence id="s10">It was Mr Pacer's contention that he was employed by a since deregistered company Freeport Morgan &amp; Associates Pty Ltd ('FMA'), whereby he provided project management services to FMA in respect of the Drummoyne development, inferentially a company under his control, whether de facto or de jure .</sentence>
+<sentence id="s10">It was Mr Pacer's contention that he was employed by a since deregistered company Freeport Morgan amp; Associates Pty Ltd ('FMA'), whereby he provided project management services to FMA in respect of the Drummoyne development, inferentially a company under his control, whether de facto or de jure .</sentence>
 <sentence id="s11">Mr Pacer claimed that it was FMA that had entered into a contract with Star Kitchens in relation to the delivery and installation of kitchens into the Drummoyne development.</sentence>
 <sentence id="s12">The cross-claim which Mr Pacer sought to file in the Local Court pleaded that Mr Pacer had lost fees and bonuses under his project management agreement with FMA, and further that he had incurred out-of-pocket costs because he was required to fund the rectification work necessitated by defects in Star Kitchen's work.</sentence>
 <sentence id="s13">The loss of those fees and bonuses was further alleged to have arisen because Star Kitchens had failed to comply with their delivery and installation obligations within the times specified by their agreement with FMA.</sentence>
 <sentence id="s14">4 On 8 April 2004 Magistrate Elms upheld Star Kitchen's claim against Mr Pacer ('the Local Court judgment').</sentence>
 <sentence id="s15">In the course of his reasons for judgment, the Magistrate made the following findings concerning the relationship between Mr Pacer and FMA:
  
- 'The defendant [Mr Pacer] provided not one shred of evidence to corroborate any alleged project manager relationship with the company Freeport-Morgan &amp; Associates Pty Ltd, and the evidence is all to the contrary that there was in fact any such relationship... 
+ 'The defendant [Mr Pacer] provided not one shred of evidence to corroborate any alleged project manager relationship with the company Freeport-Morgan amp; Associates Pty Ltd, and the evidence is all to the contrary that there was in fact any such relationship... 
  
  Contrary to his [Mr Pacer's] assertions, I have no doubt that the plaintiff [Star Kitchens] at all times knew the identity of the correct defendant, and that was Mr Pacer himself.</sentence>
 <sentence id="s16">I am unable to accept the defendant as a witness of truth...' 
@@ -115,7 +115,7 @@ Dated: 25 May 2006
  
  Solicitor for the Respondent: Watkins Tapsell 
  
- Date of Hearing: 6 December 2005 &amp; 7 March 2006 
+ Date of Hearing: 6 December 2005 amp; 7 March 2006 
  
  Date of Judgment: 25 May 2006 
 
@@ -127,4 +127,6 @@ Dated: 25 May 2006
  
  </sentence>
 </sentences>
-</case>
+</case>se></sentence>
+</sentences>
+</case>se>

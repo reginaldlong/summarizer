@@ -3,16 +3,16 @@
 <name>Churche v Australian Prudential Regulation Authority [2006] FCA 613 (26 May 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/613.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">preliminary discovery application</catchphrase>
-<catchphrase "id=c1">notice to produce seeking draft reports prepared under s 60 of the insurance act 1973 (cth)</catchphrase>
-<catchphrase "id=c2">whether reports prohibited from publication under australian prudential regulation authority act 1998 (cth)</catchphrase>
-<catchphrase "id=c3">whether reports relevant for the purposes of preliminary discovery application</catchphrase>
-<catchphrase "id=c4">whether public interest immunity applies to reports</catchphrase>
-<catchphrase "id=c5">preliminary discovery application</catchphrase>
-<catchphrase "id=c6">notice to produce</catchphrase>
-<catchphrase "id=c7">proper scope of notice to produce in preliminary discovery application</catchphrase>
-<catchphrase "id=c8">administrative law</catchphrase>
-<catchphrase "id=c9">procedure</catchphrase>
+<catchphrase >preliminary discovery application</catchphrase>
+<catchphrase >notice to produce seeking draft reports prepared under s 60 of the insurance act 1973 (cth)</catchphrase>
+<catchphrase >whether reports prohibited from publication under australian prudential regulation authority act 1998 (cth)</catchphrase>
+<catchphrase >whether reports relevant for the purposes of preliminary discovery application</catchphrase>
+<catchphrase >whether public interest immunity applies to reports</catchphrase>
+<catchphrase >preliminary discovery application</catchphrase>
+<catchphrase >notice to produce</catchphrase>
+<catchphrase >proper scope of notice to produce in preliminary discovery application</catchphrase>
+<catchphrase >administrative law</catchphrase>
+<catchphrase >procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -278,7 +278,7 @@
 <sentence id="s113">If an applicant seeks information relevant to a potential claim to which it does not otherwise have access, that information may be sought using the preliminary discovery procedure itself.</sentence>
 <sentence id="s114">41 The applicant submits that the entirety of the draft reports is required in order to consider whether he has a basis to allege that APRA treated him inconsistently.</sentence>
 <sentence id="s115">I accept that the draft reports may be relevant to the question of any ultimate claim against APRA, should such a claim be brought, but those reports are not properly the subject of a notice to produce brought in proceedings under O 15A r 6.</sentence>
-<sentence id="s116">The requirements of O 15A r 6 are not particularly stringent: see Minister for Health &amp; Aged Care v Harrington Associates Ltd [1999] FCA 549 at [28] and [29] per Sackville J; Gull Petroleum (WA) Ltd v Tah Land Pty Ltd [2001] FCA 1531 at [59] per Carr J.</sentence>
+<sentence id="s116">The requirements of O 15A r 6 are not particularly stringent: see Minister for Health amp; Aged Care v Harrington Associates Ltd [1999] FCA 549 at [28] and [29] per Sackville J; Gull Petroleum (WA) Ltd v Tah Land Pty Ltd [2001] FCA 1531 at [59] per Carr J.</sentence>
 <sentence id="s117">However, if the applicant does not possess sufficient factual material to substantiate O 15A r 6(a), then the deficiency cannot be rectified by seeking production of material from a respondent before the preliminary discovery application is heard.</sentence>
 <sentence id="s118">PUBLIC INTEREST IMMUNITY 
  
@@ -313,7 +313,7 @@
 <sentence id="s136">The category of documents to which the 'class' rule applies is relatively narrow, and includes documents such as cabinet minutes and documents which relate to the framing of government policy at a high level: see Sankey v Whitlam at 39.</sentence>
 <sentence id="s137">The claim in the present case is made on the basis of the contents of the draft reports, and not on the basis that the draft reports are a class to which public interest immunity attaches.</sentence>
 <sentence id="s138">48 I accept that in the present case that there may be documents in the possession of APRA whose release would clearly prejudice the public interest, for example documents identifying informers, documents containing details of financial affairs of third parties, documents which had been provided to APRA on a confidential basis, or documents which are pertinent to an ongoing investigation.</sentence>
-<sentence id="s139">It has generally been accepted that documents of this nature attract public interest immunity: see Zarro and Ors v Australian Securities Commission (1992) 36 FCR 40; Choi v Minister for Immigration and Multicultural Affairs (1998) 55 ALD 140; Somerville v Australian Securities Commission and Ors (1995) 60 FCR 319; Spargos Mining NL &amp; Anor v Standard Chartered Aust Ltd &amp; Ors (No 1) (1989) 1 ASCR 311 at 312.</sentence>
+<sentence id="s139">It has generally been accepted that documents of this nature attract public interest immunity: see Zarro and Ors v Australian Securities Commission (1992) 36 FCR 40; Choi v Minister for Immigration and Multicultural Affairs (1998) 55 ALD 140; Somerville v Australian Securities Commission and Ors (1995) 60 FCR 319; Spargos Mining NL amp; Anor v Standard Chartered Aust Ltd amp; Ors (No 1) (1989) 1 ASCR 311 at 312.</sentence>
 <sentence id="s140">The very restriction on the release of the final report without approval by the Attorney-General under s 60(6) suggests that reports of this nature may well contain information which, in the public interest, should not be disclosed.</sentence>
 <sentence id="s141">49 However, in an application such as this, the Court must be satisfied that the specific documents sought by the applicant contain information of that nature.</sentence>
 <sentence id="s142">In Zarro Lockhart J observed at 50-1:
@@ -395,4 +395,8 @@ Dated: 26 May 2006
  
  </sentence>
 </sentences>
-</case>
+</case>se>au/cases/cth/FCA/2006/613.html 
+ 
+ </sentence>
+</sentences>
+</case>se>

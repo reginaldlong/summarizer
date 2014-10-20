@@ -3,18 +3,18 @@
 <name>Carnegie Corporation Limited v Pursuit Dynamics Plc(Corrigendum dated 5 July 2007) [2007] FCA 1010 (4 July 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1010.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">service out of the jurisdiction</catchphrase>
-<catchphrase "id=c1">preliminary discovery</catchphrase>
-<catchphrase "id=c2">power to grant leave to serve application for preliminary discovery out of the jurisdiction</catchphrase>
-<catchphrase "id=c3">whether application for preliminary discovery an originating process</catchphrase>
-<catchphrase "id=c4">whether an originating process in a proceeding for which leave can be granted</catchphrase>
-<catchphrase "id=c5">no power to grant leave on bases sought</catchphrase>
-<catchphrase "id=c6">discretionary considerations against grant of leave</catchphrase>
-<catchphrase "id=c7">preliminary discovery relating to claim essentially based in breach of contract</catchphrase>
-<catchphrase "id=c8">peripheral and elusive trade practices claim</catchphrase>
-<catchphrase "id=c9">choice of english law clause in contract</catchphrase>
-<catchphrase "id=c10">factor in favour of refusal of leave</catchphrase>
-<catchphrase "id=c11">practice and procedure</catchphrase>
+<catchphrase >service out of the jurisdiction</catchphrase>
+<catchphrase >preliminary discovery</catchphrase>
+<catchphrase >power to grant leave to serve application for preliminary discovery out of the jurisdiction</catchphrase>
+<catchphrase >whether application for preliminary discovery an originating process</catchphrase>
+<catchphrase >whether an originating process in a proceeding for which leave can be granted</catchphrase>
+<catchphrase >no power to grant leave on bases sought</catchphrase>
+<catchphrase >discretionary considerations against grant of leave</catchphrase>
+<catchphrase >preliminary discovery relating to claim essentially based in breach of contract</catchphrase>
+<catchphrase >peripheral and elusive trade practices claim</catchphrase>
+<catchphrase >choice of english law clause in contract</catchphrase>
+<catchphrase >factor in favour of refusal of leave</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -320,7 +320,7 @@ They foreshadowed an application to the High Court in the normal way for service
 <sentence id="s170">Pursuits' solicitors claimed that in 2002 Pursuit Dynamics, having been unable to reduce the Burns' technology to practice in a commercial manner, set about developing different products which offered a better commercial return.</sentence>
 <sentence id="s171">It developed different principles and geometrics and produced technology aimed at completely different markets.</sentence>
 <sentence id="s172">It maintained that none of Pursuit Dynamics current patents or patent applications (other than the original Burns patent family) had any application in the field of marine propulsion but were used in the field of fluid mixing, mixing fluids with solids and powders, heating, cleaning, sterilising, fluidization, degassing, fire suppression, decontamination, volatile stripping and smoke suppression.</sentence>
-<sentence id="s173">The solicitors invited Carnegie's patent attorney, at a time to be agreed, to have an open discussion with Pursuit Dynamics' patent attorney, Mr Murnane of Murgitroyd &amp; Company so that he could explain the difference between the Marine Drive and Pursuit Dynamics' current technology.</sentence>
+<sentence id="s173">The solicitors invited Carnegie's patent attorney, at a time to be agreed, to have an open discussion with Pursuit Dynamics' patent attorney, Mr Murnane of Murgitroyd amp; Company so that he could explain the difference between the Marine Drive and Pursuit Dynamics' current technology.</sentence>
 <sentence id="s174">37 Pursuit Dynamics was not prepared to concede any entitlement on the part of Burns/Carnegie to royalties under the Option Agreement nor to disclose commercially confidential documentation to them.</sentence>
 <sentence id="s175">They expressed the view that Carnegie was showing an intention to engage in a fishing expedition for documents to which it was not entitled on the basis of a cause of action under the Trade Practices Act 1974 (Cth) (the TPA) which lacked any real substance.</sentence>
 <sentence id="s176">The application for preliminary discovery 
@@ -328,7 +328,7 @@ They foreshadowed an application to the High Court in the normal way for service
 38 These proceedings were commenced by an application for preliminary discovery brought pursuant to O 15A r 3(2)(a), (b) and 3(3)(a) and (b), 6 and 12 of the Federal Court Rules .</sentence>
 <sentence id="s177">The discovery sought covers all documents which are or have been in the possession, custody or power of Pursuit Dynamics and/or Pursuit Marine: 
  
- ... in respect of the design, research, experimentation and development ( R&amp;D ) of each of the inventions claimed in the specifications and claims of each and every of the patents and/or patent applications comprising the Pursuit Dynamics Patent Portfolio... 
+ ... in respect of the design, research, experimentation and development ( Ramp;D ) of each of the inventions claimed in the specifications and claims of each and every of the patents and/or patent applications comprising the Pursuit Dynamics Patent Portfolio... 
  
  
 
@@ -336,7 +336,7 @@ The latter term is defined by reference to the affidavit of Mark Anthony Pullen,
 <sentence id="s178">The discovery sought also extends to:
  
  
- ... documents recording or evidencing all and any instructions and/or directions from Pursuit Dynamics and/or Pursuit Marine Drive to each of the claimed inventors in relation to the R&amp;D of each of the inventions claimed in the specification and claims of each and every of the patents and/or patent applications comprising the Pursuit Dynamics Patent Portfolio ...
+ ... documents recording or evidencing all and any instructions and/or directions from Pursuit Dynamics and/or Pursuit Marine Drive to each of the claimed inventors in relation to the Ramp;D of each of the inventions claimed in the specification and claims of each and every of the patents and/or patent applications comprising the Pursuit Dynamics Patent Portfolio ...
  
 
 39 A list of named inventors is then set out.</sentence>
@@ -549,4 +549,8 @@ Dated: 4 July 2007
  
  </sentence>
 </sentences>
-</case>
+</case>se>austlii.edu.au/au/cases/cth/FCA/2007/1010.html 
+ 
+ </sentence>
+</sentences>
+</case>se>

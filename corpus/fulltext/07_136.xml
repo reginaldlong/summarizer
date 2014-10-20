@@ -3,9 +3,9 @@
 <name>APC Logistics Pty Ltd v CJ Nutracon Pty Ltd [2007] FCA 136 (16 February 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/136.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">whether or not agreement to arbitrate reached between parties by the exchange of e-mails</catchphrase>
-<catchphrase "id=c1">whether written agreement</catchphrase>
-<catchphrase "id=c2">agreement to arbitrate</catchphrase>
+<catchphrase >whether or not agreement to arbitrate reached between parties by the exchange of e-mails</catchphrase>
+<catchphrase >whether written agreement</catchphrase>
+<catchphrase >agreement to arbitrate</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -144,7 +144,7 @@
  'My next suggestion may come as a bit of a surprise, but I would like you to consider it before our next conference call.</sentence>
 <sentence id="s107">We have been wasting a great deal of time and expense to finalize the details of the arbitration agreements.</sentence>
 <sentence id="s108">Your client wants more detail on the issues and we want less.</sentence>
-<sentence id="s109">That's a bit like two chefs fighting over a restaurant menu, where one wants a detailed description of each entr&eacute;e and its ingredients, and one wants only a general description of the dish.</sentence>
+<sentence id="s109">That's a bit like two chefs fighting over a restaurant menu, where one wants a detailed description of each entreacute;e and its ingredients, and one wants only a general description of the dish.</sentence>
 <sentence id="s110">The meal is the same, the price is the same, and the customer can ask if anything is unclear.</sentence>
 <sentence id="s111">
  
@@ -235,7 +235,7 @@ Dated: 16 February 2006
  
  
  
- Solicitor for the Second Respondent: Ebsworth &amp; Ebsworth 
+ Solicitor for the Second Respondent: Ebsworth amp; Ebsworth 
  
  Date of Hearing: 9 February 2007 
  
@@ -251,4 +251,5 @@ Dated: 16 February 2006
  
  </sentence>
 </sentences>
-</case>
+</case>e>/sentences>
+</case>e>

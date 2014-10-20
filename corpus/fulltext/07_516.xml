@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <case>
-<name>SZHUP v Minister for Immigration &amp; Citizenship [2007] FCA 516 (20 April 2007)</name>
+<name>SZHUP v Minister for Immigration amp; Citizenship [2007] FCA 516 (20 April 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/516.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">protection visa</catchphrase>
-<catchphrase "id=c1">passport and visa information</catchphrase>
-<catchphrase "id=c2">whether within s 424a(3)</catchphrase>
-<catchphrase "id=c3">judicial comity</catchphrase>
-<catchphrase "id=c4">no jurisdictional error</catchphrase>
-<catchphrase "id=c5">migration</catchphrase>
+<catchphrase >protection visa</catchphrase>
+<catchphrase >passport and visa information</catchphrase>
+<catchphrase >whether within s 424a(3)</catchphrase>
+<catchphrase >judicial comity</catchphrase>
+<catchphrase >no jurisdictional error</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -76,7 +76,7 @@
 <sentence id="s43">However, it is not required to accept uncritically each and every assertion made by an applicant.</sentence>
 <sentence id="s44">Further, the Tribunal need not have rebutting evidence available to it before it can find that a particular factual assertion by an applicant has not been made out.</sentence>
 <sentence id="s45">Nor is it obliged to accept claims that are inconsistent with the independent evidence regarding the situation in the applicant's country of nationality.</sentence>
-<sentence id="s46">See Randhawa v MILGEA (1994) 52 FCR 437 at 451, per Beaumont J; Selvadurai v MIEA &amp; Anor (1994) 34 ALD 347 at 348 per Heerey J and Kopalapillai v MIMA.</sentence>
+<sentence id="s46">See Randhawa v MILGEA (1994) 52 FCR 437 at 451, per Beaumont J; Selvadurai v MIEA amp; Anor (1994) 34 ALD 347 at 348 per Heerey J and Kopalapillai v MIMA.</sentence>
 <sentence id="s47">If the Tribunal were to make an adverse finding in relation to a material claim made by an applicant but were to find itself unable to make that finding with confidence, it must proceed to assess the claim on the basis that the claim might possibly be true.</sentence>
 <sentence id="s48">(See MIMA v Rajalingam (1999) FCR 220).</sentence>
 <sentence id="s49">
@@ -295,7 +295,7 @@
 <sentence id="s146">27 First, doing the best I can with the RRT's description of how the passport came under examination, it appears it was provided at the request of the RRT to be copied.</sentence>
 <sentence id="s147">The letter inviting the appellant to a hearing contained the following:
  
- '&#8226; If you have a passport you should bring it to the hearing.</sentence>
+ '#8226; If you have a passport you should bring it to the hearing.</sentence>
 <sentence id="s148">' 
  
 
@@ -401,4 +401,8 @@ Dated: 20 April 2007
  
  </sentence>
 </sentences>
-</case>
+</case>se>ml 
+ 
+ </sentence>
+</sentences>
+</case>se>

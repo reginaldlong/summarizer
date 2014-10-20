@@ -3,11 +3,11 @@
 <name>All Fasteners (WA) v Grant Caple [2007] FCA 1252 (16 August 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1252.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from the decision of a federal magistrate</catchphrase>
-<catchphrase "id=c1">damages claimed under s 82 of trade practices act 1974 (cth)</catchphrase>
-<catchphrase "id=c2">whether award of damages was adequate</catchphrase>
-<catchphrase "id=c3">appeal upheld in part</catchphrase>
-<catchphrase "id=c4">trade practices</catchphrase>
+<catchphrase >appeal from the decision of a federal magistrate</catchphrase>
+<catchphrase >damages claimed under s 82 of trade practices act 1974 (cth)</catchphrase>
+<catchphrase >whether award of damages was adequate</catchphrase>
+<catchphrase >appeal upheld in part</catchphrase>
+<catchphrase >trade practices</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -107,7 +107,7 @@
 <sentence id="s63">(Footnotes omitted.</sentence>
 <sentence id="s64">) 
 
-23 In the case of Kizbeau Pty Limited v W G &amp; B Pty Limited [1995] HCA 4 ; (1995) 184 CLR 281 ( Kizbeau ), the High Court observed at 290-291:
+23 In the case of Kizbeau Pty Limited v W G amp; B Pty Limited [1995] HCA 4 ; (1995) 184 CLR 281 ( Kizbeau ), the High Court observed at 290-291:
  
  Actions based on s 52 are analogous to actions for torts.</sentence>
 <sentence id="s65">It follows that, in assessing damages under s 82 of the Act, the rules for assessing damages in tort, and not the rules for assessing damages in contract, are the appropriate guide in most, if not all, cases.</sentence>
@@ -190,7 +190,7 @@
 <sentence id="s127">The financing and borrowing costs claimed comprised fees related to obtaining finance in order to purchase the business, as well as interest and fees on the business overdraft.</sentence>
 <sentence id="s128">The fees relating to the raising of the money to complete the purchase of the business comprised broker's fees of $1,485 and bank fees of $1,598.25.</sentence>
 <sentence id="s129">40 The Federal Magistrate rejected this head of claim on the basis of observations in the case of Yorke v Lucas (1982) 69 FLR 116 that these costs were not compensable because they were incurred as the result of the lack of ready money to pay for the purchase of the business, and not the direct consequence of the purchase of the business.</sentence>
-<sentence id="s130">Since that case, the High Court has observed that ordinarily an award of damages under s 82 of the TPA will compensate for the actual loss incurred where the contravening conduct is a cause of that loss ( I &amp; L Securities Pty Ltd v HTW Valuers (Brisbane) Pty Ltd [2002] HCA 41 ; (2002) 210 CLR 109 at 121-122, at [33], at 125-126, at [50] and at 130, at [62]).</sentence>
+<sentence id="s130">Since that case, the High Court has observed that ordinarily an award of damages under s 82 of the TPA will compensate for the actual loss incurred where the contravening conduct is a cause of that loss ( I amp; L Securities Pty Ltd v HTW Valuers (Brisbane) Pty Ltd [2002] HCA 41 ; (2002) 210 CLR 109 at 121-122, at [33], at 125-126, at [50] and at 130, at [62]).</sentence>
 <sentence id="s131">On the basis of the Federal Magistrate's finding that the appellant purchased the business in reliance on the contravening conduct, the incurring of the fees to raise finance to purchase the business would be causally connected to the contravening conduct.</sentence>
 <sentence id="s132">In my view, the Federal Magistrate should have accepted the appellant's claim for these fees, being fees relating to the completion of the purchase of the business.</sentence>
 <sentence id="s133">I would, accordingly, award the appellant damages in the sum of $3,083.25.</sentence>
@@ -235,4 +235,6 @@ Dated: 16 August 2007
  
  </sentence>
 </sentences>
-</case>
+</case>e> </sentence>
+</sentences>
+</case>e>

@@ -3,10 +3,10 @@
 <name>MM v Australian Crime Commission [2007] FCA 2026 (19 December 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/2026.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">where notices requiring production of documents issued to persons or entities other than holder of the privilege</catchphrase>
-<catchphrase "id=c1">whether notices invalid</catchphrase>
-<catchphrase "id=c2">whether requirement to give holder of privilege a reasonable opportunity to assert legal professional privilege.</catchphrase>
-<catchphrase "id=c3">legal professional privilege</catchphrase>
+<catchphrase >where notices requiring production of documents issued to persons or entities other than holder of the privilege</catchphrase>
+<catchphrase >whether notices invalid</catchphrase>
+<catchphrase >whether requirement to give holder of privilege a reasonable opportunity to assert legal professional privilege.</catchphrase>
+<catchphrase >legal professional privilege</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -26,13 +26,13 @@
 <sentence id="s10">The Board consists of the following persons:
  
  
- &#8226; the Commissioner of the Australian Federal Police;
- &#8226; the Secretary of the relevant Department;
- &#8226; the Chief Executive Officer of the Australian Customs Service;
- &#8226; the Chairperson of the Australian Securities and Investments Commission;
- &#8226; the Director-General of Security;
- &#8226; the head of the police forces of each State and Territory;
- &#8226; the CEO.</sentence>
+ #8226; the Commissioner of the Australian Federal Police;
+ #8226; the Secretary of the relevant Department;
+ #8226; the Chief Executive Officer of the Australian Customs Service;
+ #8226; the Chairperson of the Australian Securities and Investments Commission;
+ #8226; the Director-General of Security;
+ #8226; the head of the police forces of each State and Territory;
+ #8226; the CEO.</sentence>
 <sentence id="s11">
  
 
@@ -65,9 +65,9 @@
 <sentence id="s37">Section 29A(2) provides that a notation must not be included in a summons or notice except, relevantly, as follows:
  
  
- &#8226; the Examiner must include the notation if satisfied that failure to do so would reasonably be expected to prejudice the effectiveness of an investigation;
- &#8226; the Examiner may include the notation if satisfied that the failure to do so might prejudice the effectiveness of an investigation;
- &#8226; the Examiner may include the notation if satisfied that the failure to do so might otherwise be contrary to the public interest.</sentence>
+ #8226; the Examiner must include the notation if satisfied that failure to do so would reasonably be expected to prejudice the effectiveness of an investigation;
+ #8226; the Examiner may include the notation if satisfied that the failure to do so might prejudice the effectiveness of an investigation;
+ #8226; the Examiner may include the notation if satisfied that the failure to do so might otherwise be contrary to the public interest.</sentence>
 <sentence id="s38">
  
 
@@ -75,10 +75,10 @@
 <sentence id="s39">13 Section 29A(4) relevantly provides that all of the notations included under s 29A in any notices relating to an investigation are cancelled if, after the Commission has concluded the investigation concerned:
  
  
- &#8226; no evidence of an offence has been obtained; or
- &#8226; evidence of an offence or offences has been assembled and the CEO has been advised that no person will be prosecuted; or
- &#8226; evidence of an offence or offences committed by any one person has been assembled and criminal proceedings have begun against that person; or
- &#8226; evidence of an offence or offences committed by two or more persons has been assembled and criminal proceedings have begun against all those persons or criminal proceedings have begun against one or more of those persons and the CEO has advised that no other of those persons will be prosecuted.</sentence>
+ #8226; no evidence of an offence has been obtained; or
+ #8226; evidence of an offence or offences has been assembled and the CEO has been advised that no person will be prosecuted; or
+ #8226; evidence of an offence or offences committed by any one person has been assembled and criminal proceedings have begun against that person; or
+ #8226; evidence of an offence or offences committed by two or more persons has been assembled and criminal proceedings have begun against all those persons or criminal proceedings have begun against one or more of those persons and the CEO has advised that no other of those persons will be prosecuted.</sentence>
 <sentence id="s40">
  
 
@@ -86,18 +86,18 @@ If a notation is cancelled by the operation of s 29A(4), the CEO must serve a wr
 <sentence id="s41">14 Section 29B(1) provides that a person who is given a summons or notice containing a notation under s 29A must not disclose:
  
  
- &#8226; the existence of the summons or notice or any information about it; or
- &#8226; the existence of, or any information about, any official matter connected with the summons or notice.</sentence>
+ #8226; the existence of the summons or notice or any information about it; or
+ #8226; the existence of, or any information about, any official matter connected with the summons or notice.</sentence>
 <sentence id="s42">
  
 
 Official matter means:
  
  
- &#8226; the determination of the Board that an investigation is a special investigation;
- &#8226; an ACC operation/investigation;
- &#8226; an examination held by an Examiner;
- &#8226; a court proceeding.</sentence>
+ #8226; the determination of the Board that an investigation is a special investigation;
+ #8226; an ACC operation/investigation;
+ #8226; an examination held by an Examiner;
+ #8226; a court proceeding.</sentence>
 <sentence id="s43">
  
 
@@ -105,9 +105,9 @@ A reference in s 29B to disclosing the existence of something includes disclosin
 <sentence id="s44">15 However, s 29B(1) does not prevent a person from making a disclosure:
  
  
- &#8226; in accordance with the circumstances, if any, specified in the notation; or
- &#8226; to a legal practitioner for the purpose of obtaining legal advice or representation relating to the summons, notice or matter; or
- &#8226; if the person is a legal practitioner, for the purpose of obtaining the agreement of another person, under s 30(3), to the legal practitioner producing a document at an examination before an Examiner.</sentence>
+ #8226; in accordance with the circumstances, if any, specified in the notation; or
+ #8226; to a legal practitioner for the purpose of obtaining legal advice or representation relating to the summons, notice or matter; or
+ #8226; if the person is a legal practitioner, for the purpose of obtaining the agreement of another person, under s 30(3), to the legal practitioner producing a document at an examination before an Examiner.</sentence>
 <sentence id="s45">
  
 
@@ -127,9 +127,9 @@ If such a permitted disclosure is made to a person, that person must not disclos
 <sentence id="s56">At the time of making the decision to issue the notices, the Examiner knew that:
  
  
- &#8226; the investigation into the applicants involved complex questions relating to Australian and international taxation law;
- &#8226; some of the advisers to the applicants to whom notices would be issued had probably advised the applicants in relation to such taxation questions; and
- &#8226; a third party had expressed concerns about documents that were the subject of a notice to that third party.</sentence>
+ #8226; the investigation into the applicants involved complex questions relating to Australian and international taxation law;
+ #8226; some of the advisers to the applicants to whom notices would be issued had probably advised the applicants in relation to such taxation questions; and
+ #8226; a third party had expressed concerns about documents that were the subject of a notice to that third party.</sentence>
 <sentence id="s57">
  
 
@@ -254,8 +254,8 @@ As I understand the position, it is common ground that legal professional privil
 <sentence id="s82">27 The applicants contend that the relevant notices are invalid because:
  
  
- &#8226; The applicants, as opposed to the recipient of a notice, were not provided with a reasonable opportunity, prior to the recipient being required to produce documents, to exercise a right to make a claim of legal professional privilege in respect of the giving of information or the production of documents in answer to such a notice, in so far as the legal professional privilege in that information or those documents was held by the applicants.</sentence>
-<sentence id="s83">&#8226; In deciding to issue a notice, the relevant Examiner did not take into account the fact that the applicants, as opposed to the recipient of the notice, had such a right to make a claim for legal professional privilege prior to the production to the Commission of documents by that recipient.</sentence>
+ #8226; The applicants, as opposed to the recipient of a notice, were not provided with a reasonable opportunity, prior to the recipient being required to produce documents, to exercise a right to make a claim of legal professional privilege in respect of the giving of information or the production of documents in answer to such a notice, in so far as the legal professional privilege in that information or those documents was held by the applicants.</sentence>
+<sentence id="s83">#8226; In deciding to issue a notice, the relevant Examiner did not take into account the fact that the applicants, as opposed to the recipient of the notice, had such a right to make a claim for legal professional privilege prior to the production to the Commission of documents by that recipient.</sentence>
 <sentence id="s84">
  
 
@@ -307,9 +307,9 @@ As I understand the position, it is common ground that legal professional privil
 <sentence id="s125">The matters that must be taken into consideration are:
  
  
- &#8226; the safety or reputation of a person;
- &#8226; the fair trial of a person who has been or may be charged with an offence;
- &#8226; the effectiveness of an operation or investigation.</sentence>
+ #8226; the safety or reputation of a person;
+ #8226; the fair trial of a person who has been or may be charged with an offence;
+ #8226; the effectiveness of an operation or investigation.</sentence>
 <sentence id="s126">
  
 
@@ -351,5 +351,9 @@ Dated: 19 December 2007
  URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/2026.html 
  
  </sentence>
+</sentences>
+</case>/sentence>
+</sentences>
+</case>ntence>
 </sentences>
 </case>

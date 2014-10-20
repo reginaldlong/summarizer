@@ -3,17 +3,17 @@
 <name>QAAI v Minister for Immigration and Multicultural and Indigenous Affairs [2006] FCA 4 (10 January 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/4.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">judicial review</catchphrase>
-<catchphrase "id=c1">protection visa</catchphrase>
-<catchphrase "id=c2">refugee review tribunal</catchphrase>
-<catchphrase "id=c3">failure to afford procedural fairness</catchphrase>
-<catchphrase "id=c4">failure to identify the scope of the inquiry</catchphrase>
-<catchphrase "id=c5">failure to identify the elements of the applicant's claim for a well-founded fear of persecution for a convention reason</catchphrase>
-<catchphrase "id=c6">failure to conduct a review and failure to exercise the statutory jurisdiction by failing to properly consider all elements of the convention definition of refugee</catchphrase>
-<catchphrase "id=c7">applying a finding on credibility to a determination of all relevant factual questions</catchphrase>
-<catchphrase "id=c8">alleged fear of persecution due to political opinion, membership of a group hostile to ugandan government authorities</catchphrase>
-<catchphrase "id=c9">allegations of forced capture and forced engagement with government authorities on behalf of lords resistance army (lra) rebels.</catchphrase>
-<catchphrase "id=c10">migration</catchphrase>
+<catchphrase >judicial review</catchphrase>
+<catchphrase >protection visa</catchphrase>
+<catchphrase >refugee review tribunal</catchphrase>
+<catchphrase >failure to afford procedural fairness</catchphrase>
+<catchphrase >failure to identify the scope of the inquiry</catchphrase>
+<catchphrase >failure to identify the elements of the applicant's claim for a well-founded fear of persecution for a convention reason</catchphrase>
+<catchphrase >failure to conduct a review and failure to exercise the statutory jurisdiction by failing to properly consider all elements of the convention definition of refugee</catchphrase>
+<catchphrase >applying a finding on credibility to a determination of all relevant factual questions</catchphrase>
+<catchphrase >alleged fear of persecution due to political opinion, membership of a group hostile to ugandan government authorities</catchphrase>
+<catchphrase >allegations of forced capture and forced engagement with government authorities on behalf of lords resistance army (lra) rebels.</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -888,10 +888,10 @@
 <sentence id="s361">Perhaps it is thought the handwritten notes will be inconsistent with the typewritten note of 27 February 2004 [31] or that propositions put to the Applicant in the letter of 27 February 2004 [32] were not a fair representation of what was actually said by George Ddungu.</sentence>
 <sentence id="s362">Evidence directed to attempts to secure a handwritten note of the conversation which took place on 26 February 2004 are not relevant to the question of whether the Applicant was denied procedural fairness by reason of: 
  
- &#8226; points 7 to 11 in the note of the conversation not being put to the Applicant; 
- &#8226; the Applicant not being present when the conversation took place;
- &#8226; the Tribunal member failing to ask the correct questions; or
- &#8226; the Tribunal member failing to ensure the Applicant understood the evidence of George Ddungu.</sentence>
+ #8226; points 7 to 11 in the note of the conversation not being put to the Applicant; 
+ #8226; the Applicant not being present when the conversation took place;
+ #8226; the Tribunal member failing to ask the correct questions; or
+ #8226; the Tribunal member failing to ensure the Applicant understood the evidence of George Ddungu.</sentence>
 <sentence id="s363">
 
 57 The question of whether procedural fairness was denied the Applicant is to be determined by considering what was put to the Applicant arising out of the conversation as the material matters influencing the decision of the Tribunal in the context of the assessment of the evidence of the Applicant overall.</sentence>
@@ -1082,7 +1082,7 @@
 <sentence id="s502">The first is that in the ordinary case where no issue of confidentiality arises, an opportunity should be given to an applicant to deal with adverse information given to the Tribunal that is "credible, relevant and significant" ( Kioa v West ; Brennan J) to the decision to be made.</sentence>
 <sentence id="s503">The second aspect involves a recognition that information of that kind is likely to create a risk of prejudice, perhaps subconscious, and it is unfair to deny a person whose interests are likely to be affected by the decision, an opportunity to deal with the information.</sentence>
 <sentence id="s504">95 A question then is whether the information noted at points 7 to 11 [31] of the Tribunal member's conversation with George Ddungu constituted adverse information that is credible, relevant and significant to the decision to be made.</sentence>
-<sentence id="s505">In Applicant Veal of 2002 v Minister for Immigration and Multicultural and Indigenous Affairs &amp; Anor [2005] HCA 72 (6 December 2005), [' Applicant Veal' ], Gleeson CJ, Gummow, Kirby, Hayne and Heydon JJ at [16] observed expressly as matters of general principle:
+<sentence id="s505">In Applicant Veal of 2002 v Minister for Immigration and Multicultural and Indigenous Affairs amp; Anor [2005] HCA 72 (6 December 2005), [' Applicant Veal' ], Gleeson CJ, Gummow, Kirby, Hayne and Heydon JJ at [16] observed expressly as matters of general principle:
  
  "As is always the case, what is said in reasons for judgment must be understood in the context of the whole of the reasons.</sentence>
 <sentence id="s506">Examining sentences, or parts of sentences, in isolation from the context is apt to lead to error.</sentence>
@@ -1164,7 +1164,7 @@ Dated: 10 January 2006
  
  Counsel for the Applicant: Mr Mark Plunkett 
  
- Solicitor for the Applicant: Mr Bruce Henry; Terry Fisher &amp; Associates 
+ Solicitor for the Applicant: Mr Bruce Henry; Terry Fisher amp; Associates 
  
  Counsel for the Respondent: Mr Peter Bickford 
  
@@ -1182,4 +1182,8 @@ Dated: 10 January 2006
  
  </sentence>
 </sentences>
-</case>
+</case>/case>edu.au/au/cases/cth/FCA/2006/4.html 
+ 
+ </sentence>
+</sentences>
+</case>/case>

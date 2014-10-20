@@ -3,24 +3,24 @@
 <name>Lactos Fresh Pty Ltd v Finishing Services Pty Ltd [2006] FCA 219 (15 March 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/219.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">whether notice given by landlord containing new rental assessment valid</catchphrase>
-<catchphrase "id=c1">whether notice unequivocal and did not leave reasonable recipient in doubt as to meaning</catchphrase>
-<catchphrase "id=c2">whether reasonable recipient credited with knowledge of terms of lease</catchphrase>
-<catchphrase "id=c3">whether subjective reaction of recipient of notice relevant</catchphrase>
-<catchphrase "id=c4">whether landlord's assessment required to be reasonable and not excessive</catchphrase>
-<catchphrase "id=c5">whether an implied duty of good faith</catchphrase>
-<catchphrase "id=c6">misleading or deceptive conduct</catchphrase>
-<catchphrase "id=c7">provision of assessment of proper rent</catchphrase>
-<catchphrase "id=c8">whether provision of assessment caused applicant's loss</catchphrase>
-<catchphrase "id=c9">unconscionable conduct</catchphrase>
-<catchphrase "id=c10">whether individual under a "special disadvantage"</catchphrase>
-<catchphrase "id=c11">amendment to pleadings</catchphrase>
-<catchphrase "id=c12">whether claim adequately pleaded</catchphrase>
-<catchphrase "id=c13">whether amendment should be allowed after conclusion of evidence</catchphrase>
-<catchphrase "id=c14">relevance of strength of case</catchphrase>
-<catchphrase "id=c15">contract</catchphrase>
-<catchphrase "id=c16">trade practices</catchphrase>
-<catchphrase "id=c17">practice and procedure</catchphrase>
+<catchphrase >whether notice given by landlord containing new rental assessment valid</catchphrase>
+<catchphrase >whether notice unequivocal and did not leave reasonable recipient in doubt as to meaning</catchphrase>
+<catchphrase >whether reasonable recipient credited with knowledge of terms of lease</catchphrase>
+<catchphrase >whether subjective reaction of recipient of notice relevant</catchphrase>
+<catchphrase >whether landlord's assessment required to be reasonable and not excessive</catchphrase>
+<catchphrase >whether an implied duty of good faith</catchphrase>
+<catchphrase >misleading or deceptive conduct</catchphrase>
+<catchphrase >provision of assessment of proper rent</catchphrase>
+<catchphrase >whether provision of assessment caused applicant's loss</catchphrase>
+<catchphrase >unconscionable conduct</catchphrase>
+<catchphrase >whether individual under a "special disadvantage"</catchphrase>
+<catchphrase >amendment to pleadings</catchphrase>
+<catchphrase >whether claim adequately pleaded</catchphrase>
+<catchphrase >whether amendment should be allowed after conclusion of evidence</catchphrase>
+<catchphrase >relevance of strength of case</catchphrase>
+<catchphrase >contract</catchphrase>
+<catchphrase >trade practices</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -47,8 +47,8 @@
 <sentence id="s16">6 The first respondent owns a number of industrial properties, including the Mulgrave premises.</sentence>
 <sentence id="s17">Its directors are John Allen, and his son Matthew.</sentence>
 <sentence id="s18">All references in these reasons for judgment to Mr Allen are to Mr John Allen, unless otherwise indicated.</sentence>
-<sentence id="s19">Mr Allen also is the principal of Allen &amp; Allen solicitors who operate out of Finishing Services' premises in Moorabbin.</sentence>
-<sentence id="s20">It appears that Allen &amp; Allen only do work for companies associated with Mr Allen.</sentence>
+<sentence id="s19">Mr Allen also is the principal of Allen amp; Allen solicitors who operate out of Finishing Services' premises in Moorabbin.</sentence>
+<sentence id="s20">It appears that Allen amp; Allen only do work for companies associated with Mr Allen.</sentence>
 <sentence id="s21">7 The lease for the Mulgrave premises is dated 1 September 1999, and is for a term of seven years, with the option of a further term ("the lease").</sentence>
 <sentence id="s22">The annual rental at the time of the signing of the lease was $244,152.</sentence>
 <sentence id="s23">8 Clause 3.2.2 of the lease provides for a "market rental review".</sentence>
@@ -230,7 +230,7 @@
 
 22 Both Mr Allen and Mr Bertrand agree that Mr Bertrand commented that the increase in rent would have a detrimental impact on the applicant's business.</sentence>
 <sentence id="s116">Mr Allen says that he said words to the effect that it was "too late to complain" about the rent increase now, although Mr Bertrand says he does not have any recollection of Mr Allen's reaction to the letter he handed him at the 3 February 2003 meeting.</sentence>
-<sentence id="s117">23 Following the meeting, Mr Allen sent a letter under cover of Allen &amp; Allen letterhead, dated 20 February 2003, to Lactos Fresh Pty Ltd c/o Lactos Pty Ltd in Burnie.</sentence>
+<sentence id="s117">23 Following the meeting, Mr Allen sent a letter under cover of Allen amp; Allen letterhead, dated 20 February 2003, to Lactos Fresh Pty Ltd c/o Lactos Pty Ltd in Burnie.</sentence>
 <sentence id="s118">It was marked to the attention of Alan Jarman, the company secretary of Lactos Fresh Pty Ltd. Mr Jarman was the person with whom Mr Allen usually corresponded in relation to matters involving the lease of the Mulgrave premises.</sentence>
 <sentence id="s119">It relevantly stated:
  
@@ -317,10 +317,10 @@
 34 The critical issues to be determined in the proceeding against the first respondent are as follows:
  
  
- &#8226; was the rental increase notice vague and uncertain, and thereby invalid?</sentence>
-<sentence id="s160">&#8226; was the rental increase notice invalid upon the basis that the rental assessment failed to take into account the particular assumptions that were stipulated in clause 3.2.2, as set out in [8] of these reasons for judgment?</sentence>
-<sentence id="s161">&#8226; is a term of good faith to be implied into the lease and, if so, did the actions or omissions of Mr Allen surrounding the service of the notice constitute a breach of this obligation?</sentence>
-<sentence id="s162">&#8226; does Mr Bertrand have some kind of "special disadvantage" by virtue of speaking English as a second language, which enlivens the principles of unconscionable conduct under s 51AA of the Trade Practices Act ?</sentence>
+ #8226; was the rental increase notice vague and uncertain, and thereby invalid?</sentence>
+<sentence id="s160">#8226; was the rental increase notice invalid upon the basis that the rental assessment failed to take into account the particular assumptions that were stipulated in clause 3.2.2, as set out in [8] of these reasons for judgment?</sentence>
+<sentence id="s161">#8226; is a term of good faith to be implied into the lease and, if so, did the actions or omissions of Mr Allen surrounding the service of the notice constitute a breach of this obligation?</sentence>
+<sentence id="s162">#8226; does Mr Bertrand have some kind of "special disadvantage" by virtue of speaking English as a second language, which enlivens the principles of unconscionable conduct under s 51AA of the Trade Practices Act ?</sentence>
 <sentence id="s163">
  
 
@@ -329,8 +329,8 @@
 <sentence id="s165">However, if the notice is valid, and the applicant's other claims against the first respondent fail, the relevant issues to be determined with respect to the claim against the second respondent are:
  
  
- &#8226; was the Colliers letter misleading or deceptive?</sentence>
-<sentence id="s166">&#8226; if so, did it cause, or contribute to, the applicant's loss?</sentence>
+ #8226; was the Colliers letter misleading or deceptive?</sentence>
+<sentence id="s166">#8226; if so, did it cause, or contribute to, the applicant's loss?</sentence>
 <sentence id="s167">
  
  THE APPLICANT'S CLAIMS 
@@ -543,10 +543,10 @@
 79 Against that background, the first respondent pointed to the following features of the notice in this proceeding:
  
  
- &#8226; it specified as its subject matter "Notice of Rental Assessment commencing 1 March 2003";
- &#8226; it directed the recipient's attention to the fact that "[u]nder the terms of our lease a market review of the rent paid is to take effect from 1 March 2003";
- &#8226; the Collier's letter (which forms part of the notice) stated that "a market value rental review is due in respect of this property on the 1 st of March 2003"; and
- &#8226; it "stated" the sum of $435,920.00 per annum "will form the basis of the new rent starting 1 March 2003".</sentence>
+ #8226; it specified as its subject matter "Notice of Rental Assessment commencing 1 March 2003";
+ #8226; it directed the recipient's attention to the fact that "[u]nder the terms of our lease a market review of the rent paid is to take effect from 1 March 2003";
+ #8226; the Collier's letter (which forms part of the notice) stated that "a market value rental review is due in respect of this property on the 1 st of March 2003"; and
+ #8226; it "stated" the sum of $435,920.00 per annum "will form the basis of the new rent starting 1 March 2003".</sentence>
 <sentence id="s296">
  
 
@@ -571,7 +571,7 @@
 83 The first respondent contended that the only substantive requirement of clause 3.2.2 is that the lessor subjectively assess the "proper rent for the premises" as defined.</sentence>
 <sentence id="s306">There is no requirement that this assessment be objectively "reasonable".</sentence>
 <sentence id="s307">84 The first respondent relied upon a number of cases with comparable rent review clauses to support the proposition that all that the landlord must do is specify its subjective assessment of the rent --- it is up to the tenant to object.</sentence>
-<sentence id="s308">85 In GR Mailman &amp; Associates Pty Ltd v Wormald (Aust) Pty Ltd (1991) 24 NSWLR 80 (" Mailman "), the rent review clause, art 2.02(a), was in the following terms:
+<sentence id="s308">85 In GR Mailman amp; Associates Pty Ltd v Wormald (Aust) Pty Ltd (1991) 24 NSWLR 80 (" Mailman "), the rent review clause, art 2.02(a), was in the following terms:
  
  "Within sixty days (60) prior to the expiration of each period specified ... the Lessor may give in writing, in the form set out hereunder, to the Lessee increasing the yearly rental to an amount which the Lessor considers will be the current market rent of the Demised Premises as at the Review Date and until the following Review Date or the expiration of the term as the case may be ... having regard to all matters then relevant to the determination of such rent including the terms and conditions of this Lease and in particular the fact that the Lessee is obliged to pay to the Lessor the Outgoings provided in Article 3 thereof.</sentence>
 <sentence id="s309">" 
@@ -621,7 +621,7 @@
 <sentence id="s329">" 
  
 
-90 The first respondent contended that challenges similar to that made by the applicant in the present proceeding had been unsuccessful in other cases, such as Fox &amp; Widley v Guran [1998] 3 EG 142 (a case where the submission that the landlord was required to estimate a "bona fide and genuine" assessment in a rent review notice was rejected) and Davstone (Holdings) Ltd v Al-Rifai (1976) 32 P&amp;CR 18 at 26 (a case which concerned whether there was an obligation upon a landlord to specify an objectively "reasonable" figure in a rent review notice).</sentence>
+90 The first respondent contended that challenges similar to that made by the applicant in the present proceeding had been unsuccessful in other cases, such as Fox amp; Widley v Guran [1998] 3 EG 142 (a case where the submission that the landlord was required to estimate a "bona fide and genuine" assessment in a rent review notice was rejected) and Davstone (Holdings) Ltd v Al-Rifai (1976) 32 Pamp;CR 18 at 26 (a case which concerned whether there was an obligation upon a landlord to specify an objectively "reasonable" figure in a rent review notice).</sentence>
 <sentence id="s330">91 In terms of the applicant's specific submission that the notice was invalid because the first respondent failed to have regard only to the fixtures and fittings outlined in schedule 2 of the lease, the respondents contended that this aspect of the applicant's case was not pleaded.</sentence>
 <sentence id="s331">Accordingly, they argued that the applicant required leave to amend its statement of claim if it wished to pursue this aspect of its application.</sentence>
 <sentence id="s332">I deal with the question of whether amendment is required below.</sentence>
@@ -829,7 +829,7 @@
  
 
 145 Moreover, the validity of the notice in Amalgamated Estates was not challenged on the basis of its form, but rather on the basis that the landlord had not specified a bona fide and genuine pre-estimate of the open market rental on the property in question.</sentence>
-<sentence id="s494">146 Fox &amp; Widley v Guran , another case cited by the first respondent, involved a typographical error.</sentence>
+<sentence id="s494">146 Fox amp; Widley v Guran , another case cited by the first respondent, involved a typographical error.</sentence>
 <sentence id="s495">The notice stated the rent review date as being 23 May 1989, rather than 25 May 1989.</sentence>
 <sentence id="s496">Clarke J found that such an error could not mislead anyone, nor was there any evidence that the tenant had in fact been misled.</sentence>
 <sentence id="s497">147 The closest the first respondent came to finding an analogous notice, the validity of which was upheld, was GHD Pty Ltd v Wayne [2001] QSC 73 (" GHD ").</sentence>
@@ -898,7 +898,7 @@
 <sentence id="s544">"By" is a curious word to use.</sentence>
 <sentence id="s545">One might have expected "by means of", "by reason of", "in consequence of" or "as a result of".</sentence>
 <sentence id="s546">But the word clearly expresses the notion of causation without defining or elucidating it.</sentence>
-<sentence id="s547">In this situation, s.82(1) should be understood as taking up the common law practical or common-sense concept of causation recently discussed by this Court in March v. Stramare (E. &amp; M. H.) Pty.</sentence>
+<sentence id="s547">In this situation, s.82(1) should be understood as taking up the common law practical or common-sense concept of causation recently discussed by this Court in March v. Stramare (E. amp; M. H.) Pty.</sentence>
 <sentence id="s548">Ltd. , except in so far as that concept is modified or supplemented expressly or impliedly by the provisions of the Act.</sentence>
 <sentence id="s549">(footnote omitted) 
  
@@ -1034,7 +1034,7 @@ Dated: 15 March 2006
  Counsel for the First Respondent: Mr P.J. O'Callaghan QC with Mr M.S.</sentence>
 <sentence id="s644">Osborne 
  
- Solicitors for the First Respondent: Allen &amp; Allen 
+ Solicitors for the First Respondent: Allen amp; Allen 
  
  Counsel for the Second Respondent: Mr P.J. Cawthorn 
  
@@ -1055,4 +1055,11 @@ Dated: 15 March 2006
  
  </sentence>
 </sentences>
+</case>/sentences>
+</case>icy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/219.html 
+ 
+ </sentence>
+</sentences>
+</case>/sentences>
 </case>

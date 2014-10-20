@@ -3,12 +3,12 @@
 <name>David Lambourne Yacht Rigging v Perry Catamarans (Receivers and Managers Appointed) [2006] FCA 887 (10 July 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/887.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">winding-up</catchphrase>
-<catchphrase "id=c1">consideration of an application for adjournment pursuant to s 440a(2) of the corporations act 2001 (cth) of a winding-up order</catchphrase>
-<catchphrase "id=c2">consideration of the meaning and approach to the phrase 'interests of the company's creditors' in an assessment of whether a company should continue under administration rather than be wound-up</catchphrase>
-<catchphrase "id=c3">consideration of whether s 440a(2) requires a community of interest</catchphrase>
-<catchphrase "id=c4">consideration of the onus under the section.</catchphrase>
-<catchphrase "id=c5">corporations</catchphrase>
+<catchphrase >winding-up</catchphrase>
+<catchphrase >consideration of an application for adjournment pursuant to s 440a(2) of the corporations act 2001 (cth) of a winding-up order</catchphrase>
+<catchphrase >consideration of the meaning and approach to the phrase 'interests of the company's creditors' in an assessment of whether a company should continue under administration rather than be wound-up</catchphrase>
+<catchphrase >consideration of whether s 440a(2) requires a community of interest</catchphrase>
+<catchphrase >consideration of the onus under the section.</catchphrase>
+<catchphrase >corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -116,7 +116,7 @@
 <sentence id="s76">Other creditors in support of the winding-up application also criticise the acceptance of goods and services by Mr Nunn on behalf of the respondent company in circumstances where, it is said, it must have been clear to Mr Nunn that the company had no capacity to pay the legitimate claims of third party creditors and no capacity to repay advances from Perry Holdings.</sentence>
 <sentence id="s77">In the result, unsecured creditors to the value of $1.4 million have not had their claims paid.</sentence>
 <sentence id="s78">21 The Administrators in their report express the view that it can not be said that the company was insolvent until the moment in time on 22 April 2006 when the secured creditors made an election not to continue to support the company.</sentence>
-<sentence id="s79">That view rests upon the assessment by the administrators of the observations of their Honours, Giles, Hodgson and McColl JJA in Lewis (as liq) of Doran Constructions Pty Ltd (in liq) and Anor v Doran &amp; Ors [2005] NSWCA 243.</sentence>
+<sentence id="s79">That view rests upon the assessment by the administrators of the observations of their Honours, Giles, Hodgson and McColl JJA in Lewis (as liq) of Doran Constructions Pty Ltd (in liq) and Anor v Doran amp; Ors [2005] NSWCA 243.</sentence>
 <sentence id="s80">In particular, in determining whether a company is solvent for the purposes of s 95A of the Act, regard must be had to the commercial or practical realities of inter-group financing.</sentence>
 <sentence id="s81">At [109] their Honours said:
  
@@ -286,4 +286,8 @@ Dated: 10 July 2006
  
  </sentence>
 </sentences>
-</case>
+</case>>html 
+ 
+ </sentence>
+</sentences>
+</case>>

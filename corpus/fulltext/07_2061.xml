@@ -3,12 +3,12 @@
 <name>Australian Competition and Consumer Commission v Navman Australia Pty Ltd [2007] FCA 2061 (21 December 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/2061.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">resale price maintenance</catchphrase>
-<catchphrase "id=c1">pecuniary penalties</catchphrase>
-<catchphrase "id=c2">multiple serious contraventions admitted</catchphrase>
-<catchphrase "id=c3">considerations where parties agree on penalties</catchphrase>
-<catchphrase "id=c4">whether penalties are in permissible range</catchphrase>
-<catchphrase "id=c5">trade practices</catchphrase>
+<catchphrase >resale price maintenance</catchphrase>
+<catchphrase >pecuniary penalties</catchphrase>
+<catchphrase >multiple serious contraventions admitted</catchphrase>
+<catchphrase >considerations where parties agree on penalties</catchphrase>
+<catchphrase >whether penalties are in permissible range</catchphrase>
+<catchphrase >trade practices</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -21,9 +21,9 @@
 <sentence id="s3">2 The proposed penalties are: 
  
  
- &#8226; Navman (Australia) Pty Limited (now known as Aus Holdco Pty Ltd) ("Navman") $1,250,000
- &#8226; Mr Baird $ 80,000
- &#8226; Mr King $ 30,000 
+ #8226; Navman (Australia) Pty Limited (now known as Aus Holdco Pty Ltd) ("Navman") $1,250,000
+ #8226; Mr Baird $ 80,000
+ #8226; Mr King $ 30,000 
  
  
  3 It is well established that there is a public interest in promoting the settlement of litigation, particularly where it is likely to be lengthy and expensive.</sentence>
@@ -96,33 +96,33 @@
 <sentence id="s53">23 Navman's aim in relation to the pricing of its PCN products was to avoid retail prices being driven down by discounting on the internet.</sentence>
 <sentence id="s54">24 The dealers to whom Navman's resale price maintenance conduct was directed were: 
 
-&#8226; Emjay Communications Pty Ltd ("Emjay") 
+#8226; Emjay Communications Pty Ltd ("Emjay") 
  
-&#8226; Corsair Pty Limited, trading as Alec's Marine Centre ("Alec's Marine") 
+#8226; Corsair Pty Limited, trading as Alec's Marine Centre ("Alec's Marine") 
  
-&#8226; Anntam Pty Limited trading as Hirecraft Marine ("Hirecraft Marine") 
+#8226; Anntam Pty Limited trading as Hirecraft Marine ("Hirecraft Marine") 
  
-&#8226; P D Bulbeck Pty Limited, trading as Bulbeck Marine ("Bulbeck") 
+#8226; P D Bulbeck Pty Limited, trading as Bulbeck Marine ("Bulbeck") 
  
-&#8226; Family Boats Pty Limited, trading as John Smale's Family Boat Centre ("Family Boats") 
+#8226; Family Boats Pty Limited, trading as John Smale's Family Boat Centre ("Family Boats") 
  
-&#8226; Oakum &amp; Hemp Pty Limited, trading as Glascraft Marine QLD ("Glascraft Marine") 
+#8226; Oakum amp; Hemp Pty Limited, trading as Glascraft Marine QLD ("Glascraft Marine") 
  
-&#8226; Challenge Marine Pty Limited ("Challenge Marine") 
+#8226; Challenge Marine Pty Limited ("Challenge Marine") 
  
-&#8226; C H Smith Marine Pty Limited ("C H Smith Marine") 
+#8226; C H Smith Marine Pty Limited ("C H Smith Marine") 
  
-&#8226; Brightpoint.</sentence>
+#8226; Brightpoint.</sentence>
 <sentence id="s55">(The full name of this entity was not provided; I will refer to it as "Brightpoint").</sentence>
 <sentence id="s56">
  25 Navman's conduct was in breach of s 48 of the Act because it consisted of acts of the kind referred to in s 96(3)(b) , (d) and (f).</sentence>
 <sentence id="s57">26 In summary, the breaches were: 
 
-&#8226; inducing or attempting to induce dealers not to sell goods at prices less than the price specified by Navman: s 96(3)(b) ;
+#8226; inducing or attempting to induce dealers not to sell goods at prices less than the price specified by Navman: s 96(3)(b) ;
  
-&#8226; withholding the supply of goods to dealers because the dealers were likely to sell the goods at prices less than those specified by Navman: s 96(3)(d) ; and
+#8226; withholding the supply of goods to dealers because the dealers were likely to sell the goods at prices less than those specified by Navman: s 96(3)(d) ; and
  
-&#8226; making statements of prices to dealers that were likely to be understood by the dealers as prices below which the goods were not to be sold: s 96(3)(f).</sentence>
+#8226; making statements of prices to dealers that were likely to be understood by the dealers as prices below which the goods were not to be sold: s 96(3)(f).</sentence>
 <sentence id="s58">
  27 Mr Baird was involved in Navman's contraventions, within the meaning of s 75B of the Act , insofar as the breaches related to price list communications sent to dealers in relation to Navman's marine products.</sentence>
 <sentence id="s59">28 Mr Baird was also involved in Navman's contraventions consisting of its conduct toward five of the marine dealers.</sentence>
@@ -576,4 +576,8 @@
  
  </sentence>
 </sentences>
+</case>ntences>
+</case>ence>
+</sentences>
+</case>ntences>
 </case>

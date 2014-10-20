@@ -3,15 +3,15 @@
 <name>Aurora Energy Pty Ltd v Commonwealth of Australia [2006] FCA 143 (24 February 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/143.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">workplace injury</catchphrase>
-<catchphrase "id=c1">rehabilitation program with host employer</catchphrase>
-<catchphrase "id=c2">wages paid by original employer</catchphrase>
-<catchphrase "id=c3">work trial agreement prepared by original employer and forwarded to host employer but not signed by the latter</catchphrase>
-<catchphrase "id=c4">second injury while worker working for host employer</catchphrase>
-<catchphrase "id=c5">common law action brought by worker against host employer</catchphrase>
-<catchphrase "id=c6">whether unsigned work trial agreements formed part of contract</catchphrase>
-<catchphrase "id=c7">whether construction of term in contract required original employer liable to indemnify host employer</catchphrase>
-<catchphrase "id=c8">contract</catchphrase>
+<catchphrase >workplace injury</catchphrase>
+<catchphrase >rehabilitation program with host employer</catchphrase>
+<catchphrase >wages paid by original employer</catchphrase>
+<catchphrase >work trial agreement prepared by original employer and forwarded to host employer but not signed by the latter</catchphrase>
+<catchphrase >second injury while worker working for host employer</catchphrase>
+<catchphrase >common law action brought by worker against host employer</catchphrase>
+<catchphrase >whether unsigned work trial agreements formed part of contract</catchphrase>
+<catchphrase >whether construction of term in contract required original employer liable to indemnify host employer</catchphrase>
+<catchphrase >contract</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -24,11 +24,11 @@
 <sentence id="s5">At all times Comcare paid him weekly compensation and other payments to which he was entitled under the SRC Act.</sentence>
 <sentence id="s6">The contribution of the Hydro to his wage in the respective periods was as follows:
  
-&#8226; 29 July 1996 to 31 October 1996 --- nil;
+#8226; 29 July 1996 to 31 October 1996 --- nil;
  
-&#8226; 12 November 1996 to 7 May 1997 --- 50 per cent;
+#8226; 12 November 1996 to 7 May 1997 --- 50 per cent;
  
-&#8226; 12 May 1997 to 14 October 1997 --- nil, other than training costs.</sentence>
+#8226; 12 May 1997 to 14 October 1997 --- nil, other than training costs.</sentence>
 <sentence id="s7">4 On 14 October 1997 Mr Fowle was injured as a result of a fall during a practical exercise in the course of his training with the Hydro.</sentence>
 <sentence id="s8">He has not returned to work with the Hydro, or APS.</sentence>
 <sentence id="s9">5 In 2000 Mr Fowle commenced an action in the Supreme Court of Tasmania claiming damages for personal injuries sustained in his fall.</sentence>
@@ -89,7 +89,7 @@ Enclosed with that letter was a document entitled "VRS Return to Work Program".<
 <sentence id="s37">In his covering fax of 27 July Mr Mihelcic asked Mr McVilly to get Mr Fowle and "the new employer" to sign it.</sentence>
 <sentence id="s38">However Mr McVilly on 30 July 1996 faxed back some suggested further amendments to which Mr Mihelcic faxed agreement on the same day.</sentence>
 <sentence id="s39">13 It is agreed between the parties that (i) there is no evidence that a copy of the Work Trial Agreement was signed by any party and that (ii) an unsigned copy was sent to the Hydro for consideration but there is no evidence that the Hydro approved or signed it or forwarded it to any party.</sentence>
-<sentence id="s40">In a subsequent fax dated 4 October 1996 to Mr Mihelcic, Mr McVilly states that the original Work Trial Agreement "was lost by Hydro &amp; officer concerned has himself been on WC leave!</sentence>
+<sentence id="s40">In a subsequent fax dated 4 October 1996 to Mr Mihelcic, Mr McVilly states that the original Work Trial Agreement "was lost by Hydro amp; officer concerned has himself been on WC leave!</sentence>
 <sentence id="s41">"
  
 14 From 29 July to 31 October 1996 Mr Fowle carried out various duties and tasks for the Hydro.</sentence>
@@ -229,7 +229,7 @@ Dated: 24 February 2006
 
  Counsel for the Plaintiff: D J Porter QC 
  
- Solicitors for the Plaintiff: Wallace, Wilkinson &amp; Webster 
+ Solicitors for the Plaintiff: Wallace, Wilkinson amp; Webster 
  
  Counsel for the Defendants: B Morgan 
  
@@ -247,4 +247,8 @@ Dated: 24 February 2006
  
  </sentence>
 </sentences>
-</case>
+</case>case>cth/FCA/2006/143.html 
+ 
+ </sentence>
+</sentences>
+</case>case>

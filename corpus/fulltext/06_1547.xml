@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <case>
-<name>SZFQW v Minister for Immigration &amp; Multicultural Affairs [2006] FCA 1547 (8 November 2006)</name>
+<name>SZFQW v Minister for Immigration amp; Multicultural Affairs [2006] FCA 1547 (8 November 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1547.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">protection visa</catchphrase>
-<catchphrase "id=c1">whether reviewable error</catchphrase>
-<catchphrase "id=c2">migration</catchphrase>
+<catchphrase >protection visa</catchphrase>
+<catchphrase >whether reviewable error</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -107,4 +107,5 @@ Dated: 16 November 2006
  
  </sentence>
 </sentences>
-</case>
+</case>></sentences>
+</case>>

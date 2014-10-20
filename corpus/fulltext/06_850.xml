@@ -3,10 +3,10 @@
 <name>Cadbury Schweppes Pty Ltd v Darrell Lea Chocolate Shops Pty Ltd (No 5) [2006] FCA 850 (6 July 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/850.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for indemnity costs</catchphrase>
-<catchphrase "id=c1">various grounds raised held</catchphrase>
-<catchphrase "id=c2">(i) the applicant's claim was not necessarily bound to fail;(ii) the discontinuance of an earlier proceeding in itself did not warrant indemnity costs;</catchphrase>
-<catchphrase "id=c3">costs</catchphrase>
+<catchphrase >application for indemnity costs</catchphrase>
+<catchphrase >various grounds raised held</catchphrase>
+<catchphrase >(i) the applicant's claim was not necessarily bound to fail;(ii) the discontinuance of an earlier proceeding in itself did not warrant indemnity costs;</catchphrase>
+<catchphrase >costs</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -65,7 +65,7 @@
 <sentence id="s35">In the present case Cadbury was obviously encouraged by the experts it had recruited.</sentence>
 <sentence id="s36">In the present case I held that most of this evidence was inadmissible: Cadbury Schweppes Pty Ltd v Darrell Lea Chocolate Shops Pty Ltd [2006] FCA 363.</sentence>
 <sentence id="s37">Judges of this Court and a learned commentator had previously expressed disquiet about evidence of this nature: Cat Media Pty Ltd v Opti-Healthcare Pty Ltd [2003] FCA 133 at [55] , Domain Names Australia Pty Ltd v .au Domain Administration Ltd [2004] FCAFC 247 ; (2004) 139 FCR 215 at [21] , Heydon, Cross on Evidence (7 th Australian ed, 2004) at 930.</sentence>
-<sentence id="s38">There had been no decision in this Court ruling directly that such evidence was inadmissible, although there had been English and Irish decisions to that effect: Dalgety Spillers Foods Ltd v Food Brokers Ltd [1994] FSR 504 at 527, Symonds Cider &amp; English Wine Company Ltd v Showerings (Ireland) Ltd [1997] IEHC 1 at [20] .</sentence>
+<sentence id="s38">There had been no decision in this Court ruling directly that such evidence was inadmissible, although there had been English and Irish decisions to that effect: Dalgety Spillers Foods Ltd v Food Brokers Ltd [1994] FSR 504 at 527, Symonds Cider amp; English Wine Company Ltd v Showerings (Ireland) Ltd [1997] IEHC 1 at [20] .</sentence>
 <sentence id="s39">So while a litigant properly advised should have realised that there were potential problems with evidence of this kind, it would be going too far to say that seeking to tender it demonstrated wilful disregard of clearly established law.</sentence>
 <sentence id="s40">Discontinuance of earlier proceeding 
  
@@ -114,7 +114,7 @@
 As Cadbury submits, this appears to amount to a denial that Darrell Lea used the shade claimed by Cadbury ("Cadbury purple") at all, even for Christmas 2000-2004.</sentence>
 <sentence id="s74">In the light of Darrell Lea's letter and par 29 of its defence it was reasonable for Cadbury to prepare for trial on the basis that it would have to prove Darrell Lea used "Cadbury purple", both at Christmas 2000-2004 and otherwise.</sentence>
 <sentence id="s75">19 In opening Cadbury's case senior counsel said that Pantone 2658C was "the central core purple that Cadbury is concerned with" (T10).</sentence>
-<sentence id="s76">Senior counsel produced a box of Darrell Lea Soft &amp; Hard Centres, subsequently tendered as exhibit V. The lid and a band around the top of the box were in a purple colour much the same as Pantone 2658C.</sentence>
+<sentence id="s76">Senior counsel produced a box of Darrell Lea Soft amp; Hard Centres, subsequently tendered as exhibit V. The lid and a band around the top of the box were in a purple colour much the same as Pantone 2658C.</sentence>
 <sentence id="s77">The remainder of the box was in a lilac colour, noticeably lighter than any of the colours in annexure A.</sentence>
 <sentence id="s78">It is this colour which Darrell Lea referred to as boysenberry.</sentence>
 <sentence id="s79">Senior counsel for Cadbury said (T11):
@@ -181,13 +181,13 @@ Later senior counsel said (T13) that an issue for determination would be what co
  
 31 On 21 September 2005, with the consent of the parties, I made directions as follows:
  
-&#8226; Cadbury evidence in chief to be filed by 18 November 2005;
+#8226; Cadbury evidence in chief to be filed by 18 November 2005;
  
-&#8226; Darrell Lea evidence in chief to be filed by 23 December 2005;
+#8226; Darrell Lea evidence in chief to be filed by 23 December 2005;
  
-&#8226; Cadbury evidence in reply to be filed by 20 January 2006; 
+#8226; Cadbury evidence in reply to be filed by 20 January 2006; 
  
-&#8226; Trial to commence on 20 March 2006.</sentence>
+#8226; Trial to commence on 20 March 2006.</sentence>
 <sentence id="s122">32 As detailed in the affidavit of Mr Anthony Watson filed 9 June 2006 par 31, Cadbury filed eight affidavits on 18 November, one on 21 November, four on 23 November and one on 1 December, 14 in all, of which four were from experts.</sentence>
 <sentence id="s123">33 On 23 December Darrell Lea's solicitors wrote to Cadbury's solicitors objecting to some of their experts' commentary on consumer studies carried out by third parties or by Cadbury and not by the experts themselves, particularly as the surveys themselves had not been proved by the person who conducted the surveys.</sentence>
 <sentence id="s124">On 9 January 2006 Cadbury's solicitors replied advising that all parts of their experts' affidavits would be relied on.</sentence>
@@ -241,4 +241,6 @@ Dated: 6 July 2006
  
  </sentence>
 </sentences>
-</case>
+</case>/case>>
+</sentences>
+</case>/case>

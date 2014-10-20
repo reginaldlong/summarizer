@@ -3,15 +3,15 @@
 <name>Australian Securities and Investments Commission v Citigroup Global Markets Australia Pty Limited (ACN 113 114832) (No. 2) [2007] FCA 121 (7 February 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/121.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">witnesses</catchphrase>
-<catchphrase "id=c1">order in which parties may question witnesses</catchphrase>
-<catchphrase "id=c2">where applicant seeks to call witnesses and then conduct cross-examination</catchphrase>
-<catchphrase "id=c3">where evidence includes transcripts of examinations</catchphrase>
-<catchphrase "id=c4">applicable principles</catchphrase>
-<catchphrase "id=c5">evidence act 1995 (cth), ss 26 , 193</catchphrase>
-<catchphrase "id=c6">australian securities and investments commissions act 2001 (cth), s 77</catchphrase>
-<catchphrase "id=c7">motion dismissed</catchphrase>
-<catchphrase "id=c8">evidence</catchphrase>
+<catchphrase >witnesses</catchphrase>
+<catchphrase >order in which parties may question witnesses</catchphrase>
+<catchphrase >where applicant seeks to call witnesses and then conduct cross-examination</catchphrase>
+<catchphrase >where evidence includes transcripts of examinations</catchphrase>
+<catchphrase >applicable principles</catchphrase>
+<catchphrase >evidence act 1995 (cth), ss 26 , 193</catchphrase>
+<catchphrase >australian securities and investments commissions act 2001 (cth), s 77</catchphrase>
+<catchphrase >motion dismissed</catchphrase>
+<catchphrase >evidence</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -24,10 +24,10 @@
 <sentence id="s4">By notice of motion filed on 29 January 2007, ASIC seeks orders pursuant to s 26 of the Evidence Act 1995 (Cth) that the witnesses be examined as follows:
  
  
- &#8226; ASIC to call each witness asking him only to identify himself;
- &#8226; Citigroup then to examine each witness using non-leading questions;
- &#8226; ASIC then to examine each witness and be permitted to ask leading questions;
- &#8226; Citigroup then to re-examine each witness using non-leading questions.</sentence>
+ #8226; ASIC to call each witness asking him only to identify himself;
+ #8226; Citigroup then to examine each witness using non-leading questions;
+ #8226; ASIC then to examine each witness and be permitted to ask leading questions;
+ #8226; Citigroup then to re-examine each witness using non-leading questions.</sentence>
 <sentence id="s5">
  
 
@@ -86,4 +86,8 @@ Dated: 7 February 2007
  
  </sentence>
 </sentences>
-</case>
+</case>ase>/cth/FCA/2007/121.html 
+ 
+ </sentence>
+</sentences>
+</case>ase>

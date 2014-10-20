@@ -3,9 +3,9 @@
 <name>Perananthasivam v Telstra Corporation Limited [2007] FCA 1584 (16 October 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1584.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">federal magistrates court strikes out part of disability discrimination claim and refuses to remove solicitors from acting for respondent</catchphrase>
-<catchphrase "id=c1">whether applicant would suffer substantial injustice if leave to appeal were refused</catchphrase>
-<catchphrase "id=c2">leave to appeal</catchphrase>
+<catchphrase >federal magistrates court strikes out part of disability discrimination claim and refuses to remove solicitors from acting for respondent</catchphrase>
+<catchphrase >whether applicant would suffer substantial injustice if leave to appeal were refused</catchphrase>
+<catchphrase >leave to appeal</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -312,7 +312,7 @@ His Honour remarked that the proceedings were not to be regarded as a forum for:
 <sentence id="s126">The order striking out, in part, the application to the Federal Magistrates Court is also interlocutory in character: Rana v University of South Australia [2004] FCA 559 ; (2004) 136 FCR 344, at 345-346 [6]-[15], per Lander J.</sentence>
 <sentence id="s127">24 The Federal Court has jurisdiction to hear and determine appeals from the Federal Magistrates Court exercising original jurisdiction under a law of the Commonwealth: Federal Court of Australia Act 1976 (Cth) (' Federal Court Act '), s 24(1)(d).</sentence>
 <sentence id="s128">Since the orders in the present case were interlocutory, leave of the Federal Court is required: Federal Court Act , s 24(1A).</sentence>
-<sentence id="s129">25 In determining whether leave should be granted, the Court applies two inter-related principles: D&eacute;cor Corporation Pty Ltd v Dart Industries Inc (1991) 33 FCR 397, at 398-399, per curiam ; Bienstein v Bienstein [2003] HCA 7 ; 195 ALR 225, at 231 [29], per curiam .</sentence>
+<sentence id="s129">25 In determining whether leave should be granted, the Court applies two inter-related principles: Deacute;cor Corporation Pty Ltd v Dart Industries Inc (1991) 33 FCR 397, at 398-399, per curiam ; Bienstein v Bienstein [2003] HCA 7 ; 195 ALR 225, at 231 [29], per curiam .</sentence>
 <sentence id="s130">The first is whether, in all the circumstances, the decision is attended with sufficient doubt to warrant its being reconsidered by the Full Court.</sentence>
 <sentence id="s131">The second is whether substantial injustice would result if leave were refused, supposing the decision to be wrong.</sentence>
 <sentence id="s132">The Application for Leave to Appeal from Judgment No 2 
@@ -438,11 +438,11 @@ His Honour remarked that the proceedings were not to be regarded as a forum for:
 <sentence id="s164">The substance of the case he wishes to put, as I followed his explanation, is this:
  
  
- &#8226; by reason of the inappropriate conduct of Telstra's managers on 9 February 2004, the applicant became disabled (that is, he suffered from the stress-related condition that led to him taking sick leave from 10 February 2004 until 3 May 2004);
- &#8226; from his return to work on 3 May 2004 (on a part-time basis) until the termination of his employment on 19 August 2004, Telstra imposed requirements and conditions on him that took no, or insufficient, account of his continuing disability and amounted to disability discrimination;
- &#8226; since the applicant was unable by reason of his disability to comply with these requirements and conditions, Telstra required him to participate in the PIP; 
- &#8226; the requirement for him to participate in the PIP was itself disability discrimination in contravention of the DD Act; and
- &#8226; the termination of the applicant's employment resulted from disability discrimination because it was a direct consequence of his refusal to participate in the PIP.</sentence>
+ #8226; by reason of the inappropriate conduct of Telstra's managers on 9 February 2004, the applicant became disabled (that is, he suffered from the stress-related condition that led to him taking sick leave from 10 February 2004 until 3 May 2004);
+ #8226; from his return to work on 3 May 2004 (on a part-time basis) until the termination of his employment on 19 August 2004, Telstra imposed requirements and conditions on him that took no, or insufficient, account of his continuing disability and amounted to disability discrimination;
+ #8226; since the applicant was unable by reason of his disability to comply with these requirements and conditions, Telstra required him to participate in the PIP; 
+ #8226; the requirement for him to participate in the PIP was itself disability discrimination in contravention of the DD Act; and
+ #8226; the termination of the applicant's employment resulted from disability discrimination because it was a direct consequence of his refusal to participate in the PIP.</sentence>
 <sentence id="s165">
  
  
@@ -540,4 +540,5 @@ Dated: 16 October 2007
  
  </sentence>
 </sentences>
-</case>
+</case>/case>tences>
+</case>/case>

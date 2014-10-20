@@ -3,11 +3,11 @@
 <name>SZGAZ v Minister for Immigration and Citizenship [2007] FCA 471 (3 April 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/471.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">protection visa</catchphrase>
-<catchphrase "id=c1">witness of credit</catchphrase>
-<catchphrase "id=c2">no persecution in recent years</catchphrase>
-<catchphrase "id=c3">no failure by tribunal to consider claims</catchphrase>
-<catchphrase "id=c4">migration</catchphrase>
+<catchphrase >protection visa</catchphrase>
+<catchphrase >witness of credit</catchphrase>
+<catchphrase >no persecution in recent years</catchphrase>
+<catchphrase >no failure by tribunal to consider claims</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -227,21 +227,21 @@ and
  
  
  
- &#61912; The LTTE will be waiting to catch and kill her because she deceived them by telling a lie; she had promised to stay with them until she died but she had left with Daniel, hid, went to Colombo and then to Australia.</sentence>
+ #61912; The LTTE will be waiting to catch and kill her because she deceived them by telling a lie; she had promised to stay with them until she died but she had left with Daniel, hid, went to Colombo and then to Australia.</sentence>
 <sentence id="s106">
  
  
  
  
  
- &#61912; She fears being tortured and killed by the LTTE as a traitor.</sentence>
+ #61912; She fears being tortured and killed by the LTTE as a traitor.</sentence>
 <sentence id="s107">
  
  
  
  
  
- &#61912; She also fears the army and being accused of being an LTTE operative.</sentence>
+ #61912; She also fears the army and being accused of being an LTTE operative.</sentence>
 <sentence id="s108">' 
  
  
@@ -431,4 +431,6 @@ Dated: 3 April 2007
  
  </sentence>
 </sentences>
-</case>
+</case>se></sentence>
+</sentences>
+</case>se>

@@ -3,10 +3,10 @@
 <name>Morton, in the matter of Robert William Morton (in hiscapacity as liquidator of Incentive Dynamics Pty Ltd) [2006] FCA 229 (7 March 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/229.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">winding up</catchphrase>
-<catchphrase "id=c1">liquidator</catchphrase>
-<catchphrase "id=c2">compromise of claim approved by court</catchphrase>
-<catchphrase "id=c3">corporations</catchphrase>
+<catchphrase >winding up</catchphrase>
+<catchphrase >liquidator</catchphrase>
+<catchphrase >compromise of claim approved by court</catchphrase>
+<catchphrase >corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -87,7 +87,7 @@ Dated: 17 March 2006
 
  Counsel for the Plaintiffs: D J Williams 
  
- Solicitor for the Plaintiffs: John Curtain &amp; Associates 
+ Solicitor for the Plaintiffs: John Curtain amp; Associates 
  
  Date of Hearing: 7 March 2006 
  
@@ -101,4 +101,6 @@ Dated: 17 March 2006
  
  </sentence>
 </sentences>
-</case>
+</case>>tence>
+</sentences>
+</case>>

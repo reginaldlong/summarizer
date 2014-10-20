@@ -3,11 +3,11 @@
 <name>Abrahams v Comcare [2006] FCA 1829 (6 December 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1829.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">judicial review</catchphrase>
-<catchphrase "id=c1">grounds of review</catchphrase>
-<catchphrase "id=c2">whether administrative appeals tribunal has jurisdiction to consider reformulated claim as to employment injury</catchphrase>
-<catchphrase "id=c3">whether proposed reformulation of claim vexatious</catchphrase>
-<catchphrase "id=c4">administrative law</catchphrase>
+<catchphrase >judicial review</catchphrase>
+<catchphrase >grounds of review</catchphrase>
+<catchphrase >whether administrative appeals tribunal has jurisdiction to consider reformulated claim as to employment injury</catchphrase>
+<catchphrase >whether proposed reformulation of claim vexatious</catchphrase>
+<catchphrase >administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -121,7 +121,7 @@
  
  
  
- 19(a) Have you claimed for the injury(ies) or illness(es) described in questions 17 &amp; 18?</sentence>
+ 19(a) Have you claimed for the injury(ies) or illness(es) described in questions 17 amp; 18?</sentence>
 <sentence id="s25">
  
  What was the approximate date(s) of the claim(s) 
@@ -195,25 +195,25 @@
  
  
  
- &#8226; the part of the body claimed to have been affected was "Right Hand and wrist"; 
+ #8226; the part of the body claimed to have been affected was "Right Hand and wrist"; 
  
  
  
  
  
- &#8226; the injury was said to have been sustained by "keyboard work, in particular use of numerical keyboard"; 
+ #8226; the injury was said to have been sustained by "keyboard work, in particular use of numerical keyboard"; 
  
  
  
  
  
- &#8226; the injury was said to have first happened or was first noticed on 1 June 2002; 
+ #8226; the injury was said to have first happened or was first noticed on 1 June 2002; 
  
  
  
  
  
- &#8226; the effect of the injury was said to be that it caused "pain and swelling in the right hand and wrist when typing, is often inflamed around the hand without doing anything.</sentence>
+ #8226; the effect of the injury was said to be that it caused "pain and swelling in the right hand and wrist when typing, is often inflamed around the hand without doing anything.</sentence>
 <sentence id="s42">Painful to lift/move objects with the right hand.</sentence>
 <sentence id="s43">Decrease in strength in hand"; 
  
@@ -221,14 +221,14 @@
  
  
  
- &#8226; Mr Abrahams answered "no" to the question "have you ever had a similar injury or illness before, work related or otherwise (even if you think it is unrelated to this injury or illness)?</sentence>
+ #8226; Mr Abrahams answered "no" to the question "have you ever had a similar injury or illness before, work related or otherwise (even if you think it is unrelated to this injury or illness)?</sentence>
 <sentence id="s44">"; and 
  
  
  
  
  
- &#8226; both medical reports in support of the application gave the diagnosis of carpal tunnel syndrome.</sentence>
+ #8226; both medical reports in support of the application gave the diagnosis of carpal tunnel syndrome.</sentence>
 <sentence id="s45">' 
  
  
@@ -416,4 +416,6 @@ Dated: 8 January 2007
  
  </sentence>
 </sentences>
-</case>
+</case></case>ntence>
+</sentences>
+</case></case>

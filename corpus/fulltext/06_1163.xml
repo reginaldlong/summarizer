@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <case>
-<name>Australian Securities &amp; Investments Commission; In the Matter of Lanepoint Enterprises Pty ltd ACN 110 693 251 v Lanepoint Enterprises Pty Ltd ACN 110 693 251; Australian Securities &amp; Investments Commission; In the Matter of Bowesco Pty Ltd ACN 008 915 357 (Receiver and Manager Appointed) v Bowesco Pty Ltd ACN 008 915 357 (Receiver and Manager Appointed) [2006] FCA 1163 (30 August 2006)</name>
+<name>Australian Securities amp; Investments Commission; In the Matter of Lanepoint Enterprises Pty ltd ACN 110 693 251 v Lanepoint Enterprises Pty Ltd ACN 110 693 251; Australian Securities amp; Investments Commission; In the Matter of Bowesco Pty Ltd ACN 008 915 357 (Receiver and Manager Appointed) v Bowesco Pty Ltd ACN 008 915 357 (Receiver and Manager Appointed) [2006] FCA 1163 (30 August 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1163.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">[2006] fca 1163</catchphrase>
+<catchphrase >[2006] fca 1163</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -30,7 +30,7 @@
 <sentence id="s16">The property charged was described as 'all the undertaking of [Lanepoint] ... relating to the development at 61 Great Eastern Highway, Western Australia and 2, 4 and 6 Armadale Road, Rivervale, Western Australia...'.</sentence>
 <sentence id="s17">The powers of the receivers were widely defined in the charge as including '... any right, power, authority, benefit or remedy of the Bank' under the charge or under legislation (see clause 18.5 read with the definition of 'Powers' in clause 1.1).</sentence>
 <sentence id="s18">Brian McMaster and Martin Madden of KordaMentha were appointed to Lanepoint as receivers and managers by Perpetual Nominees Limited on 9 March 2006 under a fixed and floating charge dated 10 May 2005.</sentence>
-<sentence id="s19">The property covered by the charge was described as 'All the chargor's interest in all of its property anywhere (real &amp; personal &amp; present and future) including its uncalled capital and its called but unpaid capital &amp; all the present and future rights, property &amp; undertaking of the chargor of whatever kind' .</sentence>
+<sentence id="s19">The property covered by the charge was described as 'All the chargor's interest in all of its property anywhere (real amp; personal amp; present and future) including its uncalled capital and its called but unpaid capital amp; all the present and future rights, property amp; undertaking of the chargor of whatever kind' .</sentence>
 <sentence id="s20">Messrs McMaster and Madden say they are not in possession or control of Lanepoint's property because of the prior appointment of Messrs Cronin and Fraser.</sentence>
 <sentence id="s21">The powers of a receiver appointed under the Perpetual charge are very widely defined in cl 10.3.</sentence>
 <sentence id="s22">Messrs Cronin and Fraser were appointed as receivers and managers over property of Bowesco by Suncorp-Metway on 3 April 2006.</sentence>
@@ -201,4 +201,4 @@ Dated: 30 August 2006
  
  </sentence>
 </sentences>
-</case>
+</case>/case>>/case>

@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <case>
-<name>NAZH v Minister for Immigration &amp; Multicultural Affairs(Corrigendum dated 19 February 2007) [2007] FCA 5 (11 January 2007)</name>
+<name>NAZH v Minister for Immigration amp; Multicultural Affairs(Corrigendum dated 19 February 2007) [2007] FCA 5 (11 January 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/5.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">migration</catchphrase>
-<catchphrase "id=c1">review of decisions</catchphrase>
-<catchphrase "id=c2">judicial review</catchphrase>
-<catchphrase "id=c3">grounds of review</catchphrase>
-<catchphrase "id=c4">jurisdictional errors</catchphrase>
-<catchphrase "id=c5">whether refugee review tribunal constructively failed to exercise jurisdiction</catchphrase>
-<catchphrase "id=c6">whether refugee review tribunal failed to consider integer of claim</catchphrase>
-<catchphrase "id=c7">citizenship and migration</catchphrase>
+<catchphrase >migration</catchphrase>
+<catchphrase >review of decisions</catchphrase>
+<catchphrase >judicial review</catchphrase>
+<catchphrase >grounds of review</catchphrase>
+<catchphrase >jurisdictional errors</catchphrase>
+<catchphrase >whether refugee review tribunal constructively failed to exercise jurisdiction</catchphrase>
+<catchphrase >whether refugee review tribunal failed to consider integer of claim</catchphrase>
+<catchphrase >citizenship and migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -230,7 +230,7 @@ Accordingly, the Tribunal Member considered all of the material submitted by the
 <sentence id="s132">ISSUES 
  
 31 At a general level, the question is whether the Tribunal had properly exercised its jurisdiction in determining whether the appellant had a well-founded fear of persecution for a Convention reason.</sentence>
-<sentence id="s133">More specifically, the issue is whether the Tribunal had in fact considered the totality of the appellant's circumstances, had in Allsop J's phrase in Paul v Minister for Immigration &amp; Multicultural Affairs [2001] FCA 1196 ; (2001) 64 ALD 289 at [79] , considered all the 'integers of the claim'.</sentence>
+<sentence id="s133">More specifically, the issue is whether the Tribunal had in fact considered the totality of the appellant's circumstances, had in Allsop J's phrase in Paul v Minister for Immigration amp; Multicultural Affairs [2001] FCA 1196 ; (2001) 64 ALD 289 at [79] , considered all the 'integers of the claim'.</sentence>
 <sentence id="s134">That question might also involve whether the issue complained of by the appellant as not having been addressed was sufficiently clearly raised before the Tribunal.</sentence>
 <sentence id="s135">SUBMISSIONS 
  Appellant's submissions 
@@ -271,7 +271,7 @@ While that name did not actually appear in the Federal Court Judge's decision, i
 <sentence id="s158">In the light of the parents' (mistaken) claim that that dissident group supporter's name had appeared in the Federal Court judgment, it was submitted that the Tribunal Member was required to determine whether that person had in fact been so named, and if so, whether the earlier Tribunal's reasoning (in the parents' case) in relation to that person remained valid.</sentence>
 <sentence id="s159">The Tribunal Member's failure to identify the mistaken claim, despite the extensive consideration that was given to the dissident group supporter's role in the earlier Tribunal decision, was said to show the lack of consideration that the Tribunal Member gave to the substance of the appellant's claims.</sentence>
 <sentence id="s160">38 Whether the publication on the internet was likely to have been accessed by the father's ethnic community in the capital city was not a matter with which the Court should be concerned.</sentence>
-<sentence id="s161">The appellant argued that the majority decision in SAAP v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2005] HCA 24 ; (2005) 215 ALR 162 held that, once a jurisdictional error has been established, there is no requirement that the error be shown to have caused actual unfairness or otherwise be material: per McHugh J at [82]-[84]; Kirby J at [175]-[176] and Hayne J at [211].</sentence>
+<sentence id="s161">The appellant argued that the majority decision in SAAP v Minister for Immigration amp; Multicultural amp; Indigenous Affairs [2005] HCA 24 ; (2005) 215 ALR 162 held that, once a jurisdictional error has been established, there is no requirement that the error be shown to have caused actual unfairness or otherwise be material: per McHugh J at [82]-[84]; Kirby J at [175]-[176] and Hayne J at [211].</sentence>
 <sentence id="s162">Respondent's submissions 
  
 39 The respondent submitted that it was misleading to contend, without qualification, that the appellant's parents' case had in fact been published on the internet.</sentence>
@@ -297,9 +297,9 @@ While that name did not actually appear in the Federal Court Judge's decision, i
 44 At first sight, given the seemingly innocuous nature of what the Judge wrote and which was published on the internet, there is much to be said for the view taken by the learned Federal Magistrate.</sentence>
 <sentence id="s181">However, in my opinion, the appellant's father sufficiently clearly asserted a claim that:
  
-&#8226; the appellant would suffer harm at the hands of members of the community in his parents' country of origin (through harm that the parents would suffer); and
+#8226; the appellant would suffer harm at the hands of members of the community in his parents' country of origin (through harm that the parents would suffer); and
  
-&#8226; by reason of his father acquiring a reputation as a traitor from what had appeared on the internet.</sentence>
+#8226; by reason of his father acquiring a reputation as a traitor from what had appeared on the internet.</sentence>
 <sentence id="s182">45 This was materially different from a mere possibility that the fact of their unsuccessful application for refugee status here would alone cause the parents difficulties.</sentence>
 <sentence id="s183">46 It was that latter possibility alone that the Tribunal Member negatived.</sentence>
 <sentence id="s184">He negatived it by reference to 'independent' materials (actually from the Australian government itself).</sentence>
@@ -365,4 +365,8 @@ Dated: 29 January 2007
  
  </sentence>
 </sentences>
-</case>
+</case>/case>A/2007/5.html 
+ 
+ </sentence>
+</sentences>
+</case>/case>

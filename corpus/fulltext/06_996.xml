@@ -3,11 +3,11 @@
 <name>MZWKU v Minister for Immigration and Multicultural Affairs [2006] FCA 996 (4 August 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/996.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">refugee review tribunal refused to grant protection visa</catchphrase>
-<catchphrase "id=c1">tribunal failed to have letters translated</catchphrase>
-<catchphrase "id=c2">whether a failure to take into account a relevant consideration or relevant material</catchphrase>
-<catchphrase "id=c3">whether a failure to accord procedural fairness.</catchphrase>
-<catchphrase "id=c4">migration law</catchphrase>
+<catchphrase >refugee review tribunal refused to grant protection visa</catchphrase>
+<catchphrase >tribunal failed to have letters translated</catchphrase>
+<catchphrase >whether a failure to take into account a relevant consideration or relevant material</catchphrase>
+<catchphrase >whether a failure to accord procedural fairness.</catchphrase>
+<catchphrase >migration law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -72,13 +72,13 @@
 
 The "problems" in the third sentence refer to the reasons the Tribunal had already given for finding that the appellant was never
  
-&#8226; a member of the Janatha Vimukthi Peramuna (JVP) (the party suspected in the bombing)
+#8226; a member of the Janatha Vimukthi Peramuna (JVP) (the party suspected in the bombing)
  
-&#8226; arrested or harmed in relation to the bombing 
+#8226; arrested or harmed in relation to the bombing 
  
-&#8226; suspected of being involved in the JVP in any way, and
+#8226; suspected of being involved in the JVP in any way, and
  
-&#8226; imputed with a political belief that he was a member or supporter of the JVP or any other political party.</sentence>
+#8226; imputed with a political belief that he was a member or supporter of the JVP or any other political party.</sentence>
 <sentence id="s40">12 Apart from the complaint about the untranslated letters, the first two grounds of appeal do not contest the findings recorded at [11].</sentence>
 <sentence id="s41">13 A Tribunal is required to take into account a relevant consideration only if what is put forward as the consideration is something it is bound to take into account in making its decision.</sentence>
 <sentence id="s42">In Paul v Minister for Immigration and Multicultural Affairs [2001] FCA 1196 ; (2001) 113 FCR 396 at [78] - [79] Allsop J, with whom Heerey J agreed, said:
@@ -196,4 +196,6 @@ Dated: 4 August 2006
  
  </sentence>
 </sentences>
-</case>
+</case>ase>/sentence>
+</sentences>
+</case>ase>

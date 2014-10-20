@@ -3,12 +3,12 @@
 <name>Australian Agricultural Company Limited v AMP Life Limited [2006] FCA 371 (6 April 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/371.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">discovery</catchphrase>
-<catchphrase "id=c1">legal professional privilege</catchphrase>
-<catchphrase "id=c2">waiver of privilege</catchphrase>
-<catchphrase "id=c3">communication of legal advice to third party</catchphrase>
-<catchphrase "id=c4">whether legal advice a factor influencing state of mind</catchphrase>
-<catchphrase "id=c5">practice and procedure</catchphrase>
+<catchphrase >discovery</catchphrase>
+<catchphrase >legal professional privilege</catchphrase>
+<catchphrase >waiver of privilege</catchphrase>
+<catchphrase >communication of legal advice to third party</catchphrase>
+<catchphrase >whether legal advice a factor influencing state of mind</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -77,7 +77,7 @@
  
  
  
- (d) before the First Respondent by its agent the Second Respondent, accepted the Nebo bid, Derwin spoke with Mr Holmes &agrave; Court of the Applicant on 5 September 2003 and asked him twice whether the applicant was able to increase its offer, to which Mr Holmes &agrave; Court respondent on both occasions that the Applicant was not able to do so.</sentence>
+ (d) before the First Respondent by its agent the Second Respondent, accepted the Nebo bid, Derwin spoke with Mr Holmes agrave; Court of the Applicant on 5 September 2003 and asked him twice whether the applicant was able to increase its offer, to which Mr Holmes agrave; Court respondent on both occasions that the Applicant was not able to do so.</sentence>
 <sentence id="s27">
  
  
@@ -102,8 +102,8 @@
 12 AACo submits that where a party propounds a positive case that it possessed a certain state of mind, it opens up for examination and testing by the Court any evidence as to its actual state of mind.</sentence>
 <sentence id="s32">AACo submits that a defence which specifically invokes a positive state of mind is inconsistent with the maintenance of privilege over documents which contributed to that state of mind.</sentence>
 <sentence id="s33">As a consequence, AACo submits AMP has necessarily waived privilege in relation to its legal advice.</sentence>
-<sentence id="s34">AACo relies upon Ampolex Ltd v Perpetual Trustee Co (Canberra) Ltd (1995) 37 NSWLR 405 at 411; Telstra Corporation Ltd &amp; Anor v BT Australasia Pty Ltd &amp; Anor (1998) 85 FCR 152 at 166-7; Fort Dodge Australia Pty Ltd v Nature Vet Pty Ltd [2002] FCA 501 at [11] ; BP Australia Pty Ltd v Nyran Pty Ltd [2002] FCA 1302 at [17] ; Rio Tinto Ltd v Commissioner of Taxation [2005] FCA 1336 at [40] ---[42].</sentence>
-<sentence id="s35">13 AACo submits that the majority judgment in Telstra Corporation remains good law and relies upon Perpetual Trustees (WA) Ltd v Equuscorp Pty Limited [1999] FCA 925 at [16] and DSE Holdings Pty Limited v Intertan Inc &amp; Anor [2003] FCA 384.</sentence>
+<sentence id="s34">AACo relies upon Ampolex Ltd v Perpetual Trustee Co (Canberra) Ltd (1995) 37 NSWLR 405 at 411; Telstra Corporation Ltd amp; Anor v BT Australasia Pty Ltd amp; Anor (1998) 85 FCR 152 at 166-7; Fort Dodge Australia Pty Ltd v Nature Vet Pty Ltd [2002] FCA 501 at [11] ; BP Australia Pty Ltd v Nyran Pty Ltd [2002] FCA 1302 at [17] ; Rio Tinto Ltd v Commissioner of Taxation [2005] FCA 1336 at [40] ---[42].</sentence>
+<sentence id="s35">13 AACo submits that the majority judgment in Telstra Corporation remains good law and relies upon Perpetual Trustees (WA) Ltd v Equuscorp Pty Limited [1999] FCA 925 at [16] and DSE Holdings Pty Limited v Intertan Inc amp; Anor [2003] FCA 384.</sentence>
 <sentence id="s36">14 In respect of the second ground for waiver of legal professional privilege, AACo submits that by disclosing otherwise privileged documents to Rabo in the course of the tender process, AMP waived its privilege in respect of that advice, since its disclosure to Rabo was not made for the purpose of obtaining legal advice on a confidential basis.</sentence>
 <sentence id="s37">.</sentence>
 <sentence id="s38">AMP'S SUBMISSIONS 
@@ -188,9 +188,9 @@ Hely J determined that the pleading of the state of mind was inconsistent 'with 
 <sentence id="s79">The inconsistency arises from the combination of the following three facts: 
  
  
- &#8226; the respondent has, by his Statement, raised as an issue in the instant proceedings his states of mind; 
- &#8226; the respondent has, by his response to the applicant's request for particulars of his Statement, disclosed that the privileged scheduled documents had a bearing on those states of mind; and 
- &#8226; the respondent has refused to produce those documents in answer to the first notice to produce.</sentence>
+ #8226; the respondent has, by his Statement, raised as an issue in the instant proceedings his states of mind; 
+ #8226; the respondent has, by his response to the applicant's request for particulars of his Statement, disclosed that the privileged scheduled documents had a bearing on those states of mind; and 
+ #8226; the respondent has refused to produce those documents in answer to the first notice to produce.</sentence>
 <sentence id="s80">' 
  
  
@@ -250,4 +250,9 @@ Dated: 6 April 2006
  
  </sentence>
 </sentences>
+</case>
+</case>
+ </sentence>
+</sentences>
+</case>
 </case>

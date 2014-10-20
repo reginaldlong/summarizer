@@ -3,9 +3,9 @@
 <name>David Robert Siminton v Australian Prudential Regulation Authority [2006] FCA 1398 (25 October 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1398.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for leave to appeal from an interlocutory judgment dismissing motion to stay or summarily dismiss proceeding</catchphrase>
-<catchphrase "id=c1">whether interlocutory judgment attended with sufficient doubt to warrant leave being granted.</catchphrase>
-<catchphrase "id=c2">practice and procedure</catchphrase>
+<catchphrase >application for leave to appeal from an interlocutory judgment dismissing motion to stay or summarily dismiss proceeding</catchphrase>
+<catchphrase >whether interlocutory judgment attended with sufficient doubt to warrant leave being granted.</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -75,7 +75,7 @@ Dated: 25 October 2006
 
  Counsel for the Applicant: Mr D Sharp 
  
- Solicitor for the Applicant: Erhardt &amp; Associates 
+ Solicitor for the Applicant: Erhardt amp; Associates 
  
  Counsel for the Respondent: Mr S Hibble 
  
@@ -96,4 +96,5 @@ Dated: 25 October 2006
  
  </sentence>
 </sentences>
-</case>
+</case>></sentences>
+</case>>

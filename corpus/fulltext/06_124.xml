@@ -3,12 +3,12 @@
 <name>Australian Nursing Federation v St Francis Xavier Cabrini Hospital Governing Board Inc [2006] FCA 124 (24 February 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/124.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">award interpretation</catchphrase>
-<catchphrase "id=c1">obligation to pay public holiday rates for actual days and additional or substituted days when christmas day, boxing day and new year's day fall on weekend days</catchphrase>
-<catchphrase "id=c2">intention of award maker</catchphrase>
-<catchphrase "id=c3">admissibility of documents and transcript evidencing intent of award maker</catchphrase>
-<catchphrase "id=c4">industrial law</catchphrase>
-<catchphrase "id=c5">evidence</catchphrase>
+<catchphrase >award interpretation</catchphrase>
+<catchphrase >obligation to pay public holiday rates for actual days and additional or substituted days when christmas day, boxing day and new year's day fall on weekend days</catchphrase>
+<catchphrase >intention of award maker</catchphrase>
+<catchphrase >admissibility of documents and transcript evidencing intent of award maker</catchphrase>
+<catchphrase >industrial law</catchphrase>
+<catchphrase >evidence</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -46,7 +46,7 @@
 <sentence id="s22">11 Clause 24 of the Award is headed "PUBLIC HOLIDAYS".</sentence>
 <sentence id="s23">Sub-clause 24.1 entitles nurses to holidays on the following days:
  
- &#8226; New Year's Day; &#8226; Good Friday; &#8226; Easter Saturday; &#8226; Easter Monday; &#8226; Christmas Day; &#8226; Boxing Day; &#8226; Australia Day; &#8226; Anzac Day; &#8226; Queens Birthday; &#8226; Labour Day; and &#8226; Melbourne Cup Day or an alternative day in a locality outside Melbourne.</sentence>
+ #8226; New Year's Day; #8226; Good Friday; #8226; Easter Saturday; #8226; Easter Monday; #8226; Christmas Day; #8226; Boxing Day; #8226; Australia Day; #8226; Anzac Day; #8226; Queens Birthday; #8226; Labour Day; and #8226; Melbourne Cup Day or an alternative day in a locality outside Melbourne.</sentence>
 <sentence id="s24">
 
 12 The clause then makes a particular provision for nurses who are employed in "wards/units or services" which operate only on a Monday to Friday basis.</sentence>
@@ -205,4 +205,8 @@ Dated: 24 February 2006
  
  </sentence>
 </sentences>
+</case>es>
+</case>/sentence>
+</sentences>
+</case>es>
 </case>

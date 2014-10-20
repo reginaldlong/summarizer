@@ -3,11 +3,11 @@
 <name>Unilin Beeher BV v Huili Building Materials Pty Ltd (No 2) [2007] FCA 1615 (24 October 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1615.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">account of profits</catchphrase>
-<catchphrase "id=c1">apportionment between respondents</catchphrase>
-<catchphrase "id=c2">approach to be followed where evidence unclear as to the financial dealings of the respondents</catchphrase>
-<catchphrase "id=c3">right to set off between respondents.</catchphrase>
-<catchphrase "id=c4">patent infringement</catchphrase>
+<catchphrase >account of profits</catchphrase>
+<catchphrase >apportionment between respondents</catchphrase>
+<catchphrase >approach to be followed where evidence unclear as to the financial dealings of the respondents</catchphrase>
+<catchphrase >right to set off between respondents.</catchphrase>
+<catchphrase >patent infringement</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -21,7 +21,7 @@
 <sentence id="s4">A Mr Zhang, solicitor, appeared for the first to fourth respondents.</sentence>
 <sentence id="s5">Orders were made that all respondents file and serve fully particularised defences and any cross-claims by 24 February 2006.</sentence>
 <sentence id="s6">The proceeding was listed for directions on 7 March 2006.</sentence>
-<sentence id="s7">3 On the previous day, 12 December 2005, Mr Michael Soulos of Spanko Soulos &amp; Co caused a notice of appearance to be filed on behalf of the fifth respondent.</sentence>
+<sentence id="s7">3 On the previous day, 12 December 2005, Mr Michael Soulos of Spanko Soulos amp; Co caused a notice of appearance to be filed on behalf of the fifth respondent.</sentence>
 <sentence id="s8">4 No notice of appearance was ever filed by Mr Zhang, though he and/or his firm proceeded to act for the other respondents as described below.</sentence>
 <sentence id="s9">5 On 23 February 2006, a defence of the fifth respondent was filed.</sentence>
 <sentence id="s10">The defence, in effect, confessed and avoided.</sentence>
@@ -848,11 +848,11 @@
  
  Effect of Lawsuit on First to Fourth Respondents 
  
- &#61912; The lawsuit have such affected the financial outcome of the First to Fourth Respondent from September 2003 to the year ending 30 June 2006 that we have no alternative but for liquidation.</sentence>
+ #61912; The lawsuit have such affected the financial outcome of the First to Fourth Respondent from September 2003 to the year ending 30 June 2006 that we have no alternative but for liquidation.</sentence>
 <sentence id="s456">Early profits made from sale of infringing floor panels and other sales, i.e.</sentence>
 <sentence id="s457">in 2004-2005, have been completely overwritten by the expenses outlined in (a) and (b) above.</sentence>
 <sentence id="s458">
- &#61912; As a consequence of the lawsuit operational activities have commanded huge losses due to dramatic decline in sales and inventory, evidenced in the Exhibit -4 and Exhibit-5 for Statement of Financial Performance 2004-05 for both First and Fourth Respondents.</sentence>
+ #61912; As a consequence of the lawsuit operational activities have commanded huge losses due to dramatic decline in sales and inventory, evidenced in the Exhibit -4 and Exhibit-5 for Statement of Financial Performance 2004-05 for both First and Fourth Respondents.</sentence>
 <sentence id="s459">This was because we have terminated our imports from Huili Shanghai Group.</sentence>
 <sentence id="s460">As a result we were forced to resort to unstable sources to inventory with differences in quality of floor panels.</sentence>
 <sentence id="s461">This ahs caused many problems in inventory flow and incurs invaluable loss of consumer confidence and trust in the delivery and quality of inventory.</sentence>
@@ -976,8 +976,8 @@
 <sentence id="s535">Applicable principles 
  
 70 An account of profits is an alternative remedy to damages: see Patents Act 1990 , s 122(1).</sentence>
-<sentence id="s536">Its purpose is not to compensate the patentee, nor to punish the infringer, but rather to prevent the unjust enrichment of the infringer at the expense of the patentee: Dart Industries Inc v D&eacute;cor Corporation Pty Ltd [1993] HCA 54 ; (1993) 179 CLR 101 at 110-111.</sentence>
-<sentence id="s537">By reference to the judgment in Dart v D&eacute;cor [1993] HCA 54 ; 179 CLR 101 and the cases there cited, I have approached the calculation of the account of profits in this case on the following basis.</sentence>
+<sentence id="s536">Its purpose is not to compensate the patentee, nor to punish the infringer, but rather to prevent the unjust enrichment of the infringer at the expense of the patentee: Dart Industries Inc v Deacute;cor Corporation Pty Ltd [1993] HCA 54 ; (1993) 179 CLR 101 at 110-111.</sentence>
+<sentence id="s537">By reference to the judgment in Dart v Deacute;cor [1993] HCA 54 ; 179 CLR 101 and the cases there cited, I have approached the calculation of the account of profits in this case on the following basis.</sentence>
 <sentence id="s538">The infringers should account for the actual profit that they have gained from the infringement.</sentence>
 <sentence id="s539">In calculating those profits, it is appropriate to deduct costs directly attributable to selling and delivering infringing articles from the revenue made from such sales and deliveries.</sentence>
 <sentence id="s540">It may be appropriate to deduct a proportion of general overhead costs such as plant, equipment and managerial costs.</sentence>
@@ -1131,7 +1131,7 @@
 <sentence id="s641">Hence, I have concluded that interest on the second and third respondents' liability should be for $133,646 from 28 February 2005, $37,325 from 30 March 2005, $83,089 from 30 November 2005 and $54 from 30 June 2006; for the fourth respondent $37,325 from 30 March 2005; for the first respondent $83,089 from 30 November 2005; and for the sixth respondent, $54 from 30 June 2006.</sentence>
 <sentence id="s642">92 Making those calculations involves the following sub-calcualtions:
  
- Second &amp; Third Respondent: 
+ Second amp; Third Respondent: 
  
  $133,646 + $36,836.18 = $170,482.18
  $37,325 + $9,954.58 = $47,279.58
@@ -1189,4 +1189,6 @@ Dated: 24 October 2007
  
  </sentence>
 </sentences>
-</case>
+</case>/case>entence>
+</sentences>
+</case>/case>

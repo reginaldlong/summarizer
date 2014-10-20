@@ -3,16 +3,16 @@
 <name>Austal Ships Pty Ltd (ACN 079 160 679) v Thurlow [2006] FCA 1219 (7 September 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1219.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">preliminary discovery</catchphrase>
-<catchphrase "id=c1">to ascertain prospective respondents</catchphrase>
-<catchphrase "id=c2">to ascertain whether right to obtain relief</catchphrase>
-<catchphrase "id=c3">confidential internal research report</catchphrase>
-<catchphrase "id=c4">procured by employee of competitor</catchphrase>
-<catchphrase "id=c5">published to third parties to disparage applicant's product</catchphrase>
-<catchphrase "id=c6">former employee of applicant now working for competitor</catchphrase>
-<catchphrase "id=c7">criteria for preliminary discovery satisfied</catchphrase>
-<catchphrase "id=c8">orders made</catchphrase>
-<catchphrase "id=c9">practice and procedure</catchphrase>
+<catchphrase >preliminary discovery</catchphrase>
+<catchphrase >to ascertain prospective respondents</catchphrase>
+<catchphrase >to ascertain whether right to obtain relief</catchphrase>
+<catchphrase >confidential internal research report</catchphrase>
+<catchphrase >procured by employee of competitor</catchphrase>
+<catchphrase >published to third parties to disparage applicant's product</catchphrase>
+<catchphrase >former employee of applicant now working for competitor</catchphrase>
+<catchphrase >criteria for preliminary discovery satisfied</catchphrase>
+<catchphrase >orders made</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -56,7 +56,7 @@
 <sentence id="s33">Lateral force estimator (LFE), being a measure of the force in plane with the deck that is an indicator of the force creating a loss of balance of a standing person.</sentence>
 <sentence id="s34">This was said to be a function of the vessel's roll, sway and yaw and was calculated at the centre of the main passenger deck.</sentence>
 <sentence id="s35">Roll, which was the estimated rms value of ship roll.</sentence>
-<sentence id="s36">Limiting motion criteria chosen were: MSI 10% over 2 hrs LFE 0.05m (rms) Roll angle 3&#176; (rms) 
+<sentence id="s36">Limiting motion criteria chosen were: MSI 10% over 2 hrs LFE 0.05m (rms) Roll angle 3#176; (rms) 
 
  The two vessels whose characteristics were used for the comparative analysis were a proposed 101m Auto Express Austal Catamaran and a 126m Trimaran.</sentence>
 <sentence id="s37">The characteristics of each in terms of length, displacement and speed were set out in a table.</sentence>
@@ -360,4 +360,8 @@ Dated: 7 September 2006
  
  </sentence>
 </sentences>
-</case>
+</case>>/au/cases/cth/FCA/2006/1219.html 
+ 
+ </sentence>
+</sentences>
+</case>>

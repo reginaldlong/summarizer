@@ -3,9 +3,9 @@
 <name>Keycorp Limited v Commissioner of Taxation [2007] FCA 41 (7 February 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/41.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">meaning of 'part of a loss' in loss transfer provisions</catchphrase>
-<catchphrase "id=c1">part of a loss does not include loss calculation by reference to part of the year.</catchphrase>
-<catchphrase "id=c2">income tax</catchphrase>
+<catchphrase >meaning of 'part of a loss' in loss transfer provisions</catchphrase>
+<catchphrase >part of a loss does not include loss calculation by reference to part of the year.</catchphrase>
+<catchphrase >income tax</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -22,10 +22,10 @@
  The principal activities of KYC and its subsidiaries are: 
  
  
- &#8226; Research, development and sales of devices and systems to allow secure electronic payments and transactions at the point-of-sale; 
- &#8226; Service solutions (including installation, maintenance, help desk support, logistics and asset management services for point-of-sale terminals and automatic teller machines; 
- &#8226; Research, development and sales of smartcard technology, including licensing of operating systems and applications for smartcards; and 
- &#8226; Marketing and sales of secure transaction network solutions.</sentence>
+ #8226; Research, development and sales of devices and systems to allow secure electronic payments and transactions at the point-of-sale; 
+ #8226; Service solutions (including installation, maintenance, help desk support, logistics and asset management services for point-of-sale terminals and automatic teller machines; 
+ #8226; Research, development and sales of smartcard technology, including licensing of operating systems and applications for smartcards; and 
+ #8226; Marketing and sales of secure transaction network solutions.</sentence>
 <sentence id="s6">
  
  
@@ -110,8 +110,8 @@ At the end of the section of the ruling entitled "THE SUBJECT OF THE RULING" whi
 
 5 Two assumptions were made in the ruling as follows:
  
- "&#8226; The taxpayer will apply for a Commissioner's discretion for additional time to enter into a valid loss transfer agreement pursuant to section 170-50(2)(d) of the ITAA 1997 ;and 
- &#8226; The Commissioner will grant that additional time to make the loss transfer.</sentence>
+ "#8226; The taxpayer will apply for a Commissioner's discretion for additional time to enter into a valid loss transfer agreement pursuant to section 170-50(2)(d) of the ITAA 1997 ;and 
+ #8226; The Commissioner will grant that additional time to make the loss transfer.</sentence>
 <sentence id="s38">" 
  
  
@@ -324,9 +324,9 @@ The definition of the phrase "loss year" in s 995-1 takes one, relevantly, back 
  
  175-10 
  (1) The Commissioner may disallow the *excluded loss if, during the income year, the company *derived assessable income, or a *capital gain accrued to the company, some or all of which (the injected amount ) would not have been derived, or would not have accrued, if the excluded loss had not been available to be taken into account for the purposes of: 
- &#8226; Division 36 (which is about tax losses of earlier years); 
- &#8226; Division 165 (which is about the income tax consequences of changing ownership or control of a company); 
- &#8226; Subdivision 375-G (which is about film losses).</sentence>
+ #8226; Division 36 (which is about tax losses of earlier years); 
+ #8226; Division 165 (which is about the income tax consequences of changing ownership or control of a company); 
+ #8226; Subdivision 375-G (which is about film losses).</sentence>
 <sentence id="s110">
  
  (2) However, the Commissioner cannot disallow the *excluded loss if the *continuing shareholders will benefit from the derivation or accrual of the *injected amount to an extent that the Commissioner thinks fair and reasonable having regard to their respective rights and interests in the company.</sentence>
@@ -615,15 +615,15 @@ The definition of the phrase "loss year" in s 995-1 takes one, relevantly, back 
  
  Step 3.</sentence>
 <sentence id="s263">Work out the taxable income for the year of the change by adding up: 
- &#8226; each notional taxable income; and 
- &#8226; any full year amounts (amounts of assessable income not taken into account at Step 2); 
+ #8226; each notional taxable income; and 
+ #8226; any full year amounts (amounts of assessable income not taken into account at Step 2); 
  and then subtracting any full year deductions (deductions not taken into account at Step 2).</sentence>
 <sentence id="s264">
  
  (2) As well as a taxable income, the company will have a tax loss.</sentence>
 <sentence id="s265">It is the total of: 
- &#8226; each notional loss; and 
- &#8226; excess full year deductions of particular kinds.</sentence>
+ #8226; each notional loss; and 
+ #8226; excess full year deductions of particular kinds.</sentence>
 <sentence id="s266">
  (3) Special rules apply if the company was in partnership at some time during the income year.</sentence>
 <sentence id="s267">" 
@@ -719,4 +719,7 @@ Dated: 7 February 2007
  
  </sentence>
 </sentences>
+</case>nces>
+</case>
+</case>nces>
 </case>

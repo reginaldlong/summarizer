@@ -3,12 +3,12 @@
 <name>Jakab v Repatriation Commission [2007] FCA 898 (13 June 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/898.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from a decision of the administrative appeals tribunal</catchphrase>
-<catchphrase "id=c1">consideration of whether the applicant contracted a defence-caused disease, namely, meniere's disease</catchphrase>
-<catchphrase "id=c2">reference to the statement of principles</catchphrase>
-<catchphrase "id=c3">reference to the standard of proof</catchphrase>
-<catchphrase "id=c4">discussion of s 119(1)(h) of the veterans' entitlements act 1986 (cth)</catchphrase>
-<catchphrase "id=c5">veterans affairs</catchphrase>
+<catchphrase >appeal from a decision of the administrative appeals tribunal</catchphrase>
+<catchphrase >consideration of whether the applicant contracted a defence-caused disease, namely, meniere's disease</catchphrase>
+<catchphrase >reference to the statement of principles</catchphrase>
+<catchphrase >reference to the standard of proof</catchphrase>
+<catchphrase >discussion of s 119(1)(h) of the veterans' entitlements act 1986 (cth)</catchphrase>
+<catchphrase >veterans affairs</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -27,7 +27,7 @@
 <sentence id="s10">Of course, neither of those contentions properly formulate a question of law for determination in the appeal.</sentence>
 <sentence id="s11">The obligation cast upon an applicant pursuant to s 44(1) is to identify the question of law arising out of the decision of the AAT to be resolved by the Federal Court of Australia which is said to reflect an error of law.</sentence>
 <sentence id="s12">Formulating the question of law as a contention in terms of high level of abstraction such as a failure to take into account relevant matters and taking into account irrelevant matters does not crystallise a proper question of law for resolution.</sentence>
-<sentence id="s13">4 In the written submissions prepared by Messrs Smith &amp; Associates Solicitors, the applicant contends that the AAT applied an incorrect test in determining whether there was a causal link between Mr Jakab's disease and his defence service; that the AAT did not have proper regard to the correct meaning of the term 'aggravation'; that in the context of the causal link, the AAT did not properly consider the difficulties confronting Mr Jakab in obtaining appropriate clinical management of the disease; and that on the face of the material before the AAT, the AAT ought to have been satisfied that Mr Jakab suffered from the effects of the disease during a period of defence service and that it was worsened or aggravated by an inability to obtain appropriate clinical management during the period of service.</sentence>
+<sentence id="s13">4 In the written submissions prepared by Messrs Smith amp; Associates Solicitors, the applicant contends that the AAT applied an incorrect test in determining whether there was a causal link between Mr Jakab's disease and his defence service; that the AAT did not have proper regard to the correct meaning of the term 'aggravation'; that in the context of the causal link, the AAT did not properly consider the difficulties confronting Mr Jakab in obtaining appropriate clinical management of the disease; and that on the face of the material before the AAT, the AAT ought to have been satisfied that Mr Jakab suffered from the effects of the disease during a period of defence service and that it was worsened or aggravated by an inability to obtain appropriate clinical management during the period of service.</sentence>
 <sentence id="s14">The written submissions also contend that the applicant's service medical records demonstrate that the disease was present during the period of his service and that the AAT 'inappropriately preferred the evidence of Professor Gibson and Dr Anning in reaching the decision that the applicant did not have the constellation of symptoms of Meniere's Disease during his service' .</sentence>
 <sentence id="s15">5 Plainly enough, it is not the role of the Court in determining an appeal from a decision of the AAT to conduct a de novo review of the factual findings of the AAT and form its own view of the weight of the evidence on the matters to be resolved.</sentence>
 <sentence id="s16">I propose to deal with the application under s 44(1) of the AAT Act by addressing these questions of law.</sentence>
@@ -230,4 +230,8 @@ Dated: 13 June 2007
  
  </sentence>
 </sentences>
-</case>
+</case>>html 
+ 
+ </sentence>
+</sentences>
+</case>>

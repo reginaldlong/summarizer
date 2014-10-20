@@ -3,13 +3,13 @@
 <name>Glenn Jordan v Mornington Inn Proprietary Limited [2007] FCA 1384 (12 September 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1384.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">australian workplace agreements</catchphrase>
-<catchphrase "id=c1">employees entitled to award conditions including penalty rates</catchphrase>
-<catchphrase "id=c2">proposed awa providing for flexible hourly rate very similar to award rate, but no penalty rates</catchphrase>
-<catchphrase "id=c3">employees threatened with loss of overtime shifts if they did not sign awa</catchphrase>
-<catchphrase "id=c4">changing of rosters pursuant to threats</catchphrase>
-<catchphrase "id=c5">admission of liability for applying duress and injuring employees in their employment for a prohibited reason. held: penalties of $17,000 for each of ten contraventions</catchphrase>
-<catchphrase "id=c6">industrial law</catchphrase>
+<catchphrase >australian workplace agreements</catchphrase>
+<catchphrase >employees entitled to award conditions including penalty rates</catchphrase>
+<catchphrase >proposed awa providing for flexible hourly rate very similar to award rate, but no penalty rates</catchphrase>
+<catchphrase >employees threatened with loss of overtime shifts if they did not sign awa</catchphrase>
+<catchphrase >changing of rosters pursuant to threats</catchphrase>
+<catchphrase >admission of liability for applying duress and injuring employees in their employment for a prohibited reason. held: penalties of $17,000 for each of ten contraventions</catchphrase>
+<catchphrase >industrial law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -35,20 +35,20 @@
  
 7 The respondent employed the following persons (the Relevant Employees) in the positions identified:
  
- &#8226; Alice Louise Bruce, Bar Gaming Attendant.</sentence>
-<sentence id="s14">&#8226; Debby Maree Hyland, Bar Gaming Attendant.</sentence>
-<sentence id="s15">&#8226; Sharon Ann Thompson, Cleaner and Bar Gaming Attendant.</sentence>
-<sentence id="s16">&#8226; Karen Mary Lucas, Cleaner and Bar Gaming Attendant.</sentence>
-<sentence id="s17">&#8226; Fabian Di Domenico, Bottle Shop Attendant.</sentence>
+ #8226; Alice Louise Bruce, Bar Gaming Attendant.</sentence>
+<sentence id="s14">#8226; Debby Maree Hyland, Bar Gaming Attendant.</sentence>
+<sentence id="s15">#8226; Sharon Ann Thompson, Cleaner and Bar Gaming Attendant.</sentence>
+<sentence id="s16">#8226; Karen Mary Lucas, Cleaner and Bar Gaming Attendant.</sentence>
+<sentence id="s17">#8226; Fabian Di Domenico, Bottle Shop Attendant.</sentence>
 <sentence id="s18">
 
 The Relevant Employees were covered by the Award.</sentence>
 <sentence id="s19">8 As at early July 2006 the Relevant Employees were entitled to and in fact were receiving the following:
  
- &#8226; a minimum hourly rate of pay (from 27 March 2006 being the basic periodic rate of pay in the preserved Australian Pay and Classification Scale (the preserved APCS) derived from the Award);
- &#8226; a casual loading of 25 per cent on top of the basic periodic rate of pay (as a preserved APCS);
- &#8226; penalty rates for evening work and work on Saturdays, Sundays and public holidays set out in clause 15.2.2 of the Award; and
- &#8226; various other allowances prescribed in the Award.</sentence>
+ #8226; a minimum hourly rate of pay (from 27 March 2006 being the basic periodic rate of pay in the preserved Australian Pay and Classification Scale (the preserved APCS) derived from the Award);
+ #8226; a casual loading of 25 per cent on top of the basic periodic rate of pay (as a preserved APCS);
+ #8226; penalty rates for evening work and work on Saturdays, Sundays and public holidays set out in clause 15.2.2 of the Award; and
+ #8226; various other allowances prescribed in the Award.</sentence>
 <sentence id="s20">
  The decision to offer AWAs to casual staff at the Hotel 
  
@@ -81,16 +81,16 @@ The Relevant Employees were covered by the Award.</sentence>
  
 18 The AWA also provided as follows:
  
- &#8226; Clause 2 expressly provided that the Award had no intended application on the AWA and was therefore excluded from applying to the parties to the AWA;
- &#8226; Clause 9.1 excluded any penalty rates and allowances provisions in the Award that may apply to a casual employee (noting that a 20 per cent casual loading was included in the fixed hourly rate of pay);
- &#8226; Clause 10.1 provided that an employee's ordinary hours may be worked over any day of the week, Monday to Sunday inclusive;
- &#8226; Clause 10.3 expressly excluded from the AWA the meal and rest break provisions contained in the Award;
- &#8226; Clause 11.2 expressly excluded from the AWA the public holiday provisions contained in the Award;
- &#8226; Clause 11.4 provided for "family holidays" on Christmas Day or Easter Sunday.</sentence>
+ #8226; Clause 2 expressly provided that the Award had no intended application on the AWA and was therefore excluded from applying to the parties to the AWA;
+ #8226; Clause 9.1 excluded any penalty rates and allowances provisions in the Award that may apply to a casual employee (noting that a 20 per cent casual loading was included in the fixed hourly rate of pay);
+ #8226; Clause 10.1 provided that an employee's ordinary hours may be worked over any day of the week, Monday to Sunday inclusive;
+ #8226; Clause 10.3 expressly excluded from the AWA the meal and rest break provisions contained in the Award;
+ #8226; Clause 11.2 expressly excluded from the AWA the public holiday provisions contained in the Award;
+ #8226; Clause 11.4 provided for "family holidays" on Christmas Day or Easter Sunday.</sentence>
 <sentence id="s44">An employee who worked on a family holiday would be paid their ordinary rate of pay plus an additional 50%.</sentence>
 <sentence id="s45">(Under clause 15.2.2(d) of the Award a casual employee is entitled to a penalty rate for work on a public holiday of 150 per cent in addition to their entitlement under the preserved APCS to a basic periodic rate of pay and casual loading.</sentence>
 <sentence id="s46">) 
- &#8226; Clause 13.1 expressly excluded from the AWA a number of allowances provided for in the Award including meal allowance, tool and equipment allowance, uniform allowance, laundry allowance, first aid allowance, broken periods of work allowance, forklift allowance and travel allowance.</sentence>
+ #8226; Clause 13.1 expressly excluded from the AWA a number of allowances provided for in the Award including meal allowance, tool and equipment allowance, uniform allowance, laundry allowance, first aid allowance, broken periods of work allowance, forklift allowance and travel allowance.</sentence>
 <sentence id="s47">
 
 19 Along with the AWA and the OEA Information Statement the respondent also distributed to the Relevant Employees a covering letter dated 3 July 2006 (the Letter) in the following terms:
@@ -428,7 +428,7 @@ The Relevant Employees were covered by the Award.</sentence>
 <sentence id="s319">On the other hand, the admission came at a late stage and after substantial costs had been incurred.</sentence>
 <sentence id="s320">108 However, such mitigation as may have been obtained by an admission of liability was somewhat lessened by the submission that the respondent should get a "further discount" because it was giving up a possible defence.</sentence>
 <sentence id="s321">It was not, so the argument went, "bowing to the inevitable".</sentence>
-<sentence id="s322">Mr Barry was, in the time-honoured metaphor, engaging in "a frolic of his own" (a catchy phrase coined by Parke B in Joel v Morison (1834) 6 Car &amp; P 502 at 503 and explained by Diplock LJ in Morris v C W Martin &amp; Sons Ltd [1966] 1 QB 716 at 733-734).</sentence>
+<sentence id="s322">Mr Barry was, in the time-honoured metaphor, engaging in "a frolic of his own" (a catchy phrase coined by Parke B in Joel v Morison (1834) 6 Car amp; P 502 at 503 and explained by Diplock LJ in Morris v C W Martin amp; Sons Ltd [1966] 1 QB 716 at 733-734).</sentence>
 <sentence id="s323">If there had been apportionment, it was said, Mr Barry would be 70 per cent liable, as against 30 per cent for the respondent.</sentence>
 <sentence id="s324">109 To my mind, such an argument almost amounts to an aggravation.</sentence>
 <sentence id="s325">Mr Barry was a senior employee of the respondent.</sentence>
@@ -556,4 +556,8 @@ Dated: 12 September 2007
  
  </sentence>
 </sentences>
+</case>sentences>
+</case>/sentence>
+</sentences>
+</case>sentences>
 </case>

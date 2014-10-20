@@ -3,11 +3,11 @@
 <name>Standen v Feehan [2007] FCA 1761 (14 November 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1761.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">proceeding for a civil penalty</catchphrase>
-<catchphrase "id=c1">respondent's application to be accorded prosecutorial fairness</catchphrase>
-<catchphrase "id=c2">prosecutorial fairness does not apply to civil proceedings</catchphrase>
-<catchphrase "id=c3">application dismissed.</catchphrase>
-<catchphrase "id=c4">discovery</catchphrase>
+<catchphrase >proceeding for a civil penalty</catchphrase>
+<catchphrase >respondent's application to be accorded prosecutorial fairness</catchphrase>
+<catchphrase >prosecutorial fairness does not apply to civil proceedings</catchphrase>
+<catchphrase >application dismissed.</catchphrase>
+<catchphrase >discovery</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -43,7 +43,7 @@ Dated: 15 November 2007
  
  Counsel for the Respondent: M Griffin QC with M Ats 
  
- Solicitor for the Respondent: Lieschke &amp; Weatherill 
+ Solicitor for the Respondent: Lieschke amp; Weatherill 
  
  Date of Hearing: 14 November 2007 
  
@@ -59,4 +59,7 @@ Dated: 15 November 2007
  
  </sentence>
 </sentences>
-</case>
+</case>>
+ </sentence>
+</sentences>
+</case>>

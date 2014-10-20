@@ -3,10 +3,10 @@
 <name>Bunting v Minister for Immigration and Multiculturaland Indigenous Affairs [2006] FCA 1411 (19 October 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1411.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">objection to competency</catchphrase>
-<catchphrase "id=c1">whether costs order is final or interlocutory</catchphrase>
-<catchphrase "id=c2">whether appeal is incompetent</catchphrase>
-<catchphrase "id=c3">appeal</catchphrase>
+<catchphrase >objection to competency</catchphrase>
+<catchphrase >whether costs order is final or interlocutory</catchphrase>
+<catchphrase >whether appeal is incompetent</catchphrase>
+<catchphrase >appeal</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -31,7 +31,7 @@
 <sentence id="s7">It is now out of time to apply for such leave, and there has been no application for an extension of time within which to apply for leave.</sentence>
 <sentence id="s8">The position simply is that if the orders from which the appeal is brought are interlocutory, then leave is required and an appeal brought without leave is incompetent.</sentence>
 <sentence id="s9">4 The Federal Magistrate's decision to dismiss the application for an extension of time was an interlocutory judgment.</sentence>
-<sentence id="s10">I was referred to authorities concerning the meaning of interlocutory judgment, including Brouwer v Titan Corporation Ltd &amp; Ors (1997) 149 ALR 50 at p 53, Licul v Corney (1976) 50 ALJR 439 at p 444, and Computer Edge Pty Ltd v Apple Computer Inc [1984] HCA 47 ; (1984) 54 ALR 767.</sentence>
+<sentence id="s10">I was referred to authorities concerning the meaning of interlocutory judgment, including Brouwer v Titan Corporation Ltd amp; Ors (1997) 149 ALR 50 at p 53, Licul v Corney (1976) 50 ALJR 439 at p 444, and Computer Edge Pty Ltd v Apple Computer Inc [1984] HCA 47 ; (1984) 54 ALR 767.</sentence>
 <sentence id="s11">It is plain that an order which does not conclude the rights of the parties inter se is interlocutory.</sentence>
 <sentence id="s12">In Hall v the Nominal Defendant [1966] HCA 36 ; (1966) 117 CLR 423, Taylor J said at p 440: 
  
@@ -113,4 +113,6 @@ Dated: 31 October 2006
  
  </sentence>
 </sentences>
-</case>
+</case>>tence>
+</sentences>
+</case>>

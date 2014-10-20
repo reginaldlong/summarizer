@@ -3,10 +3,10 @@
 <name>Prescience Communications Limited v Commissioner of Taxation Office [2006] FCA 1561 (17 November 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1561.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">interlocutory injunction</catchphrase>
-<catchphrase "id=c1">application for an interlocutory injunction to restrain the commissioner of taxation from exercising a power conferred by s 263 of the income tax assessment act 1936 (cth)</catchphrase>
-<catchphrase "id=c2">consideration of australian broadcasting corporation v o'neil [2006] hca 46.</catchphrase>
-<catchphrase "id=c3">income tax</catchphrase>
+<catchphrase >interlocutory injunction</catchphrase>
+<catchphrase >application for an interlocutory injunction to restrain the commissioner of taxation from exercising a power conferred by s 263 of the income tax assessment act 1936 (cth)</catchphrase>
+<catchphrase >consideration of australian broadcasting corporation v o'neil [2006] hca 46.</catchphrase>
+<catchphrase >income tax</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -155,11 +155,11 @@
  'If your client wishes to proceed with accessing or copying documents stored in electronic format on those hard drives, which it could reasonably argue are relevant, then we propose that this be done so on the following bases: 
  
  
- &#8226; first, those hard drives taken from our client be immediately returned; and 
+ #8226; first, those hard drives taken from our client be immediately returned; and 
  
  
  
- &#8226; second, access and copying be done at a mutually convenient time, in the presence of a representative or representatives of our clients.</sentence>
+ #8226; second, access and copying be done at a mutually convenient time, in the presence of a representative or representatives of our clients.</sentence>
 <sentence id="s37">
  
 
@@ -256,7 +256,7 @@
 <sentence id="s75">22 Coadys advised Ms Dean that the Applicant objected to the proposals of the ATO officers and suggested that the computer and three hard disk drives be held at the officers of WHD Lawyers until such time as the parties could agree a process.</sentence>
 <sentence id="s76">Ms Dean advised that the Applicant required the hard drives to be returned and disputed claims by the ATO to an entitlement to image the entire contents of the hard drives.</sentence>
 <sentence id="s77">The ATO officers maintained that they were entitled to take an image of the documents stored on the computer and the hard drives.</sentence>
-<sentence id="s78">Ms Dean asserted that the Applicant's position was that the ATO was not entitled to access the documents other than in accordance with the principles of the decision of this Court in JMA Accounting ( JMA Accounting Pty Ltd &amp; Anor v Commissioner of Taxation &amp; Ors [2004] FCAFC 274 ; (2004) 139 FCR 537) (' JMA Accounting' ).</sentence>
+<sentence id="s78">Ms Dean asserted that the Applicant's position was that the ATO was not entitled to access the documents other than in accordance with the principles of the decision of this Court in JMA Accounting ( JMA Accounting Pty Ltd amp; Anor v Commissioner of Taxation amp; Ors [2004] FCAFC 274 ; (2004) 139 FCR 537) (' JMA Accounting' ).</sentence>
 <sentence id="s79">Ms Dean says that the ATO officers said they would take the hard drives away with them and image the electronic information that afternoon.</sentence>
 <sentence id="s80">Ms Dean reiterated that the Applicant did not consent to the ATO taking an image of the hard drives.</sentence>
 <sentence id="s81">23 In paragraph 18 of Ms Dean's affidavit, she deposes to this matter:
@@ -457,4 +457,6 @@ Dated: 17 November 2006
  
  </sentence>
 </sentences>
-</case>
+</case>ase>ce>
+</sentences>
+</case>ase>

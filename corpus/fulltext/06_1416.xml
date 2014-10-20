@@ -3,12 +3,12 @@
 <name>Commonwealth Bank of Australia (ACN 123 123 124) v ACN 000 247 601 Pty Limited (in liq) (For [2006] FCA 1416 (2 November 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1416.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">pleadings</catchphrase>
-<catchphrase "id=c1">application to strike out statement of claim and cross-claim</catchphrase>
-<catchphrase "id=c2">proper approach to meaning of "reasonable prospect of success" in s 31a of the federal court act</catchphrase>
-<catchphrase "id=c3">requirement of actual knowledge of falsity of representation for accessory liability under s 75b of the trade practices act</catchphrase>
-<catchphrase "id=c4">application allowed in part</catchphrase>
-<catchphrase "id=c5">practice and procedure</catchphrase>
+<catchphrase >pleadings</catchphrase>
+<catchphrase >application to strike out statement of claim and cross-claim</catchphrase>
+<catchphrase >proper approach to meaning of "reasonable prospect of success" in s 31a of the federal court act</catchphrase>
+<catchphrase >requirement of actual knowledge of falsity of representation for accessory liability under s 75b of the trade practices act</catchphrase>
+<catchphrase >application allowed in part</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -128,10 +128,10 @@
 <sentence id="s81">The authorities relating to the proper construction and effect of s 31A of the Federal Court of Australia Act were exhaustively reviewed by Rares J in Boston Commercial Services Pty Ltd v GE Capital Finance Australasia Pty Ltd [2006] FCA 1352 at [31] --- [48].</sentence>
 <sentence id="s82">His Honour stated the relevant principles at [45] and they may be summarised as follows:
  
- &#8226; In assessing whether there are reasonable prospects of success, the Court must be cautious not to do an injustice by summary dismissal.</sentence>
-<sentence id="s83">&#8226; There will be reasonable prospects of success if there is evidence which may be reasonably believed so as to enable the party against whom summary judgment is sought to succeed at the final hearing.</sentence>
-<sentence id="s84">&#8226; Evidence of an ambivalent character will usually be sufficient to amount to reasonable prospects.</sentence>
-<sentence id="s85">&#8226; Unless only one conclusion can be said to be reasonable, the discretion under s 31A cannot be enlivened.</sentence>
+ #8226; In assessing whether there are reasonable prospects of success, the Court must be cautious not to do an injustice by summary dismissal.</sentence>
+<sentence id="s83">#8226; There will be reasonable prospects of success if there is evidence which may be reasonably believed so as to enable the party against whom summary judgment is sought to succeed at the final hearing.</sentence>
+<sentence id="s84">#8226; Evidence of an ambivalent character will usually be sufficient to amount to reasonable prospects.</sentence>
+<sentence id="s85">#8226; Unless only one conclusion can be said to be reasonable, the discretion under s 31A cannot be enlivened.</sentence>
 <sentence id="s86">
 
 31 I do not think that this approach conflicts with the provisions of s 31A(3).</sentence>
@@ -169,7 +169,7 @@
 <sentence id="s114">49 In my opinion, the matters pleaded in the cross-claim can give rise, at most, to an allegation of constructive knowledge of the falsity of the representation said to have been made by Mr McGarva.</sentence>
 <sentence id="s115">50 The knowledge which is required to give rise to a claim of accessory liability is actual knowledge.</sentence>
 <sentence id="s116">Constructive knowledge is not sufficient; Yorke v Lucas at 667---668, 670; Butcher v Lachlan Elder Realty Pty Limited [2004] HCA 60 ; (2004) 218 CLR 592 at [60] .</sentence>
-<sentence id="s117">See also Richardson &amp; Wrench (Holdings) Pty Ltd v Ligon No 174 Pty Ltd (1994) 123 ALR 681 at 693.</sentence>
+<sentence id="s117">See also Richardson amp; Wrench (Holdings) Pty Ltd v Ligon No 174 Pty Ltd (1994) 123 ALR 681 at 693.</sentence>
 <sentence id="s118">51 Mr Neil accepted that his cross-claim on this count was not "orthodox" and that he could point to no authority to support it.</sentence>
 <sentence id="s119">Orders 
  
@@ -188,7 +188,7 @@ Dated: 2 November 2006
  
  Counsel for the Second Respondent: P Newton 
  
- Solicitor for the Second Respondent: Heidtman &amp; Co 
+ Solicitor for the Second Respondent: Heidtman amp; Co 
  
  Counsel for the Third Respondent: I M Neil SC with D Chin 
  
@@ -206,4 +206,8 @@ Dated: 2 November 2006
  
  </sentence>
 </sentences>
-</case>
+</case>/case>
+ 
+ </sentence>
+</sentences>
+</case>/case>

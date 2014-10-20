@@ -3,13 +3,13 @@
 <name>Loessi v Minister for Immigration and Multicultural and Indigenous Affairs [2007] FCA 1891 (30 November 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1891.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">consideration of whether the migration review tribunal fell into jurisdictional error in identifying and applying to the facts as found a test of whether an applicant for a visa had net assets of an amount less than $aud250,000 adequate to conduct a particular business, for the purposes of subclause 457.223(7a)(c)(iv)(b) of schedule 2 of the migration regulations made pursuant to the migration act 1958 (cth)</catchphrase>
-<catchphrase "id=c1">migration</catchphrase>
+<catchphrase >consideration of whether the migration review tribunal fell into jurisdictional error in identifying and applying to the facts as found a test of whether an applicant for a visa had net assets of an amount less than $aud250,000 adequate to conduct a particular business, for the purposes of subclause 457.223(7a)(c)(iv)(b) of schedule 2 of the migration regulations made pursuant to the migration act 1958 (cth)</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
  
-1 By this appeal, the appellant, a United States national, seeks to set aside the Orders of Federal Magistate Baumann made on 16 November 2006 ( Loessi v Minister for Immigration &amp; Anor [2006] FMCA 1697) dismissing an Application to that Court pursuant to s 476(1) of the Migration Act 1958 (Cth) ('the Act') to review on the ground of jurisdictional error, a decision of the Migration Review Tribunal ('the MRT') affirming a decision of the Delegate of the Minister for Immigration and Multicultural and Indigenous Affairs to refuse the appellant a 'Temporary Business Entry (Class UC)' visa, under the Act.</sentence>
+1 By this appeal, the appellant, a United States national, seeks to set aside the Orders of Federal Magistate Baumann made on 16 November 2006 ( Loessi v Minister for Immigration amp; Anor [2006] FMCA 1697) dismissing an Application to that Court pursuant to s 476(1) of the Migration Act 1958 (Cth) ('the Act') to review on the ground of jurisdictional error, a decision of the Migration Review Tribunal ('the MRT') affirming a decision of the Delegate of the Minister for Immigration and Multicultural and Indigenous Affairs to refuse the appellant a 'Temporary Business Entry (Class UC)' visa, under the Act.</sentence>
 <sentence id="s1">2 The Act provides for prescribed classes of visas and the prescription of criteria, by regulations, for a visa or visas of a specified class (s 31 of the Act).</sentence>
 <sentence id="s2">By Regulation 2.01 of the Migration Regulations ('the Regulations') prescribed classes of visas are those set out in Schedule 1 to the Regulations.</sentence>
 <sentence id="s3">Schedule 2 to the Regulations is divided into 'Parts' which identify a number of 'Subclasses' of visa within a Schedule 1 class so set out.</sentence>
@@ -107,17 +107,17 @@
  
  
  
- &#8226; Cash and where the cash is held (ie Bank savings accounts).</sentence>
+ #8226; Cash and where the cash is held (ie Bank savings accounts).</sentence>
 <sentence id="s23">
  
  
  
  
  
- &#8226; The value of that portion of your (unencumbered) non-monetary assets (if any) that are in Australia.</sentence>
+ #8226; The value of that portion of your (unencumbered) non-monetary assets (if any) that are in Australia.</sentence>
 <sentence id="s24">
  
- &#8226; The value of that portion of your (unencumbered) non-monetary assets (if any) that are outside Australia, and how you plan to make the assets available to the business.</sentence>
+ #8226; The value of that portion of your (unencumbered) non-monetary assets (if any) that are outside Australia, and how you plan to make the assets available to the business.</sentence>
 <sentence id="s25">
  
  
@@ -236,7 +236,7 @@
 <sentence id="s91">The Tribunal noted that 'the current circumstances of the visa applicant's business assets are unclear'.</sentence>
 <sentence id="s92">Thirdly, the Tribunal again noted that although requests had been made of the appellant to produce income tax statements, ATO assessments and details of businesses the appellant had been involved in within Australia since the initial granting of his visa, no such information was provided.</sentence>
 <sentence id="s93">On the basis of the information available to the Tribunal, it could not be satisfied that the appellant had net assets of a lesser amount than $250,000 adequate to conduct the business.</sentence>
-<sentence id="s94">17 The appellant says Federal Magistrate Baumann erred by failing to find jurisdictional error on the part of the Tribunal in the discharge of the review function on grounds that the Tribunal failed to appreciate and apply the proper test established in Lukac v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2004] FCA 1641 of whether the appellant had net assets adequate to conduct the business and instead applied a test of whether the net assets of the business demonstrated adequacy to conduct the business.</sentence>
+<sentence id="s94">17 The appellant says Federal Magistrate Baumann erred by failing to find jurisdictional error on the part of the Tribunal in the discharge of the review function on grounds that the Tribunal failed to appreciate and apply the proper test established in Lukac v Minister for Immigration amp; Multicultural amp; Indigenous Affairs [2004] FCA 1641 of whether the appellant had net assets adequate to conduct the business and instead applied a test of whether the net assets of the business demonstrated adequacy to conduct the business.</sentence>
 <sentence id="s95">Secondly, the Tribunal failed to identify the nature of the business; was distracted by the negative balance sheet of Faulkner Technologies Pty Ltd ('Technologies'); and failed to appreciate that the appellant's shareholding Technologies and Faulkner Technology Holdings Pty Ltd ('Holdings') was an asset of the appellant and ought to have been considered in applying the test of whether the appellant had net assets adequate to conduct the business.</sentence>
 <sentence id="s96">Thirdly, the Tribunal failed to consider the relevant material going to the appellant's 42.5% interest in the business of Technologies through Holdings and the relationship between the balance sheet asset values of $180,727.49 and the dominant liability of the business (Technologies) in the form of a director's loan of $212,500.00.</sentence>
 <sentence id="s97">Fourthly, as a subset of the earlier grounds, the Tribunal failed to take into account the nature of the business as a technology software business in which the intellectual property is an essential component thus suggesting that the level of net assets of the appellant adequate to conduct the business would not be high.</sentence>
@@ -342,4 +342,5 @@ Dated: 30 November 2007
  
  </sentence>
 </sentences>
-</case>
+</case>/case>
+</case>/case>

@@ -3,16 +3,16 @@
 <name>In the matter of Professional Golfers Association of Australia Limited [2007] FCA 1571 (9 October 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1571.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">two schemes of arrangement under pt 5.1 of corporations act 2001 (cth) (the act)</catchphrase>
-<catchphrase "id=c1">merger of two professional golfing associations structured as not-for-profit companies limited by guarantee, into a new association also structured as a not-for-profit company limited by guarantee, in which the members of the merging companies become members</catchphrase>
-<catchphrase "id=c2">assets and liabilities of the two merging companies to be transferred to, and accepted by, the new company, by a transfer order to be made under s 413 of the act</catchphrase>
-<catchphrase "id=c3">the two existing companies then to be deregistered under s 413(1)(d) of the act</catchphrase>
-<catchphrase "id=c4">21 classes of members in one of the existing companies and six in the other, but only 12 in the new company</catchphrase>
-<catchphrase "id=c5">whether necessary that separate meetings be held of the members within the respective existing 27 classes</catchphrase>
-<catchphrase "id=c6">principles applicable</catchphrase>
-<catchphrase "id=c7">whether directions should be made fixing quorum for each scheme meeting</catchphrase>
-<catchphrase "id=c8">consideration of power to fix quorum.</catchphrase>
-<catchphrase "id=c9">corporations</catchphrase>
+<catchphrase >two schemes of arrangement under pt 5.1 of corporations act 2001 (cth) (the act)</catchphrase>
+<catchphrase >merger of two professional golfing associations structured as not-for-profit companies limited by guarantee, into a new association also structured as a not-for-profit company limited by guarantee, in which the members of the merging companies become members</catchphrase>
+<catchphrase >assets and liabilities of the two merging companies to be transferred to, and accepted by, the new company, by a transfer order to be made under s 413 of the act</catchphrase>
+<catchphrase >the two existing companies then to be deregistered under s 413(1)(d) of the act</catchphrase>
+<catchphrase >21 classes of members in one of the existing companies and six in the other, but only 12 in the new company</catchphrase>
+<catchphrase >whether necessary that separate meetings be held of the members within the respective existing 27 classes</catchphrase>
+<catchphrase >principles applicable</catchphrase>
+<catchphrase >whether directions should be made fixing quorum for each scheme meeting</catchphrase>
+<catchphrase >consideration of power to fix quorum.</catchphrase>
+<catchphrase >corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -35,9 +35,9 @@
 <sentence id="s13">In all the circumstances, I made an order dispensing with service on New PGA.</sentence>
 <sentence id="s14">6 As Mr MB Oakes SC, who appeared for the plaintiffs, submitted, the following propositions are now well accepted and I do not think it necessary to cite authorities or examples:
  
- &#8226; the present schemes are properly cast as members' schemes and not as creditors' schemes, the position of creditors being relevant to the exercise of the Court's discretion whether to grant approval;
- &#8226; each of the present schemes is proposed for the purpose of an "amalgamation" for the purposes of s 413 of the Act; and
- &#8226; it is appropriate that the two scheme companies be co-plaintiffs as distinct from each commencing a separate proceeding.</sentence>
+ #8226; the present schemes are properly cast as members' schemes and not as creditors' schemes, the position of creditors being relevant to the exercise of the Court's discretion whether to grant approval;
+ #8226; each of the present schemes is proposed for the purpose of an "amalgamation" for the purposes of s 413 of the Act; and
+ #8226; it is appropriate that the two scheme companies be co-plaintiffs as distinct from each commencing a separate proceeding.</sentence>
 <sentence id="s15">
  BACKGROUND FACTS 
  
@@ -150,11 +150,11 @@
 
 42 In Nordic Bank plc v International Harvester Australia Ltd [1983] 2 VR 298, the Full Court of the Supreme Court of Victoria said (at 301):
  
- It is appropriate that creditors who share an interest via-&agrave;-vis the company which places them in a position distinct from that of other creditors and so dissimilar as to make it impossible to consult together with a view to their common interest should be allowed to make a separate decision.</sentence>
+ It is appropriate that creditors who share an interest via-agrave;-vis the company which places them in a position distinct from that of other creditors and so dissimilar as to make it impossible to consult together with a view to their common interest should be allowed to make a separate decision.</sentence>
 <sentence id="s107">To break creditors up into classes, however, will give each class an opportunity to veto the scheme, a process which undermines the basic approach of decision by a large majority, and one which should only be permitted if there are dissimilar interests related to the company and its scheme to be protected.</sentence>
 <sentence id="s108">
 
-43 In UDL Argos Engineering &amp; Heavy Industries Co Ltd v Li Oi Lin [2001] 3 HKLRD 634, Lord Millett NPJ (with whom Li CJ, Bokhary, Chan and Ribeiro PJJ agreed) set out, inter alia, the following principles (at [27]):
+43 In UDL Argos Engineering amp; Heavy Industries Co Ltd v Li Oi Lin [2001] 3 HKLRD 634, Lord Millett NPJ (with whom Li CJ, Bokhary, Chan and Ribeiro PJJ agreed) set out, inter alia, the following principles (at [27]):
  
  
  (2) Persons whose rights are so dissimilar that they cannot sensibly consult together with a view to their common interest must be given separate meetings.</sentence>
@@ -182,7 +182,7 @@ Dated: 19 October 2007
 
  Counsel for the First and Second Plaintiffs: Mr MB Oakes SC 
  
- Solicitor for the First and Second Plaintiffs: Johnson Winter &amp; Slattery 
+ Solicitor for the First and Second Plaintiffs: Johnson Winter amp; Slattery 
  
  The Defendant did not appear.</sentence>
 <sentence id="s122">Date of Hearing: 9 October 2007 
@@ -200,4 +200,8 @@ Dated: 19 October 2007
  
  </sentence>
 </sentences>
-</case>
+</case>/case>ases/cth/FCA/2007/1571.html 
+ 
+ </sentence>
+</sentences>
+</case>/case>

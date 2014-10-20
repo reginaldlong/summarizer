@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <case>
-<name>NBLE v Minister for Immigration &amp; Citizenship [2007] FCA 502 (12 April 2007)</name>
+<name>NBLE v Minister for Immigration amp; Citizenship [2007] FCA 502 (12 April 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/502.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">protection visa</catchphrase>
-<catchphrase "id=c1">no denial of natural justice</catchphrase>
-<catchphrase "id=c2">no failure to provide an opportunity to comment on material</catchphrase>
-<catchphrase "id=c3">no jurisdictional error</catchphrase>
-<catchphrase "id=c4">migration</catchphrase>
+<catchphrase >protection visa</catchphrase>
+<catchphrase >no denial of natural justice</catchphrase>
+<catchphrase >no failure to provide an opportunity to comment on material</catchphrase>
+<catchphrase >no jurisdictional error</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -302,4 +302,7 @@ Dated: 12 April 2007
  
  </sentence>
 </sentences>
-</case>
+</case>>
+ </sentence>
+</sentences>
+</case>>

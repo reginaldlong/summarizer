@@ -3,11 +3,11 @@
 <name>Griffin Energy Pty Ltd v Western Power Corporation [2006] FCA 1241 (15 September 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1241.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">preliminary discovery</catchphrase>
-<catchphrase "id=c1">whether there was compliance with o 15a r 6(a) of the federal court rules</catchphrase>
-<catchphrase "id=c2">information in documents confidential</catchphrase>
-<catchphrase "id=c3">whether discretion should be exercised to refuse preliminary discovery order</catchphrase>
-<catchphrase "id=c4">practice and procedure</catchphrase>
+<catchphrase >preliminary discovery</catchphrase>
+<catchphrase >whether there was compliance with o 15a r 6(a) of the federal court rules</catchphrase>
+<catchphrase >information in documents confidential</catchphrase>
+<catchphrase >whether discretion should be exercised to refuse preliminary discovery order</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -220,19 +220,19 @@
 <sentence id="s78">The respondent provided with the Bid Information Memorandum, terms sheets for two agreements which a successful bidder would be required to enter - the 'Available Capacity Agreement' ('ACA') and the 'Tradable Purchase Agreement' ('TPA').</sentence>
 <sentence id="s79">29 Mr Trumble said that in cl 6.1 of the Bid Information Memorandum, the respondent stated that to be successful, bids must meet the following requirements:
  
- &#8226; 'the Power Station must be capable of generating at least 300MW to 330MW approximately (on a sent-out basis, at ISO standard conditions at the actual Power Station elevation) and be commissioned by December 2008; 
+ #8226; 'the Power Station must be capable of generating at least 300MW to 330MW approximately (on a sent-out basis, at ISO standard conditions at the actual Power Station elevation) and be commissioned by December 2008; 
  
  
  
- &#8226; the Power Station must maintain the capability to generate its capacity (as defined in the ACA) and to be connected to the SWIS for the term of the TPA; 
+ #8226; the Power Station must maintain the capability to generate its capacity (as defined in the ACA) and to be connected to the SWIS for the term of the TPA; 
  
- &#8226; ... 
+ #8226; ... 
  
- &#8226; the Power station must meet best commercially available environmental performance for fuel and unit size, as described in paragraph 6.3; 
+ #8226; the Power station must meet best commercially available environmental performance for fuel and unit size, as described in paragraph 6.3; 
  
- &#8226; the Power Station must provide high levels of availability and reliability; 
+ #8226; the Power Station must provide high levels of availability and reliability; 
  
- &#8226; ...' 
+ #8226; ...' 
  
  
 
@@ -241,7 +241,7 @@
  ' [The respondent] requires that in submitting their Binding Proposals, Bidders submit: 
  
  
- &#8226; a Binding Proposal that is based on a TPA with a constant "Total Tradable Capacity" (as that term is defined in the TPA) committed to [the respondent] in the range of 300MW to 330MW (sent-out) over a period of 25 years;... 
+ #8226; a Binding Proposal that is based on a TPA with a constant "Total Tradable Capacity" (as that term is defined in the TPA) committed to [the respondent] in the range of 300MW to 330MW (sent-out) over a period of 25 years;... 
  
  
  ..." ' 
@@ -422,12 +422,12 @@
  
  
  
- &#8226; are, or will be, responsible in any way for or in relation to; or 
+ #8226; are, or will be, responsible in any way for or in relation to; or 
  
  
  
  
- &#8226; are, or will be, liable to compensate any person in any way for or in relation to, 
+ #8226; are, or will be, liable to compensate any person in any way for or in relation to, 
  
  
  any claims, losses, costs and expenses incurred by the Bidder (or any Related Body Corporate of the Bidder) or any person in relation to preparing and submitting a Binding Proposal, providing further information, participating in any meetings or other contact or otherwise arising out of or in connection with the Final Bid Phase.</sentence>
@@ -462,7 +462,7 @@
 <sentence id="s156">He said that if the applicants had known that the standards were ones which the respondent would consider to be satisfied if a bidding party had merely expressed a willingness to endeavour to meet them, the applicants would have modified their proposal and would have been able to submit a final bid at a lower price than that which they did.</sentence>
 <sentence id="s157">63 Further, in response to Mr Harvey's evidence challenging the effect of the EPA's recommendations limiting the time that Wambo could engage in duct-firing, the applicants tendered at the hearing a document to which I have already referred, entitled 'Statement that a Proposal may be Implemented (pursuant to the provisions of the Environmental Protection Act 1986 )' issued by the Minister for the Environment dated 7 November 2005.</sentence>
 <sentence id="s158">That document provides relevantly:
- 'KWINANA GAS-FIRED POWER STATION (WATER-COOLED CONDENSER) LEATH &amp; BARTER ROADS, KWINANA 
+ 'KWINANA GAS-FIRED POWER STATION (WATER-COOLED CONDENSER) LEATH amp; BARTER ROADS, KWINANA 
  
  
  Proposal: The construction, operation, and maintenance of a nominal 320 megawatt combined-cycle base-load power plant at Kwinana, as documented in schedule 1 of this statement.</sentence>
@@ -499,11 +499,11 @@
  The power station will be operated in two modes: 
  
  
- &#8226; as a base load power station providing 240 megawatts of power (65-85% of operating time); and 
+ #8226; as a base load power station providing 240 megawatts of power (65-85% of operating time); and 
  
  
  
- &#8226; with auxiliary duct firing to provide an additional 80 megawatts of power during times of peak demand (10-15% of operating time).</sentence>
+ #8226; with auxiliary duct firing to provide an additional 80 megawatts of power during times of peak demand (10-15% of operating time).</sentence>
 <sentence id="s162">
  
  
@@ -594,7 +594,7 @@
  ... 
  
  
- 25- &gt;31ppmv; 640 tonnes/year 
+ 25- gt;31ppmv; 640 tonnes/year 
  ... 
  
  ... 
@@ -668,11 +668,11 @@
  'The power station will be operated in two modes: 
  
  
- &#8226; as a base load power station providing 240 megawatts of power (65-85% of operating time); and 
+ #8226; as a base load power station providing 240 megawatts of power (65-85% of operating time); and 
  
  
  
- &#8226; with auxiliary duct-firing to provide an additional 80 megawatts of power during times of peak demand (10-15% of operating time).</sentence>
+ #8226; with auxiliary duct-firing to provide an additional 80 megawatts of power during times of peak demand (10-15% of operating time).</sentence>
 <sentence id="s210">' 
  
  
@@ -709,7 +709,7 @@
 <sentence id="s237">99 The respondent relied upon the affidavit of Mr Baden Furphy sworn 7 April 2006.</sentence>
 <sentence id="s238">Mr Furphy said that he was a partner of the law firm, Freehills, and that he had approximately 10 years experience acting on transactions in the energy industry having acted for various electricity companies and State governments.</sentence>
 <sentence id="s239">100 Mr Furphy said that Freehills acts for Wambo and was aware of Wambo's participation in the PPP.</sentence>
-<sentence id="s240">Wambo is a joint venture between ERM Group and Babcock &amp; Brown.</sentence>
+<sentence id="s240">Wambo is a joint venture between ERM Group and Babcock amp; Brown.</sentence>
 <sentence id="s241">Mr Furphy said that his role was to assist Wambo in the negotiation of the documentation for the project.</sentence>
 <sentence id="s242">He said that he is familiar with the documentation which was sent by Wambo to the respondent and received by Wambo from the respondent during the period 2002-2005 in connection with Wambo's tender.</sentence>
 <sentence id="s243">101 Mr Furphy said that the information contained in the Wambo documentation includes:
@@ -784,4 +784,7 @@ Dated: 15 September 2006
  
  </sentence>
 </sentences>
+</case>ntences>
+</case>/sentences>
+</case>ntences>
 </case>

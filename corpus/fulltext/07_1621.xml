@@ -3,17 +3,17 @@
 <name>Futuretronics.com.au Pty Limited v Graphix Labels Pty Ltd [2007] FCA 1621 (29 October 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1621.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">identification of terms</catchphrase>
-<catchphrase "id=c1">implied terms</catchphrase>
-<catchphrase "id=c2">where applicant company marketed for sale "skins"</catchphrase>
-<catchphrase "id=c3">where applicant arranged for first respondent company to manufacture skins</catchphrase>
-<catchphrase "id=c4">where no agreement as to price</catchphrase>
-<catchphrase "id=c5">where no agreement as to minimum term or quantity</catchphrase>
-<catchphrase "id=c6">where first respondent subsequently manufactured and marketed skins for itself in competition with applicant</catchphrase>
-<catchphrase "id=c7">whether informal contract between applicant and first respondent</catchphrase>
-<catchphrase "id=c8">whether implied term of any contract that first respondent would not manufacture skins except to supply applicant</catchphrase>
-<catchphrase "id=c9">where alleged implied term unlimited as to time and circumstances of operation</catchphrase>
-<catchphrase "id=c10">contracts</catchphrase>
+<catchphrase >identification of terms</catchphrase>
+<catchphrase >implied terms</catchphrase>
+<catchphrase >where applicant company marketed for sale "skins"</catchphrase>
+<catchphrase >where applicant arranged for first respondent company to manufacture skins</catchphrase>
+<catchphrase >where no agreement as to price</catchphrase>
+<catchphrase >where no agreement as to minimum term or quantity</catchphrase>
+<catchphrase >where first respondent subsequently manufactured and marketed skins for itself in competition with applicant</catchphrase>
+<catchphrase >whether informal contract between applicant and first respondent</catchphrase>
+<catchphrase >whether implied term of any contract that first respondent would not manufacture skins except to supply applicant</catchphrase>
+<catchphrase >where alleged implied term unlimited as to time and circumstances of operation</catchphrase>
+<catchphrase >contracts</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -601,16 +601,16 @@ In re-examination, Mr Chojna was asked about this topic, and he said:
 <sentence id="s435">Retail Stores Visited: 
  
  
- &#61814; Harvey Norman
- &#61814; Tandy/Dick Smith
- &#61814; Kmart
- &#61814; Target
- &#61814; Myer
- &#61814; David Jones
- &#61814; Toys R Us
- &#61814; Big W
- &#61814; Apple Stores
- &#61814; JB Hi Fi 
+ #61814; Harvey Norman
+ #61814; Tandy/Dick Smith
+ #61814; Kmart
+ #61814; Target
+ #61814; Myer
+ #61814; David Jones
+ #61814; Toys R Us
+ #61814; Big W
+ #61814; Apple Stores
+ #61814; JB Hi Fi 
  
  
  This covers the major players at Retail level.</sentence>
@@ -824,7 +824,7 @@ In dealing with those issues her Honour said:
 <sentence id="s570">It is not necessary for the reasonable or effective operation of the contracts constituted by each order to imply such a term.</sentence>
 <sentence id="s571">134 In the circumstances, it is unnecessary to address a further argument put by Graphix Labels and Mr Atta against implying such a term and that was that such a term would amount to an unreasonable restraint of trade.</sentence>
 <sentence id="s572">I was referred to Nordenfelt v Maxim Nordenfelt Guns and Ammunition Co Ltd [1894] AC 535; Amoco Australia Pty Ltd v Rocca Bros Motor Engineering Co Pty Ltd [1973] HCA 40 ; (1973) 133 CLR 288.</sentence>
-<sentence id="s573">Of course, there have been a number of cases dealing with the common law doctrine of restraint of trade since those two cases (see, for example, the discussion in Seddon and Ellinghaus, Cheshire &amp; Fifoot's Law of Contract (8 th Australian ed, 2002) pages 860-863).</sentence>
+<sentence id="s573">Of course, there have been a number of cases dealing with the common law doctrine of restraint of trade since those two cases (see, for example, the discussion in Seddon and Ellinghaus, Cheshire amp; Fifoot's Law of Contract (8 th Australian ed, 2002) pages 860-863).</sentence>
 <sentence id="s574">135 Before leaving this topic I should mention that Futuretronics referred to the agreement between Graphix Labels and Graphix Effects as supporting its argument in favour of an implied term and Graphix Labels referred to the absence of a written agreement between Futuretronics and its new printer as supporting its argument against implying a term.</sentence>
 <sentence id="s575">I do not think either point is of any real significance in terms of the resolution of the issue.</sentence>
 <sentence id="s576">136 The other alleged implied terms were not the subject of detailed submissions.</sentence>
@@ -1089,4 +1089,10 @@ Dated: 29 October 2007
  
  </sentence>
 </sentences>
+</case>es>
+</case>u/cases/cth/FCA/2007/1621.html 
+ 
+ </sentence>
+</sentences>
+</case>es>
 </case>

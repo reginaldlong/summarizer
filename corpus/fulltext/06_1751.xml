@@ -3,14 +3,14 @@
 <name>Australian Postal Corporation v Barry [2006] FCA 1751 (15 December 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1751.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">safety, rehabilitation and compensation act 1988 (cth)</catchphrase>
-<catchphrase "id=c1">appeal from administrative appeals tribunal</catchphrase>
-<catchphrase "id=c2">employee suffered an injury while delivering mail</catchphrase>
-<catchphrase "id=c3">australian postal corporation accepted liability to pay compensation but later determined the employee had no current entitlement to compensation under s 16 and s 19 of the act</catchphrase>
-<catchphrase "id=c4">determination affirmed on review by the corporation but later set aside by the tribunal</catchphrase>
-<catchphrase "id=c5">whether the tribunal erred in setting aside the corporation's determination that it had no present liability to pay compensation to the employee</catchphrase>
-<catchphrase "id=c6">held: the tribunal set aside the determination of the corporation without having addressed the correct legal questions</catchphrase>
-<catchphrase "id=c7">workers' compensation</catchphrase>
+<catchphrase >safety, rehabilitation and compensation act 1988 (cth)</catchphrase>
+<catchphrase >appeal from administrative appeals tribunal</catchphrase>
+<catchphrase >employee suffered an injury while delivering mail</catchphrase>
+<catchphrase >australian postal corporation accepted liability to pay compensation but later determined the employee had no current entitlement to compensation under s 16 and s 19 of the act</catchphrase>
+<catchphrase >determination affirmed on review by the corporation but later set aside by the tribunal</catchphrase>
+<catchphrase >whether the tribunal erred in setting aside the corporation's determination that it had no present liability to pay compensation to the employee</catchphrase>
+<catchphrase >held: the tribunal set aside the determination of the corporation without having addressed the correct legal questions</catchphrase>
+<catchphrase >workers' compensation</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -142,7 +142,7 @@ Dated: 15 December 2006
  
  Solicitor for the Applicant: Forners Solicitors 
  
- Solicitor for the First Respondent: Slater &amp; Gordon 
+ Solicitor for the First Respondent: Slater amp; Gordon 
  
  Counsel for the Second Respondent: The Second Respondent filed a submitting appearance 
  
@@ -161,4 +161,8 @@ Dated: 15 December 2006
  
  </sentence>
 </sentences>
-</case>
+</case>>FCA/2006/1751.html 
+ 
+ </sentence>
+</sentences>
+</case>>

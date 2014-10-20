@@ -3,11 +3,11 @@
 <name>Garrett v Macks [2006] FCA 601 (10 May 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/601.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for summary dismissal of proceedings</catchphrase>
-<catchphrase "id=c1">whether reasonable prospect of prosecuting matter</catchphrase>
-<catchphrase "id=c2">no reasonable prospect</catchphrase>
-<catchphrase "id=c3">proceeding summarily dismissed.</catchphrase>
-<catchphrase "id=c4">practice and procedure</catchphrase>
+<catchphrase >application for summary dismissal of proceedings</catchphrase>
+<catchphrase >whether reasonable prospect of prosecuting matter</catchphrase>
+<catchphrase >no reasonable prospect</catchphrase>
+<catchphrase >proceeding summarily dismissed.</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -185,11 +185,11 @@ Dated: 23 May 2006
  
  Counsel for the Seventh Respondent: Dr Baxter 
  
- Solicitor for the Seventh Respondent: Johnson, Winter &amp; Slattery 
+ Solicitor for the Seventh Respondent: Johnson, Winter amp; Slattery 
  
  Counsel for the Eighth and Ninth Respondents: Mr Slattery QC 
  
- Solicitor for the Eighth and Ninth Respondents: Johnson, Winter &amp; Slattery 
+ Solicitor for the Eighth and Ninth Respondents: Johnson, Winter amp; Slattery 
  
  Date of Hearing: 10 May 2006 
  
@@ -203,4 +203,6 @@ Dated: 23 May 2006
  
  </sentence>
 </sentences>
-</case>
+</case>e> </sentence>
+</sentences>
+</case>e>

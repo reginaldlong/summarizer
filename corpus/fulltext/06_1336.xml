@@ -3,14 +3,14 @@
 <name>Upton v Tasmanian Perpetual Trustees Pty Ltd [2006] FCA 1336 (12 October 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1336.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal</catchphrase>
-<catchphrase "id=c1">application for security for costs</catchphrase>
-<catchphrase "id=c2">discretionary nature</catchphrase>
-<catchphrase "id=c3">consideration of relevant factors</catchphrase>
-<catchphrase "id=c4">promptness of application</catchphrase>
-<catchphrase "id=c5">stifling of appeal</catchphrase>
-<catchphrase "id=c6">prospects of success of appeal</catchphrase>
-<catchphrase "id=c7">practice and procedure</catchphrase>
+<catchphrase >appeal</catchphrase>
+<catchphrase >application for security for costs</catchphrase>
+<catchphrase >discretionary nature</catchphrase>
+<catchphrase >consideration of relevant factors</catchphrase>
+<catchphrase >promptness of application</catchphrase>
+<catchphrase >stifling of appeal</catchphrase>
+<catchphrase >prospects of success of appeal</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -46,9 +46,9 @@
 <sentence id="s16">8 Mr Upton contended that security for costs should not be ordered in his appeal because: 
  
  
- &#8226; he is unable to provide security for $25 000 or any like sum because of the conduct of Tasmanian Perpetual Trustees;
- &#8226; an order for security for costs and staying the appeal would stifle his appeal and lead to a sequestration order being made against him and to his other creditors being disadvantaged; and
- &#8226; Tasmanian Perpetual Trustees did not request him to provide security for costs before applying to the Court.</sentence>
+ #8226; he is unable to provide security for $25 000 or any like sum because of the conduct of Tasmanian Perpetual Trustees;
+ #8226; an order for security for costs and staying the appeal would stifle his appeal and lead to a sequestration order being made against him and to his other creditors being disadvantaged; and
+ #8226; Tasmanian Perpetual Trustees did not request him to provide security for costs before applying to the Court.</sentence>
 <sentence id="s17">Further, Tasmanian Perpetual Trustees did not apply to the Court for more than 21 days after the appeal was filed and applied prior to a notice of appearance in the appeal being filed.</sentence>
 <sentence id="s18">
  
@@ -94,4 +94,8 @@ Dated: 12 October 2006
  
  </sentence>
 </sentences>
-</case>
+</case>se>A/2006/1336.html 
+ 
+ </sentence>
+</sentences>
+</case>se>

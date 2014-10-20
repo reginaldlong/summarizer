@@ -3,10 +3,10 @@
 <name>Queensland Rail v Commissioner of Taxation [2006] FCA 816 (30 June 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/816.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">diesel fuel, rebate</catchphrase>
-<catchphrase "id=c1">meaning of "in rail transport"</catchphrase>
-<catchphrase "id=c2">whether fuel used in rail transport</catchphrase>
-<catchphrase "id=c3">customs and excise</catchphrase>
+<catchphrase >diesel fuel, rebate</catchphrase>
+<catchphrase >meaning of "in rail transport"</catchphrase>
+<catchphrase >whether fuel used in rail transport</catchphrase>
+<catchphrase >customs and excise</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -297,42 +297,42 @@
 <sentence id="s51">Attachment A, relating to 'plant used in carrying on the enterprise' , was as follows:
  
  '(a) Infrastructure Services Group (maintenance of the rail network); 
- &#8226; Forklifts; 
- &#8226; Bobcats; 
- &#8226; Compressors; 
- &#8226; steam cleaners; 
- &#8226; pressure cleaners; 
- &#8226; generators; 
- &#8226; tractors; 
- &#8226; welders; 
- &#8226; wacker packers; 
- &#8226; earthmoving equipment; 
- &#8226; new rail construction.</sentence>
+ #8226; Forklifts; 
+ #8226; Bobcats; 
+ #8226; Compressors; 
+ #8226; steam cleaners; 
+ #8226; pressure cleaners; 
+ #8226; generators; 
+ #8226; tractors; 
+ #8226; welders; 
+ #8226; wacker packers; 
+ #8226; earthmoving equipment; 
+ #8226; new rail construction.</sentence>
 <sentence id="s52">
  
  (b) Coal and Freight Services Group (provision of haulage service) 
- &#8226; Forklifts; 
- &#8226; wheeled overhead gantries; 
- &#8226; generators; 
- &#8226; tractors; 
- &#8226; steam cleaners.</sentence>
+ #8226; Forklifts; 
+ #8226; wheeled overhead gantries; 
+ #8226; generators; 
+ #8226; tractors; 
+ #8226; steam cleaners.</sentence>
 <sentence id="s53">
  
  (c) Workshops (maintenance and construction of rolling stock) 
- &#8226; Forklifts; 
- &#8226; Bobcats; 
- &#8226; Compressors; 
- &#8226; steam cleaners; 
- &#8226; pressure cleaners; 
- &#8226; generators; 
- &#8226; tractors; 
- &#8226; welders.</sentence>
+ #8226; Forklifts; 
+ #8226; Bobcats; 
+ #8226; Compressors; 
+ #8226; steam cleaners; 
+ #8226; pressure cleaners; 
+ #8226; generators; 
+ #8226; tractors; 
+ #8226; welders.</sentence>
 <sentence id="s54">' 
  
 
 17 Attachment B (concerning road vehicles capable of travelling on-rail) was a table as follows:
  
- Light Vehicles (&lt; 4.5t) 
+ Light Vehicles (lt; 4.5t) 
  Total fuel $499,626.42 
  
  
@@ -340,7 +340,7 @@
  
 
  
- Diesel Trucks (&gt; 4.5t) 
+ Diesel Trucks (gt; 4.5t) 
  Total Fuel --- $491,819.01 
  
  
@@ -479,9 +479,9 @@
 <sentence id="s99">Paragraphs (ad), (b), (c) and (d) all deal with use at particular types of premises.</sentence>
 <sentence id="s100">29 For the purposes of par (ab), the relevant fuel must be purchased for use:
  
- &#8226; in rail transport;
- &#8226; otherwise than for the purpose of propelling a road vehicle on a public road; and
- &#8226; in the course of carrying on an enterprise.</sentence>
+ #8226; in rail transport;
+ #8226; otherwise than for the purpose of propelling a road vehicle on a public road; and
+ #8226; in the course of carrying on an enterprise.</sentence>
 <sentence id="s101">
 
 30 Because of the long history of state government rail operations in Australia, one tends to infer that any reference to rail transport must be to transport on one or other of those systems.</sentence>
@@ -579,7 +579,7 @@ Mr C D Coulsen
  
  Solicitor for the Respondent: Australian Government Solicitor 
  
- Dates of Hearing: 25 &amp; 26 July 2005 
+ Dates of Hearing: 25 amp; 26 July 2005 
  
  Date of Judgment: 30 June 2006 
 
@@ -590,5 +590,9 @@ Mr C D Coulsen
  URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/816.html 
  
  </sentence>
+</sentences>
+</case>sentence>
+</sentences>
+</case>ntence>
 </sentences>
 </case>

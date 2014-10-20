@@ -3,15 +3,15 @@
 <name>Australian Broadcasting Corporation v The University of Technology, Sydney [2006] FCA 964 (31 July 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/964.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from the administrative appeals tribunal</catchphrase>
-<catchphrase "id=c1">abc exempt from the freedom of information act 1982 (cth) ' in relation to its program material ... in relation to [it]'</catchphrase>
-<catchphrase "id=c2">complaints and documents concerning complaints about abc programs</catchphrase>
-<catchphrase "id=c3">documents sought are in relation to program material and exempt from production</catchphrase>
-<catchphrase "id=c4">"program material"</catchphrase>
-<catchphrase "id=c5">"in relation to"</catchphrase>
-<catchphrase "id=c6">"in respect of"</catchphrase>
-<catchphrase "id=c7">freedom of information</catchphrase>
-<catchphrase "id=c8">words and phrases</catchphrase>
+<catchphrase >appeal from the administrative appeals tribunal</catchphrase>
+<catchphrase >abc exempt from the freedom of information act 1982 (cth) ' in relation to its program material ... in relation to [it]'</catchphrase>
+<catchphrase >complaints and documents concerning complaints about abc programs</catchphrase>
+<catchphrase >documents sought are in relation to program material and exempt from production</catchphrase>
+<catchphrase >"program material"</catchphrase>
+<catchphrase >"in relation to"</catchphrase>
+<catchphrase >"in respect of"</catchphrase>
+<catchphrase >freedom of information</catchphrase>
+<catchphrase >words and phrases</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -73,8 +73,8 @@
 <sentence id="s14">No distinction is drawn by the parties between documents created before broadcasting and documents created after broadcasting.</sentence>
 <sentence id="s15">The documents concern complaints about specific ABC programs and the ABC's coverage of the Middle East and fall into two broad categories:
  
- &#8226; correspondence with complainants; and
- &#8226; internal files and correspondence, board minutes, investigation files and reports and documents in relation to the complaints.</sentence>
+ #8226; correspondence with complainants; and
+ #8226; internal files and correspondence, board minutes, investigation files and reports and documents in relation to the complaints.</sentence>
 <sentence id="s16">
  THE SUBMISSIONS 
  "In relation to its program material" 
@@ -156,13 +156,13 @@ For the ABC and the SBS, the exemption is:
 20 UTS ultimately adopted a position that the exemption is only for program material where program material means the recordings and tapes, the "sights and sounds" that are broadcast by television or radio.</sentence>
 <sentence id="s71">The difficulty with this position was illustrated when UTS accepted, during the course of submissions, that the following either were, or could be, program material:
  
- &#8226; films or tapes which have or have not been broadcast;
- &#8226; draft tapes and draft films;
- &#8226; material which is ' part of the production process for the film or the tape recording ';
- &#8226; the development proposal and six treatments found to be ' documents relating to program material ' and therefore exempt in the Tribunal's earlier decision in Keane v Australian Broadcasting Corporation at [7] (Unreported, Administrative Appeals Tribunal, 27 May 2004, W93/182 AAT No.</sentence>
+ #8226; films or tapes which have or have not been broadcast;
+ #8226; draft tapes and draft films;
+ #8226; material which is ' part of the production process for the film or the tape recording ';
+ #8226; the development proposal and six treatments found to be ' documents relating to program material ' and therefore exempt in the Tribunal's earlier decision in Keane v Australian Broadcasting Corporation at [7] (Unreported, Administrative Appeals Tribunal, 27 May 2004, W93/182 AAT No.</sentence>
 <sentence id="s72">9583);
- &#8226; scripts; and
- &#8226; technical directions given by a director for the lighting on a particular program.</sentence>
+ #8226; scripts; and
+ #8226; technical directions given by a director for the lighting on a particular program.</sentence>
 <sentence id="s73">
 
 
@@ -262,7 +262,7 @@ Dated: 31 July 2006
 <sentence id="s129">
 
  
- (d) The spreadsheet maintained by News &amp; Current Affairs identifying 272 relevant complaints.</sentence>
+ (d) The spreadsheet maintained by News amp; Current Affairs identifying 272 relevant complaints.</sentence>
 <sentence id="s130">
 
 
@@ -338,4 +338,10 @@ Dated: 31 July 2006
  
  </sentence>
 </sentences>
+</case>>
+</case>FCA/2006/964.html 
+ 
+ </sentence>
+</sentences>
+</case>>
 </case>

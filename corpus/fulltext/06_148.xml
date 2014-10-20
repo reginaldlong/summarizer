@@ -3,21 +3,21 @@
 <name>Smith v University of Ballarat [2006] FCA 148 (24 February 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/148.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">making of australian workplace agreements</catchphrase>
-<catchphrase "id=c1">whether statements knowingly false and misleading</catchphrase>
-<catchphrase "id=c2">whether representations ongoing</catchphrase>
-<catchphrase "id=c3">whether effect limited by subsequent clarifications</catchphrase>
-<catchphrase "id=c4">interlocutory injunction</catchphrase>
-<catchphrase "id=c5">whether appropriate in circumstances</catchphrase>
-<catchphrase "id=c6">whether serious question to be tried and balance of convenience favours grant</catchphrase>
-<catchphrase "id=c7">discretion to grant injunction</catchphrase>
-<catchphrase "id=c8">whether just and convenient</catchphrase>
-<catchphrase "id=c9">whether corrective statements sufficient</catchphrase>
-<catchphrase "id=c10">representative proceedings</catchphrase>
-<catchphrase "id=c11">remedies available to applicant</catchphrase>
-<catchphrase "id=c12">remedies available to represented group</catchphrase>
-<catchphrase "id=c13">industrial relations</catchphrase>
-<catchphrase "id=c14">practice and procedure</catchphrase>
+<catchphrase >making of australian workplace agreements</catchphrase>
+<catchphrase >whether statements knowingly false and misleading</catchphrase>
+<catchphrase >whether representations ongoing</catchphrase>
+<catchphrase >whether effect limited by subsequent clarifications</catchphrase>
+<catchphrase >interlocutory injunction</catchphrase>
+<catchphrase >whether appropriate in circumstances</catchphrase>
+<catchphrase >whether serious question to be tried and balance of convenience favours grant</catchphrase>
+<catchphrase >discretion to grant injunction</catchphrase>
+<catchphrase >whether just and convenient</catchphrase>
+<catchphrase >whether corrective statements sufficient</catchphrase>
+<catchphrase >representative proceedings</catchphrase>
+<catchphrase >remedies available to applicant</catchphrase>
+<catchphrase >remedies available to represented group</catchphrase>
+<catchphrase >industrial relations</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -190,8 +190,8 @@ The applicant founds his case of misleading statements on this email.</sentence>
 <sentence id="s100">
  
  For example: 
- &#8226; the dispute resolution procedure in the AWA is the model procedure prescribed by the Employment Advocate; 
- &#8226; the AWA does not include appeals or review committees that review decisions made in cases of redundancy, unsatisfactory performance, misconduct and academic probation.</sentence>
+ #8226; the dispute resolution procedure in the AWA is the model procedure prescribed by the Employment Advocate; 
+ #8226; the AWA does not include appeals or review committees that review decisions made in cases of redundancy, unsatisfactory performance, misconduct and academic probation.</sentence>
 <sentence id="s101">The AWA does include a process for appeals in the case of termination of employment.</sentence>
 <sentence id="s102">
  
@@ -283,7 +283,7 @@ The applicant founds his case of misleading statements on this email.</sentence>
 <sentence id="s163">The Full Court construed the reference in s 170VV(3) to 'a party to the AWA or ancillary document' so as to include a party to negotiations.</sentence>
 <sentence id="s164">32 It follows therefore that an action for penalties and injunctive relied under ss 170VV and 170VZ can properly be constituted as a representative action: see Finance Sector Union of Australia v Commonwealth Bank of Australia [1999] FCA 1250 ; (1999) 94 FCR 179.</sentence>
 <sentence id="s165">I also note that s 33C of the FCA Act provides that a representative proceeding may be commenced whether or not the relief sought is the same for each person represented.</sentence>
-<sentence id="s166">And I entirely accept the proposition that nothing in s 170VZ excludes this Court's powers under s 23 of the FCA Act to grant an interim or interlocutory injunction in an appropriate case: see Patrick Stevedores at 29 [27] per Brennan CJ; and Australasian Meat Industry Employees' Union v G &amp; K O'Connor Pty Ltd [2000] FCA 1760 ; (2000) 104 FCR 80 at 103 [96] .</sentence>
+<sentence id="s166">And I entirely accept the proposition that nothing in s 170VZ excludes this Court's powers under s 23 of the FCA Act to grant an interim or interlocutory injunction in an appropriate case: see Patrick Stevedores at 29 [27] per Brennan CJ; and Australasian Meat Industry Employees' Union v G amp; K O'Connor Pty Ltd [2000] FCA 1760 ; (2000) 104 FCR 80 at 103 [96] .</sentence>
 <sentence id="s167">Nonetheless, it may be a different question whether an applicant can bring an application for interlocutory relief in a representative proceeding, where the applicant has no individual entitlement to that relief, but the relief is sought on the basis that it may be relevant and necessary for other members of the group.</sentence>
 <sentence id="s168">33 Dr Jessup's submissions may also raise issues about the identification of the group members.</sentence>
 <sentence id="s169">In this case, the application alleges that a common issue of law and fact arises, namely whether the December 2005 statements made on behalf of UB were knowingly false or misleading with the intention of persuading the academic and general staff to make the AWA, within the meaning of s 170WG(2) of the WR Act .</sentence>
@@ -423,7 +423,7 @@ Under the AWA, an employee who is made compulsorily redundant is entitled to pay
  13 Under the EBA, where an employee denies in part or in full an allegation of misconduct or fails to respond to such allegation, the VC shall refer the allegation to a Misconduct Investigation Committee.</sentence>
 <sentence id="s264">The EBA Misconduct investigation Committee consists of the following: a person agreed by VC and union to act as chairperson, a person chosen by the union and a person chosen by VC (cl.25.10).</sentence>
 <sentence id="s265">Under the AWA, the Head of School may investigate an allegation of misconduct or arrange for an independent person to investigate (40.1).</sentence>
-<sentence id="s266">Under the EBA, the Misconduct investigation Committee is to report to the VC on the facts relating to the alleged misconduct/serious misconduct including mitigating circumstances (25.12 &amp; 24.14).</sentence>
+<sentence id="s266">Under the EBA, the Misconduct investigation Committee is to report to the VC on the facts relating to the alleged misconduct/serious misconduct including mitigating circumstances (25.12 amp; 24.14).</sentence>
 <sentence id="s267">Under the EBA, having considered the report, the VC may take disciplinary action or if the VC decides there has been no misconduct inform the staff member (25,15).</sentence>
 <sentence id="s268">Under AWA, the Head of School (after having considered response of the employee and met with the employee) will report to VC.</sentence>
 <sentence id="s269">DVC or PVC including providing a recommendation which may include disciplinary action (40.4).</sentence>
@@ -478,7 +478,7 @@ Under the AWA, an employee who is made compulsorily redundant is entitled to pay
 <sentence id="s309">The AWA' workplace disputes procedures do not provide for a dispute or grievance to be taken to the AIRC but the AWA provides for a process of mediation that is based on the model dispute resolution clause contained in the Workplace Relations Act 1996 .</sentence>
 <sentence id="s310">24 Under the EBA, whilst the required dispute resolution steps prior to reference to the AIRC are being undertaken, the parties are obliged to work in the normal matter, the union(s) and UB cannot take industrial action, UB cannot change work, staffing or the organization of work (if these matters are the subject of the dispute) and UB cannot take any other action to exacerbate the dispute (EBA cl.55.6).</sentence>
 <sentence id="s311">Under the AWA, whilst the parties attempt to resolve the matter, the parties are required to work in accordance with their contract of employment unless the staff member has a reasonable concern about imminent risk to his or her health or safety (academic AWA cl.</sentence>
-<sentence id="s312">45.6.1 &amp; general staff AWA cl.56.6.1).</sentence>
+<sentence id="s312">45.6.1 amp; general staff AWA cl.56.6.1).</sentence>
 <sentence id="s313">25 Under the EBA, there is no restriction on a party commencing enforcement proceedings in a Court for breach of an obligation under the EBA whilst the dispute procedure is being followed.</sentence>
 <sentence id="s314">Under the AWA, a party is restricted from commencing enforcement proceedings in a Court for a breach of the AWA for a certain period of time.</sentence>
 <sentence id="s315">
@@ -510,7 +510,7 @@ Under the AWA, an employee who is made compulsorily redundant is entitled to pay
  31 Under clause 53.2 of the AWA, the University is obliged to only inform staff members concerned where it has determined that it has staff members in excess of its requirements.</sentence>
 <sentence id="s327">Under clause 30.2 of the EA, the obligation included notifying the union.</sentence>
 <sentence id="s328">32 Under the EBA, if at the end of the eight (8) week transition period, the University is unable to redeploy the employee or avoid termination, the employee will be retrenched.</sentence>
-<sentence id="s329">The employee then has the choice between: &#8226; Length of service severance payment ie 4 weeks per year of service for each completed year of service up to 10 years service and then 2 weeks per year of service thereafter; or &#8226; Reverting to PACCT Award redundancy provisions which provide that the employee will serve another (18) weeks as notice and after termination takes effect receive income maintenance.</sentence>
+<sentence id="s329">The employee then has the choice between: #8226; Length of service severance payment ie 4 weeks per year of service for each completed year of service up to 10 years service and then 2 weeks per year of service thereafter; or #8226; Reverting to PACCT Award redundancy provisions which provide that the employee will serve another (18) weeks as notice and after termination takes effect receive income maintenance.</sentence>
 <sentence id="s330">Under the PACCT Award, the income maintenance may compensate an employee for up to 12 months.</sentence>
 <sentence id="s331">
 
@@ -536,7 +536,7 @@ Under the AWA, if at the end of the (8) week transition period, the University i
 <sentence id="s345">The AWA workplace disputes procedures do not provide for a dispute or grievance to be taken to the AIRC but the AWA provides for a process of mediation that is based on the model dispute resolution clause contained in the Workplace Relations Act 1996 .</sentence>
 <sentence id="s346">38 Under the EBA, whilst the required dispute resolution steps prior to reference to the AIRC are being undertaken, the parties are obliged to work in the normal matter, the union(s) and UB cannot take industrial action, UB cannot change work, staffing or the organization of work (if these matters are the subject of the dispute) and UB cannot take any other action to exacerbate the dispute (EBA cl.55.6).</sentence>
 <sentence id="s347">Under the AWA, whilst the parties attempt to resolve the matter, the parties are required to work in accordance with their contract of employment unless the staff member has a reasonable concern about imminent risk to his or her health or safety (academic AWA cl.</sentence>
-<sentence id="s348">45.6.1 &amp; general staff AWA cl.56.6.1).</sentence>
+<sentence id="s348">45.6.1 amp; general staff AWA cl.56.6.1).</sentence>
 <sentence id="s349">39 Under the EBA, there is no restriction on a party commencing enforcement proceedings in a Court for breach of an obligation under the EBA whilst the dispute procedure is being followed.</sentence>
 <sentence id="s350">Under the AWA, a party is restricted from commencing enforcement proceedings in a Court for a breach of the AWA for a certain period of time.</sentence>
 <sentence id="s351">
@@ -599,4 +599,11 @@ Under the AWA, if at the end of the (8) week transition period, the University i
  
  </sentence>
 </sentences>
+</case>
+</case>k 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/148.html 
+ 
+ </sentence>
+</sentences>
+</case>
 </case>

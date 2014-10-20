@@ -3,11 +3,11 @@
 <name>Epov v Commissioner of Taxation [2007] FCA 34 (31 January 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/34.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">power to issue amended assessments when appeals on objections against original assessments before the court</catchphrase>
-<catchphrase "id=c1">whether payments by a company are dividends paid out of profits and assessable income under ss 108/109c and 44 (1) of the income tax assessment act 1936 (cth)</catchphrase>
-<catchphrase "id=c2">burden of proof</catchphrase>
-<catchphrase "id=c3">alternatively whether part iva applies</catchphrase>
-<catchphrase "id=c4">income tax</catchphrase>
+<catchphrase >power to issue amended assessments when appeals on objections against original assessments before the court</catchphrase>
+<catchphrase >whether payments by a company are dividends paid out of profits and assessable income under ss 108/109c and 44 (1) of the income tax assessment act 1936 (cth)</catchphrase>
+<catchphrase >burden of proof</catchphrase>
+<catchphrase >alternatively whether part iva applies</catchphrase>
+<catchphrase >income tax</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -36,7 +36,7 @@
  1997 - $2,496,165
  1998 - $999,000 
 
-represent the aggregate amount of payments alleged by the Commissioner to have been made by Australia China Business Bureau Pty Ltd ('ACBB') to various entities, including New Asia International Import &amp; Export Co Ltd ('New Asia'), Georgette Constructions Pty Ltd ('Georgette') and the applicant himself, in the years of income.</sentence>
+represent the aggregate amount of payments alleged by the Commissioner to have been made by Australia China Business Bureau Pty Ltd ('ACBB') to various entities, including New Asia International Import amp; Export Co Ltd ('New Asia'), Georgette Constructions Pty Ltd ('Georgette') and the applicant himself, in the years of income.</sentence>
 <sentence id="s15">
  In the 1996 year, there was only one alleged payment by ACBB as follows.</sentence>
 <sentence id="s16">
@@ -504,7 +504,7 @@ Dated: 31 January 2007
 
  Counsel for the Applicants Dr H R Sorensen 
  
- Solicitor for the Applicants Conomos &amp; Spinak 
+ Solicitor for the Applicants Conomos amp; Spinak 
  
  Counsel for the Respondents Mr P M Fraser 
  
@@ -522,4 +522,6 @@ Dated: 31 January 2007
  
  </sentence>
 </sentences>
-</case>
+</case>e> </sentence>
+</sentences>
+</case>e>

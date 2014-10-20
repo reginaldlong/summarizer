@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <case>
-<name>SZIEQ v Minister for Immigration &amp; Multicultural Affairs [2006] FCA 1572 (24 November 2006)</name>
+<name>SZIEQ v Minister for Immigration amp; Multicultural Affairs [2006] FCA 1572 (24 November 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1572.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for protection visa</catchphrase>
-<catchphrase "id=c1">refused</catchphrase>
-<catchphrase "id=c2">application for review to refugee review tribunal</catchphrase>
-<catchphrase "id=c3">decision affirmed</catchphrase>
-<catchphrase "id=c4">appeal to federal magistrates court</catchphrase>
-<catchphrase "id=c5">dismissed</catchphrase>
-<catchphrase "id=c6">leave to appeal required</catchphrase>
-<catchphrase "id=c7">no substantial injustice</catchphrase>
-<catchphrase "id=c8">leave refused</catchphrase>
-<catchphrase "id=c9">migration</catchphrase>
+<catchphrase >application for protection visa</catchphrase>
+<catchphrase >refused</catchphrase>
+<catchphrase >application for review to refugee review tribunal</catchphrase>
+<catchphrase >decision affirmed</catchphrase>
+<catchphrase >appeal to federal magistrates court</catchphrase>
+<catchphrase >dismissed</catchphrase>
+<catchphrase >leave to appeal required</catchphrase>
+<catchphrase >no substantial injustice</catchphrase>
+<catchphrase >leave refused</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -34,7 +34,7 @@
 <sentence id="s14">5 The applicant asserted he was 'cheated' by his migration agent.</sentence>
 <sentence id="s15">However, at [20] Federal Magistrate Smith held:
  
- 'There is now clear authority that the Tribunal's power to proceed under s 426A(1) is available regardless of whether an applicant received actual notice of an invitation, and regardless of the reasons for him not receiving that notice, at least in circumstances such as the present (see VNAA v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2004] FCAFC 134 ; (2004) 136 FCR 407 at [14] - [15] ).</sentence>
+ 'There is now clear authority that the Tribunal's power to proceed under s 426A(1) is available regardless of whether an applicant received actual notice of an invitation, and regardless of the reasons for him not receiving that notice, at least in circumstances such as the present (see VNAA v Minister for Immigration amp; Multicultural amp; Indigenous Affairs [2004] FCAFC 134 ; (2004) 136 FCR 407 at [14] - [15] ).</sentence>
 <sentence id="s16">'
  
 
@@ -45,11 +45,11 @@
 <sentence id="s20">The Court below correctly dismissed the application, for the reasons which it gave.</sentence>
 <sentence id="s21">In summary, those reasons were:
  
- &#8226; the Tribunal posted an invitation to the applicant's migration agent, thereby complying with its obligation under s 425 to invite the applicant to appear before it;
- &#8226; the invitation was sent, in accordance with s 441G(1), to the applicant's authorised recipient;
- &#8226; section 424A was not applicable because the decision was not based on 'information' supplied by the applicant for the purposes of the review but, rather, the lack of it;
- &#8226; the Tribunal may proceed to hear a review under s 426A(1), irrespective of the actual receipt or otherwise of the notice of hearing under s 425; and
- &#8226; sections 425, 425A and 426A, supply a code of procedures for the invitation of applicants to hearings before the Tribunal and additional or contrary obligations cannot be implied under principles of procedural fairness.</sentence>
+ #8226; the Tribunal posted an invitation to the applicant's migration agent, thereby complying with its obligation under s 425 to invite the applicant to appear before it;
+ #8226; the invitation was sent, in accordance with s 441G(1), to the applicant's authorised recipient;
+ #8226; section 424A was not applicable because the decision was not based on 'information' supplied by the applicant for the purposes of the review but, rather, the lack of it;
+ #8226; the Tribunal may proceed to hear a review under s 426A(1), irrespective of the actual receipt or otherwise of the notice of hearing under s 425; and
+ #8226; sections 425, 425A and 426A, supply a code of procedures for the invitation of applicants to hearings before the Tribunal and additional or contrary obligations cannot be implied under principles of procedural fairness.</sentence>
 <sentence id="s22">
 
 9 I am also satisfied that no substantial injustice would result if leave is refused.</sentence>
@@ -83,4 +83,10 @@ Dated: 24 November 2006
  
  </sentence>
 </sentences>
+</case>
+</case>es/cth/FCA/2006/1572.html 
+ 
+ </sentence>
+</sentences>
+</case>
 </case>

@@ -3,17 +3,17 @@
 <name>Commonwealth of Australia v Westwood (Corrigendum dated 18 September 2007) [2007] FCA 1282 (21 August 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1282.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">whether the court has jurisdiction to entertain an application for purely declaratory relief in relation to an evidentiary ruling of a court martial</catchphrase>
-<catchphrase "id=c1">whether the director of military prosecutions is the commonwealth for the purposes of s 39b(1a)(a) of the judiciary act 1903 (cth).</catchphrase>
-<catchphrase "id=c2">discretion</catchphrase>
-<catchphrase "id=c3">application for declaratory relief in relation to pending court martial</catchphrase>
-<catchphrase "id=c4">whether circumstances of the case are ' most exceptional '</catchphrase>
-<catchphrase "id=c5">prejudice to accused</catchphrase>
-<catchphrase "id=c6">likelihood of alternative remedies.</catchphrase>
-<catchphrase "id=c7">' the commonwealth ', ' most exceptional '.</catchphrase>
-<catchphrase "id=c8">jurisdiction</catchphrase>
-<catchphrase "id=c9">judicial review</catchphrase>
-<catchphrase "id=c10">words and phrases</catchphrase>
+<catchphrase >whether the court has jurisdiction to entertain an application for purely declaratory relief in relation to an evidentiary ruling of a court martial</catchphrase>
+<catchphrase >whether the director of military prosecutions is the commonwealth for the purposes of s 39b(1a)(a) of the judiciary act 1903 (cth).</catchphrase>
+<catchphrase >discretion</catchphrase>
+<catchphrase >application for declaratory relief in relation to pending court martial</catchphrase>
+<catchphrase >whether circumstances of the case are ' most exceptional '</catchphrase>
+<catchphrase >prejudice to accused</catchphrase>
+<catchphrase >likelihood of alternative remedies.</catchphrase>
+<catchphrase >' the commonwealth ', ' most exceptional '.</catchphrase>
+<catchphrase >jurisdiction</catchphrase>
+<catchphrase >judicial review</catchphrase>
+<catchphrase >words and phrases</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -26,8 +26,8 @@
 <sentence id="s4">He has been charged with:
  
  
- &#8226; one count of losing service property, contrary to s 44(1) of the DFD Act ; and
- &#8226; one count of not complying with a lawful general order, contrary to s 29(1) of the DFD Act .</sentence>
+ #8226; one count of losing service property, contrary to s 44(1) of the DFD Act ; and
+ #8226; one count of not complying with a lawful general order, contrary to s 29(1) of the DFD Act .</sentence>
 <sentence id="s5">
  
 
@@ -425,11 +425,11 @@ The Judge Advocate considered that certain other provisions of the Defence Secur
 <sentence id="s158">In this respect, it is significant that under the DFD Act the Director:
  
  
- &#8226; holds a statutory office (s 188G);
- &#8226; is appointed by the Minister (s 188GF);
- &#8226; holds office on the terms and conditions (if any) in relation to matters not covered by the DFD Act that are determined by the Minister (s 188GF(3));
- &#8226; exercises statutory functions integral to the maintenance and enforcement of discipline in the Defence Force of the Commonwealth (s 188GA); and
- &#8226; is authorised to represent the service chiefs in certain proceedings (s 188GA(1)(d)).</sentence>
+ #8226; holds a statutory office (s 188G);
+ #8226; is appointed by the Minister (s 188GF);
+ #8226; holds office on the terms and conditions (if any) in relation to matters not covered by the DFD Act that are determined by the Minister (s 188GF(3));
+ #8226; exercises statutory functions integral to the maintenance and enforcement of discipline in the Defence Force of the Commonwealth (s 188GA); and
+ #8226; is authorised to represent the service chiefs in certain proceedings (s 188GA(1)(d)).</sentence>
 <sentence id="s159">
  
 
@@ -479,10 +479,10 @@ The Judge Advocate considered that certain other provisions of the Defence Secur
 64 Dr Renwick relies on four matters to support the contention that the circumstances of this case fall into the ' most exceptional ' class:
  
  
- &#8226; the institution of the present proceedings caused no significant delay in the resolution of the court martial;
- &#8226; the applicants have no alternative avenue by which to test the ruling of the Judge Advocate;
- &#8226; the legal issue presented for resolution is of ' some wider significance '; and
- &#8226; the issue presented to the Court is straightforward, in the sense that the facts are not in dispute and the issue is one of law.</sentence>
+ #8226; the institution of the present proceedings caused no significant delay in the resolution of the court martial;
+ #8226; the applicants have no alternative avenue by which to test the ruling of the Judge Advocate;
+ #8226; the legal issue presented for resolution is of ' some wider significance '; and
+ #8226; the issue presented to the Court is straightforward, in the sense that the facts are not in dispute and the issue is one of law.</sentence>
 <sentence id="s188">
  
  
@@ -663,7 +663,7 @@ and second applicants: Australian Government Solicitor
 second respondent: Mr B Levet 
  
  Solicitor for the 
-second respondent: Kinghan &amp; Associates 
+second respondent: Kinghan amp; Associates 
  
  Date of hearing: 14 August 2007 
  
@@ -680,4 +680,10 @@ second respondent: Kinghan &amp; Associates
  
  </sentence>
 </sentences>
+</case>ces>
+</case>/cases/cth/FCA/2007/1282.html 
+ 
+ </sentence>
+</sentences>
+</case>ces>
 </case>

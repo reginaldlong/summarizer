@@ -3,11 +3,11 @@
 <name>MZXGP v Minister for Immigration and Multicultural Affairs [2006] FCA 1075 (9 August 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1075.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">show cause hearing</catchphrase>
-<catchphrase "id=c1">federal magistrates court rules part 44</catchphrase>
-<catchphrase "id=c2">immediate show cause hearing at first court date without prior warning given to applicant</catchphrase>
-<catchphrase "id=c3">leave to appeal granted</catchphrase>
-<catchphrase "id=c4">migration</catchphrase>
+<catchphrase >show cause hearing</catchphrase>
+<catchphrase >federal magistrates court rules part 44</catchphrase>
+<catchphrase >immediate show cause hearing at first court date without prior warning given to applicant</catchphrase>
+<catchphrase >leave to appeal granted</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -45,10 +45,10 @@
 <sentence id="s29">The applicant claims that it was, in effect, unfair to him, and I am persuaded that in the particular circumstances he may be right.</sentence>
 <sentence id="s30">11 Ms Burchell of counsel, in an admirably clear and concise submission on behalf of the Minister, acknowledged that that the applicant may have been taken by surprise at the first hearing before the Federal Magistrate.</sentence>
 <sentence id="s31">She submitted, however, that if one looks at the whole of the facts of the case, as the Federal Magistrate did, there was nothing useful that the applicant could have said, even if he had been given an opportunity to do so.</sentence>
-<sentence id="s32">12 Ms Burchell also submitted that the two established principles upon which leave to appeal is normally granted or refused in this Court pointed against the grant of leave: see D&eacute;cor Corporation Pty Ltd v Dart Industries (1991) 33 FCR 397.</sentence>
+<sentence id="s32">12 Ms Burchell also submitted that the two established principles upon which leave to appeal is normally granted or refused in this Court pointed against the grant of leave: see Deacute;cor Corporation Pty Ltd v Dart Industries (1991) 33 FCR 397.</sentence>
 <sentence id="s33">The Full Court (Sheppard, Burchett and Heerey JJ) in that case considered, however, that the applicable test for the grant of leave should not be exhaustively applied in all cases, and that the Court retained an 'unfettered discretion' as conferred on it by s 24(1A) of the Federal Court of Australia Act 1976 (Cth): see at 399.</sentence>
 <sentence id="s34">The Full Court observed (at 399-400) that, subject to the consideration that the legislature has evinced a policy preference against the bringing of interlocutory appeals except by the grant of leave, 'there will continue to be cases raising special considerations, and the court should not regard its hands as tied'.</sentence>
-<sentence id="s35">In all cases leave will be more readily granted where an interlocutory decision determines a substantive right, rather than a mere point of procedure: see D&eacute;cor Corporation at 400; Eltran Pty Limited &amp; Ors v Westpac Banking Corporation &amp; Ors (1988) 32 FCR 195 at 202 (Spender J).</sentence>
+<sentence id="s35">In all cases leave will be more readily granted where an interlocutory decision determines a substantive right, rather than a mere point of procedure: see Deacute;cor Corporation at 400; Eltran Pty Limited amp; Ors v Westpac Banking Corporation amp; Ors (1988) 32 FCR 195 at 202 (Spender J).</sentence>
 <sentence id="s36">
  
 
@@ -88,4 +88,6 @@ Dated: 16 August 2006
  
  </sentence>
 </sentences>
-</case>
+</case>ase>/sentence>
+</sentences>
+</case>ase>

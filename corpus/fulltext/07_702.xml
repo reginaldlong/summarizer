@@ -3,12 +3,12 @@
 <name>SZJNV v Minister for Immigration and Citizenship [2007] FCA 702 (9 May 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/702.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">review of a decision of the refugee review tribunal ('the tribunal')</catchphrase>
-<catchphrase "id=c1">whether tribunal committed an error of law</catchphrase>
-<catchphrase "id=c2">whether any evidence of bias</catchphrase>
-<catchphrase "id=c3">whether comments of tribunal amounted to a requirement that the appellant change her behaviour to avoid persecution</catchphrase>
-<catchphrase "id=c4">no error disclosed</catchphrase>
-<catchphrase "id=c5">migration</catchphrase>
+<catchphrase >review of a decision of the refugee review tribunal ('the tribunal')</catchphrase>
+<catchphrase >whether tribunal committed an error of law</catchphrase>
+<catchphrase >whether any evidence of bias</catchphrase>
+<catchphrase >whether comments of tribunal amounted to a requirement that the appellant change her behaviour to avoid persecution</catchphrase>
+<catchphrase >no error disclosed</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -55,7 +55,7 @@
 <sentence id="s33">8 The federal magistrate found no evidence of bias and no evidence of selective use of the country information.</sentence>
 <sentence id="s34">In relation to the s 424A(1) ground, the Tribunal's decision was largely based on the appellant's own evidence at the hearing and country information and thus fell within the exceptions provided in s 424A(3)(a) and (b).</sentence>
 <sentence id="s35">Further, there was no breach of s 425 as the Tribunal considered the appellant's claims in detail and that appellant was invited and did attend the hearing.</sentence>
-<sentence id="s36">9 Counsel for the first respondent raised the fact that the Tribunal's reference to the appellant attending a state-sanctioned church may raise similar issues to those which arose in Appellant S395/2002 v Minister for Immigration &amp; Multicultural Affairs [2003] HCA 71 ; (2003) 216 CLR 473.</sentence>
+<sentence id="s36">9 Counsel for the first respondent raised the fact that the Tribunal's reference to the appellant attending a state-sanctioned church may raise similar issues to those which arose in Appellant S395/2002 v Minister for Immigration amp; Multicultural Affairs [2003] HCA 71 ; (2003) 216 CLR 473.</sentence>
 <sentence id="s37">However, the federal magistrate distinguished this case on two bases.</sentence>
 <sentence id="s38">Firstly, here the Tribunal made a factual finding that the appellant had no deep theological convictions and this finding had no discernable error.</sentence>
 <sentence id="s39">There was no equivalent finding in Appellant S395/2002 216 CLR 473.</sentence>
@@ -128,4 +128,8 @@ Dated: 17 May 2007
  
  </sentence>
 </sentences>
-</case>
+</case>>html 
+ 
+ </sentence>
+</sentences>
+</case>>

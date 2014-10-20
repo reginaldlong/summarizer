@@ -3,11 +3,11 @@
 <name>Upton v Tasmanian Perpetual Trustees Pty Ltd [2006] FCA 1088 (11 August 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1088.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">sale by mortgagee</catchphrase>
-<catchphrase "id=c1">alleged failure to consult with mortgagee</catchphrase>
-<catchphrase "id=c2">sale of subdivided land in one parcel</catchphrase>
-<catchphrase "id=c3">alleged sale at undervalue</catchphrase>
-<catchphrase "id=c4">mortgage</catchphrase>
+<catchphrase >sale by mortgagee</catchphrase>
+<catchphrase >alleged failure to consult with mortgagee</catchphrase>
+<catchphrase >sale of subdivided land in one parcel</catchphrase>
+<catchphrase >alleged sale at undervalue</catchphrase>
+<catchphrase >mortgage</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -301,7 +301,7 @@ Dated: 17 August 2006
 
  Counsel for the Applicant: RA Skiller and JA Munnings 
  
- Solicitors for the Applicant: CA Johnstone Munnings &amp; Co 
+ Solicitors for the Applicant: CA Johnstone Munnings amp; Co 
  
  Counsel for the Respondent: L Sealy and M Chambers 
  
@@ -321,4 +321,7 @@ Dated: 17 August 2006
  
  </sentence>
 </sentences>
-</case>
+</case>>
+ </sentence>
+</sentences>
+</case>>

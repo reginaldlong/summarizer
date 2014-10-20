@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <case>
-<name>SZHPX v Minister for Immigration &amp; Multicultural Affairs [2006] FCA 1445 (6 November 2006)</name>
+<name>SZHPX v Minister for Immigration amp; Multicultural Affairs [2006] FCA 1445 (6 November 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1445.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">judicial review</catchphrase>
-<catchphrase "id=c1">invitation to attend hearing</catchphrase>
-<catchphrase "id=c2">invitation not received</catchphrase>
-<catchphrase "id=c3">no error of law.</catchphrase>
-<catchphrase "id=c4">migration</catchphrase>
+<catchphrase >judicial review</catchphrase>
+<catchphrase >invitation to attend hearing</catchphrase>
+<catchphrase >invitation not received</catchphrase>
+<catchphrase >no error of law.</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -145,4 +145,7 @@ Dated: 7 November 2006
  
  </sentence>
 </sentences>
-</case>
+</case>>
+ </sentence>
+</sentences>
+</case>>

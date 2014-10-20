@@ -3,11 +3,11 @@
 <name>Byrne v Repatriation Commission [2006] FCA 1667 (5 December 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1667.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">hypothesis that veteran's death was contributed to by war-caused coronary artery disease</catchphrase>
-<catchphrase "id=c1">hypothesis disproved beyond reasonable doubt</catchphrase>
-<catchphrase "id=c2">tribunal gave adequate reasons for drawing that conclusion</catchphrase>
-<catchphrase "id=c3">appeal dismissed</catchphrase>
-<catchphrase "id=c4">veterans' affairs</catchphrase>
+<catchphrase >hypothesis that veteran's death was contributed to by war-caused coronary artery disease</catchphrase>
+<catchphrase >hypothesis disproved beyond reasonable doubt</catchphrase>
+<catchphrase >tribunal gave adequate reasons for drawing that conclusion</catchphrase>
+<catchphrase >appeal dismissed</catchphrase>
+<catchphrase >veterans' affairs</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -31,8 +31,8 @@
 <sentence id="s14">The Tribunal accepted that hypothesis to be reasonable (at [89]).</sentence>
 <sentence id="s15">By s 120(1) of the Act, the applicant's claim was then required to succeed unless:
  
- &#8226; one or more of the facts necessary to support that hypothesis were disproved beyond reasonable doubt; or
- &#8226; the truth of another fact in the material, inconsistent with the hypothesis, was proved beyond reasonable doubt, 
+ #8226; one or more of the facts necessary to support that hypothesis were disproved beyond reasonable doubt; or
+ #8226; the truth of another fact in the material, inconsistent with the hypothesis, was proved beyond reasonable doubt, 
 
 thus disproving, beyond reasonable doubt, the accepted hypothesis.</sentence>
 <sentence id="s16">( Byrnes v Repatriation Commission [1993] HCA 51 ; (1993) 177 CLR 564 at 571; Repatriation Commission v Deledio (1998) 83 FCR 82 at 91).</sentence>
@@ -133,4 +133,6 @@ Dated: 5 December 2006
  
  </sentence>
 </sentences>
-</case>
+</case>e> </sentence>
+</sentences>
+</case>e>

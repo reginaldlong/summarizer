@@ -3,12 +3,12 @@
 <name>Brown (on behalf of the Ngarla People) v State of Western Australia [2007] FCA 1025 (30 May 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1025.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">consent determination of native title</catchphrase>
-<catchphrase "id=c1">whether determination should be made pursuant to s 87 or s 87a of the native title act 1993 (cth)</catchphrase>
-<catchphrase "id=c2">statutory preconditions of s 87a and s 87 satisfied</catchphrase>
-<catchphrase "id=c3">appropriate to make the orders sought</catchphrase>
-<catchphrase "id=c4">orders made pursuant to s 87a or, in the alternative, s 87a</catchphrase>
-<catchphrase "id=c5">native title</catchphrase>
+<catchphrase >consent determination of native title</catchphrase>
+<catchphrase >whether determination should be made pursuant to s 87 or s 87a of the native title act 1993 (cth)</catchphrase>
+<catchphrase >statutory preconditions of s 87a and s 87 satisfied</catchphrase>
+<catchphrase >appropriate to make the orders sought</catchphrase>
+<catchphrase >orders made pursuant to s 87a or, in the alternative, s 87a</catchphrase>
+<catchphrase >native title</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -229,7 +229,7 @@ Dated: 6 July 2007
  
  Solicitor for the Commonwealth of Australia: Australian Government Solicitor 
  
- Solicitor for BHP Billiton Minerals Pty Ltd, Itochu Minerals &amp; Energy of Australia Pty Ltd, Dampier Salt Ltd, Mitsui Iron Ore Development Corporation Pty Ltd and CI Minerals Australia Pty Ltd: Blake Dawson Waldron 
+ Solicitor for BHP Billiton Minerals Pty Ltd, Itochu Minerals amp; Energy of Australia Pty Ltd, Dampier Salt Ltd, Mitsui Iron Ore Development Corporation Pty Ltd and CI Minerals Australia Pty Ltd: Blake Dawson Waldron 
  
  Solicitor for Boral Contracting Pty Ltd and Boral Resources (WA) Ltd: Minter Ellison 
  
@@ -239,7 +239,7 @@ Dated: 6 July 2007
  
  Counsel for the Western Australian Fishing Industry Council (Inc): M Watts 
  
- Solicitor for Westralian Shells, Michael Claydon, Peter John Fullarton, Stephen Charles McWhirter, Robert Tucker, Western Australian Fishing Industry Council (Inc), Lesley P Ignoti, Peter A Ignoti, Russell A Ignoti and Perth Shell Distributors: Hunt &amp; Humphry 
+ Solicitor for Westralian Shells, Michael Claydon, Peter John Fullarton, Stephen Charles McWhirter, Robert Tucker, Western Australian Fishing Industry Council (Inc), Lesley P Ignoti, Peter A Ignoti, Russell A Ignoti and Perth Shell Distributors: Hunt amp; Humphry 
  
  Solicitor for Exmouth Pearls Pty Ltd: Freehills 
  
@@ -721,7 +721,7 @@ The nature and extent of other rights and interests in relation to Determination
  
  (i) Mining Leases 
 
- Tenement ID Holder Date Granted M4500097 BHP Billiton Minerals Pty Ltd Itochu Minerals &amp; Energy of Australia Pty Ltd Mitsui Iron Ore Corporation Pty Ltd 21/01/1986 M4500099 BHP Billiton Minerals Pty Ltd Itochu Minerals &amp; Energy of Australia Pty Ltd Mitsui Iron Ore Corporation Pty Ltd 21/01/1986 M4500100 BHP Billiton Minerals Pty Ltd Itochu Minerals &amp; Energy of Australia Pty Ltd Mitsui Iron Ore Corporation Pty Ltd 21/01/1986 M4500101 BHP Billiton Minerals Pty Ltd Itochu Minerals &amp; Energy of Australia Pty Ltd Mitsui Iron Ore Corporation Pty Ltd 21/01/1986 
+ Tenement ID Holder Date Granted M4500097 BHP Billiton Minerals Pty Ltd Itochu Minerals amp; Energy of Australia Pty Ltd Mitsui Iron Ore Corporation Pty Ltd 21/01/1986 M4500099 BHP Billiton Minerals Pty Ltd Itochu Minerals amp; Energy of Australia Pty Ltd Mitsui Iron Ore Corporation Pty Ltd 21/01/1986 M4500100 BHP Billiton Minerals Pty Ltd Itochu Minerals amp; Energy of Australia Pty Ltd Mitsui Iron Ore Corporation Pty Ltd 21/01/1986 M4500101 BHP Billiton Minerals Pty Ltd Itochu Minerals amp; Energy of Australia Pty Ltd Mitsui Iron Ore Corporation Pty Ltd 21/01/1986 
 
  
  (ii) Exploration Licences 
@@ -889,4 +889,8 @@ Areas within Determination Area A to which sections 47A or 47B of the Native Tit
  
  </sentence>
 </sentences>
-</case>
+</case>/case>
+ 
+ </sentence>
+</sentences>
+</case>/case>

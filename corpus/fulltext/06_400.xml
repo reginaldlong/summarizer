@@ -3,11 +3,11 @@
 <name>Deputy Commissioner of Taxation v Alternative Business Solutions (Aust) Pty Ltd (Administrators Appointed) [2006] FCA 400 (4 April 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/400.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application by company in administration for adjournment of hearing of winding up application</catchphrase>
-<catchphrase "id=c1">whether in the interests of creditors that the company 'continue under administration rather than be wound up' for purposes of s 440a of corporations act 2001 (cth)</catchphrase>
-<catchphrase "id=c2">nearly all creditors willing not to participate in distribution under proposed deed of company administration, apparently because of family or otherwise friendly relationships with the individuals with whom the company is associated</catchphrase>
-<catchphrase "id=c3">held : 'the interests of creditors' refers to the creditors' interests as creditors, not to 'interests' arising from family relationships, friendship or emotional attachment.</catchphrase>
-<catchphrase "id=c4">corporations</catchphrase>
+<catchphrase >application by company in administration for adjournment of hearing of winding up application</catchphrase>
+<catchphrase >whether in the interests of creditors that the company 'continue under administration rather than be wound up' for purposes of s 440a of corporations act 2001 (cth)</catchphrase>
+<catchphrase >nearly all creditors willing not to participate in distribution under proposed deed of company administration, apparently because of family or otherwise friendly relationships with the individuals with whom the company is associated</catchphrase>
+<catchphrase >held : 'the interests of creditors' refers to the creditors' interests as creditors, not to 'interests' arising from family relationships, friendship or emotional attachment.</catchphrase>
+<catchphrase >corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -102,7 +102,7 @@
 Dated: 11 April 2006
 
 
- Solicitor for the Plaintiff: Mr C Bavin of Hunt &amp; Hunt 
+ Solicitor for the Plaintiff: Mr C Bavin of Hunt amp; Hunt 
  
  Solicitor for the Defendant: Mr D J Bowles of Bowles Lawyers P/I 
 Date of Hearing: 
@@ -118,4 +118,7 @@ Date of Hearing:
  
  </sentence>
 </sentences>
-</case>
+</case>>
+ </sentence>
+</sentences>
+</case>>

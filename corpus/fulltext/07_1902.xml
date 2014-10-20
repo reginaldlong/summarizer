@@ -3,13 +3,13 @@
 <name>Snedden v Republic of Croatia [2007] FCA 1902 (12 December 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1902.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for bail pending review of magistrate's decision under s 19 of the extradition act 1988 (cth)</catchphrase>
-<catchphrase "id=c1">existence of special circumstances</catchphrase>
-<catchphrase "id=c2">flight risk</catchphrase>
-<catchphrase "id=c3">prospects of success in review of the magistrate's decision pursuant to s 21 of the extradition act 1988 (cth)</catchphrase>
-<catchphrase "id=c4">presumption against the grant of bail</catchphrase>
-<catchphrase "id=c5">grant of bail in court's discretion.</catchphrase>
-<catchphrase "id=c6">extradition</catchphrase>
+<catchphrase >application for bail pending review of magistrate's decision under s 19 of the extradition act 1988 (cth)</catchphrase>
+<catchphrase >existence of special circumstances</catchphrase>
+<catchphrase >flight risk</catchphrase>
+<catchphrase >prospects of success in review of the magistrate's decision pursuant to s 21 of the extradition act 1988 (cth)</catchphrase>
+<catchphrase >presumption against the grant of bail</catchphrase>
+<catchphrase >grant of bail in court's discretion.</catchphrase>
+<catchphrase >extradition</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -98,7 +98,7 @@ Mr Snedden submits that there is no evidence that he is 'on the run' and in fact
  
  II.</sentence>
 <sentence id="s71">Pursuant to Art.</sentence>
-<sentence id="s72">102, Paragraph 1, Subparagraphs 1&amp;4, Criminal Procedure Law, CUSTODY IS ORDERED for Dragan Vasiljkovic which, according to his Decision, cannot last longer than one month as of the day of his arrest.</sentence>
+<sentence id="s72">102, Paragraph 1, Subparagraphs 1amp;4, Criminal Procedure Law, CUSTODY IS ORDERED for Dragan Vasiljkovic which, according to his Decision, cannot last longer than one month as of the day of his arrest.</sentence>
 <sentence id="s73">
 
 Mr Snedden submits that his current detention is illegal since the warrant only stipulated for an imprisonment of up to one month.</sentence>
@@ -215,7 +215,7 @@ Mr Snedden submits that his current detention is illegal since the warrant only 
 
  Counsel for the Applicant: C.A Evatt, R. Rasmussen 
  
- Solicitor for the Applicant: Dennis &amp; Company Solicitors 
+ Solicitor for the Applicant: Dennis amp; Company Solicitors 
  
  Counsel for the Respondent: J. Renwick, H. Younan 
  
@@ -233,4 +233,8 @@ Mr Snedden submits that his current detention is illegal since the warrant only 
  
  </sentence>
 </sentences>
-</case>
+</case>e>/1902.html 
+ 
+ </sentence>
+</sentences>
+</case>e>

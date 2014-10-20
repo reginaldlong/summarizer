@@ -3,14 +3,14 @@
 <name>Brock v Minister for Justice and Customs [2007] FCA 2091 (24 December 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/2091.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">issue of notice under s 16 by attorney-general</catchphrase>
-<catchphrase "id=c1">magistrate's decision under s 19(9)</catchphrase>
-<catchphrase "id=c2">independent administrative functions</catchphrase>
-<catchphrase "id=c3">nature of section 21 review by federal court</catchphrase>
-<catchphrase "id=c4">nature of 'review'</catchphrase>
-<catchphrase "id=c5">subsequent challenge to s 16 notice</catchphrase>
-<catchphrase "id=c6">estoppel/abuse of process</catchphrase>
-<catchphrase "id=c7">extradition act 1988 (cth)</catchphrase>
+<catchphrase >issue of notice under s 16 by attorney-general</catchphrase>
+<catchphrase >magistrate's decision under s 19(9)</catchphrase>
+<catchphrase >independent administrative functions</catchphrase>
+<catchphrase >nature of section 21 review by federal court</catchphrase>
+<catchphrase >nature of 'review'</catchphrase>
+<catchphrase >subsequent challenge to s 16 notice</catchphrase>
+<catchphrase >estoppel/abuse of process</catchphrase>
+<catchphrase >extradition act 1988 (cth)</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -224,7 +224,7 @@ the magistrate shall conduct proceedings to determine whether the person is elig
  [48] ...whether s.19(1)(d) is a statutory precondition or a jurisdictional fact, it is clear that it calls for a state of mind to be reached by the magistrate as to whether the person has had reasonable time in which to prepare for the hearing... 
 
 33 For the purpose of resolving the present Motion , it is not considered necessary to further pursue the nature of the " review " function conducted pursuant to s 21 in respect of compliance with s 19, in particular compliance with s 19(1)(b).</sentence>
-<sentence id="s114">ESTOPPEL &amp; ABUSE OF PROCESS --- THE PRINCIPLES TO BE APPLIED 
+<sentence id="s114">ESTOPPEL amp; ABUSE OF PROCESS --- THE PRINCIPLES TO BE APPLIED 
  
 34 It is against this statutory background, and against the background of the proceedings which have to-date been pursued by Mr Brock, that the Minister's Notice of Motion is to be resolved.</sentence>
 <sentence id="s115">35 The power to make the orders as sought in that Motion is not disputed, nor are the principles upon which such a discretionary power is to be exercised.</sentence>
@@ -232,7 +232,7 @@ the magistrate shall conduct proceedings to determine whether the person is elig
 <sentence id="s117">36 In Spalla v St George Motor Finance Ltd (No 6) [2004] FCA 1699 French J usefully summarised some of those principles and the interrelationship of estoppel and abuse of process as follows :
  
  [67] The considerations of public policy which underlie res judicata and issue estoppel help to define the scope of abuse of process by relitigation generally.</sentence>
-<sentence id="s118">As Lord Hoffman said in Arthur JS Hall &amp; Co v Simons [2000] UKHL 38 ; [2000] 3 WLR 543 at 572, the underlying policies are that a defendant should not be troubled twice for the same reason and that there is 'a general public interest in the same issue not being litigated over again'.</sentence>
+<sentence id="s118">As Lord Hoffman said in Arthur JS Hall amp; Co v Simons [2000] UKHL 38 ; [2000] 3 WLR 543 at 572, the underlying policies are that a defendant should not be troubled twice for the same reason and that there is 'a general public interest in the same issue not being litigated over again'.</sentence>
 <sentence id="s119">Lord Hoffman observed that the second rationale could be used to justify the extension of the rules of issue estoppel to cases in which the parties are not the same but the circumstances are such as to bring the parties within the spirit of the rule.</sentence>
 <sentence id="s120">In that regard he referred to Reichel v Magrath and Hunter v Chief Constable of the West Midland Police.</sentence>
 <sentence id="s121">
@@ -326,7 +326,7 @@ Jacobson J agreed with the Chief Justice at [43]---[44].</sentence>
  
  The acts or omissions, that is, the conduct, by virtue of which an offence has been, or is alleged to have been, committed, lie at a level of abstraction between a formal statement of the elements of the offence, on the one hand, and an account of the evidence relied on to prove the relevant conduct, on the other 
  
- What is required is 'a statement of what is alleged to have been actually done or omitted, not a mere restatement of the charge in respect of which extradition is brought' ( Zoeller v Federal Republic of Germany &amp; Others (1989) 23 FCR 282 at 297 and see also De Bruyn v South Africa [1999] FCA 1344 ; (1999) 96 FCR 290 at [11] and [30]---[37]).</sentence>
+ What is required is 'a statement of what is alleged to have been actually done or omitted, not a mere restatement of the charge in respect of which extradition is brought' ( Zoeller v Federal Republic of Germany amp; Others (1989) 23 FCR 282 at 297 and see also De Bruyn v South Africa [1999] FCA 1344 ; (1999) 96 FCR 290 at [11] and [30]---[37]).</sentence>
 <sentence id="s175">
 
 44 There is, accordingly, a very substantial commonality between the requirements imposed by ss 16(2)(a)(ii) and 19 (2)(c).</sentence>
@@ -421,20 +421,20 @@ Special leave to appeal this decision has been refused: Wong v Minister for Immi
 
  Clearly, His Honour would not have considered that the orders he made in that case constituted the resolution of any " issue ".</sentence>
 <sentence id="s244">65 The principles of res judicata and issue estoppel apply where earlier proceedings are in the nature of an application for judicial review, including the " review " undertaken pursuant to s 21.</sentence>
-<sentence id="s245">In Wong v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2004] FCA 51 , Lindgren J observed:
+<sentence id="s245">In Wong v Minister for Immigration amp; Multicultural amp; Indigenous Affairs [2004] FCA 51 , Lindgren J observed:
  
  [41] I have come to the conclusion that, sitting as I am as a single judge, I am bound to accept that res judicata and issue estoppel do apply where the earlier proceeding was in the nature of an application for judicial review of an administrative decision, and that they apply independently of any exercise of discretion.</sentence>
 <sentence id="s246">In the alternative, that is to say, if I am not so bound, I have concluded that even on the present motions for summary dismissal, there is a course of decision in the Court to the effect mentioned, which I should follow unless convinced it is clearly wrong, and I am not so convinced.</sentence>
-<sentence id="s247">[42] In support of the applicability of res judicata and issue estoppel where the earlier proceeding was in the nature of an application for judicial review of an administrative decision, as well as of the non-discretionary nature of those doctrines, the Minister relies on the Full Court decision of this Court in Taylor v Ansett Transport Industries Ltd (1987) 18 FCR 342 (' Taylor v Ansett ') at 354---6 per Fisher J, 365 per Ryan J, and on the judgments of Merkel J in Somanader v Minister for Immigration &amp; Multicultural Affairs (2000) 178 ALR 677 (' Somanader '); Sackville J in BC v Minister for Immigration &amp; Multicultural Affairs (2001) 67 ALD 60 (' BC '); Heerey J in Re Ruddock; Ex parte LX [2003] FCA 561 (' LX '), and Merkel J in Thayananthan v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2003] FCA 1054 (' Thayananthan ').</sentence>
+<sentence id="s247">[42] In support of the applicability of res judicata and issue estoppel where the earlier proceeding was in the nature of an application for judicial review of an administrative decision, as well as of the non-discretionary nature of those doctrines, the Minister relies on the Full Court decision of this Court in Taylor v Ansett Transport Industries Ltd (1987) 18 FCR 342 (' Taylor v Ansett ') at 354---6 per Fisher J, 365 per Ryan J, and on the judgments of Merkel J in Somanader v Minister for Immigration amp; Multicultural Affairs (2000) 178 ALR 677 (' Somanader '); Sackville J in BC v Minister for Immigration amp; Multicultural Affairs (2001) 67 ALD 60 (' BC '); Heerey J in Re Ruddock; Ex parte LX [2003] FCA 561 (' LX '), and Merkel J in Thayananthan v Minister for Immigration amp; Multicultural amp; Indigenous Affairs [2003] FCA 1054 (' Thayananthan ').</sentence>
 <sentence id="s248">[43] I need not discuss res judicata or issue estoppel at length.</sentence>
 <sentence id="s249">(The expression ' res judicata ' is sometimes used to include issue estoppel as one form, and merger of cause of action in judgment as a different form, but, consistently with the cases to be discussed below, I will use it here to refer to the form of estoppel which arises from the establishment, or failure to establish, a cause of action, by reason of a judgment.</sentence>
 <sentence id="s250">) For res judicata to operate:
  
- &#183; there must have been a final judgment (albeit appealable) within its jurisdiction, by a judicial tribunal, based on the establishment or failure to establish a cause of action;
+ #183; there must have been a final judgment (albeit appealable) within its jurisdiction, by a judicial tribunal, based on the establishment or failure to establish a cause of action;
  
- &#183; the later proceeding must raise the same cause of action; and
+ #183; the later proceeding must raise the same cause of action; and
  
- &#183; except where the prior judgment was in rem , the parties to the two proceedings must be the same: cf Spencer Bower, Turner and Handley, The Doctrine of Res Judicata (3 rd ed, 1996) at 1---3; Campbell, 'Relitigation in Government Cases: A Study of the Use of Estoppel Principles in Public Law Litigation' (1994) 20 Mon U L Rev 21 at 21---22, and cases cited in both works.</sentence>
+ #183; except where the prior judgment was in rem , the parties to the two proceedings must be the same: cf Spencer Bower, Turner and Handley, The Doctrine of Res Judicata (3 rd ed, 1996) at 1---3; Campbell, 'Relitigation in Government Cases: A Study of the Use of Estoppel Principles in Public Law Litigation' (1994) 20 Mon U L Rev 21 at 21---22, and cases cited in both works.</sentence>
 <sentence id="s251">[44] For issue estoppel to apply, an issue of fact or law which is raised for decision in the later proceeding must necessarily have been determined by reason of the final judgment in the earlier proceeding, and, again, except where the prior judgment was in rem , there must be identity of parties: Spencer Bower, Turner and Handley , chs 8, 9; Campbell at 22---23, and cases cited in both works.</sentence>
 <sentence id="s252">[45] In Blair v Curran [1939] HCA 23 ; (1939) 62 CLR 464, Dixon J distinguished between res judicata and issue estoppel on the basis that in the case of res judicata the cause of action itself has 'passed into judgment, so that it is merged and has no longer has an independent existence', whereas, in the case of issue estoppel, 'for the purpose of some other claim or cause of action, a state of fact or law is alleged or denied the existence of which is a matter necessarily decided by the prior judgment, decree or order' (at 532 --- the passage was adopted in Anshun by Gibbs CJ, Mason and Aickin JJ at 597).</sentence>
 <sentence id="s253">
@@ -523,4 +523,10 @@ Dated: 24 December 2007
  
  </sentence>
 </sentences>
+</case>ces>
+</case>91.html 
+ 
+ </sentence>
+</sentences>
+</case>ces>
 </case>

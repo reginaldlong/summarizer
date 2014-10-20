@@ -3,19 +3,19 @@
 <name>Australian Securities and Investments Commission Inthe Matter of Richstar Enterprises Pty Ltd (ACN 099 071 968) v Carey (No 6) [2006] FCA 814 (29 June 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/814.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appointment of receivers to property of directors and officers of corporate group</catchphrase>
-<catchphrase "id=c1">pending investigation by australian securities and investments commission</catchphrase>
-<catchphrase "id=c2">extension of orders to property held on trust by third parties</catchphrase>
-<catchphrase "id=c3">whether power to make receiver orders extends to property held under discretionary trust</catchphrase>
-<catchphrase "id=c4">nature of beneficiary interest in discretionary trusts</catchphrase>
-<catchphrase "id=c5">whether contingent interests</catchphrase>
-<catchphrase "id=c6">exhaustive discretionary trusts</catchphrase>
-<catchphrase "id=c7">closed class of beneficiaries</catchphrase>
-<catchphrase "id=c8">non-exhaustive discretionary trusts</catchphrase>
-<catchphrase "id=c9">open class of beneficiaries</catchphrase>
-<catchphrase "id=c10">scope of power to make orders under s 1323 of the corporations act 2001 (cth) and s 23 of the federal court of australia act 1976 (cth)</catchphrase>
-<catchphrase "id=c11">[2006] fca 814</catchphrase>
-<catchphrase "id=c12">corporations</catchphrase>
+<catchphrase >appointment of receivers to property of directors and officers of corporate group</catchphrase>
+<catchphrase >pending investigation by australian securities and investments commission</catchphrase>
+<catchphrase >extension of orders to property held on trust by third parties</catchphrase>
+<catchphrase >whether power to make receiver orders extends to property held under discretionary trust</catchphrase>
+<catchphrase >nature of beneficiary interest in discretionary trusts</catchphrase>
+<catchphrase >whether contingent interests</catchphrase>
+<catchphrase >exhaustive discretionary trusts</catchphrase>
+<catchphrase >closed class of beneficiaries</catchphrase>
+<catchphrase >non-exhaustive discretionary trusts</catchphrase>
+<catchphrase >open class of beneficiaries</catchphrase>
+<catchphrase >scope of power to make orders under s 1323 of the corporations act 2001 (cth) and s 23 of the federal court of australia act 1976 (cth)</catchphrase>
+<catchphrase >[2006] fca 814</catchphrase>
+<catchphrase >corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -255,7 +255,7 @@ At least by analogy it may be observed that a beneficiary who effectively contro
 <sentence id="s94">The position is helpfully set out in Thomas on Powers (Sweet and Maxwell, 1998) at 6-268: 
  
  'Thus, although an individual object of an exhaustive discretionary trust (and a fortiori in the case of a non-exhaustive one) cannot claim any part of the trust fund or its income (as the case may be) because he is not entitled to any interest in it unless and until the trustees exercise their discretion in his favour, and notwithstanding that the class of beneficiaries is a closed class, all the objects of such a discretionary trust, where the class is closed, may join together and collectively call upon the trustees to transfer the fund to them or deal with the property subject to the discretion as if they were the absolute owners thereof ...</sentence>
-<sentence id="s95">Although, as Lord Reid pointed out in Gartside v IRC, two or more persons cannot have a single right unless they hold it jointly or in common, and the beneficiaries of a discretionary trust do not have such a right --- indeed, they are in competition with each other and what the trustees give to one is his alone --- it remains the case that, under the principle laid down in Saunders v Vautier [(1841) Cr &amp; Ph 240], such beneficiaries, as the persons for whom or in whose favour alone the trust property may be applied have a right to terminate the trust and deal with the property as if it were their own.</sentence>
+<sentence id="s95">Although, as Lord Reid pointed out in Gartside v IRC, two or more persons cannot have a single right unless they hold it jointly or in common, and the beneficiaries of a discretionary trust do not have such a right --- indeed, they are in competition with each other and what the trustees give to one is his alone --- it remains the case that, under the principle laid down in Saunders v Vautier [(1841) Cr amp; Ph 240], such beneficiaries, as the persons for whom or in whose favour alone the trust property may be applied have a right to terminate the trust and deal with the property as if it were their own.</sentence>
 <sentence id="s96">' 
  
 
@@ -287,7 +287,7 @@ Lord Wilberforce also made the point that the term 'interest' may have different
 <sentence id="s106">' 
  
 
-28 The Full Court of the Supreme Court of Western Australia considered these questions in R &amp; I Bank of Western Australia Ltd v Anchorage Investments Pty Ltd (1992) 10 WAR 59.</sentence>
+28 The Full Court of the Supreme Court of Western Australia considered these questions in R amp; I Bank of Western Australia Ltd v Anchorage Investments Pty Ltd (1992) 10 WAR 59.</sentence>
 <sentence id="s107">The case involved contempt proceedings for alleged breach of a mareva injunction.</sentence>
 <sentence id="s108">One of the persons bound by the injunction exercised his powers as appointor under a trust deed to make his son guardian of the trust and removed himself as appointor.</sentence>
 <sentence id="s109">His son then removed the other trustee, Anchorage, and appointed a company with which he was associated as trustee.</sentence>
@@ -512,4 +512,8 @@ Date of Publication of Reasons: 28 June 2006
  
  </sentence>
 </sentences>
-</case>
+</case>e>ttp://www.austlii.edu.au/au/cases/cth/FCA/2006/814.html 
+ 
+ </sentence>
+</sentences>
+</case>e>

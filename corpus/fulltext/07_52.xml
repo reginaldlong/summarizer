@@ -3,11 +3,11 @@
 <name>McAleer v The University of Western Australia [2007] FCA 52 (2 February 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/52.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">certified agreement</catchphrase>
-<catchphrase "id=c1">breach of the provisions of disciplinary procedure</catchphrase>
-<catchphrase "id=c2">failure to provide particulars of allegations of serious misconduct</catchphrase>
-<catchphrase "id=c3">whether a penalty should be imposed</catchphrase>
-<catchphrase "id=c4">industrial law</catchphrase>
+<catchphrase >certified agreement</catchphrase>
+<catchphrase >breach of the provisions of disciplinary procedure</catchphrase>
+<catchphrase >failure to provide particulars of allegations of serious misconduct</catchphrase>
+<catchphrase >whether a penalty should be imposed</catchphrase>
+<catchphrase >industrial law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -271,33 +271,33 @@ In its counterclaim, the University pleaded that the 2004 certified agreement ha
 <sentence id="s78">The allegations of serious misconduct cover the following alleged behaviours by you: 
  
  
- &#8226; Asking personal and intimate questions of a sexual nature 
+ #8226; Asking personal and intimate questions of a sexual nature 
  
  
  
- &#8226; Graphically discussing a range of sexual practices 
+ #8226; Graphically discussing a range of sexual practices 
  
  
  
- &#8226; Suggesting to other members of staff that they wanted to or should have sex with you 
+ #8226; Suggesting to other members of staff that they wanted to or should have sex with you 
  
  
  
- &#8226; Describing your sexual preferences and practices 
+ #8226; Describing your sexual preferences and practices 
  
  
  
- &#8226; Making derogatory remarks of a sexual nature about colleagues 
+ #8226; Making derogatory remarks of a sexual nature about colleagues 
  
  
  Related to the above it is additionally alleged that you have: 
  
  
- &#8226; Suggested attempts to complain about behaviours would not be believed 
+ #8226; Suggested attempts to complain about behaviours would not be believed 
  
- &#8226; Suggested that continued interaction with you signalled the individuals concerned enjoyed conversations relating to the above 
+ #8226; Suggested that continued interaction with you signalled the individuals concerned enjoyed conversations relating to the above 
  
- &#8226; Exhibited abusive and threatening behaviours towards individuals, who it is alleged have been subjected to the above behaviours, when they wanted to avoid further exposure to the alleged behaviours.</sentence>
+ #8226; Exhibited abusive and threatening behaviours towards individuals, who it is alleged have been subjected to the above behaviours, when they wanted to avoid further exposure to the alleged behaviours.</sentence>
 <sentence id="s79">...' 
  
  
@@ -407,7 +407,7 @@ In its counterclaim, the University pleaded that the 2004 certified agreement ha
 <sentence id="s135">52 The applicant objects to the making of a declaration in the terms proposed in the defence of the University on the basis that the declaration seeks to pronounce upon the 'validity of the constitution of the Committee and its deliberations and determinations and have them declared to be void and of no effect'.</sentence>
 <sentence id="s136">The applicant contends that if a declaration was made in those terms, it would undermine the effectiveness of the recommendation made by the Committee, which was accepted by the University, that the suspension of the applicant should be on full pay rather than on no pay.</sentence>
 <sentence id="s137">53 In his application, the applicant states that the application is brought under the Act, and also by reference to the accrued jurisdiction.</sentence>
-<sentence id="s138">Both parties appear to have conducted the trial on the basis that the provisions of the 2004 certified agreement are enforceable in the general law as an employment contract between the applicant and the University ( Construction, Forestry, Mining &amp; Energy Union v Australian Industrial Relations Commission [2001] HCA 16 ; (2000) 203 CLR 645).</sentence>
+<sentence id="s138">Both parties appear to have conducted the trial on the basis that the provisions of the 2004 certified agreement are enforceable in the general law as an employment contract between the applicant and the University ( Construction, Forestry, Mining amp; Energy Union v Australian Industrial Relations Commission [2001] HCA 16 ; (2000) 203 CLR 645).</sentence>
 <sentence id="s139">No submission was made that the Court did not, in the circumstances of this case, have power to grant an injunction.</sentence>
 <sentence id="s140">Further, as this application was commenced prior to the coming into effect, on 27 March 2006, of the amendments to the Act made by the Workplace Relations Amendment (Work Choices) Act 2005 (Cth), I will apply the provisions of the Act as they were on 17 March 2006, when this proceeding was commenced.</sentence>
 <sentence id="s141">54 In my view, the declaration sought by the University should not be made.</sentence>
@@ -415,7 +415,7 @@ In its counterclaim, the University pleaded that the 2004 certified agreement ha
 <sentence id="s143">The declaration sought by the University goes beyond a declaration of breach as an incident to imposing a penalty under the Act.</sentence>
 <sentence id="s144">The Act does not provide the Court with the power to make declarations of nullity or to set aside actions carried out in breach of a certified agreement.</sentence>
 <sentence id="s145">55 Further, insofar as the position at common law is concerned, H.W.R.</sentence>
-<sentence id="s146">Wade &amp; C.F.</sentence>
+<sentence id="s146">Wade amp; C.F.</sentence>
 <sentence id="s147">Forsyth, Administrative Law , 9 th edn, Oxford University Press, 2004, draws the distinction between contractual remedies and administrative law remedies in the following terms:
  
  '...Members of trade unions or clubs, for example, cannot normally be expelled without being given a hearing, for their contracts of membership are held to include a duty to act fairly: by accepting them as members [and receiving their subscription the] trade union or club impliedly undertakes to treat them fairly and in accordance with the rules.</sentence>
@@ -656,4 +656,8 @@ Dated: 2 February 2007
  
  </sentence>
 </sentences>
+</case>s>
+</case>nce>
+</sentences>
+</case>s>
 </case>

@@ -3,10 +3,10 @@
 <name>Metso Minerals v Kalra [2007] FCA 2093 (11 December 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/2093.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">strong prima facie case</catchphrase>
-<catchphrase "id=c1">potential or actual damage</catchphrase>
-<catchphrase "id=c2">destruction of evidence</catchphrase>
-<catchphrase "id=c3">anton piller order</catchphrase>
+<catchphrase >strong prima facie case</catchphrase>
+<catchphrase >potential or actual damage</catchphrase>
+<catchphrase >destruction of evidence</catchphrase>
+<catchphrase >anton piller order</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -44,7 +44,7 @@ Appl'd: Long v Specifier Publications Pty Ltd (1998) 44 NSWLR 545 at 554 per Pow
  
 4 The First Applicant is the Australian subsidiary of Metso Minerals, a Finnish company.</sentence>
 <sentence id="s15">The Second Applicant is an American subsidiary of the Finnish company.</sentence>
-<sentence id="s16">5 Both companies form part of the Metso Corporation, a global engineering and technology business with more than 26,000 employees in more than 50 countries and net sales in 2006 of approximately &#8364;5 billion.</sentence>
+<sentence id="s16">5 Both companies form part of the Metso Corporation, a global engineering and technology business with more than 26,000 employees in more than 50 countries and net sales in 2006 of approximately #8364;5 billion.</sentence>
 <sentence id="s17">6 The Metso Group designs, manufacturers and services a range of ore processing equipment, the most important of which is its comminution equipment, including grinding mills.</sentence>
 <sentence id="s18">The Group manufacturers a range of grinding mills in a range of sizes.</sentence>
 <sentence id="s19">7 The design of a new grinding mill requires the preparation of extensive design documentation, including design standards, manufacturing drawings, assembly drawings and commissioning manuals.</sentence>
@@ -81,7 +81,7 @@ Appl'd: Long v Specifier Publications Pty Ltd (1998) 44 NSWLR 545 at 554 per Pow
 <sentence id="s44">In addition, I acknowledge that upon terminating my employment with Metso Minerals, that I am still bound by confidentiality clauses as stated in my employment agreement.</sentence>
 <sentence id="s45">
 
-18 In addition to these express contractual provisions being the source of the obligations of confidence owed by those individuals, the Applicants also correctly submit that there is a strong prima facie case that there is an independent equitable obligation of confidence: see Smith Kline &amp; French Laboratories (Australia) Ltd &amp; AlphaPharm Pty Ltd v Department of Community Services (1990) 22 FCR 73.</sentence>
+18 In addition to these express contractual provisions being the source of the obligations of confidence owed by those individuals, the Applicants also correctly submit that there is a strong prima facie case that there is an independent equitable obligation of confidence: see Smith Kline amp; French Laboratories (Australia) Ltd amp; AlphaPharm Pty Ltd v Department of Community Services (1990) 22 FCR 73.</sentence>
 <sentence id="s46">Gummow J there observed at 87:
  
  A general formulation apt for the present case of an equitable obligation of confidence has four elements: (i) the plaintiff must be able to identify with specificity, and not merely in global terms, that which is said to be the information in question, and must be able to show that (ii) the information has the necessary quality of confidentiality (and is not, for example, common or public knowledge), (iii) the information was received by the defendant in such circumstances as to import an obligation of confidence, and (iv) there is actual or threatened misuse of that information, without the consent of the plaintiff.</sentence>
@@ -206,4 +206,6 @@ Dated: 22 January 2008
  
  </sentence>
 </sentences>
-</case>
+</case>se>nce>
+</sentences>
+</case>se>

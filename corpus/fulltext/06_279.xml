@@ -3,15 +3,15 @@
 <name>Theo v Secretary, Department of Family and Community Services (with Corrigendum dated 30 March 2006) [2006] FCA 279 (22 March 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/279.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">whether frivolous or vexatious applicant</catchphrase>
-<catchphrase "id=c1">failure to provide adequate information to a decision-maker</catchphrase>
-<catchphrase "id=c2">entitlement to disability support pension</catchphrase>
-<catchphrase "id=c3">entitlement to age pension</catchphrase>
-<catchphrase "id=c4">further information put before the administrative appeals tribunal</catchphrase>
-<catchphrase "id=c5">appeal from the decision of the administrative appeals tribunal</catchphrase>
-<catchphrase "id=c6">no issue estoppel in the administrative appeals tribunal</catchphrase>
-<catchphrase "id=c7">whether the tribunal had regard to the material properly before it.</catchphrase>
-<catchphrase "id=c8">administrative law</catchphrase>
+<catchphrase >whether frivolous or vexatious applicant</catchphrase>
+<catchphrase >failure to provide adequate information to a decision-maker</catchphrase>
+<catchphrase >entitlement to disability support pension</catchphrase>
+<catchphrase >entitlement to age pension</catchphrase>
+<catchphrase >further information put before the administrative appeals tribunal</catchphrase>
+<catchphrase >appeal from the decision of the administrative appeals tribunal</catchphrase>
+<catchphrase >no issue estoppel in the administrative appeals tribunal</catchphrase>
+<catchphrase >whether the tribunal had regard to the material properly before it.</catchphrase>
+<catchphrase >administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -70,10 +70,10 @@
  'My decision [not to change the decision to reject your new claim for Age Pension lodged on 12/7/04] was based on the following findings: 
  
  
- &#8226; you have been the trustee and controller of the Solon Theo Family Trust; 
- &#8226; you have now advised that you have relinquished control of this trust and that this occurred prior to 1/4/02; 
- &#8226; in order to decide whether you have any entitlement to age pension, Centrelink needs to be able to assess your income and assets; 
- &#8226; to do so, we require proper original evidence of the legal date of transfer of control of the trust and of who is now in control of the trust, a completed "Private Trust" form and full financial documents for the trust detailing income and assets held;' 
+ #8226; you have been the trustee and controller of the Solon Theo Family Trust; 
+ #8226; you have now advised that you have relinquished control of this trust and that this occurred prior to 1/4/02; 
+ #8226; in order to decide whether you have any entitlement to age pension, Centrelink needs to be able to assess your income and assets; 
+ #8226; to do so, we require proper original evidence of the legal date of transfer of control of the trust and of who is now in control of the trust, a completed "Private Trust" form and full financial documents for the trust detailing income and assets held;' 
  
  
  
@@ -300,4 +300,8 @@ Dated: 22 March 2006
  
  </sentence>
 </sentences>
-</case>
+</case>ase>/cth/FCA/2006/279.html 
+ 
+ </sentence>
+</sentences>
+</case>ase>

@@ -3,11 +3,11 @@
 <name>SZJGO v Minister for Immigration and Citizenship [2007] FCA 609 (30 April 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/609.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from decision of the federal magistrates court</catchphrase>
-<catchphrase "id=c1">application for a protection visa</catchphrase>
-<catchphrase "id=c2">whether jurisdictional error</catchphrase>
-<catchphrase "id=c3">no point of principle.</catchphrase>
-<catchphrase "id=c4">migration</catchphrase>
+<catchphrase >appeal from decision of the federal magistrates court</catchphrase>
+<catchphrase >application for a protection visa</catchphrase>
+<catchphrase >whether jurisdictional error</catchphrase>
+<catchphrase >no point of principle.</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -122,7 +122,7 @@
  Smith FM, in relation to the original grounds, found that the Tribunal's decision was neither illogical or unreasonable.</sentence>
 <sentence id="s50">In relation to the amended grounds his Honour rejected ground 1 on the basis that, while the Tribunal did not mention the appellant's claim to have lost her employment at the end of her detention in the key paragraphs under the heading "Findings and Reasons", it had earlier identified the claim as part of the appellant's application to the delegate and noted that the statement containing it had accompanied the appellant's review application.</sentence>
 <sentence id="s51">The Tribunal, as he stated was clearly aware of that element of the applicant's claims" and dealt with it as part of a more general conclusion.</sentence>
-<sentence id="s52">This approach was in my opinion correct: WAEE v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2003] FCAFC 184 at [47] .</sentence>
+<sentence id="s52">This approach was in my opinion correct: WAEE v Minister for Immigration amp; Multicultural amp; Indigenous Affairs [2003] FCAFC 184 at [47] .</sentence>
 <sentence id="s53">The Federal Magistrate rejected ground 2 of the amended application, on the basis that it was, in effect, a request for impermissible merits review.</sentence>
 <sentence id="s54">This finding and approach were correct: Minister for Immigration and Ethnic Affairs v Wu Shan Liang [1996] HCA 6 ; (1996) 185 CLR 259 at 272.</sentence>
 <sentence id="s55">
@@ -209,4 +209,6 @@ Dated: 30 April 2007
  
  </sentence>
 </sentences>
-</case>
+</case>e> </sentence>
+</sentences>
+</case>e>

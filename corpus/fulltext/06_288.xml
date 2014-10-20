@@ -3,12 +3,12 @@
 <name>Leighton Contractors Pty Limited (ABN 98 000 893 667) v Page Kirkland Management Pty Limited (ABN 46 097 111 245) [2006] FCA 288 (23 March 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/288.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for discovery</catchphrase>
-<catchphrase "id=c1">order 15a r 6 of the federal court rules</catchphrase>
-<catchphrase "id=c2">whether there is reasonable cause to believe applicant has or may have right to obtain relief against respondent</catchphrase>
-<catchphrase "id=c3">whether even after making all reasonable enquiries applicant has insufficient information to decide whether to commence proceeding</catchphrase>
-<catchphrase "id=c4">whether there is reasonable cause to believe respondent is likely to have documents relating to whether applicant has right to obtain relief.</catchphrase>
-<catchphrase "id=c5">practice and procedure</catchphrase>
+<catchphrase >application for discovery</catchphrase>
+<catchphrase >order 15a r 6 of the federal court rules</catchphrase>
+<catchphrase >whether there is reasonable cause to believe applicant has or may have right to obtain relief against respondent</catchphrase>
+<catchphrase >whether even after making all reasonable enquiries applicant has insufficient information to decide whether to commence proceeding</catchphrase>
+<catchphrase >whether there is reasonable cause to believe respondent is likely to have documents relating to whether applicant has right to obtain relief.</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -46,9 +46,9 @@
 4 Thus, r 6 contemplates three prerequisites.</sentence>
 <sentence id="s10">In the present case, they would be as follows:
  
- &#8226; there is reasonable cause to believe that Leighton has or may have the right to obtain relief in the Federal Court against PKM;
- &#8226; after making all reasonable enquiries, Leighton does not possess sufficient information to enable a decision to be made whether to commence a proceeding for that relief;
- &#8226; there is reasonable cause to believe that PKM is likely to have documents relating to the question whether Leighton has the right to obtain such relief.</sentence>
+ #8226; there is reasonable cause to believe that Leighton has or may have the right to obtain relief in the Federal Court against PKM;
+ #8226; after making all reasonable enquiries, Leighton does not possess sufficient information to enable a decision to be made whether to commence a proceeding for that relief;
+ #8226; there is reasonable cause to believe that PKM is likely to have documents relating to the question whether Leighton has the right to obtain such relief.</sentence>
 <sentence id="s11">
 
 5 The first prerequisite requires a consideration of the elements that are necessary to establish the putative causes of action relied upon to support Leighton's postulated right to obtain relief.</sentence>
@@ -335,9 +335,9 @@ The term ' Superintendent's Representative ' is defined as meaning a person appo
 <sentence id="s90">Leighton's contention that there is reasonable cause to believe that such elements may exist is based on communications of 5 September 2002 and 22 October 2002 from officers of the Principal to officers of PKM.</sentence>
 <sentence id="s91">27 The communication of 5 September 2005 is an email enclosing flow charts for:
  
- &#8226; building contract variations;
- &#8226; provisional sums; and
- &#8226; extensions of time.</sentence>
+ #8226; building contract variations;
+ #8226; provisional sums; and
+ #8226; extensions of time.</sentence>
 <sentence id="s92">
 
 The email says that ' [it] is imperative --- for...financial control that steps of the flow chart are rigidly adhered to' .</sentence>
@@ -369,9 +369,9 @@ In relation to the Extension of Time flow chart, Leighton points to the followin
 <sentence id="s103">31 Leighton also asserts that there is reasonable cause to believe that, having regard to the flow charts, there was an arrangement between PKM and the Principal that before PKM, as Superintendent, approved any building contract variation or extension of time, it would consult with the Principal before entering into negotiations with Leighton, as Contractor.</sentence>
 <sentence id="s104">Leighton says that such an arrangement is indicative of an intention that the Superintendent:
  
- &#8226; would not act honestly and fairly; 
- &#8226; would not act independently when exercising, assessing, certifying or determining functions, and
- &#8226; would not act in accordance with the provisions of the Contract set out above.</sentence>
+ #8226; would not act honestly and fairly; 
+ #8226; would not act independently when exercising, assessing, certifying or determining functions, and
+ #8226; would not act in accordance with the provisions of the Contract set out above.</sentence>
 <sentence id="s105">
 
 32 Leighton asserts that the flow charts are a specific direction from the Principal to the Superintendent as to the way in which the Principal asserts that the Superintendent should exercise some of its or his functions.</sentence>
@@ -701,4 +701,8 @@ Dated: 23 March 2006
  
  </sentence>
 </sentences>
+</case>>
+</case> </sentence>
+</sentences>
+</case>>
 </case>

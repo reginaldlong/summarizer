@@ -3,10 +3,10 @@
 <name>Australian Securities and Investments Commission v Skeers [2007] FCA 1551 (9 October 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1551.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">mortgage broker engaged in conduct alleged to be unconscionable, misleading and deceptive</catchphrase>
-<catchphrase "id=c1">broker does not appear</catchphrase>
-<catchphrase "id=c2">whether declarations of contravention appropriate</catchphrase>
-<catchphrase "id=c3">financial services</catchphrase>
+<catchphrase >mortgage broker engaged in conduct alleged to be unconscionable, misleading and deceptive</catchphrase>
+<catchphrase >broker does not appear</catchphrase>
+<catchphrase >whether declarations of contravention appropriate</catchphrase>
+<catchphrase >financial services</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -66,7 +66,7 @@ Dated: 9 October 2007
 
  Counsel for the Plaintiff: Mr M Dicker 
  
- Solicitor for the Plaintiff: Australian Securities &amp; Investments Commission 
+ Solicitor for the Plaintiff: Australian Securities amp; Investments Commission 
  
  
  The First Defendant did not appear 
@@ -83,4 +83,6 @@ Dated: 9 October 2007
  
  </sentence>
 </sentences>
-</case>
+</case>>tence>
+</sentences>
+</case>>

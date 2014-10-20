@@ -3,37 +3,37 @@
 <name>Dais Studio Pty Ltd v Bullet Creative Pty Ltd [2007] FCA 2054 (20 December 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/2054.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">computer program</catchphrase>
-<catchphrase "id=c1">content management system for internet web site</catchphrase>
-<catchphrase "id=c2">individual files within such a system</catchphrase>
-<catchphrase "id=c3">whether "set of statements or instructions"</catchphrase>
-<catchphrase "id=c4">whether "used ... to bring about a certain result"</catchphrase>
-<catchphrase "id=c5">whether source code on files a computer program as defined.</catchphrase>
-<catchphrase "id=c6">infringement</catchphrase>
-<catchphrase "id=c7">whether necessary to establish actual copying of work or copy of work</catchphrase>
-<catchphrase "id=c8">whether infringement constituted by copying progenitor or sibling of work.</catchphrase>
-<catchphrase "id=c9">infringement</catchphrase>
-<catchphrase "id=c10">computer program</catchphrase>
-<catchphrase "id=c11">part only copied</catchphrase>
-<catchphrase "id=c12">whether part a substantial part</catchphrase>
-<catchphrase "id=c13">qualitative or quantitative approach to this issue</catchphrase>
-<catchphrase "id=c14">originality of part</catchphrase>
-<catchphrase "id=c15">relevant of failure to explain qualitative aspects of whole work.</catchphrase>
-<catchphrase "id=c16">obligation of confidence</catchphrase>
-<catchphrase "id=c17">information obtained during employment</catchphrase>
-<catchphrase "id=c18">information used after termination of employment</catchphrase>
-<catchphrase "id=c19">whether information had necessary quality of confidentiality</catchphrase>
-<catchphrase "id=c20">circumstances in which information was conveyed to employee.</catchphrase>
-<catchphrase "id=c21">contract of employment containing confidentiality terms</catchphrase>
-<catchphrase "id=c22">whether information acquired by employee was "confidential information" or "proprietary information".</catchphrase>
-<catchphrase "id=c23">obligation of former employee as to use of information acquired during employment</catchphrase>
-<catchphrase "id=c24">whether such use "improper".</catchphrase>
-<catchphrase "id=c25">copyright</catchphrase>
-<catchphrase "id=c26">copyright</catchphrase>
-<catchphrase "id=c27">copyright</catchphrase>
-<catchphrase "id=c28">equity</catchphrase>
-<catchphrase "id=c29">contract</catchphrase>
-<catchphrase "id=c30">corporations</catchphrase>
+<catchphrase >computer program</catchphrase>
+<catchphrase >content management system for internet web site</catchphrase>
+<catchphrase >individual files within such a system</catchphrase>
+<catchphrase >whether "set of statements or instructions"</catchphrase>
+<catchphrase >whether "used ... to bring about a certain result"</catchphrase>
+<catchphrase >whether source code on files a computer program as defined.</catchphrase>
+<catchphrase >infringement</catchphrase>
+<catchphrase >whether necessary to establish actual copying of work or copy of work</catchphrase>
+<catchphrase >whether infringement constituted by copying progenitor or sibling of work.</catchphrase>
+<catchphrase >infringement</catchphrase>
+<catchphrase >computer program</catchphrase>
+<catchphrase >part only copied</catchphrase>
+<catchphrase >whether part a substantial part</catchphrase>
+<catchphrase >qualitative or quantitative approach to this issue</catchphrase>
+<catchphrase >originality of part</catchphrase>
+<catchphrase >relevant of failure to explain qualitative aspects of whole work.</catchphrase>
+<catchphrase >obligation of confidence</catchphrase>
+<catchphrase >information obtained during employment</catchphrase>
+<catchphrase >information used after termination of employment</catchphrase>
+<catchphrase >whether information had necessary quality of confidentiality</catchphrase>
+<catchphrase >circumstances in which information was conveyed to employee.</catchphrase>
+<catchphrase >contract of employment containing confidentiality terms</catchphrase>
+<catchphrase >whether information acquired by employee was "confidential information" or "proprietary information".</catchphrase>
+<catchphrase >obligation of former employee as to use of information acquired during employment</catchphrase>
+<catchphrase >whether such use "improper".</catchphrase>
+<catchphrase >copyright</catchphrase>
+<catchphrase >copyright</catchphrase>
+<catchphrase >copyright</catchphrase>
+<catchphrase >equity</catchphrase>
+<catchphrase >contract</catchphrase>
+<catchphrase >corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -135,7 +135,7 @@
 <sentence id="s89">Mr Petro also called Mr Murray Wood, a system developer, as an expert witness.</sentence>
 <sentence id="s90">He graduated in 1987 from Griffith University as a Bachelor of Informatics.</sentence>
 <sentence id="s91">He too had access to a version of WebStable other than that on which Dais relies in copyright, but again it was one that is sufficiently similar for present purposes.</sentence>
-<sentence id="s92">Although he did not have access to the database source code, he was able to perform a calculation from which he concluded that the "significance of the two JavaScript files in relation to the whole system is 1548/171000 = 0.00905".</sentence>
+<sentence id=.</sentence>
 <sentence id="s93">Mr Petro conducted his case upon the basis of an assertion that the quantitative contribution of the table file and the editor file, together, in a typical WebStable CMS was slightly less than 1%, and Dais was not heard to take issue with that.</sentence>
 <sentence id="s94">14 I turn next to the process of the development of the table file and the editor file, and of the involvement of Mr Petro therein.</sentence>
 <sentence id="s95">Not long after he joined Dais in September 2002, Mr Suthers needed a "client site table class" for a project on which he was working.</sentence>
@@ -239,23 +239,23 @@ If WebStable was a computer program, it was a literary work, and thus entitled t
 <sentence id="s185">26 It was submitted on behalf of Mr Petro, however, that neither the table file nor the editor file was a set of instructions which brought about a certain result.</sentence>
 <sentence id="s186">As I understand the submission, it was not suggested that these files were not instructions as far as they went; rather, it was said that there was no "certain result" which they brought about.</sentence>
 <sentence id="s187">It was submitted that the table file --- 
- &#8226; "... provides minor aesthetic additions to the display and operation of a table ...";
- &#8226; "... of itself does not control the function or operation of the table ...";
- &#8226; "... is only used in a limited way if, and only if, the user wishes, in relation to a pre-existing table, to "highlight one or more lines of the table in a present colour after that line is clicked on by the user, with the assistance of other source code", to "re-order a line in the table by moving it up or down", and to "sort a table into ascending or descending order based upon entries in a column...";
- &#8226; "... must interact with other code ..."; and
- &#8226; "... does not do anything useful in its own right".</sentence>
+ #8226; "... provides minor aesthetic additions to the display and operation of a table ...";
+ #8226; "... of itself does not control the function or operation of the table ...";
+ #8226; "... is only used in a limited way if, and only if, the user wishes, in relation to a pre-existing table, to "highlight one or more lines of the table in a present colour after that line is clicked on by the user, with the assistance of other source code", to "re-order a line in the table by moving it up or down", and to "sort a table into ascending or descending order based upon entries in a column...";
+ #8226; "... must interact with other code ..."; and
+ #8226; "... does not do anything useful in its own right".</sentence>
 <sentence id="s188">
 
 It was likewise submitted that the editor file --- 
  
- &#8226; "... provides minor additions to the operation of an on-screen editor used by" the CMS;
- &#8226; "... of itself does not control the function or operation of the editor ...";
- &#8226; could not be equated with a word processing program;
- &#8226; "... simply allows a user to make selected text bold, italics, underlined or similar ...";
- &#8226; "... must interact with other code ...";
- &#8226; "... does not input or create the text, carry out the function to select text, create buttons on the screen, create the editor box on the screen, or allow text to be saved ...";
- &#8226; "... only relates to editing text, and not editing or changing other content of a web site, such as graphics, sounds and movies ..."; and 
- &#8226; "... needs to work with other code to function.</sentence>
+ #8226; "... provides minor additions to the operation of an on-screen editor used by" the CMS;
+ #8226; "... of itself does not control the function or operation of the editor ...";
+ #8226; could not be equated with a word processing program;
+ #8226; "... simply allows a user to make selected text bold, italics, underlined or similar ...";
+ #8226; "... must interact with other code ...";
+ #8226; "... does not input or create the text, carry out the function to select text, create buttons on the screen, create the editor box on the screen, or allow text to be saved ...";
+ #8226; "... only relates to editing text, and not editing or changing other content of a web site, such as graphics, sounds and movies ..."; and 
+ #8226; "... needs to work with other code to function.</sentence>
 <sentence id="s189">"
  27 In part, Mr Petro's submissions emphasise the smallness of the results arguably brought about by the table file and the editor file.</sentence>
 <sentence id="s190">I do not consider that such is a proper basis upon which to disqualify the files from satisfying the requirements of the definition of "computer program".</sentence>
@@ -416,9 +416,9 @@ The committee responded to that submission as follows (Report, par 6.28):
 <sentence id="s308">
  REPRODUCTION OF COPYRIGHT WORK 
  
- 43 Under the Copyright Act , there will not be reproduction in the absence of "actual use of ... the copyright work": SW Hart &amp; Co Pty Ltd v Edwards Hot Water Systems [1985] HCA 59 ; (1985) 159 CLR 466, 472 per Gibbs CJ.</sentence>
+ 43 Under the Copyright Act , there will not be reproduction in the absence of "actual use of ... the copyright work": SW Hart amp; Co Pty Ltd v Edwards Hot Water Systems [1985] HCA 59 ; (1985) 159 CLR 466, 472 per Gibbs CJ.</sentence>
 <sentence id="s309">This includes, of course, indirect copying (ie copying a copy of the work) and so-called subconscious copying.</sentence>
-<sentence id="s310">But, one way or the other, "the copyright work must be shown to be a causa sine qua non of the infringing work": Francis Day &amp; Hunter Ltd v Bron [1963] Ch 589, 624 per Diplock LJ.</sentence>
+<sentence id="s310">But, one way or the other, "the copyright work must be shown to be a causa sine qua non of the infringing work": Francis Day amp; Hunter Ltd v Bron [1963] Ch 589, 624 per Diplock LJ.</sentence>
 <sentence id="s311">It is not sufficient that the putative infringer made a copy of a progenitor, or a sibling, of the copyright work.</sentence>
 <sentence id="s312">In the context of the present case, what is required for Dais to succeed is that Mr Petro copied the HR Advantage CMS, or the table and editor files from that CMS.</sentence>
 <sentence id="s313">It will not be sufficient if what Mr Petro copied was another CMS (or the relevant files from another CMS) not itself a copy of the HR Advantage CMS, even if that other CMS was a progenitor work from which the HR Advantage CMS was derived.</sentence>
@@ -517,7 +517,7 @@ The committee responded to that submission as follows (Report, par 6.28):
  EQUITABLE OBLIGATION OF CONFIDENCE 
  
  58 Dais contends that Mr Petro's use of the source code in the table file and the editor file which he downloaded in about June 2004 amounted to a breach of an equitable obligation of confidence which arose in the circumstances, and which would be enforced by permanent injunction.</sentence>
-<sentence id="s398">It was that code which, according to Dais, was the confidential information the use of which would be restrained in accordance with the principles referred to by Gummow J in Corrs Pavey Whiting &amp; Byrne v Collector of Customs (1987) 14 FCR 434, 443 and again in Smith Kline &amp; French Laboratories (Aust) Ltd v Secretary, Department of Community Services and Health (1990) 22 FCR 73, 87.</sentence>
+<sentence id="s398">It was that code which, according to Dais, was the confidential information the use of which would be restrained in accordance with the principles referred to by Gummow J in Corrs Pavey Whiting amp; Byrne v Collector of Customs (1987) 14 FCR 434, 443 and again in Smith Kline amp; French Laboratories (Aust) Ltd v Secretary, Department of Community Services and Health (1990) 22 FCR 73, 87.</sentence>
 <sentence id="s399">In Smith Kline , Gummow J said (22 FCR at 87):
  A general formulation apt for the present case of an equitable obligation of confidence has four elements: (i) the plaintiff must be able to identify with specificity, and not merely in global terms, that which is said to be the information in question, and must be able to show that (ii) the information has the necessary quality of confidentiality (and is not, for example, common or public knowledge), (iii) the information was received by the defendant in such circumstances as to import an obligation of confidence, and (iv) there is actual or threatened misuse of that information, without the consent of the plaintiff.</sentence>
 <sentence id="s400">
@@ -669,7 +669,7 @@ The eighth extract consisted of passages on the subject of building security.</s
 <sentence id="s475">
  65 I turn then to consider the second of the four elements referred to by Gummow J in Smith Kline , namely, whether the information used by Mr Petro had "the necessary quality of confidentiality".</sentence>
 <sentence id="s476">Here the cases have referred to a number of indicators, or "lines of inquiry" ( Deta Nominees Pty Ltd v Viscount Plastic Products Pty Ltd [1979] VR 167, 193).</sentence>
-<sentence id="s477">Recognising that there is nothing prescriptive in these indicators, I note that reference has been made to the skill and effort that were expended to acquire the information; the extent to which the information was known both inside and outside the employer's business; the ease or difficulty with which the information could be properly acquired or duplicated by others; the steps taken by the employer jealously to guard the information; the commercial value of the information and the usages and practices of the industry concerned: see Ansell Rubber Co Ltd v Allied Rubber Industries Pty Ltd [1967] VR 37; Mense &amp; Ampere Electrical Manufacturing Co Pty Ltd v Milenkovic [1973] VR 784, 796-798; Secton Pty Ltd v Delawood Pty Ltd (1991) 21 IPR 136, 149; Wright v Gasweld Pty Ltd (1991) 22 NSWLR 317, 334; Del Casale v Artedomus (Aust) Pty Ltd (2007) 165 IR 148, 160.</sentence>
+<sentence id="s477">Recognising that there is nothing prescriptive in these indicators, I note that reference has been made to the skill and effort that were expended to acquire the information; the extent to which the information was known both inside and outside the employer's business; the ease or difficulty with which the information could be properly acquired or duplicated by others; the steps taken by the employer jealously to guard the information; the commercial value of the information and the usages and practices of the industry concerned: see Ansell Rubber Co Ltd v Allied Rubber Industries Pty Ltd [1967] VR 37; Mense amp; Ampere Electrical Manufacturing Co Pty Ltd v Milenkovic [1973] VR 784, 796-798; Secton Pty Ltd v Delawood Pty Ltd (1991) 21 IPR 136, 149; Wright v Gasweld Pty Ltd (1991) 22 NSWLR 317, 334; Del Casale v Artedomus (Aust) Pty Ltd (2007) 165 IR 148, 160.</sentence>
 <sentence id="s478">66 I accept Mr Perlinski's evidence that Dais has invested very considerably in the development of WebStable as a whole.</sentence>
 <sentence id="s479">However, Dais's evidentiary case did not deal directly with the skill, effort or expense associated with the development of the table file and the editor file as such.</sentence>
 <sentence id="s480">For all I could tell from the evidence of Mr Suthers, Mr Petro and Mr Lindgren, the development of the code for those files was an unremarkable part of an ordinary week's work.</sentence>
@@ -697,7 +697,7 @@ Under cross-examination, Mr Carpenter agreed that these lines of code were "a we
 <sentence id="s499">
  69 As to the second feature --- searching for specific text in a table column --- Mr Muys set out in his affidavit the 13 lines of code that gave effect to that feature.</sentence>
 <sentence id="s500">He continued:
- The search algorithm used in this function has been given the name "Sequential Search" by computer scientists; however it is the na&iuml;ve 'one at a time from start to finish' search technique we are all familiar with.</sentence>
+ The search algorithm used in this function has been given the name "Sequential Search" by computer scientists; however it is the naiuml;ve 'one at a time from start to finish' search technique we are all familiar with.</sentence>
 <sentence id="s501">It is so trivial that it is only ever taught for the sake of completeness, and it would be considered an easy first year undergraduate tutorial question within any IT degree.</sentence>
 <sentence id="s502">The amount of labour required to implement this is trivial, of the order of five to ten minutes effort.</sentence>
 <sentence id="s503">As mentioned above, the amount of skill required to implement this feature is comparable to that of a first year undergraduate tutorial question in any IT degree.</sentence>
@@ -801,7 +801,7 @@ In his affidavit, Mr Muys said:
 <sentence id="s572">You'll be surprised what you can learn by simply studying a few lines of someone else's JavaScript.</sentence>
 <sentence id="s573">Remember, if you see something really cool on a Web page, you can always see how they did it.</sentence>
 <sentence id="s574">Just view source.</sentence>
-<sentence id="s575">At http://ph.answers.yahoo.com/question/index?qid=20070607123346AAPRjiK Yahoo Answers' top voted answer to the question "Can anyone give me any info on how to get my own web site going.</sentence>
+<sentence id=Can anyone give me any info on how to get my own web site going.</sentence>
 <sentence id="s576">" included the following: 
  
  
@@ -950,7 +950,7 @@ With respect to the absence of any copyright or proprietary notice on the WebSta
 <sentence id="s690">Beyond these two categories, however, I consider that Dais shouldered the burden of persuading the court that information which happened to come to the attention of Mr Petro during the course of his employment should be regarded as "confidential".</sentence>
 <sentence id="s691">Largely by reason of the facts and circumstances which I have canvassed earlier in these reasons, I do not consider that the source code for the table file or the editor file, or the names of those files which enabled Mr Petro to locate that code, was confidential information within the terms of the agreement.</sentence>
 <sentence id="s692">96 There remains the question whether any of the information to which I have just referred was "proprietary information".</sentence>
-<sentence id="s693">Information as such, of course, is not property: see TS &amp; B Retail Systems Pty Ltd v 3Fold Resources Pty Ltd (2003) 57 IPR 530, 537, and the authorities there cited; Farah Constructions Pty Ltd v Say-Dee Pty Ltd (2007) 236 ALR 209, 246 [120].</sentence>
+<sentence id="s693">Information as such, of course, is not property: see TS amp; B Retail Systems Pty Ltd v 3Fold Resources Pty Ltd (2003) 57 IPR 530, 537, and the authorities there cited; Farah Constructions Pty Ltd v Say-Dee Pty Ltd (2007) 236 ALR 209, 246 [120].</sentence>
 <sentence id="s694">When information is secret or truly confidential in fact, there is a sense in which the person by whom the information is known might be said to own the information.</sentence>
 <sentence id="s695">At times, the concept of property has been used --- metaphorically as I appreciate it --- to describe the position existing when information cannot be used or revealed without breach of the equitable obligation of confidence: see Deta Nominees [1979] VR at 193.</sentence>
 <sentence id="s696">However, it is difficult, if not impossible, in my view, to consider how any, even metaphorical, invocation of the concept of property could be legitimately made in circumstances where there was no obligation, equitable or contractual, to keep the information confidential.</sentence>
@@ -1088,7 +1088,7 @@ Dated: 20 December 2007
 
  Counsel for the Applicant: Mr Fisher 
  
- Solicitor for the Applicant: Kenny &amp; Co Solicitors 
+ Solicitor for the Applicant: Kenny amp; Co Solicitors 
  
  Counsel for the Respondent: Mr Crowe 
  
@@ -1108,5 +1108,38 @@ Dated: 20 December 2007
  URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/2054.html 
  
  </sentence>
+</sentences>
+</case>
+</sentences>
+</case> herein of the Honourable Justice Jessup.</sentence>
+<sentence id="s792">Associate:
+
+Dated: 20 December 2007
+
+
+ Counsel for the Applicant: Mr Fisher 
+ 
+ Solicitor for the Applicant: Kenny amp; Co Solicitors 
+ 
+ Counsel for the Respondent: Mr Crowe 
+ 
+ Solicitor for the Respondent: Mallesons Stephen Jaques 
+ 
+ Date of Hearing: 23, 24, 25 July, 22 August 2007 
+ 
+ Date of Judgment: 20 December 2007 
+
+
+ 
+ 
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/2054.html 
+ 
+ </sentence>
+</sentences>
+</case>
 </sentences>
 </case>

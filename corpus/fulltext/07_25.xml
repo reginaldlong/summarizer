@@ -3,14 +3,14 @@
 <name>Angelakos v Secretary, Department of Employment and Workplace Relations [2007] FCA 25 (29 January 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/25.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from decision of administrative appeals tribunal</catchphrase>
-<catchphrase "id=c1">where applicant overpaid parenting payment under social security act 1991 (cth)</catchphrase>
-<catchphrase "id=c2">where tribunal member found no special circumstances arose and rejected claim for waiver of debt</catchphrase>
-<catchphrase "id=c3">whether tribunal member applied correct legal test</catchphrase>
-<catchphrase "id=c4">meaning of 'special circumstances'</catchphrase>
-<catchphrase "id=c5">whether tribunal member took an irrelevant matter into account by having regard to applicant's interest in real property and superannuation benefits payable in the future</catchphrase>
-<catchphrase "id=c6">whether tribunal member failed to take into account a relevant matter in that the applicant had changed his financial position as a result of the overpayment.</catchphrase>
-<catchphrase "id=c7">social security</catchphrase>
+<catchphrase >appeal from decision of administrative appeals tribunal</catchphrase>
+<catchphrase >where applicant overpaid parenting payment under social security act 1991 (cth)</catchphrase>
+<catchphrase >where tribunal member found no special circumstances arose and rejected claim for waiver of debt</catchphrase>
+<catchphrase >whether tribunal member applied correct legal test</catchphrase>
+<catchphrase >meaning of 'special circumstances'</catchphrase>
+<catchphrase >whether tribunal member took an irrelevant matter into account by having regard to applicant's interest in real property and superannuation benefits payable in the future</catchphrase>
+<catchphrase >whether tribunal member failed to take into account a relevant matter in that the applicant had changed his financial position as a result of the overpayment.</catchphrase>
+<catchphrase >social security</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -104,7 +104,7 @@ The applicant is a 52 year old man who has the care of his 15 year old son.</sen
 <sentence id="s30">The applicant is the registered proprietor of the Torrensville property.</sentence>
 <sentence id="s31">Until July 2001 the applicant was employed by ACI.</sentence>
 <sentence id="s32">He resigned from his employment at that time to care for a Ms Cecilia Bannan and to help his mother with the care of his son.</sentence>
-<sentence id="s33">Ms Bannan is the applicant's fianc&eacute;e and she was seriously injured in a traffic accident in 1998 and was wheelchair-bound.</sentence>
+<sentence id="s33">Ms Bannan is the applicant's fianceacute;e and she was seriously injured in a traffic accident in 1998 and was wheelchair-bound.</sentence>
 <sentence id="s34">Upon his resignation from his employment the applicant received a termination payment of $100,000 and had access to non-preserved superannuation benefits of $117,000.</sentence>
 <sentence id="s35">He used those funds to purchase a residential property at Flinders Park ('the Flinders Park property') on 15 January 2002 for the sum of $209,500.</sentence>
 <sentence id="s36">In December 2004 Ms Bannan moved into the Flinders Park property to save rent and to assist the applicant financially.</sentence>
@@ -180,14 +180,14 @@ In relation to the exercise of the discretion under s 1237AAD, the applicant sub
 <sentence id="s81">As a result of the raising of the debt, the applicant had suffered a breakdown.</sentence>
 <sentence id="s82">He had gone through a horrific time, had suffered physically and was still very vulnerable.</sentence>
 <sentence id="s83">3.</sentence>
-<sentence id="s84">The applicant had a significant ongoing role as a carer for his incapacitated fianc&eacute;e and his aged parents, including his father who is ill.</sentence>
+<sentence id="s84">The applicant had a significant ongoing role as a carer for his incapacitated fianceacute;e and his aged parents, including his father who is ill.</sentence>
 <sentence id="s85">In the circumstances he would have little or no opportunity for employment.</sentence>
 <sentence id="s86">4.</sentence>
 <sentence id="s87">The applicant would find it very difficult to repay the debt because of his financial circumstances.</sentence>
-<sentence id="s88">He had financial commitments to support his family, including his son and his fianc&eacute;e.
+<sentence id="s88">He had financial commitments to support his family, including his son and his fianceacute;e.
  5.</sentence>
 <sentence id="s89">It would be unreasonable to expect the Torrensville property and the Flinders Park property to be sold.</sentence>
-<sentence id="s90">The applicant's parents believed the Torrensville property to be their property and the applicant and his fianc&eacute;e intended to use the Flinders Park property as their home.</sentence>
+<sentence id="s90">The applicant's parents believed the Torrensville property to be their property and the applicant and his fianceacute;e intended to use the Flinders Park property as their home.</sentence>
 <sentence id="s91">
 
 20 The Tribunal member referred to a number of cases which have considered the meaning of 'special circumstances'.</sentence>
@@ -212,7 +212,7 @@ In relation to the exercise of the discretion under s 1237AAD, the applicant sub
 <sentence id="s108">These provisions deal with the calculation of a person's assets for social security benefits purposes, rather than in determining a person's capacity to repay a debt arising from an overpayment of benefits.</sentence>
 <sentence id="s109">The Tribunal is of the view that ss 1118(1) and 1118B(1) are of no relevance in the present case.</sentence>
 <sentence id="s110">There is evidence also that the respondent pays the costs of his son's attendance at a private school, the fees for which are some $3,000 per annum.</sentence>
-<sentence id="s111">It appears the two properties owned by the respondent are not subject to any registered mortgage or other encumbrance and that he receives some financial assistance from his parents and his fianc&eacute;e. 
+<sentence id="s111">It appears the two properties owned by the respondent are not subject to any registered mortgage or other encumbrance and that he receives some financial assistance from his parents and his fianceacute;e. 
  39.</sentence>
 <sentence id="s112">The Tribunal is not satisfied that special circumstances exist that make it desirable to waive, under s 1237AAD of the Act, the debt that has been raised by Centrelink.</sentence>
 <sentence id="s113">The Tribunal finds that there is nothing unusual, uncommon or exceptional about the respondent's case that would justify some other conclusion.</sentence>
@@ -422,7 +422,7 @@ Dated: 29 January 2007
 
  Counsel for the Applicant: M Burnett 
  
- Solicitor for the Applicant: Condello &amp; Co 
+ Solicitor for the Applicant: Condello amp; Co 
  
  Counsel for the Respondent: R Prince 
  
@@ -442,4 +442,8 @@ Dated: 29 January 2007
  
  </sentence>
 </sentences>
-</case>
+</case>/case>/2007/25.html 
+ 
+ </sentence>
+</sentences>
+</case>/case>

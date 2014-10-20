@@ -3,12 +3,12 @@
 <name>*D* v Australian Crime Commission [2006] FCA 660 (30 May 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/660.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">australian crime commission</catchphrase>
-<catchphrase "id=c1">special investigation</catchphrase>
-<catchphrase "id=c2">determination of the class or classes of persons to participate in the investigation</catchphrase>
-<catchphrase "id=c3">summons to appear before an examiner</catchphrase>
-<catchphrase "id=c4">form of summons</catchphrase>
-<catchphrase "id=c5">administrative law</catchphrase>
+<catchphrase >australian crime commission</catchphrase>
+<catchphrase >special investigation</catchphrase>
+<catchphrase >determination of the class or classes of persons to participate in the investigation</catchphrase>
+<catchphrase >summons to appear before an examiner</catchphrase>
+<catchphrase >form of summons</catchphrase>
+<catchphrase >administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -243,7 +243,7 @@ The applicant's contention is that categories 2 and 3 do not describe 'a class o
 <sentence id="s141">It therefore, as his Honour said at 197 required a 'certain objective standard'.</sentence>
 <sentence id="s142">40 In Cann's Proprietary Limited v The Commonwealth (1946)71 CLR 210 the High Court (Latham CJ, Starke and Williams JJ) declared invalid a different Prices Order purportedly made under reg 23(1) of the National Security (Prices) Regulations for similar reasons, although Dixon J dissented in the result.</sentence>
 <sentence id="s143">I do not consider that the reasoning further informs my judgment in this matter, beyond the assistance to be derived from King Gee .</sentence>
-<sentence id="s144">41 Counsel for the applicant also referred to Brudenell v Nestl&eacute; Company (Australia) Ltd [1971] VR 225.</sentence>
+<sentence id="s144">41 Counsel for the applicant also referred to Brudenell v Nestleacute; Company (Australia) Ltd [1971] VR 225.</sentence>
 <sentence id="s145">In that case, the defendant had been charged with selling instant coffee which was adulterated, contrary to s 238 of the Health Act 1958 (Vic).</sentence>
 <sentence id="s146">The adulteration was alleged because the instant coffee did not comply with the standard prescribed by reg 48(8)(a) of the Food and Drug Standards Regulations 1966 (Vic) that instant coffee should contain no more than a specified percentage of residue in boiling water.</sentence>
 <sentence id="s147">The prescribed standard was held to be ultra vires because it did not prescribe a standard for, or define, a food, drug or substance.</sentence>
@@ -359,7 +359,7 @@ Dated: 29 May 2006
 
  Counsel for the Applicant: CD Bleby 
  
- Solicitor for the Applicant: Patsouris &amp; Associates 
+ Solicitor for the Applicant: Patsouris amp; Associates 
  
  Counsel for the Respondent: S Maharaj QC 
  
@@ -377,4 +377,8 @@ Dated: 29 May 2006
  
  </sentence>
 </sentences>
-</case>
+</case>e>tml 
+ 
+ </sentence>
+</sentences>
+</case>e>

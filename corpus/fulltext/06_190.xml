@@ -3,11 +3,11 @@
 <name>Norm Engineering Pty Ltd v Digga Australia Pty Ltd [2006] FCA 190 (8 March 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/190.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">copyright proceedings</catchphrase>
-<catchphrase "id=c1">trial directions</catchphrase>
-<catchphrase "id=c2">failure to provide the report of an expert in accordance with the directions orders</catchphrase>
-<catchphrase "id=c3">application to adjourn the trial on grounds of prejudice in the conduct of the trial.</catchphrase>
-<catchphrase "id=c4">practice and procedure</catchphrase>
+<catchphrase >copyright proceedings</catchphrase>
+<catchphrase >trial directions</catchphrase>
+<catchphrase >failure to provide the report of an expert in accordance with the directions orders</catchphrase>
+<catchphrase >application to adjourn the trial on grounds of prejudice in the conduct of the trial.</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -91,7 +91,7 @@ Dated: 8 March 2006
  
  Counsel for the Respondent: Mr Burley 
  
- Solicitors for the Respondent: Bennett &amp; Philp 
+ Solicitors for the Respondent: Bennett amp; Philp 
  
  Date of Hearing: 7 March 2006 
  
@@ -105,4 +105,7 @@ Dated: 8 March 2006
  
  </sentence>
 </sentences>
-</case>
+</case>>
+ </sentence>
+</sentences>
+</case>>

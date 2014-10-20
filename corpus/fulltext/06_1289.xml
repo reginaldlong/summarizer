@@ -3,11 +3,11 @@
 <name>Sayegh v Australian Community Pharmacy Authority [2006] FCA 1289 (28 September 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1289.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from decision of the administrative appeals tribunal</catchphrase>
-<catchphrase "id=c1">review of decision to recommend that an application for relocation of pharmacy premises not be approved</catchphrase>
-<catchphrase "id=c2">meaning of 'nearest other premises'</catchphrase>
-<catchphrase "id=c3">method to be used in identifying nearest other premises</catchphrase>
-<catchphrase "id=c4">administrative law</catchphrase>
+<catchphrase >appeal from decision of the administrative appeals tribunal</catchphrase>
+<catchphrase >review of decision to recommend that an application for relocation of pharmacy premises not be approved</catchphrase>
+<catchphrase >meaning of 'nearest other premises'</catchphrase>
+<catchphrase >method to be used in identifying nearest other premises</catchphrase>
+<catchphrase >administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -86,7 +86,7 @@ The applicant's position is that the everyday meaning of 'nearest' as used in bo
 <sentence id="s47">In other circumstances, however, finding the nearest other premises could lead to two premises (say A and B) being identified as the 'nearest' under subrules 6(b)(i) and 6(b)(ii) respectively.</sentence>
 <sentence id="s48">In that case a positive recommendation could only be made if the distance from the proposed premises to A was at least 1.5 km by straight line measurement or the distance from the proposed premises to B was at least 2 km by the lawful access measurement.</sentence>
 <sentence id="s49">Counsel for the respondent submitted that rule 6, in providing these alternatives, gave effect to the intention expressed in the Third Community Pharmacy Agreement to simplify the measurement process and thereby provide an alternative for pharmacists who could benefit from the straight line measurement in rule 6(b)(i).</sentence>
-<sentence id="s50">On this analysis the respondent submits that the application must fail because: &#8226; by straight line measurement, Chemworld Chemist is the nearest premises and since it is less than 1.5 kilometres from the proposed premises, the proposed premises do not satisfy rule 6(b)(i); and &#8226; by lawful access measurement, Fegents Pharmacy is the nearest premises and, since it is less than 2 kilometres from the proposed premises, the proposed premises do not meet the requirement in rule 6(b)(ii).</sentence>
+<sentence id="s50">On this analysis the respondent submits that the application must fail because: #8226; by straight line measurement, Chemworld Chemist is the nearest premises and since it is less than 1.5 kilometres from the proposed premises, the proposed premises do not satisfy rule 6(b)(i); and #8226; by lawful access measurement, Fegents Pharmacy is the nearest premises and, since it is less than 2 kilometres from the proposed premises, the proposed premises do not meet the requirement in rule 6(b)(ii).</sentence>
 <sentence id="s51">17 Finally, the respondent submitted that if the ordinary meaning of the word 'nearest' was 'nearest, measured by a straight line measurement' then there would be no need, in rule 6(b)(i), for the words 'by straight line measurement'.</sentence>
 <sentence id="s52">I doubt that this submission adds much to those already put and it is not necessary to discuss it further.</sentence>
 <sentence id="s53">
@@ -236,4 +236,6 @@ Dated: 28 September 2006
  
  </sentence>
 </sentences>
-</case>
+</case>e> </sentence>
+</sentences>
+</case>e>

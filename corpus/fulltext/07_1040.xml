@@ -3,14 +3,14 @@
 <name>Kernaghan v Corrections Corporation of Australia Staff Superannuation Pty Ltd (No.2) [2007] FCA 1040 (11 July 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1040.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">trustee's liability insurance</catchphrase>
-<catchphrase "id=c1">settlement of claim against superannuation fund for breach of duties as trustee</catchphrase>
-<catchphrase "id=c2">settlement included component not covered by liability policy</catchphrase>
-<catchphrase "id=c3">whether settlement reasonable</catchphrase>
-<catchphrase "id=c4">whether liability of superannuation fund ascertainable from settlement</catchphrase>
-<catchphrase "id=c5">whether onus on insurer to prove that the settlement was not reasonable</catchphrase>
-<catchphrase "id=c6">whether superannuation fund entitled to reopen case to quantify liability.</catchphrase>
-<catchphrase "id=c7">insurance</catchphrase>
+<catchphrase >trustee's liability insurance</catchphrase>
+<catchphrase >settlement of claim against superannuation fund for breach of duties as trustee</catchphrase>
+<catchphrase >settlement included component not covered by liability policy</catchphrase>
+<catchphrase >whether settlement reasonable</catchphrase>
+<catchphrase >whether liability of superannuation fund ascertainable from settlement</catchphrase>
+<catchphrase >whether onus on insurer to prove that the settlement was not reasonable</catchphrase>
+<catchphrase >whether superannuation fund entitled to reopen case to quantify liability.</catchphrase>
+<catchphrase >insurance</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -249,7 +249,7 @@ These comments are obiter.</sentence>
 <sentence id="s173">She swore several affidavits which described the exercise she undertook in order to extract from the original bill the costs separately attributable to the applicants suing each of the respondents and the common costs.</sentence>
 <sentence id="s174">She then reduced these costs by the percentage which reflected the difference between the amount of the original costs, namely $566,629.96 and the agreed figure of costs of $450,000.</sentence>
 <sentence id="s175">The final division of the original bill of costs was:
- CCAS $118,767.18 Lawson &amp; Twomey $94, 493.63 AIMS $45,982.57 Common Costs $307,386.58 TOTAL $566,629.96 
+ CCAS $118,767.18 Lawson amp; Twomey $94, 493.63 AIMS $45,982.57 Common Costs $307,386.58 TOTAL $566,629.96 
 25 In her examination and cross-examination, Ms Dealehr displayed a clear recollection of the detail of the material upon which the original bill was based.</sentence>
 <sentence id="s176">To the extent that this factual basis is relevant to the present issues, I am confident that Ms Dealehr's evidence is reliable even though about two years have passed since she drew the original bill of costs.</sentence>
 <sentence id="s177">26 CGU challenged the methodology used by Ms Dealehr in apportioning the separate costs between the respondents in particular in two areas, namely in relation to the costs of perusals and in relation to the costs of the pleadings.</sentence>
@@ -257,7 +257,7 @@ These comments are obiter.</sentence>
 <sentence id="s179">27 The total costs allowed in the original bill for instructions for brief (excluding disbursements) was $312,500.</sentence>
 <sentence id="s180">This is that portion of the total costs of $566,629.96 which relates to the costs of the applicants' solicitors dealing with the applicants' side of the case as distinct from their dealing with the parties on the opposite side of the record.</sentence>
 <sentence id="s181">Most of the costs of instructions for brief relate to the perusals by the applicants' solicitors of documents discovered by the respondents.</sentence>
-<sentence id="s182">Ms Dealehr divided the instructions for brief so that $78,046 was attributed to CCAS, $78,277 to Lawson &amp; Twomey, whilst only $14,302 was attributed to AIMS.</sentence>
+<sentence id="s182">Ms Dealehr divided the instructions for brief so that $78,046 was attributed to CCAS, $78,277 to Lawson amp; Twomey, whilst only $14,302 was attributed to AIMS.</sentence>
 <sentence id="s183">The reason for this allocation was that CCAS on the one hand and Lawson and Twomey on the other hand provided discovered documents to the applicants first and those documents were perused by the applicants' solicitors before they received any documents from AIMS.</sentence>
 <sentence id="s184">Afterwards AIMS provided far fewer documents and these were perused separately.</sentence>
 <sentence id="s185">The costs of the first perusal were divided equally between CCAS on the one hand and Lawson and Twomey on the other because the documents came from them.</sentence>
@@ -367,4 +367,8 @@ Dated: 11 July 2007
  
  </sentence>
 </sentences>
-</case>
+</case>e>CA/2007/1040.html 
+ 
+ </sentence>
+</sentences>
+</case>e>

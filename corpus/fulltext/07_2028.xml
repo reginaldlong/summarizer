@@ -3,14 +3,14 @@
 <name>Jordan v Australian Postal Corporation [2007] FCA 2028 (19 December 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/2028.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">error of law</catchphrase>
-<catchphrase "id=c1">whole body impairment</catchphrase>
-<catchphrase "id=c2">use of tables in comcare guide</catchphrase>
-<catchphrase "id=c3">injury</catchphrase>
-<catchphrase "id=c4">assessment of permanent impairment</catchphrase>
-<catchphrase "id=c5">requirement to isolate compensable effects from effects of underlying condition where it is possible</catchphrase>
-<catchphrase "id=c6">failure to give adequate reasons</catchphrase>
-<catchphrase "id=c7">administrative law</catchphrase>
+<catchphrase >error of law</catchphrase>
+<catchphrase >whole body impairment</catchphrase>
+<catchphrase >use of tables in comcare guide</catchphrase>
+<catchphrase >injury</catchphrase>
+<catchphrase >assessment of permanent impairment</catchphrase>
+<catchphrase >requirement to isolate compensable effects from effects of underlying condition where it is possible</catchphrase>
+<catchphrase >failure to give adequate reasons</catchphrase>
+<catchphrase >administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -256,19 +256,19 @@
  
  
  
- &#8226; x-ray changes with minimal loss of function of shoulder , elbow or wrist 
+ #8226; x-ray changes with minimal loss of function of shoulder , elbow or wrist 
  
  
  
- &#8226; ankylosis of any joint of fingers 4 and/or 5 
+ #8226; ankylosis of any joint of fingers 4 and/or 5 
  
  10 Any ONE of the following: 
  
  
  
- &#8226; loss of less than half normal range of movement of shoulder or elbow 
- &#8226; loss of half normal range of movement of wrist 
- &#8226; ankylosis of any joints of fingers 2 and/or 3 
+ #8226; loss of less than half normal range of movement of shoulder or elbow 
+ #8226; loss of half normal range of movement of wrist 
+ #8226; ankylosis of any joints of fingers 2 and/or 3 
  
  
  
@@ -277,8 +277,8 @@
  
  
  
- &#8226; loss of more than half normal range of movement of wrist 
- &#8226; ankylosis of any joints of thumb 
+ #8226; loss of more than half normal range of movement of wrist 
+ #8226; ankylosis of any joints of thumb 
  
  
  
@@ -289,8 +289,8 @@
  
  
  
- &#8226; loss of half normal range of movement of shoulder or elbow 
- &#8226; ankylosis of wrist 
+ #8226; loss of half normal range of movement of shoulder or elbow 
+ #8226; ankylosis of wrist 
  
  
  
@@ -568,11 +568,11 @@ These requirements were referred to and explained by Burchett J in Martin at [18
 <sentence id="s215">
  
 
- &#8226; reactions to stressors of daily living with minor loss of personal or social efficiency 
+ #8226; reactions to stressors of daily living with minor loss of personal or social efficiency 
  
- &#8226; lack of conscience directed behaviour without harm to community or self 
+ #8226; lack of conscience directed behaviour without harm to community or self 
  
- &#8226; minor distortions of thinking 
+ #8226; minor distortions of thinking 
  
  
  
@@ -581,11 +581,11 @@ These requirements were referred to and explained by Burchett J in Martin at [18
 <sentence id="s216">
  
 
- &#8226; reactions to stressors of daily living with minor loss of personal or social efficiency 
+ #8226; reactions to stressors of daily living with minor loss of personal or social efficiency 
  
- &#8226; lack of conscience directed behaviour without harm to community or self 
+ #8226; lack of conscience directed behaviour without harm to community or self 
  
- &#8226; minor distortions of thinking.</sentence>
+ #8226; minor distortions of thinking.</sentence>
 <sentence id="s217">' 
  
  
@@ -620,7 +620,7 @@ Dated: 19 December 2007
 
  Counsel for the Appellant: D Richards 
  
- Solicitor for the Applicant: Slater &amp; Gordon 
+ Solicitor for the Applicant: Slater amp; Gordon 
  
  Counsel for the Respondent: R Henderson 
  
@@ -640,4 +640,10 @@ Dated: 19 December 2007
  
  </sentence>
 </sentences>
+</case>ntences>
+</case>tml 
+ 
+ </sentence>
+</sentences>
+</case>ntences>
 </case>

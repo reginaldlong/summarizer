@@ -3,11 +3,11 @@
 <name>CC Pty Ltd v Australian Crime Commission [2006] FCA 1230 (12 September 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1230.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">australian crime commission</catchphrase>
-<catchphrase "id=c1">discovery and production of documents</catchphrase>
-<catchphrase "id=c2">whether documents subject to public interest immunity</catchphrase>
-<catchphrase "id=c3">whether documents relevant</catchphrase>
-<catchphrase "id=c4">public interest immunity</catchphrase>
+<catchphrase >australian crime commission</catchphrase>
+<catchphrase >discovery and production of documents</catchphrase>
+<catchphrase >whether documents subject to public interest immunity</catchphrase>
+<catchphrase >whether documents relevant</catchphrase>
+<catchphrase >public interest immunity</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -66,9 +66,9 @@ They are collectively called 'the Determinations'.</sentence>
 <sentence id="s16">7 The respondents have now applied to vary the discovery order made on 30 May 2006 firstly to confine it explicitly in the way which (as I have indicated) I intended it to be read, and secondly to restrict its operation to the Determinations and not to any other determinations.</sentence>
 <sentence id="s17">8 The evidence indicates that there were three other determinations made by Instrument on 13 May 2003, namely: 
  
- &#8226; Australian Crime Commission Special Investigation Authorisation and Determination (Firearms Trafficking) 2003; 
- &#8226; Australian Crime Commission Special Investigation Authorisation and Determination (Established Criminal Networks) 2003; 
- &#8226; Australian Crime Commission Special Investigation Authorisation and Determination (South East Asian Organised Crime) 2003.</sentence>
+ #8226; Australian Crime Commission Special Investigation Authorisation and Determination (Firearms Trafficking) 2003; 
+ #8226; Australian Crime Commission Special Investigation Authorisation and Determination (Established Criminal Networks) 2003; 
+ #8226; Australian Crime Commission Special Investigation Authorisation and Determination (South East Asian Organised Crime) 2003.</sentence>
 <sentence id="s18">
 
 They are collectively called 'the other Determinations'.</sentence>
@@ -147,7 +147,7 @@ Dated: 12 September 2006
 
  Counsel for the Applicants: M Abbott QC with CD Bleby 
  
- Solicitor for the Applicants: Patsouris &amp; Associates 
+ Solicitor for the Applicants: Patsouris amp; Associates 
  
  Counsel for the Respondents: S Maharaj QC with S Doyle 
  
@@ -168,4 +168,6 @@ Dated: 12 September 2006
  
  </sentence>
 </sentences>
-</case>
+</case>ase>/sentence>
+</sentences>
+</case>ase>

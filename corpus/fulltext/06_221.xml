@@ -3,12 +3,12 @@
 <name>Luce Optical Pty Limited v Budget Specs (Franchising) Pty Limited [2006] FCA 221 (16 March 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/221.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">requests for further and better particulars</catchphrase>
-<catchphrase "id=c1">function of particulars</catchphrase>
-<catchphrase "id=c2">comparison with interrogatories</catchphrase>
-<catchphrase "id=c3">'vexatious and oppressive'</catchphrase>
-<catchphrase "id=c4">whether requests for further and better particulars amount to requests for evidence by which material facts are to be proved</catchphrase>
-<catchphrase "id=c5">practice and procedure</catchphrase>
+<catchphrase >requests for further and better particulars</catchphrase>
+<catchphrase >function of particulars</catchphrase>
+<catchphrase >comparison with interrogatories</catchphrase>
+<catchphrase >'vexatious and oppressive'</catchphrase>
+<catchphrase >whether requests for further and better particulars amount to requests for evidence by which material facts are to be proved</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -198,7 +198,7 @@ Associate:
 Dated: 16 March 2006
  
 
- Counsel for the Respondent: Mr Ken Barlow Solicitors for Respondent: Cutler Hughes &amp; Harris Counsel for the Applicant: Mr John Lee 
+ Counsel for the Respondent: Mr Ken Barlow Solicitors for Respondent: Cutler Hughes amp; Harris Counsel for the Applicant: Mr John Lee 
  
  Solicitors for the Applicant: Gladstones Date of Hearing: 13 February 2006 Date of Judgment: 16 March 2006 
 
@@ -210,4 +210,8 @@ Dated: 16 March 2006
  
  </sentence>
 </sentences>
-</case>
+</case>>html 
+ 
+ </sentence>
+</sentences>
+</case>>

@@ -3,12 +3,12 @@
 <name>Electricity Retail Corporation v Griffin Energy Pty Ltd [2006] FCA 1810 (21 December 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1810.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for leave to appeal</catchphrase>
-<catchphrase "id=c1">application for preliminary discovery</catchphrase>
-<catchphrase "id=c2">alleged misrepresentation concerning tender for power plant generated capacity and minimum environmental compliance</catchphrase>
-<catchphrase "id=c3">whether sufficient doubt in conclusion that 'reasonable cause to believe' claim may exist</catchphrase>
-<catchphrase "id=c4">whether substantial injustice if leave refused</catchphrase>
-<catchphrase "id=c5">procedure</catchphrase>
+<catchphrase >application for leave to appeal</catchphrase>
+<catchphrase >application for preliminary discovery</catchphrase>
+<catchphrase >alleged misrepresentation concerning tender for power plant generated capacity and minimum environmental compliance</catchphrase>
+<catchphrase >whether sufficient doubt in conclusion that 'reasonable cause to believe' claim may exist</catchphrase>
+<catchphrase >whether substantial injustice if leave refused</catchphrase>
+<catchphrase >procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -17,7 +17,7 @@
 <sentence id="s1">The effect of his Honour's reasons, which was reflected in the orders that he made subsequently after the parties had conferred, was to grant to the respondent (collectively 'Griffin') an application pursuant to O 15A r 6(a) of the Federal Court Rules (FCR) for preliminary discovery.</sentence>
 <sentence id="s2">That requires it to be established that 'there is reasonable cause to believe that the applicant has or may have the right to obtain relief in the Court from a person whose description has been ascertained'.</sentence>
 <sentence id="s3">2 The notice of motion for leave to appeal is supported by an affidavit of M/s Eversden, a solicitor of the ERC's solicitors sworn and filed on 22 September 2006.</sentence>
-<sentence id="s4">3 The grant of leave from an interlocutory order is governed by the principles stated by the Full Court in D&eacute;cor Corp Pty Limited v Dart Industries Inc (1991) 33 FCR 397 as recently affirmed by the Full Court in Brilliant Digital Entertainment Pty Limited v Universal Music Aust.</sentence>
+<sentence id="s4">3 The grant of leave from an interlocutory order is governed by the principles stated by the Full Court in Deacute;cor Corp Pty Limited v Dart Industries Inc (1991) 33 FCR 397 as recently affirmed by the Full Court in Brilliant Digital Entertainment Pty Limited v Universal Music Aust.</sentence>
 <sentence id="s5">Pty Limited (2004) 63 IPR 373 ( Brilliant Digital 63 IPR).</sentence>
 <sentence id="s6">The two central considerations are: 
  
@@ -377,4 +377,8 @@ Dated: 21 December 2006
  
  </sentence>
 </sentences>
-</case>
+</case>>html 
+ 
+ </sentence>
+</sentences>
+</case>>

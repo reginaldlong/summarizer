@@ -3,14 +3,14 @@
 <name>Mehdi v Minister for Immigration and Multicultural and Indigenous Affairs [2006] FCA 498 (5 May 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/498.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from decision of federal magistrate</catchphrase>
-<catchphrase "id=c1">student (temporary) (class tu) visa</catchphrase>
-<catchphrase "id=c2">whether appellant failed to comply with condition 8202</catchphrase>
-<catchphrase "id=c3">where academic results not certified by education provider to be at least satisfactory</catchphrase>
-<catchphrase "id=c4">whether substantial compliance</catchphrase>
-<catchphrase "id=c5">no appellable error</catchphrase>
-<catchphrase "id=c6">no denial of natural justice</catchphrase>
-<catchphrase "id=c7">migration</catchphrase>
+<catchphrase >appeal from decision of federal magistrate</catchphrase>
+<catchphrase >student (temporary) (class tu) visa</catchphrase>
+<catchphrase >whether appellant failed to comply with condition 8202</catchphrase>
+<catchphrase >where academic results not certified by education provider to be at least satisfactory</catchphrase>
+<catchphrase >whether substantial compliance</catchphrase>
+<catchphrase >no appellable error</catchphrase>
+<catchphrase >no denial of natural justice</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -163,7 +163,7 @@ Passed: 5 Failed: 1 Did not sit: 9 Withdrawn: 22 Exempted: 2
 <sentence id="s74">The powers of the appellate court are to be exercised only where the appellant can demonstrate, having regard to all the evidence before the appellate court, that the order that is the subject of appeal is the result of some legal, factual or discretionary error: Abeyesinghe v Minister for Immigration and Multicultural and Indigenous Affairs [2004] FCA 1558 at [4] .</sentence>
 <sentence id="s75">22 On appeal, the appellant alleged a number of jurisdictional errors based on the purported practice of RMIT not to comment on whether results were satisfactory or not.</sentence>
 <sentence id="s76">The appellant contended that the Tribunal had been informed that RMIT had a policy of providing academic results without comment as to whether those results were satisfactory or not.</sentence>
-<sentence id="s77">In light of that policy, the appellant submitted that strict compliance with condition 8202 was not possible and it was open to the Tribunal to make its own finding as to whether the appellant had achieved substantial compliance with condition 8202: Gurung v Minister for Immigration &amp; Multicultural and Indigenous Affairs [2002] FCA 772 (' Gurung ').</sentence>
+<sentence id="s77">In light of that policy, the appellant submitted that strict compliance with condition 8202 was not possible and it was open to the Tribunal to make its own finding as to whether the appellant had achieved substantial compliance with condition 8202: Gurung v Minister for Immigration amp; Multicultural and Indigenous Affairs [2002] FCA 772 (' Gurung ').</sentence>
 <sentence id="s78">The appellant submitted that the Tribunal did not properly make its own finding about whether the appellant's results were satisfactory, but rather relied on the opinions of RMIT staff whose statements about the appellant's academic performance were contrary to RMIT's established procedures.</sentence>
 <sentence id="s79">23 These circumstances were said by the appellant to give rise to jurisdictional error on two bases.</sentence>
 <sentence id="s80">First, the appellant submitted that the Tribunal had relied upon opinions expressed by staff members of RMIT as to whether or not the appellant's results in the years 2000 and 2001 were or were not satisfactory, knowing that the giving of such opinions was contrary to RMIT's established procedure.</sentence>
@@ -240,4 +240,8 @@ Dated: 5 May 2006
  
  </sentence>
 </sentences>
-</case>
+</case>>/FCA/2006/498.html 
+ 
+ </sentence>
+</sentences>
+</case>>

@@ -3,10 +3,10 @@
 <name>Hughes (on behalf of the Eastern Guruma People) v State of Western Australia [2007] FCA 365 (1 March 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/365.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">consent determination of native title</catchphrase>
-<catchphrase "id=c1">statutory preconditions satisfied</catchphrase>
-<catchphrase "id=c2">appropriate to make the orders sought</catchphrase>
-<catchphrase "id=c3">native title</catchphrase>
+<catchphrase >consent determination of native title</catchphrase>
+<catchphrase >statutory preconditions satisfied</catchphrase>
+<catchphrase >appropriate to make the orders sought</catchphrase>
+<catchphrase >native title</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -30,10 +30,10 @@
 <sentence id="s16">6 Section 87 of the Act specifically provides for the making of orders giving effect to an agreement reached between the parties where the agreement relates to a part of the proceedings, without holding a hearing or, if a hearing has started, without completing the hearing ' if it appears to [the Court] to be appropriate to do so '.</sentence>
 <sentence id="s17">There are, however, preconditions:
  
- &#8226; The period specified in the notice given under s 66 of the Act must have expired (s 87(1));
- &#8226; An agreement must be reached between the parties as to the terms of the order (s 87(1)(a));
- &#8226; The terms of that agreement, in writing signed by or on behalf of the parties, must have been filed with the Court (s 87(1)(b)); and
- &#8226; The Court must be satisfied that an order in, or consistent with, those terms would be within the power of the Court (s 87(1)(c)).</sentence>
+ #8226; The period specified in the notice given under s 66 of the Act must have expired (s 87(1));
+ #8226; An agreement must be reached between the parties as to the terms of the order (s 87(1)(a));
+ #8226; The terms of that agreement, in writing signed by or on behalf of the parties, must have been filed with the Court (s 87(1)(b)); and
+ #8226; The Court must be satisfied that an order in, or consistent with, those terms would be within the power of the Court (s 87(1)(c)).</sentence>
 <sentence id="s18">
 
 7 The first condition is satisfied.</sentence>
@@ -87,7 +87,7 @@ Dated: 23 April 2007
 
  Counsel for the Applicant: G McIntyre SC and C K Savas 
  
- Solicitor for the Applicant: Corser &amp; Corser 
+ Solicitor for the Applicant: Corser amp; Corser 
  
  Counsel for the State of Western Australia: G Ranson and E Ganderton 
  
@@ -984,7 +984,7 @@ NELSON HUGHES of 102 Wellard Way, Karratha Western Australia, registered native 
 
 AND
 
-ANGELINA COX, ANGIE COX, ANNABELLE STEWART, ARNESS JAMES, CHARLESTON COX, CHLOE HAYES, DARRYL HUGHES, GARY HUGHES, HAROLD ASHBURTON, LILY MACKAY, MAUDIE DOWTON, MITCHELL DRAGE and MAURICE DAULBIN all care of Pilbara Native Title Service, Unit 1, 24 De Grey Place Karrratha WA 6714 native title applicant, for themselves and for and on behalf of the members of the Puutu Kunti Kurrama &amp; Pinikura native title determination application (WAD6007/2001 and WAD 126/2005) (referred to in this Deed of Agreement as "the PKKP claimants").</sentence>
+ANGELINA COX, ANGIE COX, ANNABELLE STEWART, ARNESS JAMES, CHARLESTON COX, CHLOE HAYES, DARRYL HUGHES, GARY HUGHES, HAROLD ASHBURTON, LILY MACKAY, MAUDIE DOWTON, MITCHELL DRAGE and MAURICE DAULBIN all care of Pilbara Native Title Service, Unit 1, 24 De Grey Place Karrratha WA 6714 native title applicant, for themselves and for and on behalf of the members of the Puutu Kunti Kurrama amp; Pinikura native title determination application (WAD6007/2001 and WAD 126/2005) (referred to in this Deed of Agreement as "the PKKP claimants").</sentence>
 <sentence id="s188">BACKGROUND 
 
  
@@ -1521,4 +1521,6 @@ The native title holders are:
  
  </sentence>
 </sentences>
-</case>
+</case>/case>>
+</sentences>
+</case>/case>

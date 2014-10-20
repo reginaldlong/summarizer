@@ -3,16 +3,16 @@
 <name>Uniline Australia Ltd v S Briggs Pty Ltd [2007] FCA 1799 (21 November 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1799.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">consideration of the categories of documents which might be made the subject of a list of documents by each party in two proceedings to be heard together</catchphrase>
-<catchphrase "id=c1">consideration of issues in relation to an action for threats with a cross-claim for patent infringement and a cross proceeding for revocation</catchphrase>
-<catchphrase "id=c2">consideration of a threats proceeding for registered design infringement</catchphrase>
-<catchphrase "id=c3">consideration of infringement questions</catchphrase>
-<catchphrase "id=c4">practice and procedure</catchphrase>
+<catchphrase >consideration of the categories of documents which might be made the subject of a list of documents by each party in two proceedings to be heard together</catchphrase>
+<catchphrase >consideration of issues in relation to an action for threats with a cross-claim for patent infringement and a cross proceeding for revocation</catchphrase>
+<catchphrase >consideration of a threats proceeding for registered design infringement</catchphrase>
+<catchphrase >consideration of infringement questions</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
  
-1 Two matters were listed for Directions on Monday, 19 November 2007 at 9.30am ( Uniline Australia Ltd v SBriggs Pty Ltd &amp; Anor , QUD236 of 2007; and Di Stefano v Uniline Australia Ltd QUD306 of 2007) in the expectation that the parties might be able to reach agreement concerning dates (working back from allocated trial dates) for the completion of interlocutory steps consequent upon the Court allocating, last week, dates for the trial of both actions of seven days from 14 April 2008 to 23 April 2008.</sentence>
+1 Two matters were listed for Directions on Monday, 19 November 2007 at 9.30am ( Uniline Australia Ltd v SBriggs Pty Ltd amp; Anor , QUD236 of 2007; and Di Stefano v Uniline Australia Ltd QUD306 of 2007) in the expectation that the parties might be able to reach agreement concerning dates (working back from allocated trial dates) for the completion of interlocutory steps consequent upon the Court allocating, last week, dates for the trial of both actions of seven days from 14 April 2008 to 23 April 2008.</sentence>
 <sentence id="s1">2 Although a number of matters have been agreed, the parties have not reached agreement about the categories of documents that ought to be the subject of discovery.</sentence>
 <sentence id="s2">Accordingly, argument has been addressed as to the categories of documents sought by each side from the other.</sentence>
 <sentence id="s3">3 In QUD236 of 2007, the applicant ( Uniline ) seeks relief arising out of alleged unjustifiable threats of patent infringement and Registered Design infringement (and related relief under the Trade Practices Act 1974 (Cth)) made by the respondent ( SBriggs ), the exclusive licensee of the registered proprietor (Mr Di Stefano) of Australian Patent No.</sentence>
@@ -59,7 +59,7 @@
 <sentence id="s27">Section 156 of that Act provides that if the design was registered under the Designs Act 1906 (as amended) (Cth) (and has not been expunged) and a person engages in conduct that would have infringed the monopoly in the design under the 1906 Act if that Act had been in force (as contended here; and perhaps conduct prior to the commencement date of the 2003 Act), an action may be brought under the 2003 Act (s 156(2)) although the 1906 Act continues to apply for the purposes of determining whether the person's conduct infringes the monopoly in the design; and the 2003 Act does not apply for the purposes of determining infringement (s 156(3)(a) and (b)).</sentence>
 <sentence id="s28">That being so, s 30(1)(a) of the 1906 Act provides that a person infringes the monopoly in a Registered Design if without the licence or authority of the owner, that person (i) applies the design to an article; or, (ii) applies an obvious imitation of it to an article; or (iii) applies a fraudulent imitation of it to an article.</sentence>
 <sentence id="s29">Section 30(1)(b) and (c), address importation for sale (or trade use) of such articles and selling or offering such articles for sale.</sentence>
-<sentence id="s30">13 Application of a design or application of an obvious imitation of a design (that is, something which is very close to the Registered Design and immediately apparent to the eye looking at the two ( Dunlop Rubber Co. Ltd v Golf Ball Developments Ltd (1931) 48 RPC 268)) to an article results in liability even though the respondent did not know nor had reason to suspect the existence of the design ( Rose v J W Pickawant &amp; Co. Ltd (1923) 40 RPC 320; Dunlop Rubber ).</sentence>
+<sentence id="s30">13 Application of a design or application of an obvious imitation of a design (that is, something which is very close to the Registered Design and immediately apparent to the eye looking at the two ( Dunlop Rubber Co. Ltd v Golf Ball Developments Ltd (1931) 48 RPC 268)) to an article results in liability even though the respondent did not know nor had reason to suspect the existence of the design ( Rose v J W Pickawant amp; Co. Ltd (1923) 40 RPC 320; Dunlop Rubber ).</sentence>
 <sentence id="s31">The application of a fraudulent imitation of a design to an article requires that the application be made with knowledge of the existence of the design or with reason to believe or strongly suspect the fact of registration of the design; absence of consent to use; and, use of the design produces an 'imitation' within the meaning of s 30(1)(a) ( Polyaire Pty Ltd v K-Aire Pty Ltd [2005] HCA 32 ; (2005) 221 CLR 287 at [17] and [18], per McHugh, Gummow, Hayne, Callinan and Heydon JJ; Turbo-Tek Enterprises Inc. v Sperling Enterprises Pty Ltd (1989) 23 FCR 331 at 347-348).</sentence>
 <sentence id="s32">Fraudulent imitation does not require proof of an actual intention to cheat ( Polyaire [35]) nor is it necessary (although to do so may make out application of a fraudulent imitation) to prove that changes to the applied design resulting in an imitation only satisfies the test of fraudulent imitation if the changes were adopted to disguise or obfuscate copying.</sentence>
 <sentence id="s33">The question is whether the differences are so substantial that no 'imitation' arises ( Polyaire [28] and [36]).</sentence>
@@ -359,4 +359,6 @@ Dated: 21 November 2007
  
  </sentence>
 </sentences>
-</case>
+</case>e> </sentence>
+</sentences>
+</case>e>

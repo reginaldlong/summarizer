@@ -3,16 +3,16 @@
 <name>Horn v Australian Electoral Commission [2006] FCA 1778 (19 December 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1778.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application to dismiss proceeding</catchphrase>
-<catchphrase "id=c1">obligation on australian electoral commission to screen voters from observation when marking ballot-papers</catchphrase>
-<catchphrase "id=c2">whether application relating to prospective future refusal of voter to enter booth as provided at last election gives rise to a 'matter'</catchphrase>
-<catchphrase "id=c3">effect of draft proposed substitute application</catchphrase>
-<catchphrase "id=c4">whether applicant has sufficient material interest</catchphrase>
-<catchphrase "id=c5">obligation to screen voters from observation</catchphrase>
-<catchphrase "id=c6">whether reasonably arguable that obligation requires provision of enclosed booths</catchphrase>
-<catchphrase "id=c7">whether anticipated refusal to vote in non-enclosed booths at next federal election gives rise to justiciable matter</catchphrase>
-<catchphrase "id=c8">procedure</catchphrase>
-<catchphrase "id=c9">electoral law</catchphrase>
+<catchphrase >application to dismiss proceeding</catchphrase>
+<catchphrase >obligation on australian electoral commission to screen voters from observation when marking ballot-papers</catchphrase>
+<catchphrase >whether application relating to prospective future refusal of voter to enter booth as provided at last election gives rise to a 'matter'</catchphrase>
+<catchphrase >effect of draft proposed substitute application</catchphrase>
+<catchphrase >whether applicant has sufficient material interest</catchphrase>
+<catchphrase >obligation to screen voters from observation</catchphrase>
+<catchphrase >whether reasonably arguable that obligation requires provision of enclosed booths</catchphrase>
+<catchphrase >whether anticipated refusal to vote in non-enclosed booths at next federal election gives rise to justiciable matter</catchphrase>
+<catchphrase >procedure</catchphrase>
+<catchphrase >electoral law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -179,7 +179,7 @@ At 126-127, their Honours continued:
  'However, such a justiciable controversy does not arise unless the person who seeks to challenge the validity of the law has a sufficient interest to do so.</sentence>
 <sentence id="s85">...</sentence>
 <sentence id="s86">The "sufficient material interest" which, being prejudicially affected by a law, founds a cause of action to seek a declaration of invalidity of a law, is not confined to professional or trading interests.</sentence>
-<sentence id="s87">In Pharmaceutical Society of Great Britain v Dickson [1970] AC 403 at 433, cited with approval in Buckley v Tutty [1971] HCA 71 ; (1971) 125 CLR 353 at 381 and in Re Tooth &amp; Co Ltd (1978) 31 FLR 314 at 331; 19 ALR 191 at 206-207 Lord Upjohn said: 
+<sentence id="s87">In Pharmaceutical Society of Great Britain v Dickson [1970] AC 403 at 433, cited with approval in Buckley v Tutty [1971] HCA 71 ; (1971) 125 CLR 353 at 381 and in Re Tooth amp; Co Ltd (1978) 31 FLR 314 at 331; 19 ALR 191 at 206-207 Lord Upjohn said: 
  
  
  "This principle is not confined to trade.</sentence>
@@ -267,4 +267,8 @@ Dated: 19 December 2006
  
  </sentence>
 </sentences>
-</case>
+</case>>/au/cases/cth/FCA/2006/1778.html 
+ 
+ </sentence>
+</sentences>
+</case>>

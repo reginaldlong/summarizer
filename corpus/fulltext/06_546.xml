@@ -3,13 +3,13 @@
 <name>Rangdon Pty Ltd v The Commissioner of Taxation of the Commonwealth of Australia [2006] FCA 546 (12 May 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/546.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal</catchphrase>
-<catchphrase "id=c1">whether assessment excessive</catchphrase>
-<catchphrase "id=c2">whether applicant can adopt facts stated by respondent without production of evidence and without respondent's concurrence</catchphrase>
-<catchphrase "id=c3">effect of adoption to confine appeal to issues of compliance with statutory preconditions</catchphrase>
-<catchphrase "id=c4">applicant not discharging burden of proof</catchphrase>
-<catchphrase "id=c5">respondent entitled to grant of motion for summary dismissal if non-compliance with discovery order</catchphrase>
-<catchphrase "id=c6">taxation</catchphrase>
+<catchphrase >appeal</catchphrase>
+<catchphrase >whether assessment excessive</catchphrase>
+<catchphrase >whether applicant can adopt facts stated by respondent without production of evidence and without respondent's concurrence</catchphrase>
+<catchphrase >effect of adoption to confine appeal to issues of compliance with statutory preconditions</catchphrase>
+<catchphrase >applicant not discharging burden of proof</catchphrase>
+<catchphrase >respondent entitled to grant of motion for summary dismissal if non-compliance with discovery order</catchphrase>
+<catchphrase >taxation</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -78,9 +78,9 @@ The reasons given for the making of the decision were, firstly, that the contrib
 <sentence id="s27">In [18]---[29] the statement recited the facts of the notice of objection and the objection decision.</sentence>
 <sentence id="s28">On the assumption that the facts recounted were the relevant facts, the respondent stated that the issues arising on the appeal are:
  
- &#8226; Whether the applicant is entitled to a deduction, pursuant to s 8 - 1 of the ITAA 97, for all or any part of the amount of $200 000.</sentence>
-<sentence id="s29">&#8226; Whether, by reason of Pt IVA of the ITAA 36, the amount of $200 000 is not allowable to the applicant.</sentence>
-<sentence id="s30">&#8226; Whether the amount of additional tax by way of penalty was correctly imposed.</sentence>
+ #8226; Whether the applicant is entitled to a deduction, pursuant to s 8 - 1 of the ITAA 97, for all or any part of the amount of $200 000.</sentence>
+<sentence id="s29">#8226; Whether, by reason of Pt IVA of the ITAA 36, the amount of $200 000 is not allowable to the applicant.</sentence>
+<sentence id="s30">#8226; Whether the amount of additional tax by way of penalty was correctly imposed.</sentence>
 <sentence id="s31">
 
 10 Under the heading 'Contentions' the respondent signified that he wishes to assert that the applicant, firstly, did not incur a loss or outgoing, within the meaning of s 8 - 1 of the ITAA 97 in the amount of $200 000 or any lesser sum in subscribing to employer units, and certain alternative related propositions.</sentence>
@@ -335,7 +335,7 @@ Dated: 12 May 2006
 
  Counsel for the Applicant: K Robson 
  
- Solicitor for the Applicant: Wilson &amp; Atkinson 
+ Solicitor for the Applicant: Wilson amp; Atkinson 
  
  Counsel for the Respondent: D Harding 
  
@@ -353,4 +353,8 @@ Dated: 12 May 2006
  
  </sentence>
 </sentences>
-</case>
+</case>ase>546.html 
+ 
+ </sentence>
+</sentences>
+</case>ase>

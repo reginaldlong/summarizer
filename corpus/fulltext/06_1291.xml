@@ -3,13 +3,13 @@
 <name>Macquarie Underwriting Pty Ltd v Permanent Custodians Limited [2006] FCA 1291 (28 September 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1291.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for leave to appeal decision to join insurers to proceedings pursuant to s 6 of the law reform (miscellaneous provisions) act 1946 (nsw)</catchphrase>
-<catchphrase "id=c1">submission of complete defence under policies</catchphrase>
-<catchphrase "id=c2">sufficient doubt as to whether construction of first policy reasonably arguable</catchphrase>
-<catchphrase "id=c3">sufficient doubt as to whether reasonably arguable that insurers not entitled to rely on exclusion clause in second policy</catchphrase>
-<catchphrase "id=c4">whether exclusion clause a "disclosure" clause for the purposes of s 33 of the insurance contracts act 1984 (cth)</catchphrase>
-<catchphrase "id=c5">leave to appeal granted</catchphrase>
-<catchphrase "id=c6">insurance</catchphrase>
+<catchphrase >application for leave to appeal decision to join insurers to proceedings pursuant to s 6 of the law reform (miscellaneous provisions) act 1946 (nsw)</catchphrase>
+<catchphrase >submission of complete defence under policies</catchphrase>
+<catchphrase >sufficient doubt as to whether construction of first policy reasonably arguable</catchphrase>
+<catchphrase >sufficient doubt as to whether reasonably arguable that insurers not entitled to rely on exclusion clause in second policy</catchphrase>
+<catchphrase >whether exclusion clause a "disclosure" clause for the purposes of s 33 of the insurance contracts act 1984 (cth)</catchphrase>
+<catchphrase >leave to appeal granted</catchphrase>
+<catchphrase >insurance</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -80,17 +80,9 @@
  
  
  
- &#8226; first made, threatened or intimated against or to You prior to the Insurance Period ; or 
+ #8226; first made, threatened or intimated against or to You prior to the Insurance Period ; or 
  
- &#8226; arising from any matter disclosed or notified to Us or any other insurer prior to the Insurance Period as being either a Claim or claim, or circumstances which might result in a Claim or claim; or 
- 
- 
- 
- 
- 
- 
- 
- &#8226; arising from any litigation or Inquiry that was in progress or pending prior to the Insurance Period ; or 
+ #8226; arising from any matter disclosed or notified to Us or any other insurer prior to the Insurance Period as being either a Claim or claim, or circumstances which might result in a Claim or claim; or 
  
  
  
@@ -98,7 +90,15 @@
  
  
  
- &#8226; arising from circumstances of which You were aware prior to the Insurance Period and which You , or a person in Your position, ought reasonably to have realised to be circumstances which might result in a Claim or claim.</sentence>
+ #8226; arising from any litigation or Inquiry that was in progress or pending prior to the Insurance Period ; or 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ #8226; arising from circumstances of which You were aware prior to the Insurance Period and which You , or a person in Your position, ought reasonably to have realised to be circumstances which might result in a Claim or claim.</sentence>
 <sentence id="s39">' 
  
  
@@ -110,23 +110,23 @@
  
  'For the purposes of Exclusion 4.1 a "claim" includes, but is not limited to: 
  
- &#8226; a demand for compensation or damages; or 
+ #8226; a demand for compensation or damages; or 
  
  
  
- &#8226; an assertion of a right or entitlement to compensation, damages or other legal relief; or 
+ #8226; an assertion of a right or entitlement to compensation, damages or other legal relief; or 
  
  
  
- &#8226; an assertion, allegation or complaint of a breach of professional duty; 
+ #8226; an assertion, allegation or complaint of a breach of professional duty; 
  
  
  
- &#8226; an assertion, allegation or complaint of any act or omission causing or potentially causing loss or damage; or 
+ #8226; an assertion, allegation or complaint of any act or omission causing or potentially causing loss or damage; or 
  
  
  
- &#8226; an intention to seek compensation, damages or other legal relief.</sentence>
+ #8226; an intention to seek compensation, damages or other legal relief.</sentence>
 <sentence id="s41">' 
  
  
@@ -205,7 +205,7 @@ Dated: 28 September 2006
 
  Counsel for the Applicants: I D Faulkner SC and N J Kidd 
  
- Solicitor for the Applicants: Colin Biggers &amp; Paisley 
+ Solicitor for the Applicants: Colin Biggers amp; Paisley 
  
  Counsel for the First Respondent: I Griscti 
  
@@ -226,4 +226,10 @@ Dated: 28 September 2006
  
  </sentence>
 </sentences>
+</case>s>
+</case>ml 
+ 
+ </sentence>
+</sentences>
+</case>s>
 </case>

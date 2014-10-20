@@ -3,21 +3,21 @@
 <name>Phan v Kelly [2007] FCA 269 (6 March 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/269.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">health insurance act 1973 (cth)</catchphrase>
-<catchphrase "id=c1">professional services review</catchphrase>
-<catchphrase "id=c2">statutory scheme for examination of conduct to ascertain whether inappropriate practice involved</catchphrase>
-<catchphrase "id=c3">challenge to decisions of director and committee</catchphrase>
-<catchphrase "id=c4">whether director erred in referral to committee by failing to notify applicant he had taken evidence from two medical advisors into account</catchphrase>
-<catchphrase "id=c5">whether director erred by attaching samples of medical reports to his referral</catchphrase>
-<catchphrase "id=c6">whether committee erred by taking reports into account</catchphrase>
-<catchphrase "id=c7">application of procedural fairness procedures in context of staged statutory procedure</catchphrase>
-<catchphrase "id=c8">whether committee erred by adopting alternative sampling methodology in decision-making process</catchphrase>
-<catchphrase "id=c9">whether committee should have notified the applicant that an alternative methodology had been adopted</catchphrase>
-<catchphrase "id=c10">application of judicial immunity</catchphrase>
-<catchphrase "id=c11">whether advice given by statistician as to statistical validity of methodology is part of decision-making process</catchphrase>
-<catchphrase "id=c12">whether statistician is agent of the committee</catchphrase>
-<catchphrase "id=c13">application dismissed.</catchphrase>
-<catchphrase "id=c14">administrative law</catchphrase>
+<catchphrase >health insurance act 1973 (cth)</catchphrase>
+<catchphrase >professional services review</catchphrase>
+<catchphrase >statutory scheme for examination of conduct to ascertain whether inappropriate practice involved</catchphrase>
+<catchphrase >challenge to decisions of director and committee</catchphrase>
+<catchphrase >whether director erred in referral to committee by failing to notify applicant he had taken evidence from two medical advisors into account</catchphrase>
+<catchphrase >whether director erred by attaching samples of medical reports to his referral</catchphrase>
+<catchphrase >whether committee erred by taking reports into account</catchphrase>
+<catchphrase >application of procedural fairness procedures in context of staged statutory procedure</catchphrase>
+<catchphrase >whether committee erred by adopting alternative sampling methodology in decision-making process</catchphrase>
+<catchphrase >whether committee should have notified the applicant that an alternative methodology had been adopted</catchphrase>
+<catchphrase >application of judicial immunity</catchphrase>
+<catchphrase >whether advice given by statistician as to statistical validity of methodology is part of decision-making process</catchphrase>
+<catchphrase >whether statistician is agent of the committee</catchphrase>
+<catchphrase >application dismissed.</catchphrase>
+<catchphrase >administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -144,10 +144,10 @@
 <sentence id="s83">25 In its final report, the Committee found at [36] that Dr Phan had engaged in inappropriate practise in rendering 47 of the 80 services examined because he:
  
  
- &#8226; failed to take an adequate history and/or perform an adequate examination of his patients;
- &#8226; failed to implement proper management plans;
- &#8226; prescribed drugs as an alternative to proper investigation of the patients' symptoms; and
- &#8226; prescribed drugs when they were not clinically indicated.</sentence>
+ #8226; failed to take an adequate history and/or perform an adequate examination of his patients;
+ #8226; failed to implement proper management plans;
+ #8226; prescribed drugs as an alternative to proper investigation of the patients' symptoms; and
+ #8226; prescribed drugs when they were not clinically indicated.</sentence>
 <sentence id="s84">
  
 
@@ -315,13 +315,13 @@
  From the information supplied I note: 
  
  
- &#8226; From the 17,970 item 23 services a random sample of 84 services have been examined (with 4 services being disregarded due to no records).</sentence>
+ #8226; From the 17,970 item 23 services a random sample of 84 services have been examined (with 4 services being disregarded due to no records).</sentence>
 <sentence id="s186">The Committee found that of the remaining 80 services, 69 or 86% (rounded down) were considered inappropriate.</sentence>
 <sentence id="s187">
  
  
  
- &#8226; Applying appropriate statistical techniques it can be shown that we can be 95% confident that the true percentage of inappropriate practice lies between 86% + 8%, that is the lower 95% confident limit is 78%.</sentence>
+ #8226; Applying appropriate statistical techniques it can be shown that we can be 95% confident that the true percentage of inappropriate practice lies between 86% + 8%, that is the lower 95% confident limit is 78%.</sentence>
 <sentence id="s188">This value (78%) is to be chosen as the level of inappropriate practice (rather than 86%).</sentence>
 <sentence id="s189">
  
@@ -467,7 +467,7 @@ Dated: 6 March 2007
  
  Solicitor for the Respondents: Minter Ellison Lawyers 
  
- Date of Hearing: 18 &amp; 19 December 2006 
+ Date of Hearing: 18 amp; 19 December 2006 
  
  Date of Judgment: 6 March 2007 
  
@@ -479,4 +479,9 @@ Dated: 6 March 2007
  
  </sentence>
 </sentences>
-</case>
+</case></case>ck 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/269.html 
+ 
+ </sentence>
+</sentences>
+</case></case>

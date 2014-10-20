@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <case>
-<name>SZCZM v Minister for Immigration &amp; Multicultural Affairs [2006] FCA 1432 (10 November 2006)</name>
+<name>SZCZM v Minister for Immigration amp; Multicultural Affairs [2006] FCA 1432 (10 November 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1432.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal dismissed</catchphrase>
-<catchphrase "id=c1">costs as a gross amount sought but not ordered.</catchphrase>
-<catchphrase "id=c2">migration</catchphrase>
+<catchphrase >appeal dismissed</catchphrase>
+<catchphrase >costs as a gross amount sought but not ordered.</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -151,4 +151,5 @@ Dated: 10 November 2006
  
  </sentence>
 </sentences>
-</case>
+</case>></sentences>
+</case>>

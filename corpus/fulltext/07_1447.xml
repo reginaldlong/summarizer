@@ -3,15 +3,15 @@
 <name>Irani v Hollyburton UK Limited [2007] FCA 1447 (14 September 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1447.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">bankruptcy notices</catchphrase>
-<catchphrase "id=c1">circumstances where notice substantially complies with requirements of relevant legislation</catchphrase>
-<catchphrase "id=c2">whether requirement made essential by the act</catchphrase>
-<catchphrase "id=c3">principles to be applied</catchphrase>
-<catchphrase "id=c4">application of principles set out by the high court in adams v lambert</catchphrase>
-<catchphrase "id=c5">bankruptcy act 1966 (cth), ss 41(2) and 306 (1)</catchphrase>
-<catchphrase "id=c6">bankruptcy regulations 1996 (cth), reg 4.02</catchphrase>
-<catchphrase "id=c7">acts interpretation act 1901 (cth), s 25c</catchphrase>
-<catchphrase "id=c8">bankruptcy</catchphrase>
+<catchphrase >bankruptcy notices</catchphrase>
+<catchphrase >circumstances where notice substantially complies with requirements of relevant legislation</catchphrase>
+<catchphrase >whether requirement made essential by the act</catchphrase>
+<catchphrase >principles to be applied</catchphrase>
+<catchphrase >application of principles set out by the high court in adams v lambert</catchphrase>
+<catchphrase >bankruptcy act 1966 (cth), ss 41(2) and 306 (1)</catchphrase>
+<catchphrase >bankruptcy regulations 1996 (cth), reg 4.02</catchphrase>
+<catchphrase >acts interpretation act 1901 (cth), s 25c</catchphrase>
+<catchphrase >bankruptcy</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -247,12 +247,12 @@ Neither party contended before me that these observations of his Honour were ina
 <sentence id="s55">In my view, the Notice does provide an equivalent to the required details of the calculation of the interest claimed as is necessary and prescribed, in the unusual circumstances surrounding the Notice.</sentence>
 <sentence id="s56">19 The following information is contained in or can be derived from the Notice:
  
- &#8226; The 2003 Orders were made on 12 June 2003 in the amount of $569,589.65 which was the principal sum of the final judgment debt.</sentence>
-<sentence id="s57">&#8226; Interest which accrued since the date of the 2003 Orders was claimed pursuant to s 101(1) of the Supreme Court Act 1986 (Vic) ('the Supreme Court Act ').</sentence>
-<sentence id="s58">&#8226; Interest was determined by the Supreme Court of Victoria on the basis of the rate set by the Penalty Interest Rates Act 1983 (Vic) ('the PIR Act') from the date of the 2003 Orders to 11 October 2006.</sentence>
-<sentence id="s59">&#8226; The 2006 Orders were made on 31 October 2006 and the sum of $619,757.22 remained payable by the appellant to the respondent as at 11 October 2006.</sentence>
-<sentence id="s60">&#8226; The sum of $619,757.22 included the interest claimed in the sum of $190,167.57 pursuant to the PIR Act and according to the calculation made by the binding determination of the Supreme Court of Victoria.</sentence>
-<sentence id="s61">&#8226; No further interest was claimed.</sentence>
+ #8226; The 2003 Orders were made on 12 June 2003 in the amount of $569,589.65 which was the principal sum of the final judgment debt.</sentence>
+<sentence id="s57">#8226; Interest which accrued since the date of the 2003 Orders was claimed pursuant to s 101(1) of the Supreme Court Act 1986 (Vic) ('the Supreme Court Act ').</sentence>
+<sentence id="s58">#8226; Interest was determined by the Supreme Court of Victoria on the basis of the rate set by the Penalty Interest Rates Act 1983 (Vic) ('the PIR Act') from the date of the 2003 Orders to 11 October 2006.</sentence>
+<sentence id="s59">#8226; The 2006 Orders were made on 31 October 2006 and the sum of $619,757.22 remained payable by the appellant to the respondent as at 11 October 2006.</sentence>
+<sentence id="s60">#8226; The sum of $619,757.22 included the interest claimed in the sum of $190,167.57 pursuant to the PIR Act and according to the calculation made by the binding determination of the Supreme Court of Victoria.</sentence>
+<sentence id="s61">#8226; No further interest was claimed.</sentence>
 <sentence id="s62">
 
 20 It is true that in the document attached to the Notice the principal sum on which the interest is claimed is not separately identified (although it can be easily derived from the information available), and no actual rate of interest is identified other than by reference to the Supreme Court Act and the PIR Act .</sentence>
@@ -374,10 +374,10 @@ Neither party contended before me that these observations of his Honour were ina
 
 29 Before me, the appellant contended that the calculation of interest requirement is made essential by the Act because: 
  
- &#8226; the purpose of the requirement is to enable the debtor to verify that the amount claimed is in fact due;
- &#8226; the information required to be provided (namely an interest calculation) is of far greater importance than the requirement under consideration in Adams [2006] HCA 10 ; 225 ALR 396 (to give a precise identification of the provision under which interest is claimed);
- &#8226; in the usual case, the omission has the potential to "reasonably mislead a debtor as to what is necessary to comply with the notice" --- in the event of an overstatement, the debtor is entitled to pay the actual amount of the debt and not the overstated amount;
- &#8226; in the usual case the omission has the potential to prejudice the debtor's ability to exercise rights under s 41(5) --- in the event of an overstatement, a notice of overstatement must give sufficient information for the creditor to identify what is said to be alleged misstatement.</sentence>
+ #8226; the purpose of the requirement is to enable the debtor to verify that the amount claimed is in fact due;
+ #8226; the information required to be provided (namely an interest calculation) is of far greater importance than the requirement under consideration in Adams [2006] HCA 10 ; 225 ALR 396 (to give a precise identification of the provision under which interest is claimed);
+ #8226; in the usual case, the omission has the potential to "reasonably mislead a debtor as to what is necessary to comply with the notice" --- in the event of an overstatement, the debtor is entitled to pay the actual amount of the debt and not the overstated amount;
+ #8226; in the usual case the omission has the potential to prejudice the debtor's ability to exercise rights under s 41(5) --- in the event of an overstatement, a notice of overstatement must give sufficient information for the creditor to identify what is said to be alleged misstatement.</sentence>
 <sentence id="s131">
 
 30 Each of the above submissions is presented in the abstract and without consideration of the basis of the claim for interest in the Notice.</sentence>
@@ -385,10 +385,10 @@ Neither party contended before me that these observations of his Honour were ina
 <sentence id="s133">The task I have is to consider the legislative purpose of the Act and make "an evaluation of the significance or importance of the error or deficiency in the circumstances of the case".</sentence>
 <sentence id="s134">Assuming that the Notice does not comply (substantially or otherwise) with the requirement to give details of the calculation of the amount of interest, or fails to specify the actual interest rates over the relevant period, in my view it is not an essential requirement of the Act that such details be provided having regard to the following particular circumstances of this case:
  
- &#8226; there is and can be no dispute about the amount of interest claimed, 
- &#8226; an order of the Supreme Court of Victoria binding on the debtor has determined (and calculated) the amount of interest claimed, 
- &#8226; the Notice accurately sets out the basis of the claim for interest, namely pursuant to the Supreme Court Act , and has been determined (and calculated) by the Supreme Court of Victoria in the 2006 Orders, and 
- &#8226; there is (and can be) no suggestion that any interest is claimed in the Notice itself otherwise than as set out therein.</sentence>
+ #8226; there is and can be no dispute about the amount of interest claimed, 
+ #8226; an order of the Supreme Court of Victoria binding on the debtor has determined (and calculated) the amount of interest claimed, 
+ #8226; the Notice accurately sets out the basis of the claim for interest, namely pursuant to the Supreme Court Act , and has been determined (and calculated) by the Supreme Court of Victoria in the 2006 Orders, and 
+ #8226; there is (and can be) no suggestion that any interest is claimed in the Notice itself otherwise than as set out therein.</sentence>
 <sentence id="s135">
 
 31 I cannot envisage that the legislative purpose of the Act would be served by concluding that the failure to adhere to the form in the way alleged by the appellant would lead to the Notice being a nullity.</sentence>
@@ -490,7 +490,7 @@ Dated: 14 September 2007
  
  Counsel for the Respondent: M Biviano 
  
- Solicitor for the Respondent: Erica Strugnell &amp; Associates 
+ Solicitor for the Respondent: Erica Strugnell amp; Associates 
  
  Date of Hearing: 30 May 2007 
  
@@ -504,4 +504,10 @@ Dated: 14 September 2007
  
  </sentence>
 </sentences>
+</case>tences>
+</case>7/1447.html 
+ 
+ </sentence>
+</sentences>
+</case>tences>
 </case>

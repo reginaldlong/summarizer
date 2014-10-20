@@ -3,12 +3,12 @@
 <name>ThoughtWeb Systems Pty Limited v Loughnan (No. 2) [2006] FCA 432 (11 April 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/432.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">implied undertaking in relation to documents produced in proceedings</catchphrase>
-<catchphrase "id=c1">where respondents sought to use documents against applicant company in proposed winding up application</catchphrase>
-<catchphrase "id=c2">whether release from undertaking appropriate</catchphrase>
-<catchphrase "id=c3">whether special circumstances</catchphrase>
-<catchphrase "id=c4">whether winding up application an abuse of process.</catchphrase>
-<catchphrase "id=c5">contempt of court</catchphrase>
+<catchphrase >implied undertaking in relation to documents produced in proceedings</catchphrase>
+<catchphrase >where respondents sought to use documents against applicant company in proposed winding up application</catchphrase>
+<catchphrase >whether release from undertaking appropriate</catchphrase>
+<catchphrase >whether special circumstances</catchphrase>
+<catchphrase >whether winding up application an abuse of process.</catchphrase>
+<catchphrase >contempt of court</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -282,7 +282,7 @@ Later, in a passage which has subsequently been cited, e.g., see EMI Resources L
 <sentence id="s117">It is relevant to note only that the obligation enforceable as an undertaking to the Court in the case of a curial order is not unqualified.</sentence>
 <sentence id="s118">' 
  
- 19 In Halcon International Inc v Shell Transport &amp; Trading Co .</sentence>
+ 19 In Halcon International Inc v Shell Transport amp; Trading Co .</sentence>
 <sentence id="s119">[1979] RPC 97, Whitford J stated (at 109 --- 110) that: 
  
  'However, these authorities to my mind, lead to this conclusion, that the use of a document disclosed in a proceeding in some other context, or even in another proceeding between the same parties in the same jurisdiction, is an abuse of process unless there are very strong grounds for making an exception to the general rule.</sentence>
@@ -371,7 +371,7 @@ Later, in a passage which has subsequently been cited, e.g., see EMI Resources L
 And then at [10] and [11] at 319, 320:
  
  '10.</sentence>
-<sentence id="s161">In CVC Investments Pty Ltd v P &amp; T Aviation Pty Ltd (1989) 18 NSWLR 295, however, Cohen J came to a different conclusion.</sentence>
+<sentence id="s161">In CVC Investments Pty Ltd v P amp; T Aviation Pty Ltd (1989) 18 NSWLR 295, however, Cohen J came to a different conclusion.</sentence>
 <sentence id="s162">He did so in a case of some complexity.</sentence>
 <sentence id="s163">It appears that the winding up applications were made on the basis of presumed insolvency.</sentence>
 <sentence id="s164">However, the question of actual insolvency was also considered (at 299 and 303), though without concluding there was a situation of actual insolvency.</sentence>
@@ -477,4 +477,8 @@ Dated: 21 April 2006
  
  </sentence>
 </sentences>
-</case>
+</case>e>tml 
+ 
+ </sentence>
+</sentences>
+</case>e>

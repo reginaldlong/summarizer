@@ -3,13 +3,13 @@
 <name>Tomkins v CASA [2006] FCA 1253 (21 September 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1253.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">review of decision to revoke delegation of casa function</catchphrase>
-<catchphrase "id=c1">decision not reviewable in the aat</catchphrase>
-<catchphrase "id=c2">delegation used in conjunction with authorisations in aviation business</catchphrase>
-<catchphrase "id=c3">decisions concerning the delegate's aviation authorisations subject to stay order by the aat</catchphrase>
-<catchphrase "id=c4">whether aat's decision a relevant consideration not taken into account</catchphrase>
-<catchphrase "id=c5">whether declaration to that effect may have utility where delegation expired</catchphrase>
-<catchphrase "id=c6">administrative law</catchphrase>
+<catchphrase >review of decision to revoke delegation of casa function</catchphrase>
+<catchphrase >decision not reviewable in the aat</catchphrase>
+<catchphrase >delegation used in conjunction with authorisations in aviation business</catchphrase>
+<catchphrase >decisions concerning the delegate's aviation authorisations subject to stay order by the aat</catchphrase>
+<catchphrase >whether aat's decision a relevant consideration not taken into account</catchphrase>
+<catchphrase >whether declaration to that effect may have utility where delegation expired</catchphrase>
+<catchphrase >administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -80,13 +80,13 @@
  
  11 The Tribunal considered three matters as relevant to the question whether a stay ought to be ordered of each of the decisions in question: 
  
- &#8226; The prospects of success of the applications for review of the decisions; 
+ #8226; The prospects of success of the applications for review of the decisions; 
  
  
- &#8226; The hardship to the applicant and other parties affected by the decision if the stay orders are not made; 
+ #8226; The hardship to the applicant and other parties affected by the decision if the stay orders are not made; 
  
  
- &#8226; Whether public safety is likely to be imperilled if the stay orders are made.</sentence>
+ #8226; Whether public safety is likely to be imperilled if the stay orders are made.</sentence>
 <sentence id="s47">
 
 
@@ -317,4 +317,8 @@ Dated: 21 September 2006
  
  </sentence>
 </sentences>
-</case>
+</case>se>1253.html 
+ 
+ </sentence>
+</sentences>
+</case>se>

@@ -3,20 +3,20 @@
 <name>Lactos Fresh Pty Ltd v Finishing Services Pty Ltd (No 2) [2006] FCA 748 (15 June 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/748.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">action for money had and received on the basis of compulsion</catchphrase>
-<catchphrase "id=c1">whether action adequately pleaded by referring to factual background and "unjust enrichment"</catchphrase>
-<catchphrase "id=c2">relevance of "windfall" benefit to applicant if restitution ordered</catchphrase>
-<catchphrase "id=c3">whether threat to evict tenant, when landlord has no right under lease to do so, constitutes compulsion</catchphrase>
-<catchphrase "id=c4">whether compulsion can be established if interlocutory injunctive relief available</catchphrase>
-<catchphrase "id=c5">application for leave to amend pleading after judgment given but before final orders pronounced</catchphrase>
-<catchphrase "id=c6">whether pleading could have been amended at an earlier stage</catchphrase>
-<catchphrase "id=c7">relevance of strength of case</catchphrase>
-<catchphrase "id=c8">costs</catchphrase>
-<catchphrase "id=c9">whether costs should be apportioned when applicant successful upon only one of many claims</catchphrase>
-<catchphrase "id=c10">whether second respondent entitled to indemnity costs</catchphrase>
-<catchphrase "id=c11">restitution</catchphrase>
-<catchphrase "id=c12">practice and procedure</catchphrase>
-<catchphrase "id=c13">practice and procedure</catchphrase>
+<catchphrase >action for money had and received on the basis of compulsion</catchphrase>
+<catchphrase >whether action adequately pleaded by referring to factual background and "unjust enrichment"</catchphrase>
+<catchphrase >relevance of "windfall" benefit to applicant if restitution ordered</catchphrase>
+<catchphrase >whether threat to evict tenant, when landlord has no right under lease to do so, constitutes compulsion</catchphrase>
+<catchphrase >whether compulsion can be established if interlocutory injunctive relief available</catchphrase>
+<catchphrase >application for leave to amend pleading after judgment given but before final orders pronounced</catchphrase>
+<catchphrase >whether pleading could have been amended at an earlier stage</catchphrase>
+<catchphrase >relevance of strength of case</catchphrase>
+<catchphrase >costs</catchphrase>
+<catchphrase >whether costs should be apportioned when applicant successful upon only one of many claims</catchphrase>
+<catchphrase >whether second respondent entitled to indemnity costs</catchphrase>
+<catchphrase >restitution</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -165,7 +165,7 @@
 <sentence id="s95">There is no other basis upon which I could grant the declaratory relief sought.</sentence>
 <sentence id="s96">29 As I said in the primary judgment when considering the application of the applicant to amend its pleading following the close of evidence, the strength of the case, in relation to the proposed amendment, is a relevant consideration when determining whether to grant leave to amend.</sentence>
 <sentence id="s97">I do not consider that the first respondent's proposed cross-claim has strong prospects of success.</sentence>
-<sentence id="s98">30 In addition to United Scientific Holdings , the first respondent relies upon the decision of the New South Wales Court of Appeal in GR Mailman &amp; Associates Pty Ltd v Wormald (Aust) Pty Ltd (1991) 24 NSWLR 80 per Gleeson CJ as authority for the proposition that time is presumed not to be of the essence in relation to the right to invoke a rent review.</sentence>
+<sentence id="s98">30 In addition to United Scientific Holdings , the first respondent relies upon the decision of the New South Wales Court of Appeal in GR Mailman amp; Associates Pty Ltd v Wormald (Aust) Pty Ltd (1991) 24 NSWLR 80 per Gleeson CJ as authority for the proposition that time is presumed not to be of the essence in relation to the right to invoke a rent review.</sentence>
 <sentence id="s99">These cases acknowledge that the presumption is rebuttable by sufficient "contra-indications" in the lease itself or the surrounding circumstances.</sentence>
 <sentence id="s100">31 There plainly is such a "contra-indication" in the lease.</sentence>
 <sentence id="s101">Clause 3.2.3 provides:
@@ -457,11 +457,11 @@
  
  "Historically, restitutionary relief was provided by courts of common law, although equitable principles played an important part in moulding the action.</sentence>
 <sentence id="s274">The basis of the claim for money had and received was articulated in the 18 th century by Lord Mansfield in Moses v. Macferlan .</sentence>
-<sentence id="s275">I will deal later with what his Lordship relevantly said in that regard, but for present purposes it is sufficient to mention what is said in the third edition of Bullen &amp; Leake's Precedents of Pleadings about the gist of the action, namely, that a claim for money had and received is "the most comprehensive of all common counts [and is] applicable wherever the defendant has received money which in justice and equity belongs to the plaintiff, under circumstances which render the receipt of it a receipt by the defendant to the use of the plaintiff.</sentence>
+<sentence id="s275">I will deal later with what his Lordship relevantly said in that regard, but for present purposes it is sufficient to mention what is said in the third edition of Bullen amp; Leake's Precedents of Pleadings about the gist of the action, namely, that a claim for money had and received is "the most comprehensive of all common counts [and is] applicable wherever the defendant has received money which in justice and equity belongs to the plaintiff, under circumstances which render the receipt of it a receipt by the defendant to the use of the plaintiff.</sentence>
 <sentence id="s276">"" (footnotes removed)
  
 
-88 In Pavey &amp; Matthews Pty Ltd v Paul [1987] HCA 5 ; (1987) 162 CLR 221, the High Court rejected implied contract as the theoretical basis for claims in restitution.</sentence>
+88 In Pavey amp; Matthews Pty Ltd v Paul [1987] HCA 5 ; (1987) 162 CLR 221, the High Court rejected implied contract as the theoretical basis for claims in restitution.</sentence>
 <sentence id="s277">Instead, Deane J, with whom Mason and Wilson JJ generally agreed, stated (at 256-7):
  
  "unjust enrichment ... constitutes a unifying legal concept which explains why the law recognizes, in a variety of distinct categories of case , an obligation on the part of a defendant to make fair and just restitution for a benefit derived at the expense of a plaintiff and which assists in the determination, by ordinary processes of legal reasoning, of the question whether the law should, in justice, recognize such an obligation in a new or developing category of case ... " (emphasis added)
@@ -469,7 +469,7 @@
 
 89 The recognition of a "unifying legal concept" does not, however, render the traditional categories of restitutionary claims, such as the action for money had and received, null and void.</sentence>
 <sentence id="s278">On the contrary, in recent years the High Court, and superior State courts, have chosen to frame claims in restitution within the bounds of these established categories.</sentence>
-<sentence id="s279">See Roxborough v Rothmans of Pall Mall Australia Limited [2001] HCA 68 ; (2001) 208 CLR 516, Baltic Shipping Company v Dillon [1993] HCA 4 ; (1993) 176 CLR 344, David Securities , Pavey &amp; Matthews , Ovidio , McKay (referring to Mason v New South Wales ), and Vickery v JJP Custodians Pty Ltd (2002) 11 BPR 20,333.</sentence>
+<sentence id="s279">See Roxborough v Rothmans of Pall Mall Australia Limited [2001] HCA 68 ; (2001) 208 CLR 516, Baltic Shipping Company v Dillon [1993] HCA 4 ; (1993) 176 CLR 344, David Securities , Pavey amp; Matthews , Ovidio , McKay (referring to Mason v New South Wales ), and Vickery v JJP Custodians Pty Ltd (2002) 11 BPR 20,333.</sentence>
 <sentence id="s280">90 Roxborough is the most recent High Court case dealing with a claim for restitution.</sentence>
 <sentence id="s281">In that case, five out of six judges referred to the instances identified by Lord Mansfield in Moses v Macferlan where an action for money had and received was recognised to arise.</sentence>
 <sentence id="s282">Gleeson CJ, Gaudron and Hayne J noted (at [15]) that Mason and Carter:
@@ -478,7 +478,7 @@
 <sentence id="s283">" (footnote omitted)
  
 
-91 Despite Deane J's overture in Pavey &amp; Matthews that "unjust enrichment" assists in determining whether the law should recognise new categories of restitution, in David Securities , the majority (Mason CJ, Deane Toohey, Gaudron and McHugh JJ) noted that (at 379):
+91 Despite Deane J's overture in Pavey amp; Matthews that "unjust enrichment" assists in determining whether the law should recognise new categories of restitution, in David Securities , the majority (Mason CJ, Deane Toohey, Gaudron and McHugh JJ) noted that (at 379):
  
  "it is not legitimate to determine whether an enrichment is unjust by reference to some subjective evaluation of what is fair or unconscionable.</sentence>
 <sentence id="s284">Instead, recovery depends upon the existence of a qualifying or vitiating factor such as mistake, duress or illegality.</sentence>
@@ -556,7 +556,7 @@
 <sentence id="s338">In those circumstances, it can hardly be said that the first respondent would have a claim against the applicant for use and occupation of the premises.</sentence>
 <sentence id="s339">107 I do not accept the first respondent's "fall back" submission that I should determine what the "reasonable rent" would have been, and only order restitution of any amount that the applicant has paid over that sum.</sentence>
 <sentence id="s340">The amount by which it would have been "reasonable" to increase the rent is not relevant in these circumstances.</sentence>
-<sentence id="s341">As Deane J stated in Pavey &amp; Matthews (at 256), restitution does not provide "judicial discretion to do whatever idiosyncratic notions of what is fair and just might dictate".</sentence>
+<sentence id="s341">As Deane J stated in Pavey amp; Matthews (at 256), restitution does not provide "judicial discretion to do whatever idiosyncratic notions of what is fair and just might dictate".</sentence>
 <sentence id="s342">108 The real question is what was the applicant was obliged to pay under the lease?</sentence>
 <sentence id="s343">While the applicant did make an offer to pay increased rent by reference to an independent assessment, the first respondent rejected that offer.</sentence>
 <sentence id="s344">It did so on the assumption that it was entitled to a higher rent.</sentence>
@@ -599,9 +599,9 @@
 114 The applicant and first respondent are in dispute over the exact amount of money which was overpaid.</sentence>
 <sentence id="s369">The dispute surrounds three issues:
  
- &#8226; whether interest can be claimed on the GST component of the overpaid rent when the applicant would have received an "input tax credit" from the Australian Taxation Office for those sums;
- &#8226; whether the appropriate interest rate to be applied to the overpaid rent is the penalty rate or the business overdraft rate as specified by the Reserve Bank of Australia; and
- &#8226; whether the first respondent was entitled to an automatic increase in rent of three per cent on 1 September 2005, pursuant to clause 3.2.1, irrespective of whether it has served a notice under that clause.</sentence>
+ #8226; whether interest can be claimed on the GST component of the overpaid rent when the applicant would have received an "input tax credit" from the Australian Taxation Office for those sums;
+ #8226; whether the appropriate interest rate to be applied to the overpaid rent is the penalty rate or the business overdraft rate as specified by the Reserve Bank of Australia; and
+ #8226; whether the first respondent was entitled to an automatic increase in rent of three per cent on 1 September 2005, pursuant to clause 3.2.1, irrespective of whether it has served a notice under that clause.</sentence>
 <sentence id="s370">
 
 115 Section 51A(1)(a) of the Federal Court Act 1976 (Cth) provides significant discretion in determining questions relating to the application of interest to any award of money.</sentence>
@@ -786,7 +786,7 @@
 <sentence id="s494">As previously indicated, it waited approximately three weeks, until the final day of the trial, to abandon the claim.</sentence>
 <sentence id="s495">154 The second respondent contends that it was improper to institute the deceit claim in the first place.</sentence>
 <sentence id="s496">It submits that the claim involved an allegation of criminality.</sentence>
-<sentence id="s497">As such, the claim should not have been made without proof to the Briginshaw standard: see White Industries (Qld) Pty Ltd v Flower &amp; Hart (1988) 156 ALR 169 at 241.</sentence>
+<sentence id="s497">As such, the claim should not have been made without proof to the Briginshaw standard: see White Industries (Qld) Pty Ltd v Flower amp; Hart (1988) 156 ALR 169 at 241.</sentence>
 <sentence id="s498">155 In addition, the second respondent invites me to infer that the deceit claim was included for the "ulterior motive" of "poisoning" the Court against the respondents, or to bring pressure upon the respondents to settle.</sentence>
 <sentence id="s499">It submits that the deceit claim was very small, $12,000, compared to the overpaid rent claim, which was in the realm of $700,000.</sentence>
 <sentence id="s500">It contends that therefore, the claim was raised so as to discredit the respondents.</sentence>
@@ -957,7 +957,7 @@ Dated: 15 June 2006
  Counsel for the First Respondent: Mr P.J. O'Callaghan QC with Mr M.S.</sentence>
 <sentence id="s611">Osborne 
  
- Solicitors for the First Respondent: Allen &amp; Allen 
+ Solicitors for the First Respondent: Allen amp; Allen 
  
  Counsel for the Second Respondent: Mr P.J. Cawthorn 
  
@@ -976,4 +976,10 @@ Dated: 15 June 2006
  
  </sentence>
 </sentences>
+</case>es>
+</case>tp://www.austlii.edu.au/au/cases/cth/FCA/2006/748.html 
+ 
+ </sentence>
+</sentences>
+</case>es>
 </case>

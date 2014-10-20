@@ -3,16 +3,16 @@
 <name>Jeremy Jones, and on behalf of the Executive Council of Australian Jewry v The Bible Believers Church [2007] FCA 55 (2 February 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/55.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">racial vilification</catchphrase>
-<catchphrase "id=c1">racial discrimination</catchphrase>
-<catchphrase "id=c2">whether conduct of respondent rendered unlawful by s 18c of the racial discrimination act 1975 (cth)</catchphrase>
-<catchphrase "id=c3">whether publication of material on world wide web reasonably likely to offend, insult, humiliate, or intimidate jewish people in australia</catchphrase>
-<catchphrase "id=c4">whether first respondent has legal personality</catchphrase>
-<catchphrase "id=c5">relief granted against second respondent</catchphrase>
-<catchphrase "id=c6">federal court rules</catchphrase>
-<catchphrase "id=c7">failure of respondent to file a defence</catchphrase>
-<catchphrase "id=c8">human rights and discrimination law</catchphrase>
-<catchphrase "id=c9">practice and procedure</catchphrase>
+<catchphrase >racial vilification</catchphrase>
+<catchphrase >racial discrimination</catchphrase>
+<catchphrase >whether conduct of respondent rendered unlawful by s 18c of the racial discrimination act 1975 (cth)</catchphrase>
+<catchphrase >whether publication of material on world wide web reasonably likely to offend, insult, humiliate, or intimidate jewish people in australia</catchphrase>
+<catchphrase >whether first respondent has legal personality</catchphrase>
+<catchphrase >relief granted against second respondent</catchphrase>
+<catchphrase >federal court rules</catchphrase>
+<catchphrase >failure of respondent to file a defence</catchphrase>
+<catchphrase >human rights and discrimination law</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -348,12 +348,12 @@ Below that appeared reference to the details of the BBC website.</sentence>
 <sentence id="s87">
  
  In particular, you claim that the material conveys that: 
- &#8226; There is serious doubt that the Holocaust occurred; 
- &#8226; It is unlikely that there were homicidal gas chambers at Auschwitz; 
+ #8226; There is serious doubt that the Holocaust occurred; 
+ #8226; It is unlikely that there were homicidal gas chambers at Auschwitz; 
  
  
- &#8226; Jewish people who are offended by and challenge the Holocaust denial are of limited intelligence, and 
- &#8226; Some Jewish people, for improper purposes including financial gain, exaggerated the number of Jews killed during WW II and the circumstances in which they were killed.</sentence>
+ #8226; Jewish people who are offended by and challenge the Holocaust denial are of limited intelligence, and 
+ #8226; Some Jewish people, for improper purposes including financial gain, exaggerated the number of Jews killed during WW II and the circumstances in which they were killed.</sentence>
 <sentence id="s88">
  
  
@@ -361,10 +361,10 @@ Below that appeared reference to the details of the BBC website.</sentence>
  In support of the allegations, you provided extracts from the published material, including that: 
  
  
- &#8226; "We have all seen how the holocaust hoax of six-million Jews claimed to have been gassed and cremated by Germany in World War I failed to deceive the mob in 1919..." 
- &#8226; "...</sentence>
+ #8226; "We have all seen how the holocaust hoax of six-million Jews claimed to have been gassed and cremated by Germany in World War I failed to deceive the mob in 1919..." 
+ #8226; "...</sentence>
 <sentence id="s89">Thus the more the Press, TV and Hollywood promote the holocaust the more money the United Jewish Appeal and other Zionist funds can extract from gullible people..." 
- &#8226; "... Part of fabricated work known as "The Protocols of the Learned Elders of Zion", are reproduced to show that the Jews as a group attempt to use government, control of bans and media to control the world for financial gain" 
+ #8226; "... Part of fabricated work known as "The Protocols of the Learned Elders of Zion", are reproduced to show that the Jews as a group attempt to use government, control of bans and media to control the world for financial gain" 
  
  Summary of Response 
  
@@ -914,7 +914,7 @@ Dated: 2 February 2007
 
  Counsel for the Applicant: Mr RM Goot AM SC and Mr SEJ Prince 
  
- Solicitor for the Applicant: Slater &amp; Gordon Lawyers 
+ Solicitor for the Applicant: Slater amp; Gordon Lawyers 
  
  Second Respondent appeared in person 
  
@@ -934,4 +934,10 @@ Dated: 2 February 2007
  
  </sentence>
 </sentences>
+</case>
+</case>ases/cth/FCA/2007/55.html 
+ 
+ </sentence>
+</sentences>
+</case>
 </case>

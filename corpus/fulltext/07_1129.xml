@@ -3,16 +3,16 @@
 <name>Conlan v Mladenis [2007] FCA 1129 (3 August 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1129.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">creditor's petition</catchphrase>
-<catchphrase "id=c1">costs of dismissal</catchphrase>
-<catchphrase "id=c2">whether respondent delayed in having default judgment set aside</catchphrase>
-<catchphrase "id=c3">registrar found for debtor</catchphrase>
-<catchphrase "id=c4">from decision of registrar</catchphrase>
-<catchphrase "id=c5">whether magistrate conducted hearing de novo</catchphrase>
-<catchphrase "id=c6">exercise of discretion</catchphrase>
-<catchphrase "id=c7">whether magistrate failed to take into account material consideration</catchphrase>
-<catchphrase "id=c8">bankruptcy</catchphrase>
-<catchphrase "id=c9">appeal</catchphrase>
+<catchphrase >creditor's petition</catchphrase>
+<catchphrase >costs of dismissal</catchphrase>
+<catchphrase >whether respondent delayed in having default judgment set aside</catchphrase>
+<catchphrase >registrar found for debtor</catchphrase>
+<catchphrase >from decision of registrar</catchphrase>
+<catchphrase >whether magistrate conducted hearing de novo</catchphrase>
+<catchphrase >exercise of discretion</catchphrase>
+<catchphrase >whether magistrate failed to take into account material consideration</catchphrase>
+<catchphrase >bankruptcy</catchphrase>
+<catchphrase >appeal</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -231,7 +231,7 @@ There is no substance in this complaint, or in the related one that the Magistra
 <sentence id="s122">Of course, if he was never served, he would not be expected to file a defence.</sentence>
 <sentence id="s123">24 The appellant then claims that the Magistrate failed to take into account that the appellant had written to the respondent on 17 September 2004 advising him that default judgment had been entered against him.</sentence>
 <sentence id="s124">The Magistrate did not refer to this letter.</sentence>
-<sentence id="s125">She accepted the respondent's evidence that he only became aware of the fact that judgment had been entered against him when on 16 March 2005 he received a letter from Anthony Peterson &amp; Co, a firm of solicitors unconnected with the parties.</sentence>
+<sentence id="s125">She accepted the respondent's evidence that he only became aware of the fact that judgment had been entered against him when on 16 March 2005 he received a letter from Anthony Peterson amp; Co, a firm of solicitors unconnected with the parties.</sentence>
 <sentence id="s126">I will call this letter the Peterson letter.</sentence>
 <sentence id="s127">The respondent's account was verified by his daughter, whose affidavit in the State Court stated that her father had faxed the Peterson letter to her on that day.</sentence>
 <sentence id="s128">This led her to contact the appellant's associate, Mr Ferguson, to enquire what the judgment was about.</sentence>
@@ -322,7 +322,7 @@ Dated: 3 August 2007
  
  Counsel for the Respondent: S Marks and S Jacobson 
  
- Solicitor for the Respondent: Tanya Cirkovic &amp; Associates 
+ Solicitor for the Respondent: Tanya Cirkovic amp; Associates 
  
  Date of Hearing: 26 July 2007 
  
@@ -336,4 +336,8 @@ Dated: 3 August 2007
  
  </sentence>
 </sentences>
-</case>
+</case>e>au/cases/cth/FCA/2007/1129.html 
+ 
+ </sentence>
+</sentences>
+</case>e>

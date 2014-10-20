@@ -3,18 +3,18 @@
 <name>Foxtel Management Pty Limited v The Mod Shop Pty Limited [2007] FCA 463 (28 March 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/463.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">signal piracy</catchphrase>
-<catchphrase "id=c1">unauthorised programming and sale of smartcards</catchphrase>
-<catchphrase "id=c2">using authentic foxtel smartcards for card sharing purposes</catchphrase>
-<catchphrase "id=c3">whether respondents engaged in actionable conduct under s 135an and s 135ana of the copyright act 1968 (cth)</catchphrase>
-<catchphrase "id=c4">whether senior employees liable for actionable conduct of the company</catchphrase>
-<catchphrase "id=c5">whether the second applicant made an 'encoded broadcast'</catchphrase>
-<catchphrase "id=c6">whether devices made and sold were 'broadcast decoding devices'</catchphrase>
-<catchphrase "id=c7">compensatory damages</catchphrase>
-<catchphrase "id=c8">additional damages</catchphrase>
-<catchphrase "id=c9">whether advertisements were misleading</catchphrase>
-<catchphrase "id=c10">copyright</catchphrase>
-<catchphrase "id=c11">trade practices</catchphrase>
+<catchphrase >signal piracy</catchphrase>
+<catchphrase >unauthorised programming and sale of smartcards</catchphrase>
+<catchphrase >using authentic foxtel smartcards for card sharing purposes</catchphrase>
+<catchphrase >whether respondents engaged in actionable conduct under s 135an and s 135ana of the copyright act 1968 (cth)</catchphrase>
+<catchphrase >whether senior employees liable for actionable conduct of the company</catchphrase>
+<catchphrase >whether the second applicant made an 'encoded broadcast'</catchphrase>
+<catchphrase >whether devices made and sold were 'broadcast decoding devices'</catchphrase>
+<catchphrase >compensatory damages</catchphrase>
+<catchphrase >additional damages</catchphrase>
+<catchphrase >whether advertisements were misleading</catchphrase>
+<catchphrase >copyright</catchphrase>
+<catchphrase >trade practices</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -133,7 +133,7 @@ The tenth respondent is Mr Craig Wall ('Mr Wall').</sentence>
  
  SATELLITE EQUIPMENT
  
- TOP FIELD &amp; HUMAX DECODERS AVAILABLE 
+ TOP FIELD amp; HUMAX DECODERS AVAILABLE 
  
  BEST PRICES IN AUSTRALIA GUARANTEED 
  
@@ -406,14 +406,14 @@ In response to the trade in pirated smartcards in Australia, the applicants enga
  '... 
  
  
- &#8226; Free XTV ---Always check the ID.</sentence>
+ #8226; Free XTV ---Always check the ID.</sentence>
 <sentence id="s208">You can say "Hardcore" but you can't say "XXX".</sentence>
 <sentence id="s209">Inform the customer that they are not to view the channels in a public place.</sentence>
 <sentence id="s210">
  
  
  
- &#8226; Meeting Attendance --- All staff are to attend the meetings.</sentence>
+ #8226; Meeting Attendance --- All staff are to attend the meetings.</sentence>
 <sentence id="s211">No slackers, no lame excuses.</sentence>
 <sentence id="s212">
  
@@ -421,14 +421,14 @@ In response to the trade in pirated smartcards in Australia, the applicants enga
  ... 
  
  
- &#8226; Card Sharing --- 
+ #8226; Card Sharing --- 
  By now everyone should know that there is an alternative to the red card issue.</sentence>
 <sentence id="s213">It involves one decoder set up and running a legit card with full access.</sentence>
 <sentence id="s214">This decoder is connected to a pc set up as a server.</sentence>
 <sentence id="s215">Other people/systems (clients) can then connect their decoder via internet to the Server PC.</sentence>
 <sentence id="s216">
  
- There is server &amp; client software available for customers who want to try and set the network up themselves.</sentence>
+ There is server amp; client software available for customers who want to try and set the network up themselves.</sentence>
 <sentence id="s217">Tell customers to email card-sharing@hushmail.com for software.</sentence>
 <sentence id="s218">They can call our tech support line for help.</sentence>
 <sentence id="s219">The software we use is far superior to anything else.</sentence>
@@ -440,7 +440,7 @@ In response to the trade in pirated smartcards in Australia, the applicants enga
  
  ... 
  
- &#8226; Card Sharing Computers --- There will be installers that ARE NOT affiliated with The Mod Shop.</sentence>
+ #8226; Card Sharing Computers --- There will be installers that ARE NOT affiliated with The Mod Shop.</sentence>
 <sentence id="s223">They will also be able to install software onto a clients computer free of charge, if they purchase the computer from us with an internal modem for an extra $50.</sentence>
 <sentence id="s224">
  
@@ -459,7 +459,7 @@ In response to the trade in pirated smartcards in Australia, the applicants enga
  ... 
  
  
- &#8226; Is Card Sharing legal?</sentence>
+ #8226; Is Card Sharing legal?</sentence>
 <sentence id="s225">--- If you are asked this question, it is best to say that you're not sure.</sentence>
 <sentence id="s226">They should check with someone like Mike.</sentence>
 <sentence id="s227">
@@ -467,20 +467,20 @@ In response to the trade in pirated smartcards in Australia, the applicants enga
  ... 
  
  
- &#8226; Server Interface --- The stores now have card sharing Server interfaces in stock at $150.</sentence>
+ #8226; Server Interface --- The stores now have card sharing Server interfaces in stock at $150.</sentence>
 <sentence id="s228">These are for people who wish to set up their own sharing network.</sentence>
 <sentence id="s229">Software is still required and versions are available from www.card-sharing.com 
  
  
  
- &#8226; Sharing Help --- Customers who need help with card sharing or setting up a network can call our technical support number.</sentence>
+ #8226; Sharing Help --- Customers who need help with card sharing or setting up a network can call our technical support number.</sentence>
 <sentence id="s230">
  
  
  ... 
  
  
- &#8226; Stock Take --- A stock take needs to be done at all the stores.</sentence>
+ #8226; Stock Take --- A stock take needs to be done at all the stores.</sentence>
 <sentence id="s231">Yuri is deciding whether or not this is to be done by Store staff or someone from w.house.</sentence>
 <sentence id="s232">
  
@@ -525,7 +525,7 @@ In response to the trade in pirated smartcards in Australia, the applicants enga
 <sentence id="s259">Mr Nicholls said:
  
  'To the best of my knowledge and belief, virtually all of the pay television provider supplied satellite dishes for use in Australia are 65 cm in diameter.</sentence>
-<sentence id="s260">All of these dishes would be pointed at the Optus/Foxtel/Auststar satellite at a longitude of 156&#186;E...Where the satellite television service is encrypted, the viewer will require a conditional access device (typically a smartcard issued by the provider of the service) to decrypt and view the service.</sentence>
+<sentence id="s260">All of these dishes would be pointed at the Optus/Foxtel/Auststar satellite at a longitude of 156#186;E...Where the satellite television service is encrypted, the viewer will require a conditional access device (typically a smartcard issued by the provider of the service) to decrypt and view the service.</sentence>
 <sentence id="s261">
  
  Some services, sometimes referred to as "free channels", do not limit access by means of a conditional access system.</sentence>
@@ -847,7 +847,7 @@ Senior counsel for the applicants submitted that the test, referring to 'the jus
 <sentence id="s423">138 The question of the appropriate test to apply was recently discussed by the Full Court in Cooper v Universal Music Australia Pty Ltd [2006] FCAFC 187.</sentence>
 <sentence id="s424">At 160, Kenny J observed:
  
- 'The law concerning the liability of directors and other officers for corporate wrongdoings is unclear: see Allen Manufacturing Co Pty Ltd v McCallum &amp; Co Pty Ltd (2001) 53 IPR 400 (" Allen Manufacturing ") at 409-411 per Wilcox, French and Dowsett JJ.</sentence>
+ 'The law concerning the liability of directors and other officers for corporate wrongdoings is unclear: see Allen Manufacturing Co Pty Ltd v McCallum amp; Co Pty Ltd (2001) 53 IPR 400 (" Allen Manufacturing ") at 409-411 per Wilcox, French and Dowsett JJ.</sentence>
 <sentence id="s425">There are two relevant lines of authority, each supportive of a different test.</sentence>
 <sentence id="s426">As the Full Court said in Allen Manufacturing at 409: 
  
@@ -889,7 +889,7 @@ Senior counsel for the applicants submitted that the test, referring to 'the jus
 144 
  
 The 'direct or procure' test does not impose any more extensive liability on the director or senior employee, than is imposed upon the primary tortfeasor.</sentence>
-<sentence id="s445">Accordingly, where there is a mental element of the tort, it is necessary that the director or senior employee have the same mental state as is required of the primary tortfeasor ( C. Evans &amp; Sons Ltd v Spriteband Ltd [1985] 1 WLR 317 at 329; Dascorp at 213-214).</sentence>
+<sentence id="s445">Accordingly, where there is a mental element of the tort, it is necessary that the director or senior employee have the same mental state as is required of the primary tortfeasor ( C. Evans amp; Sons Ltd v Spriteband Ltd [1985] 1 WLR 317 at 329; Dascorp at 213-214).</sentence>
 <sentence id="s446">In the context of this case, the requisite mental element is that imposed by s 135AN(1)(c) of the Act, namely, that the person engaging in the actionable conduct in s 135AN(1)(b), knew or ought reasonably to have known that the 'broadcast decoding device' would be used to gain access to an encoded broadcast without the authority of the broadcaster.</sentence>
 <sentence id="s447">
  The contested evidence 
@@ -1868,7 +1868,7 @@ Dated: 28 March 2007
  
  Counsel for the Eighth Respondent: Mr P G Clifford and Mr P J Hannan 
  
- Solicitor for the Eighth Respondent: De Vita &amp; Dixon 
+ Solicitor for the Eighth Respondent: De Vita amp; Dixon 
  
  Date of Hearing: 5 December 2005 to 9 December 2005 
  
@@ -1884,4 +1884,10 @@ Dated: 28 March 2007
  
  </sentence>
 </sentences>
+</case>ences>
+</case>u.au/au/cases/cth/FCA/2007/463.html 
+ 
+ </sentence>
+</sentences>
+</case>ences>
 </case>

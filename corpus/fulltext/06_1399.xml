@@ -3,14 +3,14 @@
 <name>Australian Communications and Media Authority v Clarity1 Pty Ltd [2006] FCA 1399 (27 October 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1399.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">unsolicited commercial electronic messages (spam)</catchphrase>
-<catchphrase "id=c1">use of harvested electronic addresses</catchphrase>
-<catchphrase "id=c2">contraventions established</catchphrase>
-<catchphrase "id=c3">pecuniary penalties</catchphrase>
-<catchphrase "id=c4">declarations</catchphrase>
-<catchphrase "id=c5">injunctions</catchphrase>
-<catchphrase "id=c6">costs</catchphrase>
-<catchphrase "id=c7">media law</catchphrase>
+<catchphrase >unsolicited commercial electronic messages (spam)</catchphrase>
+<catchphrase >use of harvested electronic addresses</catchphrase>
+<catchphrase >contraventions established</catchphrase>
+<catchphrase >pecuniary penalties</catchphrase>
+<catchphrase >declarations</catchphrase>
+<catchphrase >injunctions</catchphrase>
+<catchphrase >costs</catchphrase>
+<catchphrase >media law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -253,13 +253,13 @@
  
 in the case of Clarity1, for contravening:
  
- &#8226; s 16(1) of the Spam Act : 300 x 1000 = 300 000 ($33 000 000); and
- &#8226; s 22(1) of the Spam Act : 300 x 500 = 150 000 ($16 500 000); and 
+ #8226; s 16(1) of the Spam Act : 300 x 1000 = 300 000 ($33 000 000); and
+ #8226; s 22(1) of the Spam Act : 300 x 500 = 150 000 ($16 500 000); and 
 
 in the case of Mr Mansfield, for contravening:
  
- &#8226; s 16(1) of the Spam Act : 300 x 200 = 60 000 ($6 600 000); and
- &#8226; s 22(1) of the Spam Act : 300 x 100 = 30 000 ($3 300 000).</sentence>
+ #8226; s 16(1) of the Spam Act : 300 x 200 = 60 000 ($6 600 000); and
+ #8226; s 22(1) of the Spam Act : 300 x 100 = 30 000 ($3 300 000).</sentence>
 <sentence id="s39">
 
 I accept that submission as supportive of the effect of the penalty provisions subject to consideration of the particular circumstances of the matter.</sentence>
@@ -446,12 +446,12 @@ He referred to Australian Competition and Consumer Commission v The Vales Wine C
 <sentence id="s165">52 The applicant estimates, based on the evidence referred to in its submissions, that Clarity1 sent considerably in excess of two CEMs in contravention of the Spam Act on at least 300 days during the period between 10 April 2004 and 13 April 2006.</sentence>
 <sentence id="s166">This would give rise to a potential maximum penalty of:
  
- &#8226; against Clarity1 for contravening: 
+ #8226; against Clarity1 for contravening: 
 
  section 16(1): 300 x 2000 = 600 000 ($66 000 000); and
  section 22(3): 300 x 1000 = 300 000 ($33 000 000); and
  
- &#8226; against Mr Mansfield for contravening: 
+ #8226; against Mr Mansfield for contravening: 
 
  section 16(9): 300 x 400 = 120 000 ($13 200 000); and
  section 22(3): 300 x 200 = 60 000 ($6 600 000).</sentence>
@@ -540,4 +540,8 @@ Dated: 27 October 2006
  
  </sentence>
 </sentences>
-</case>
+</case>/case>006/1399.html 
+ 
+ </sentence>
+</sentences>
+</case>/case>

@@ -3,11 +3,11 @@
 <name>Cooper v Universal Music Australia Pty Ltd [2006] FCA 642 (29 May 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/642.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for security for costs</catchphrase>
-<catchphrase "id=c1">jurisdiction of single judge to make orders for security for costs of an appeal</catchphrase>
-<catchphrase "id=c2">factors to be considered in deciding whether order for security for costs should be made</catchphrase>
-<catchphrase "id=c3">whether evidence regarding one application for security for costs may be used as evidence in another related appeal</catchphrase>
-<catchphrase "id=c4">costs</catchphrase>
+<catchphrase >application for security for costs</catchphrase>
+<catchphrase >jurisdiction of single judge to make orders for security for costs of an appeal</catchphrase>
+<catchphrase >factors to be considered in deciding whether order for security for costs should be made</catchphrase>
+<catchphrase >whether evidence regarding one application for security for costs may be used as evidence in another related appeal</catchphrase>
+<catchphrase >costs</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -27,7 +27,7 @@
 <sentence id="s12">6 In my view, a single Judge has jurisdiction to hear an application and, in the present case, it is appropriate to do so rather than convene a Full Court to hear the application for security for costs.</sentence>
 <sentence id="s13">Moreover, having heard the matter over several days, I am familiar with the background of the matter.</sentence>
 <sentence id="s14">7 It was submitted by Mr Anthony Morris QC for Mr Cooper that, as I had previously expressed adverse views as to the credit of some witnesses in the matter, there may be a perception of apprehended bias and I should therefore consider disqualifying myself from hearing the application for security for costs.</sentence>
-<sentence id="s15">I have considered the principles set forth in the decision in Keating v Morris &amp; Ors (Moynihan J, Supreme Court of Queensland, 1 September 2005 unreported) at [32] - [47].</sentence>
+<sentence id="s15">I have considered the principles set forth in the decision in Keating v Morris amp; Ors (Moynihan J, Supreme Court of Queensland, 1 September 2005 unreported) at [32] - [47].</sentence>
 <sentence id="s16">It does not follow simply from my rejection of certain evidence and preference for other evidence that, without more, there is any basis for a perception by a reasonable informed observer that I may be perceived to be affected by apprehended bias on this application for security for costs.</sentence>
 <sentence id="s17">Therefore, I reject this submission.</sentence>
 <sentence id="s18">8 The record companies have filed an affidavit by Mr Michael Williams, solicitor for the record companies, dated 22 March 2006.</sentence>
@@ -49,12 +49,12 @@
 <sentence id="s34">In Equity Access v Westpac Banking Corp (1989) ATPR 40-972, Hill J at 50,635 listed some of the relevant matters to be considered when deciding whether security for costs ought to be awarded:
  
  
- &#8226; the prosects of success;
- &#8226; the quantum of risk that a costs order will not be satisfied;
- &#8226; whether the making of an order would be oppressive in that it would stifle the reasonably arguable claim;
- &#8226; whether any impecuniosity of the appellants arises out of the conduct complained of;
- &#8226; whether there are aspects of public interest which weigh in the balance against such an order;
- &#8226; whether there are any particular discretionary matters peculiar to the circumstances of the case.</sentence>
+ #8226; the prosects of success;
+ #8226; the quantum of risk that a costs order will not be satisfied;
+ #8226; whether the making of an order would be oppressive in that it would stifle the reasonably arguable claim;
+ #8226; whether any impecuniosity of the appellants arises out of the conduct complained of;
+ #8226; whether there are aspects of public interest which weigh in the balance against such an order;
+ #8226; whether there are any particular discretionary matters peculiar to the circumstances of the case.</sentence>
 <sentence id="s35">
  
 
@@ -183,4 +183,6 @@ Dated: 29 May 2006
  
  </sentence>
 </sentences>
-</case>
+</case></case>ntence>
+</sentences>
+</case></case>

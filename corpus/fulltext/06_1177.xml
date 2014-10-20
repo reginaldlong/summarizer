@@ -3,11 +3,11 @@
 <name>Spalla v St George Motor Finance Ltd (No 7)(Corrigendum dated 20 November 2006) [2006] FCA 1177 (12 September 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1177.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">motion to set aside deed in relation to settlement of proceedings</catchphrase>
-<catchphrase "id=c1">lack of good faith asserted</catchphrase>
-<catchphrase "id=c2">liquidator's duty to act independently in the best interests of the company</catchphrase>
-<catchphrase "id=c3">practice and procedure</catchphrase>
-<catchphrase "id=c4">insolvency</catchphrase>
+<catchphrase >motion to set aside deed in relation to settlement of proceedings</catchphrase>
+<catchphrase >lack of good faith asserted</catchphrase>
+<catchphrase >liquidator's duty to act independently in the best interests of the company</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
+<catchphrase >insolvency</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -76,7 +76,7 @@
 <sentence id="s45">An Order that the Deed ... was entered into in bad faith and breach of the Litigation Funding Agreement dated 15th March 2002.</sentence>
 <sentence id="s46">
  1.B.</sentence>
-<sentence id="s47">An Order that the Deed ... was entered into in bad faith, in breach of [the liquidator's] duties pursuant to sections 180 (2) (a) &amp; (d) 181 (a) &amp; (b), 182 (a) &amp; (b) and 184 (c) &amp; (d) of the Corporations Act .</sentence>
+<sentence id="s47">An Order that the Deed ... was entered into in bad faith, in breach of [the liquidator's] duties pursuant to sections 180 (2) (a) amp; (d) 181 (a) amp; (b), 182 (a) amp; (b) and 184 (c) amp; (d) of the Corporations Act .</sentence>
 <sentence id="s48">
  2.</sentence>
 <sentence id="s49">An Order that the Deed ... be set aside on the grounds of it being void ab initio.</sentence>
@@ -167,7 +167,7 @@
  
  The commencement of the primary proceeding and joinder of Irlmond 
  
- 27 The primary proceeding began on 17 October 2002, when Still &amp; Co filed the original application and statement of claim on behalf of the then applicants.</sentence>
+ 27 The primary proceeding began on 17 October 2002, when Still amp; Co filed the original application and statement of claim on behalf of the then applicants.</sentence>
 <sentence id="s111">Those applicants were Mr Spalla and his wife, Stella, Mr Still, and Anstella Nominees Pty Ltd ("Anstella") as the holder of all shares in Irlmond and APS.</sentence>
 <sentence id="s112">Irlmond was not one of the original parties to the primary proceeding.</sentence>
 <sentence id="s113">The original respondents included St George Motor Finance, St George Wholesale Finance, Messrs Beck and Home, and Deloittes.</sentence>
@@ -181,7 +181,7 @@
 <sentence id="s121">By a letter dated 6 March 2003, IMF specifically noted that it wanted to avoid "Spalla attempting to block, or interfere with, a settlement which Irlmond wishes to pursue".</sentence>
 <sentence id="s122">It reiterated this concern in an email of 29 April 2003.</sentence>
 <sentence id="s123">Ultimately, a funding agreement was reached with Insolvency Litigation Fund Pty Ltd ("ILF"), a wholly owned subsidiary of IMF.</sentence>
-<sentence id="s124">Before concluding the funding agreement, Mr Spalla retained the services of Mr Borden to act on his behalf in place of Still &amp; Co. 
+<sentence id="s124">Before concluding the funding agreement, Mr Spalla retained the services of Mr Borden to act on his behalf in place of Still amp; Co. 
  30 By motion, notice of which was dated 2 May 2003, Mr Rambaldi applied for leave from the Court to enter into the proposed funding agreement ("proposed funding agreement"), to which the applicants to the primary proceeding and ILF were to be parties.</sentence>
 <sentence id="s125">He also sought leave for Irlmond to join the primary proceeding.</sentence>
 <sentence id="s126">In his supporting affidavit, he deposed that, in the absence of the funding agreement, Irlmond could not join the proceeding since it would not have the funds to do so.</sentence>
@@ -363,7 +363,7 @@
  It seemed to me ... that the proposal gave rise to a ... difficulty, namely whether there are any circumstances under which a liquidator can lawfully give up his statutory powers or duties.</sentence>
 <sentence id="s169">There is a view that, while a liquidator may listen to the opinion of others on what steps he should take in a particular situation, in the end he must exercise his own judgment on what is or is not in the best interests of the creditors or contributories.</sentence>
 <sentence id="s170">For this reason he cannot give up control of litigation in which his company is a party.</sentence>
-<sentence id="s171">This is the view taken by Lightman J in Grovewood Holdings Plc v James Capel &amp; Co Ltd [1995] Ch 80.</sentence>
+<sentence id="s171">This is the view taken by Lightman J in Grovewood Holdings Plc v James Capel amp; Co Ltd [1995] Ch 80.</sentence>
 <sentence id="s172">... 
  Recognising the potential difficulty he was in, the liquidator sought time to see whether Insolvency Litigation Fund Pty Ltd ("ILF") (the company providing the funding) could be persuaded to change the terms.</sentence>
 <sentence id="s173">This is in fact what occurred.</sentence>
@@ -371,15 +371,15 @@
 <sentence id="s175">" 
  37 On 15 May 2003, the litigation funding agreement (hereafter referred to as "the LFA") was executed by Mr and Mrs Spalla, Mr Still, Anstella, Mr Rambaldi, Irlmond, and ILF.</sentence>
 <sentence id="s176">Other significant provisions of the LFA include:
- &#8226; Clause 4(a)(iv) provided that the "Spalla Interests shall pay and shall at all times remain liable to pay all Legal Costs charged by the Solicitors, Senior Counsel and Junior Counsel in respect to ... Irlmond and the Liquidator's participation in and conduct of the Proceeding.</sentence>
+ #8226; Clause 4(a)(iv) provided that the "Spalla Interests shall pay and shall at all times remain liable to pay all Legal Costs charged by the Solicitors, Senior Counsel and Junior Counsel in respect to ... Irlmond and the Liquidator's participation in and conduct of the Proceeding.</sentence>
 <sentence id="s177">" Clause 4.2 required the Spalla Interests to provide the liquidator with a letter confirming that the Spalla Interests have sufficient funds to settle these costs.</sentence>
-<sentence id="s178">&#8226; Pursuant to Clause 5.1, the Spalla Interests agreed to indemnify Irlmond and the liquidator in respect of legal costs claimed by their joint representatives in the proceeding.</sentence>
-<sentence id="s179">&#8226; Clause 6.1 provided that ILF would indemnify the liquidator for any costs for which he becomes personally liable in relation to his and Irlmond's participation in the primary proceeding.</sentence>
+<sentence id="s178">#8226; Pursuant to Clause 5.1, the Spalla Interests agreed to indemnify Irlmond and the liquidator in respect of legal costs claimed by their joint representatives in the proceeding.</sentence>
+<sentence id="s179">#8226; Clause 6.1 provided that ILF would indemnify the liquidator for any costs for which he becomes personally liable in relation to his and Irlmond's participation in the primary proceeding.</sentence>
 <sentence id="s180">Pursuant to Clause 6.2, "[t]he indemnity provided by ILF to the Liquidator in respect of any Costs Order will not be a continuing indemnity, but may be terminated by ILF, in its absolute discretion by giving 7 days written notice to the Liquidator".</sentence>
 <sentence id="s181">This right of termination was subject to a proviso that ILF would remain liable for any personal costs orders against the liquidator up to the time of termination.</sentence>
-<sentence id="s182">&#8226; Clause 7 related to the appointment of solicitors and counsel and provided that solicitors and junior and senior counsel would be retained to act for the liquidator, Irlmond and the Spalla Interests.</sentence>
+<sentence id="s182">#8226; Clause 7 related to the appointment of solicitors and counsel and provided that solicitors and junior and senior counsel would be retained to act for the liquidator, Irlmond and the Spalla Interests.</sentence>
 <sentence id="s183">In accordance with clause 1.1, the solicitors were to be HWL "or such other firm of solicitors retained to act for the Liquidator and Irlmond from time to time" and senior counsel was to be Peter Hayes QC "or such other lead Counsel retained to act for the Liquidator and Irlmond from time to time".</sentence>
-<sentence id="s184">&#8226; Clause 15 contained certain warranties, including that the "Spalla Interests warrants [sic] that it [sic] has sufficient financial resources to carry out its [sic] obligations under this Agreement and shall continue to have such financial resources.</sentence>
+<sentence id="s184">#8226; Clause 15 contained certain warranties, including that the "Spalla Interests warrants [sic] that it [sic] has sufficient financial resources to carry out its [sic] obligations under this Agreement and shall continue to have such financial resources.</sentence>
 <sentence id="s185">"
  38 HWL and the Spalla Interests entered into a costs agreement with respect to the primary proceeding in May 2003.</sentence>
 <sentence id="s186">Mr Spalla's original retainer with HWL required Mr Spalla to pay $80,000 upfront with the balance to be at HWL's prevailing hourly rates, plus a 20% uplift fee to be paid on the successful outcome of the matter.</sentence>
@@ -391,7 +391,7 @@
 <sentence id="s192">By a letter dated 20 May 2003, Mr Rambaldi confirmed with Mr Borden that Mr Rambaldi and Irlmond retained HWL to act for them with respect to the primary proceeding, although the Spalla Interests would meet HWL's costs and disbursements.</sentence>
 <sentence id="s193">Mr Rambaldi emphasized that Mr Borden was to take instructions from him before making any commitment on his behalf to the Spalla Interests or the respondents.</sentence>
 <sentence id="s194">Mr Rambaldi also confirmed with counsel, including Mr Hayes QC, that, although retained by him and Irlmond to act on their behalf, he, Mr Rambaldi, would not be liable for counsels' fees, which the Spalla Interests were to meet.</sentence>
-<sentence id="s195">40 On 25 June 2003, Still &amp; Co, solicitors then acting for the Spalla Interests, wrote to Mr Rambaldi stating that the firm held "sufficient funds in trust to settle the costs as set out in Clause 4.1 of the Funding Agreement".</sentence>
+<sentence id="s195">40 On 25 June 2003, Still amp; Co, solicitors then acting for the Spalla Interests, wrote to Mr Rambaldi stating that the firm held "sufficient funds in trust to settle the costs as set out in Clause 4.1 of the Funding Agreement".</sentence>
 <sentence id="s196">With the LFA executed, Irlmond began participating in the primary proceeding as an applicant, with the main issue being the terms of any new application and statement of claim.</sentence>
 <sentence id="s197">On 15 May 2003, the applicants filed a proposed amended statement of claim that named Irlmond as the fifth applicant.</sentence>
 <sentence id="s198">On 16 December 2003, the applicants filed a Further Amended Statement of Claim pursuant to leave granted by Goldberg J on 9 December 2003.</sentence>
@@ -627,7 +627,7 @@ Mr Rambaldi added:
 <sentence id="s359">Mr Spalla told Mr Rambaldi that he was endeavouring to find a new liquidator.</sentence>
 <sentence id="s360">He said that he had engaged a former liquidator to assist him in his search and that he was meeting a potential new liquidator on Monday, 2 May 2005.</sentence>
 <sentence id="s361">In cross-examination, Mr Spalla said that he had contacted this potential new liquidator "so that we would have some alternatives in the event of something happening".</sentence>
-<sentence id="s362">78 Present for the applicants at the mediation were Mr Spalla, Mr Gary Spalla (Mr Anthony Spalla's son), Mr Rambaldi, Mr Borden, Ms Arslan, Mr David Still (the second applicant in the primary proceedings), and Mr Ian Still (Mr David Still's father and a solicitor with Still &amp; Co).</sentence>
+<sentence id="s362">78 Present for the applicants at the mediation were Mr Spalla, Mr Gary Spalla (Mr Anthony Spalla's son), Mr Rambaldi, Mr Borden, Ms Arslan, Mr David Still (the second applicant in the primary proceedings), and Mr Ian Still (Mr David Still's father and a solicitor with Still amp; Co).</sentence>
 <sentence id="s363">Mr Bowman also attended at the request of Mr Rambaldi.</sentence>
 <sentence id="s364">Mr Hayes QC did not attend the mediation.</sentence>
 <sentence id="s365">Also attending the mediation were representatives of the ASIC, the St George parties and the Deloitte parties.</sentence>
@@ -647,7 +647,7 @@ Mr Rambaldi added:
 <sentence id="s379">He would be more likely than Mr Borden to recall it.</sentence>
 <sentence id="s380">I find that the meeting did take place and I accept Mr Rambaldi's evidence concerning it.</sentence>
 <sentence id="s381">82 Mr Rambaldi left the mediation after noon to attend an unrelated creditors' meeting.</sentence>
-<sentence id="s382">He left with Mr Bowman and they stopped briefly at a caf&eacute;.</sentence>
+<sentence id="s382">He left with Mr Bowman and they stopped briefly at a cafeacute;.</sentence>
 <sentence id="s383">Mr Bowman told Mr Rambaldi that ILF's board had decided to withdraw its litigation indemnity in his favour.</sentence>
 <sentence id="s384">Mr Bowman said that ILF would provide written notice, as required by the LFA, later that day.</sentence>
 <sentence id="s385">83 Mr Rambaldi returned to the mediation venue at approximately 1.15 pm.</sentence>
@@ -832,7 +832,7 @@ Mr Rambaldi added:
  In re-examination, Mr Spalla said that he "simply wasn't interested in giving [Mr Rambaldi] $2 million for anything".</sentence>
 <sentence id="s543">This left the second and third options, both of which were pursued.</sentence>
 <sentence id="s544">111 From 3 May to 6 May 2005, there was an exchange of correspondence between the parties and their lawyers.</sentence>
-<sentence id="s545">On 4 May 2005, Still &amp; Co. sent Mr Rambaldi two letters by facsimile.</sentence>
+<sentence id="s545">On 4 May 2005, Still amp; Co. sent Mr Rambaldi two letters by facsimile.</sentence>
 <sentence id="s546">The first letter was said to be written on behalf of David Still and the second, on behalf of all the Spalla Interests.</sentence>
 <sentence id="s547">This latter letter demanded that Mr Rambaldi have the Deed cancelled, adding:
  "In accordance with the provisions of Clause 14 of the [LFA] I am instructed to advise you that a dispute has arisen between my clients and you in relation to your conduct at a Mediation Conference on Friday 29th April 2005, whereby you have, in my clients' view committed a flagrant breach of the terms of the [LFA] by executing a Deed of Settlement ... with the respondents .... 
@@ -841,9 +841,9 @@ Mr Rambaldi added:
  112 At approximately 6.00 pm on 4 May 2005, Mr Rambaldi telephoned Mr Spalla.</sentence>
 <sentence id="s549">He advised Mr Spalla that an application would be made to the Supreme Court of Victoria for the appointment of an alternative liquidator or for Irlmond's officers to take control of the conduct of Irlmond's claim.</sentence>
 <sentence id="s550">Mr Spalla expressed a preference for the latter of these options.</sentence>
-<sentence id="s551">113 On 5 May 2005, solicitors acting for Mr Rambaldi, Frenkel Partners, replied by facsimile to Still &amp; Co.'s letters of 4 May 2005.</sentence>
+<sentence id="s551">113 On 5 May 2005, solicitors acting for Mr Rambaldi, Frenkel Partners, replied by facsimile to Still amp; Co.'s letters of 4 May 2005.</sentence>
 <sentence id="s552">After noting that the Spalla Interests had not addressed the options in Mr Rambaldi's letter of 3 May 2005 to Mr Spalla, the letter advised that an application would be made to the Supreme Court to seek the Court's guidance on the conduct of the litigation and that this application was likely to be heard the following morning.</sentence>
-<sentence id="s553">Still &amp; Co. replied the same day, also by facsimile, advising that they could not accept service and that Michael Brereton &amp; Co. would be acting for the Spalla Interests.</sentence>
+<sentence id="s553">Still amp; Co. replied the same day, also by facsimile, advising that they could not accept service and that Michael Brereton amp; Co. would be acting for the Spalla Interests.</sentence>
 <sentence id="s554">114 On 5 May 2006, Mr Rambaldi filed an application, pursuant to s 511 of the Corporations Act 2001 (Cth) ("the Act "), in the Supreme Court of Victoria.</sentence>
 <sentence id="s555">The application sought an order that the "officers of Irlmond ... be authorised to conduct the litigation [namely the primary proceeding and the related appeals] on behalf of the Company".</sentence>
 <sentence id="s556">In a supporting affidavit, Mr Rambaldi outlined the background to the application and exhibited various documents including the LFA, memoranda from Mr Hayes QC of 3 and 4 May 2005, and Mr Randall's memorandum of 3 May 2005.</sentence>
@@ -1071,7 +1071,7 @@ Mr Rambaldi added:
  Court may confirm, reverse or modify the act or decision, or remedy the omission, as the case may be, and make such orders and give such directions as it thinks fit.</sentence>
 <sentence id="s743">" 
  Mr Spalla claims to be a "person aggrieved" on a number of bases, including as an applicant in the primary proceeding and as a creditor of Irlmond.</sentence>
-<sentence id="s744">160 Various statutes have used the expression "person aggrieved" and courts have discussed its meaning in numerous cases: compare the much quoted passage in Ex parte Sidebotham; In re Sidebotham (1880) 14 Ch D 458 at 465-466 per James LJ; Northbourne Developments Pty Ltd v Reiby Chambers Pty Ltd (1989) 19 NSWLR 434 (" Northbourne ") at 437-438 per McLelland J; and Bridgeport --- Advisers &amp; Asset Managers Pty Ltd (2005) 221 ALR 146 (" Bridgeport ") at 162 per Barrett J.</sentence>
+<sentence id="s744">160 Various statutes have used the expression "person aggrieved" and courts have discussed its meaning in numerous cases: compare the much quoted passage in Ex parte Sidebotham; In re Sidebotham (1880) 14 Ch D 458 at 465-466 per James LJ; Northbourne Developments Pty Ltd v Reiby Chambers Pty Ltd (1989) 19 NSWLR 434 (" Northbourne ") at 437-438 per McLelland J; and Bridgeport --- Advisers amp; Asset Managers Pty Ltd (2005) 221 ALR 146 (" Bridgeport ") at 162 per Barrett J.</sentence>
 <sentence id="s745">As Gibbs CJ said in Koowarta v Bjelke-Peterson [1982] HCA 27 ; (1982) 153 CLR 168 at 184-185, the meaning of the expression must ultimately depend on the context of the particular statute.</sentence>
 <sentence id="s746">Having regard to the circumstances outlined above, I find that Mr Spalla has standing under this provision.</sentence>
 <sentence id="s747">None of the respondents contended that he did not.</sentence>
@@ -1226,7 +1226,7 @@ Mr Rambaldi added:
 <sentence id="s880">Clause 9.3(b) refers to "any claim made or the relief sought by the Spalla Interests " (emphasis mine).</sentence>
 <sentence id="s881">In context, the words undoubtedly refer to claims brought by the Spalla Interests.</sentence>
 <sentence id="s882">Overall, it is clear that clauses 9.2 and 9.3, when read together, create a regime whereby Mr Rambaldi had complete autonomy with respect to claims brought by Irlmond but was required to seek the consent of the Spalla Interests before settling the entire proceeding (including those claims brought by the Spalla Interests) or settling, amending or discontinuing any claims brought by the Spalla Interests.</sentence>
-<sentence id="s883">182 For these reasons, I conclude that Mr Rambaldi was not required to participate in mediation after he received the letter from Still &amp; Co. of 4 May 2005 demanding that he do so.</sentence>
+<sentence id="s883">182 For these reasons, I conclude that Mr Rambaldi was not required to participate in mediation after he received the letter from Still amp; Co. of 4 May 2005 demanding that he do so.</sentence>
 <sentence id="s884">Clause 9.3 required mediation (pursuant to the procedure outlined in clause 14) where the parties could not agree with respect to settlement of the proceeding as a whole or claims brought by the Spalla Interests.</sentence>
 <sentence id="s885">However, mediation was not required with respect to the settlement of Irlmond's claims.</sentence>
 <sentence id="s886">183 The circumstances surrounding the creation of the LFA strongly support this view.</sentence>
@@ -1467,5 +1467,10 @@ Dated: 12 September 2006
  URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/1177.html 
  
  </sentence>
+</sentences>
+</case>
+</sentences>
+</case>ences>
+</case>
 </sentences>
 </case>

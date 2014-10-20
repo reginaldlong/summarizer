@@ -3,18 +3,18 @@
 <name>Lamb v Hogs Breath Company Pty Ltd (No 2) [2007] FCA 201 (26 February 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/201.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">pleadings</catchphrase>
-<catchphrase "id=c1">insufficient specificity</catchphrase>
-<catchphrase "id=c2">rolled up plea against various respondents</catchphrase>
-<catchphrase "id=c3">failure to distinguish between respondents</catchphrase>
-<catchphrase "id=c4">failure to identify specific causes of action</catchphrase>
-<catchphrase "id=c5">times at which causes of action accrued</catchphrase>
-<catchphrase "id=c6">insufficiency of information available to applicant</catchphrase>
-<catchphrase "id=c7">no excuse for inadequate pleading</catchphrase>
-<catchphrase "id=c8">substituted statement of claim directed</catchphrase>
-<catchphrase "id=c9">respondents at liberty to provide basic information as to corporate responsibilities and application of alleged infringing works inter se</catchphrase>
-<catchphrase "id=c10">leave to obtain limited discovery and to interrogate absent such information foreshadowed</catchphrase>
-<catchphrase "id=c11">practice and procedure</catchphrase>
+<catchphrase >pleadings</catchphrase>
+<catchphrase >insufficient specificity</catchphrase>
+<catchphrase >rolled up plea against various respondents</catchphrase>
+<catchphrase >failure to distinguish between respondents</catchphrase>
+<catchphrase >failure to identify specific causes of action</catchphrase>
+<catchphrase >times at which causes of action accrued</catchphrase>
+<catchphrase >insufficiency of information available to applicant</catchphrase>
+<catchphrase >no excuse for inadequate pleading</catchphrase>
+<catchphrase >substituted statement of claim directed</catchphrase>
+<catchphrase >respondents at liberty to provide basic information as to corporate responsibilities and application of alleged infringing works inter se</catchphrase>
+<catchphrase >leave to obtain limited discovery and to interrogate absent such information foreshadowed</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -46,7 +46,7 @@
 <sentence id="s20">It is also said to have been at all material times the "master franchisor" of the Hog's Breath Cafes which is a franchised chain across the world.</sentence>
 <sentence id="s21">A list of cafes in Australia is set out in Schedule 1 to the statement of claim.</sentence>
 <sentence id="s22">Further particulars are promised after discovery.</sentence>
-<sentence id="s23">Hog's Breath Caf&eacute; (Australia) Pty Ltd (Hog's Breath Caf&eacute; (Australia)), the second respondent, was incorporated in Australia and is said to be the master franchisee of the Hog's Breath Cafes in Australia.</sentence>
+<sentence id="s23">Hog's Breath Cafeacute; (Australia) Pty Ltd (Hog's Breath Cafeacute; (Australia)), the second respondent, was incorporated in Australia and is said to be the master franchisee of the Hog's Breath Cafes in Australia.</sentence>
 <sentence id="s24">It is also said to be the registered owner of the Australian domain name: www.hogsbreath.com.au.</sentence>
 <sentence id="s25">10 The third respondent, HB Investments, is said to be the registered owner of Australian registered trade marks Nos 701388 and 1013512.</sentence>
 <sentence id="s26">The trade mark in each case comprises a cartoon depiction of a hog wearing sunglasses and crossed bandages with adhesive on its body.</sentence>
@@ -169,11 +169,11 @@ Dated: 26 February 2007
 
  Counsel for the Applicant: Mr P Mallon and Ms C Cochrane 
  
- Solicitor for the Applicant: Mallon &amp; Co Pty Ltd 
+ Solicitor for the Applicant: Mallon amp; Co Pty Ltd 
  
- Counsel for the First, Third, Fourth &amp; Fifth Respondents: Mr I Erskine 
+ Counsel for the First, Third, Fourth amp; Fifth Respondents: Mr I Erskine 
  
- Solicitor for the First, Third, Fourth &amp; Fifth Respondents: Tucker &amp; Cowen 
+ Solicitor for the First, Third, Fourth amp; Fifth Respondents: Tucker amp; Cowen 
 Counsel for the Second Respondent: 
 
 Solicitor for the Second Respondent: 
@@ -194,4 +194,8 @@ Lavan Legal Date of Hearing: 30 January 2007
  
  </sentence>
 </sentences>
-</case>
+</case>/case>stlii.edu.au/au/cases/cth/FCA/2007/201.html 
+ 
+ </sentence>
+</sentences>
+</case>/case>

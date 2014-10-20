@@ -3,11 +3,11 @@
 <name>Manatiy v Minister for Immigration and Multicultural Affairs [2007] FCA 28 (29 January 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/28.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">british subject entered australia as of right in 1956 and left australia in 1973</catchphrase>
-<catchphrase "id=c1">claims, for the purposes of the close ties visa under the migration regulations 1994 (cth) sch 2, subclass 832, that she ceased to hold an "entry permit" by virtue of the entry into force of the migration act 1958 (cth).</catchphrase>
-<catchphrase "id=c2">definition of "entry permit" for the purposes of a close ties visa.</catchphrase>
-<catchphrase "id=c3">migration</catchphrase>
-<catchphrase "id=c4">statutory interpretation</catchphrase>
+<catchphrase >british subject entered australia as of right in 1956 and left australia in 1973</catchphrase>
+<catchphrase >claims, for the purposes of the close ties visa under the migration regulations 1994 (cth) sch 2, subclass 832, that she ceased to hold an "entry permit" by virtue of the entry into force of the migration act 1958 (cth).</catchphrase>
+<catchphrase >definition of "entry permit" for the purposes of a close ties visa.</catchphrase>
+<catchphrase >migration</catchphrase>
+<catchphrase >statutory interpretation</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -98,7 +98,7 @@
 <sentence id="s36">As the portfolio Minister said (see Commonwealth Parliamentary Debates, House of Representatives, May 1958 at 1397):
  
  "I cannot emphasize too strongly that these new arrangements will not add to existing formalities.</sentence>
-<sentence id="s37">British subjects who now enter without vis&eacute;s or prior authority will have entry permits stamped in their passports in exactly the same way as before, to show date and place of arrival; nor will they be refused entry permits except on my express authority.</sentence>
+<sentence id="s37">British subjects who now enter without viseacute;s or prior authority will have entry permits stamped in their passports in exactly the same way as before, to show date and place of arrival; nor will they be refused entry permits except on my express authority.</sentence>
 <sentence id="s38">"
  
 
@@ -234,4 +234,7 @@ Dated: 29 January 2007
  
  </sentence>
 </sentences>
-</case>
+</case>>
+ </sentence>
+</sentences>
+</case>>

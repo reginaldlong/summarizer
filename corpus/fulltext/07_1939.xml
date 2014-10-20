@@ -3,13 +3,13 @@
 <name>URS Australia Pty Ltd v Australian Securities and Investments Commission [2007] FCA 1939 (6 December 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1939.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">reinstatement of deregistered but formerly insured company</catchphrase>
-<catchphrase "id=c1">insurer confirming policy responds</catchphrase>
-<catchphrase "id=c2">insurer objecting to its joinder under s 601ag of the corporations act</catchphrase>
-<catchphrase "id=c3">doubt about applicability of s 601ag</catchphrase>
-<catchphrase "id=c4">doubt resolved by reinstatement under s 601ah</catchphrase>
-<catchphrase "id=c5">inappropriate to dispense with condition that liquidator be appointed to replace liquidator in office at time of deregistration</catchphrase>
-<catchphrase "id=c6">corporations</catchphrase>
+<catchphrase >reinstatement of deregistered but formerly insured company</catchphrase>
+<catchphrase >insurer confirming policy responds</catchphrase>
+<catchphrase >insurer objecting to its joinder under s 601ag of the corporations act</catchphrase>
+<catchphrase >doubt about applicability of s 601ag</catchphrase>
+<catchphrase >doubt resolved by reinstatement under s 601ah</catchphrase>
+<catchphrase >inappropriate to dispense with condition that liquidator be appointed to replace liquidator in office at time of deregistration</catchphrase>
+<catchphrase >corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -138,7 +138,7 @@
 26 There will be orders in the following terms:
  
  1.</sentence>
-<sentence id="s77">The Australian Securities &amp; Investments Commission (ASIC) reinstate the registration of Arundel Scientific Pty Ltd ACN 008 946 637 (Deregistered) (the Company);
+<sentence id="s77">The Australian Securities amp; Investments Commission (ASIC) reinstate the registration of Arundel Scientific Pty Ltd ACN 008 946 637 (Deregistered) (the Company);
  2.</sentence>
 <sentence id="s78">The plaintiff pay ASIC the Company's outstanding fees and penalties which are due to ASIC within 14 days of the plaintiff lodging the reinstatement order with ASIC;
  3.</sentence>
@@ -175,4 +175,8 @@ Dated: 7 December 2007
  
  </sentence>
 </sentences>
-</case>
+</case>>7/1939.html 
+ 
+ </sentence>
+</sentences>
+</case>>

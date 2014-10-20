@@ -3,12 +3,12 @@
 <name>NBBD v Minister for Immigration and Multicultural Affairs [2006] FCA 1029 (10 August 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1029.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for leave to file and serve a notice of appeal</catchphrase>
-<catchphrase "id=c1">order 52, r 15(2)</catchphrase>
-<catchphrase "id=c2">consideration of failure to explain delay</catchphrase>
-<catchphrase "id=c3">consideration of whether 'special reasons' made out</catchphrase>
-<catchphrase "id=c4">consideration of conduct of review consequent upon a hearing at which the applicant for review failed to appear.</catchphrase>
-<catchphrase "id=c5">migration</catchphrase>
+<catchphrase >application for leave to file and serve a notice of appeal</catchphrase>
+<catchphrase >order 52, r 15(2)</catchphrase>
+<catchphrase >consideration of failure to explain delay</catchphrase>
+<catchphrase >consideration of whether 'special reasons' made out</catchphrase>
+<catchphrase >consideration of conduct of review consequent upon a hearing at which the applicant for review failed to appear.</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -117,7 +117,7 @@
 Dated: 10 August 2006
 
  Counsel for the Applicant: The applicant appeared personally with an interpreter.</sentence>
-<sentence id="s93">Solicitor for the Respondent: Mr White, Sparke &amp; Helmore Solicitors 
+<sentence id="s93">Solicitor for the Respondent: Mr White, Sparke amp; Helmore Solicitors 
  
  Date of Hearing: 10 August 2006 
  
@@ -131,4 +131,8 @@ Dated: 10 August 2006
  
  </sentence>
 </sentences>
-</case>
+</case>>html 
+ 
+ </sentence>
+</sentences>
+</case>>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <case>
-<name>SZHYO v Minister for Immigration &amp; Multicultural Affairs [2006] FCA 1554 (10 November 2006)</name>
+<name>SZHYO v Minister for Immigration amp; Multicultural Affairs [2006] FCA 1554 (10 November 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1554.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">protection visa</catchphrase>
-<catchphrase "id=c1">whether refugee review tribunal complied with s 424a of the migration act 1958 (cth)</catchphrase>
-<catchphrase "id=c2">migration</catchphrase>
+<catchphrase >protection visa</catchphrase>
+<catchphrase >whether refugee review tribunal complied with s 424a of the migration act 1958 (cth)</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -261,4 +261,5 @@ Dated: 16 November 2006
  
  </sentence>
 </sentences>
-</case>
+</case>></sentences>
+</case>>
