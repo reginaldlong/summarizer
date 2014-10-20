@@ -3,11 +3,11 @@
 <name>SZISR v Minister for Immigration and Citizenship [2007] FCA 271 (9 March 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/271.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from decision of federal magistrate</catchphrase>
-<catchphrase "id=c1">whether information contained in tribunal's reasons was relied upon for making decision</catchphrase>
-<catchphrase "id=c2">magistrate's analysis correct</catchphrase>
-<catchphrase "id=c3">appeal dismissed.</catchphrase>
-<catchphrase "id=c4">migration</catchphrase>
+<catchphrase >appeal from decision of federal magistrate</catchphrase>
+<catchphrase >whether information contained in tribunal's reasons was relied upon for making decision</catchphrase>
+<catchphrase >magistrate's analysis correct</catchphrase>
+<catchphrase >appeal dismissed.</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -43,7 +43,7 @@
  
  'I noted that the Applicant's representative had referred to a letter Mr Baiaman Erkinbaev was supposed to have written before his death stating that he had been wrong in opposing Mr Akaev's policy.</sentence>
 <sentence id="s23">I put to the Applicant that Mr Erkinbaev's colleagues and most experts viewed the letter as a fake (see Nurshat Ababakirov, "Kyrgyz Parliamentarian Bayaman Erkinbaev Assassinated", Central Asia-Caucasus Analyst , 5 October 2005, downloaded from http://www.cacianalyst.org/issues/20051005Analyst.pdf, accessed 18 February 2006; Erica Marat, "Erkinbayev's Assassination Provokes Controvery in Kyrgyzstan", Eurasia Daily Monitor , 27 September 2005, downloaded from http://jamestown.org/edm/article.php?</sentence>
-<sentence id="s24">volume_id=407&amp; issue_id=3473&amp;article_id=2370267, accessed 18 February 2006).</sentence>
+<sentence id="s24">volume_id=407amp; issue_id=3473amp;article_id=2370267, accessed 18 February 2006).</sentence>
 <sentence id="s25">The Applicant asked why they had killed Mr Erkinbaev.</sentence>
 <sentence id="s26">I noted that there were a number of theories as to why he had been killed (International Crisis Group, Kyrgyzstan: A Faltering State , 16 December 2005, pages 5-7).</sentence>
 <sentence id="s27">The Applicant asserted that Baiaman Erkinbaev had said that the people of Kyrgyzstan needed Aidar Akaev and that this had been why he had been killed.</sentence>
@@ -134,4 +134,6 @@ Dated: 9 March 2007
  
  </sentence>
 </sentences>
-</case>
+</case>e> </sentence>
+</sentences>
+</case>e>

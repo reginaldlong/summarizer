@@ -3,11 +3,11 @@
 <name>Clark v Secretary, Department of Employment and Workplace Relations [2007] FCA 1076 (25 July 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1076.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">time when "lump sum preclusion period" under s 1170 of the social security act 1991 (cth) begins</catchphrase>
-<catchphrase "id=c1">whether the section requires that individual retain and have benefit of both periodic compensation payments and lump sum compensation payment</catchphrase>
-<catchphrase "id=c2">whether lump sum preclusion period begins on the day following the last day of periodic payments period even where periodic compensation payments have been fully refunded out of lump sum compensation payment</catchphrase>
-<catchphrase "id=c3">whether secretary's discretion under s 1184k of act had miscarried. held : section 1170 does not require that the individual retain and have the benefit of both periodic compensation payments and lump sum payment, and the lump sum preclusion period does begin on the day following the last day of the periodic payments period even in the circumstances mentioned.</catchphrase>
-<catchphrase "id=c4">social security</catchphrase>
+<catchphrase >time when "lump sum preclusion period" under s 1170 of the social security act 1991 (cth) begins</catchphrase>
+<catchphrase >whether the section requires that individual retain and have benefit of both periodic compensation payments and lump sum compensation payment</catchphrase>
+<catchphrase >whether lump sum preclusion period begins on the day following the last day of periodic payments period even where periodic compensation payments have been fully refunded out of lump sum compensation payment</catchphrase>
+<catchphrase >whether secretary's discretion under s 1184k of act had miscarried. held : section 1170 does not require that the individual retain and have the benefit of both periodic compensation payments and lump sum payment, and the lump sum preclusion period does begin on the day following the last day of the periodic payments period even in the circumstances mentioned.</catchphrase>
+<catchphrase >social security</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -69,7 +69,7 @@ The first of the two questions relating to s 1184K is whether, in the exercise o
 <sentence id="s35">13 In an Amended Statement of Particulars filed in the District Court proceeding on 31 January 2005, Mr Clark gave the following "Particulars of Economic Loss":
  
  Particulars of Economic Loss 
- At the time of injury the Plaintiff was employed by G. &amp; A. Clark Tipper Hire Pty Ltd.</sentence>
+ At the time of injury the Plaintiff was employed by G. amp; A. Clark Tipper Hire Pty Ltd.</sentence>
 <sentence id="s36">The Plaintiff was a director of that company.</sentence>
 <sentence id="s37">The Plaintiff carried out truck driving services.</sentence>
 <sentence id="s38">The Plaintiff's average weekly earnings at the time of the injury were $600.00 gross per week.</sentence>
@@ -144,11 +144,11 @@ The expressions "lump sum compensation payment" and "periodic compensation payme
 20 There is no dispute as to the application of these definitions to the circumstances of the present case.</sentence>
 <sentence id="s57">Because:
  
-&#8226; Mr Clark received periodic compensation payments of $88,082.18; and
+#8226; Mr Clark received periodic compensation payments of $88,082.18; and
  
-&#8226; after receiving them, he received on 10 March 2005 a lump sum compensation payment of $280,000 (in subs (4), the LSP); and
+#8226; after receiving them, he received on 10 March 2005 a lump sum compensation payment of $280,000 (in subs (4), the LSP); and
  
-&#8226; he then became liable to repay the amount ($88,082.18) of the periodical compensation payments (in subs (4), the RPCP --- the parties agree that he became so liable by reason of s 151Z(1)(b) of the WC Act);
+#8226; he then became liable to repay the amount ($88,082.18) of the periodical compensation payments (in subs (4), the RPCP --- the parties agree that he became so liable by reason of s 151Z(1)(b) of the WC Act);
 for the purposes of s 17(3) the amount of the lump sum compensation payment referred to in that subsection is the LSP of $280,000 minus the RPCP of $88,082.18, that is to say, $191,917.82.</sentence>
 <sentence id="s58">While the expression "lump sum compensation payment" generally in the Act refers to the whole $280,000, for the particular purposes of s 17(3) the expression refers to only $191,917.82.</sentence>
 <sentence id="s59">21 When this last figure of $191,917.82 is fed into s 17(3)(a), we find that the "compensation part" of the lump sum compensation payment is 50 percent of that amount, that is to say, $95,958.91.</sentence>
@@ -255,9 +255,9 @@ for the purposes of s 17(3) the amount of the lump sum compensation payment refe
  
 31 According to the Secretary's argument, on the facts of the present case, there was no preclusion period from the day on which the loss of earnings or loss of capacity to earn began (31 October 2000) to the last day of the periodic payments period (29 April 2005) so that:
  
- &#8226; in the absence of any other disentitling provision, any entitlement Mr Clark had to a compensation affected payment (such as the social security benefit) during that period would remain undiminished;
- &#8226; the preclusion period of 146 weeks would commence on 30 April 2005 and terminate on 15 February 2008; and 
- &#8226; after 15 February 2008, all other things being equal, Mr Clark would become entitled to any compensation affected payment (such as an age pension) applicable in his circumstances then.</sentence>
+ #8226; in the absence of any other disentitling provision, any entitlement Mr Clark had to a compensation affected payment (such as the social security benefit) during that period would remain undiminished;
+ #8226; the preclusion period of 146 weeks would commence on 30 April 2005 and terminate on 15 February 2008; and 
+ #8226; after 15 February 2008, all other things being equal, Mr Clark would become entitled to any compensation affected payment (such as an age pension) applicable in his circumstances then.</sentence>
 <sentence id="s92">
 
 32 However, there was another disentitling provision.</sentence>
@@ -490,7 +490,7 @@ In his affidavit, Mr Ingram asserted that at the time of drafting the particular
 <sentence id="s243">77 In the present case, Mr Clark must be taken to have decided against the former two courses.</sentence>
 <sentence id="s244">I do not know why he did so.</sentence>
 <sentence id="s245">In one sense, it seems unfair that Mr Clark should suffer a preclusion period until 15 February 2008, but I do not think that this constitutes "special circumstances" in the light of the legislative intention.</sentence>
-<sentence id="s246">78 If the position were otherwise, the r&eacute;gime that was introduced in 1988 would be defeated because it would be again open to parties to a settlement to attribute an artificially low figure to loss of earnings and earning capacity, and to the injured person, through s 1184K of the SS Act, to initiate the very kind of investigation that it was the intention of the 1988 amending Act to eliminate.</sentence>
+<sentence id="s246">78 If the position were otherwise, the reacute;gime that was introduced in 1988 would be defeated because it would be again open to parties to a settlement to attribute an artificially low figure to loss of earnings and earning capacity, and to the injured person, through s 1184K of the SS Act, to initiate the very kind of investigation that it was the intention of the 1988 amending Act to eliminate.</sentence>
 <sentence id="s247">79 For the above reasons, I do not think that the AAT erred in law in failing to exercise the discretion given by s 1184K of the SS Act.</sentence>
 <sentence id="s248">CONCLUSION 
  
@@ -502,7 +502,7 @@ In his affidavit, Mr Ingram asserted that at the time of drafting the particular
 
  Counsel for the Applicant: Mr R Hanrahan 
  
- Solicitor for the Applicant: Taylor &amp; Scott 
+ Solicitor for the Applicant: Taylor amp; Scott 
  
  Counsel for the Respondent: Mr D Jordan 
  
@@ -520,4 +520,8 @@ In his affidavit, Mr Ingram asserted that at the time of drafting the particular
  
  </sentence>
 </sentences>
+</case>>
+</case>ence>
+</sentences>
+</case>>
 </case>

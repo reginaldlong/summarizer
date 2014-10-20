@@ -3,12 +3,12 @@
 <name>Australian Prudential Regulation Authority v Siminton (No 11) [2007] FCA 1815 (28 November 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1815.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">penalty hearing</catchphrase>
-<catchphrase "id=c1">where respondent found guilty of contempt for failure to pay a fine imposed by the full court</catchphrase>
-<catchphrase "id=c2">considerations relevant to penalty</catchphrase>
-<catchphrase "id=c3">penalty to reflect seriousness of the matter</catchphrase>
-<catchphrase "id=c4">prison term imposed</catchphrase>
-<catchphrase "id=c5">contempt</catchphrase>
+<catchphrase >penalty hearing</catchphrase>
+<catchphrase >where respondent found guilty of contempt for failure to pay a fine imposed by the full court</catchphrase>
+<catchphrase >considerations relevant to penalty</catchphrase>
+<catchphrase >penalty to reflect seriousness of the matter</catchphrase>
+<catchphrase >prison term imposed</catchphrase>
+<catchphrase >contempt</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -25,8 +25,8 @@
 <sentence id="s7">I found that Mr Siminton's failure to make at least a part payment was wilful.</sentence>
 <sentence id="s8">3 In dealing with the issues arising in relation to the determination of a penalty the District Registrar drew attention to the following matters:
  
- &#8226; The contempt was properly to be characterised as "very serious": it was one of a number of contempts which occurred at or about the same time; it involved a failure to pay a fine imposed by the Full Court in respect of a separate finding of contempt; and it involved a deliberate and wilful disobedience of the Full Court's order; and
- &#8226; The failure by Mr Siminton to accept any responsibility for the contempt or to express remorse or contrition.</sentence>
+ #8226; The contempt was properly to be characterised as "very serious": it was one of a number of contempts which occurred at or about the same time; it involved a failure to pay a fine imposed by the Full Court in respect of a separate finding of contempt; and it involved a deliberate and wilful disobedience of the Full Court's order; and
+ #8226; The failure by Mr Siminton to accept any responsibility for the contempt or to express remorse or contrition.</sentence>
 <sentence id="s9">
 
 4 Counsel submitted that deliberate disobedience of the Full Court's order required a response which would deter Mr Siminton from committing further contempts and serve the purpose of general deterrence.</sentence>
@@ -40,11 +40,11 @@
 <sentence id="s17">Such an endorsement appeared on the copy of the Full Court order which was served on Mr Siminton.</sentence>
 <sentence id="s18">8 I take into account, as I did in Siminton (No 10) , that:
  
- &#8226; Mr Siminton has not apologised, expressed regret or in any other way sought to purge his contempt.</sentence>
-<sentence id="s19">&#8226; Mr Siminton has chosen not to provide evidence of his personal and financial circumstances.</sentence>
-<sentence id="s20">&#8226; Mr Siminton is an undischarged bankrupt who has failed to provide a statement of his affairs in accordance with the requirements of the Bankruptcy Act 1966 (Cth).</sentence>
-<sentence id="s21">&#8226; Mr Siminton claims to be impecunious.</sentence>
-<sentence id="s22">&#8226; Mr Siminton has a friend who might be disposed to provide an undisclosed amount of money to meet any fine which might be imposed by the Court.</sentence>
+ #8226; Mr Siminton has not apologised, expressed regret or in any other way sought to purge his contempt.</sentence>
+<sentence id="s19">#8226; Mr Siminton has chosen not to provide evidence of his personal and financial circumstances.</sentence>
+<sentence id="s20">#8226; Mr Siminton is an undischarged bankrupt who has failed to provide a statement of his affairs in accordance with the requirements of the Bankruptcy Act 1966 (Cth).</sentence>
+<sentence id="s21">#8226; Mr Siminton claims to be impecunious.</sentence>
+<sentence id="s22">#8226; Mr Siminton has a friend who might be disposed to provide an undisclosed amount of money to meet any fine which might be imposed by the Court.</sentence>
 <sentence id="s23">
 
 9 I also accept the District Registrar's submission that the contempt is properly to be characterised as "very serious" for the reasons which she advanced.</sentence>
@@ -66,7 +66,7 @@ Dated: 28 November 2007
  
  Counsel for the Respondent: Mr D Sharp 
  
- Solicitor for the Respondent: Erhardt &amp; Associates 
+ Solicitor for the Respondent: Erhardt amp; Associates 
  
  Date of Hearing: 15 November 2007 
  
@@ -83,4 +83,9 @@ Dated: 28 November 2007
  
  </sentence>
 </sentences>
+</case>
+</case>
+ </sentence>
+</sentences>
+</case>
 </case>

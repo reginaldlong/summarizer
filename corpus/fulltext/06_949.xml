@@ -3,9 +3,9 @@
 <name>Silkearl Pty Ltd v Ainsworth Game Technology Ltd [2006] FCA 949 (27 July 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/949.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application by company for a non-practitioner to appear on its behalf</catchphrase>
-<catchphrase "id=c1">application refused</catchphrase>
-<catchphrase "id=c2">practice and procedure</catchphrase>
+<catchphrase >application by company for a non-practitioner to appear on its behalf</catchphrase>
+<catchphrase >application refused</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -60,7 +60,7 @@
  
  Nevertheless the policy of the rule is clear that ordinarily a corporation will be required to be represented by a solicitor.</sentence>
 <sentence id="s24">Relevant factors for dispensing with that requirement include the financial capacity or lack of capacity of the corporation and those standing behind it, the effect of diverting company resources to paying legal expenses, the nature of the company's undertaking, its financial structure, its ability to retain and pay its staff and the identity and spread of its shareholders.</sentence>
-<sentence id="s25">The factual complexities of the case and the capacity of the proposed representative to conduct it effectively are also relevant --- VN International Video Pty Ltd v West End HK TVB Video &amp; Others (1996) 14 ACLC 1308.</sentence>
+<sentence id="s25">The factual complexities of the case and the capacity of the proposed representative to conduct it effectively are also relevant --- VN International Video Pty Ltd v West End HK TVB Video amp; Others (1996) 14 ACLC 1308.</sentence>
 <sentence id="s26">
  
  There is no doubt that those who chose to carry on their businesses through corporate structures enjoy advantages that those carrying on business on their own account do not enjoy.</sentence>
@@ -382,4 +382,5 @@ The Applicant appeared through Mr S Maiocchi on the motion by leave.</sentence>
  
  </sentence>
 </sentences>
-</case>
+</case>></sentences>
+</case>>

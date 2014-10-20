@@ -3,12 +3,12 @@
 <name>Cavoli v Etl [2007] FCA 1191 (16 August 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1191.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">creditor served bankruptcy notice on debtor</catchphrase>
-<catchphrase "id=c1">creditor was assignee of a debt from firm of solicitors</catchphrase>
-<catchphrase "id=c2">no evidence that assignor had security over debtor's property</catchphrase>
-<catchphrase "id=c3">no evidence that bankruptcy notice was issued solely for purpose of securing payment of debt</catchphrase>
-<catchphrase "id=c4">no evidence of a collateral purpose in a contrived arrangement to avoid assignor giving up security</catchphrase>
-<catchphrase "id=c5">bankruptcy</catchphrase>
+<catchphrase >creditor served bankruptcy notice on debtor</catchphrase>
+<catchphrase >creditor was assignee of a debt from firm of solicitors</catchphrase>
+<catchphrase >no evidence that assignor had security over debtor's property</catchphrase>
+<catchphrase >no evidence that bankruptcy notice was issued solely for purpose of securing payment of debt</catchphrase>
+<catchphrase >no evidence of a collateral purpose in a contrived arrangement to avoid assignor giving up security</catchphrase>
+<catchphrase >bankruptcy</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -218,7 +218,7 @@ He agreed that he made no attempt to exhaust other forms of debt recovery before
 <sentence id="s97">" 
  
 
-14 His Honour referred to statements of principle including those in Maxwell-Smith v S &amp; E Hall Pty Ltd [2006] FCA 825 when Jacobson J cited a number of propositions including at [43]: 
+14 His Honour referred to statements of principle including those in Maxwell-Smith v S amp; E Hall Pty Ltd [2006] FCA 825 when Jacobson J cited a number of propositions including at [43]: 
  
  "If it is apparent to the Court that the purpose of a bankruptcy notice is to put pressure on a debtor to pay a debt, rather than to invoke the Court's insolvency jurisdiction, the issue of the bankruptcy notice will be an abuse of process.</sentence>
 <sentence id="s98">" [Authorities cited] 
@@ -284,7 +284,7 @@ Dated: 16 August 2007
 
  Counsel for the Appellant: S O'Bryan SC and M Barrett 
  
- Solicitors for the Appellant: Cavoli &amp; Co 
+ Solicitors for the Appellant: Cavoli amp; Co 
  
  Counsel for the Respondent: J Selimi 
  
@@ -304,4 +304,8 @@ Dated: 16 August 2007
  
  </sentence>
 </sentences>
-</case>
+</case>e>tml 
+ 
+ </sentence>
+</sentences>
+</case>e>

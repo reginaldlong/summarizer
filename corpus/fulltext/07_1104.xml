@@ -3,11 +3,11 @@
 <name>Investa Properties Limited, in the matter of Investa Properties Limited [2007] FCA 1104 (18 July 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1104.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">scheme of arrangement</catchphrase>
-<catchphrase "id=c1">application for order under s 411(1) of corporations act 2001 (cth) that company convene meeting of members to consider proposed scheme of arrangement</catchphrase>
-<catchphrase "id=c2">term of scheme that "to the extent permitted by law" shares will vest in acquiring company free of interests of third parties</catchphrase>
-<catchphrase "id=c3">discussion of such a term. held : order made that company convene meeting to consider scheme incorporating the term.</catchphrase>
-<catchphrase "id=c4">corporations</catchphrase>
+<catchphrase >scheme of arrangement</catchphrase>
+<catchphrase >application for order under s 411(1) of corporations act 2001 (cth) that company convene meeting of members to consider proposed scheme of arrangement</catchphrase>
+<catchphrase >term of scheme that "to the extent permitted by law" shares will vest in acquiring company free of interests of third parties</catchphrase>
+<catchphrase >discussion of such a term. held : order made that company convene meeting to consider scheme incorporating the term.</catchphrase>
+<catchphrase >corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -105,7 +105,7 @@ The problem, however, as described by senior counsel for Investa, is that the Un
 <sentence id="s54">Deemed warranty of freedom from encumbrances 
  
 21 Each Scheme Participant is deemed to have warranted that all of its Shares and Units to be transferred to Morgan Stanley Bidco will at the date of transfer be "fully paid and free from all mortgages, charges, liens, encumbrances and interests of third parties of any kind, whether legal or otherwise, and restrictions on transfer of any kind...", and that the Scheme Participant has full power and capacity to sell and transfer them: cl 7.3.</sentence>
-<sentence id="s55">I have no difficulty with a provision of that kind: see APN News &amp; Media Limited (2007) 25 ACLC 784 ( APN ) at [57]---[63].</sentence>
+<sentence id="s55">I have no difficulty with a provision of that kind: see APN News amp; Media Limited (2007) 25 ACLC 784 ( APN ) at [57]---[63].</sentence>
 <sentence id="s56">Vesting free of encumbrances 
  
 22 As distinct from the deemed warranty just mentioned, the Scheme also includes (in cl 7.3(b)) what may be called a "vesting free of encumbrances" term.</sentence>
@@ -119,7 +119,7 @@ The problem, however, as described by senior counsel for Investa, is that the Un
 <sentence id="s64">The vesting free of encumbrances term would be binding on all members.</sentence>
 <sentence id="s65">It would, however, leave the interests of third parties to be governed by general law principles.</sentence>
 <sentence id="s66">As noted below, those principles give very substantial protection to an acquiring company.</sentence>
-<sentence id="s67">26 A "share" is a legal chose in action that is constituted by a bundle of contractual rights and obligations and represents a person's interest in a company, and which, subject to the company's constitution and possibly other constraints, is transferable, transmissible and capable of devolution by will and by operation of law: see the Act s 1070A , and Borland's Trustee v Steel Bros &amp; Co Ltd [1901] 1 Ch 279 at 288; Commissioners of Inland Revenue v Crossman [1937] AC 26 at 66; Archibald Howie Pty Ltd v Commissioner of Stamp Duties (NSW) [1948] HCA 28 ; (1948) 77 CLR 143 at 157.</sentence>
+<sentence id="s67">26 A "share" is a legal chose in action that is constituted by a bundle of contractual rights and obligations and represents a person's interest in a company, and which, subject to the company's constitution and possibly other constraints, is transferable, transmissible and capable of devolution by will and by operation of law: see the Act s 1070A , and Borland's Trustee v Steel Bros amp; Co Ltd [1901] 1 Ch 279 at 288; Commissioners of Inland Revenue v Crossman [1937] AC 26 at 66; Archibald Howie Pty Ltd v Commissioner of Stamp Duties (NSW) [1948] HCA 28 ; (1948) 77 CLR 143 at 157.</sentence>
 <sentence id="s68">Under general law principles, a buyer of a share enjoys priority over the holder of an earlier equitable interest because of the doctrine of bona fide purchaser of the legal estate without notice: see Meagher RP, Heydon JD and Leeming MJ, Meagher Gummow and Lehane's Equity Doctrines and Remedies (Butterworths LexisNexis, 2002) at [8-230]---[8-300].</sentence>
 <sentence id="s69">27 The only circumstances in which a "vesting free of encumbrances" term would have work to do would be if and to the extent that the acquiring company had notice of the equitable interest of a third party.</sentence>
 <sentence id="s70">I note in passing that the deemed warranty of freedom from encumbrances is expressed in terms that are, in the relevant part, identical to those of the vesting free of encumbrances provision, and this suggests that the drafter accepted that it was conceivable that at least in some circumstances equitable interests of third parties might survive implementation of the Share Scheme.</sentence>
@@ -192,4 +192,6 @@ Dated: 31 July 2007
  
  </sentence>
 </sentences>
-</case>
+</case>e> </sentence>
+</sentences>
+</case>e>

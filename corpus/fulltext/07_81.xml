@@ -3,12 +3,12 @@
 <name>Hem, in the matter of Coulco Trading Pty Ltd (Subjectto Deed of Company Arrangement) v Cant (Administrator of the Deed of Company Arrangement of Coulco Trading Pty Ltd (Subjectto Deed of Company Arrangement)) [2007] FCA 81 (9 February 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/81.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">constructive dismissal</catchphrase>
-<catchphrase "id=c1">whether unfounded accusation of theft sufficient to constitute</catchphrase>
-<catchphrase "id=c2">mitigation of loss</catchphrase>
-<catchphrase "id=c3">whether money earned in mitigation but which cannot be collected should be set off against damages</catchphrase>
-<catchphrase "id=c4">employment</catchphrase>
-<catchphrase "id=c5">damages</catchphrase>
+<catchphrase >constructive dismissal</catchphrase>
+<catchphrase >whether unfounded accusation of theft sufficient to constitute</catchphrase>
+<catchphrase >mitigation of loss</catchphrase>
+<catchphrase >whether money earned in mitigation but which cannot be collected should be set off against damages</catchphrase>
+<catchphrase >employment</catchphrase>
+<catchphrase >damages</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -26,7 +26,7 @@
 <sentence id="s10">Since the grant of leave, Mr Hem's appeal in relation to the debt claim has been compromised.</sentence>
 <sentence id="s11">All that remains is his claim for wrongful dismissal.</sentence>
 <sentence id="s12">3 The history of the matter may be briefly stated.</sentence>
-<sentence id="s13">Coulco Trading, formerly known as Motorgear Parts &amp; Accessories Pty Ltd, was a wholesaler and retailer of motor vehicle parts and accessories.</sentence>
+<sentence id="s13">Coulco Trading, formerly known as Motorgear Parts amp; Accessories Pty Ltd, was a wholesaler and retailer of motor vehicle parts and accessories.</sentence>
 <sentence id="s14">The company was owned by Graham Coulson and his family.</sentence>
 <sentence id="s15">Mr Coulson was the company's sole director and its secretary.</sentence>
 <sentence id="s16">The company had operated for many years and most of the time its business was successful.</sentence>
@@ -361,7 +361,7 @@ Dated: 9 February 2007
 
  Counsel for the Plaintiff: Ms A Kaitinis 
  
- Solicitor for the Plaintiff: John Curtain &amp; Associates 
+ Solicitor for the Plaintiff: John Curtain amp; Associates 
  
  Counsel for the Defendant: Mr A Sandbach 
  
@@ -382,4 +382,8 @@ Dated: 9 February 2007
  
  </sentence>
 </sentences>
-</case>
+</case>e>tml 
+ 
+ </sentence>
+</sentences>
+</case>e>

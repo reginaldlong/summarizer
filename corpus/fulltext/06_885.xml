@@ -3,13 +3,13 @@
 <name>Duncan v Commissioner of Taxation; in the matter of Trader Systems International Pty Ltd (in liq) (with Corrigendum dated 24 July 2006) [2006] FCA 885 (12 July 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/885.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">insolvency</catchphrase>
-<catchphrase "id=c1">whether transactions unfair preferences or uncommercial transactions</catchphrase>
-<catchphrase "id=c2">order that commissioner of taxation repay monies to liquidator</catchphrase>
-<catchphrase "id=c3">whether directors had reasonable grounds for expecting solvency</catchphrase>
-<catchphrase "id=c4">directors bear onus of proving expectation of solvency</catchphrase>
-<catchphrase "id=c5">no reasonable grounds</catchphrase>
-<catchphrase "id=c6">corporations</catchphrase>
+<catchphrase >insolvency</catchphrase>
+<catchphrase >whether transactions unfair preferences or uncommercial transactions</catchphrase>
+<catchphrase >order that commissioner of taxation repay monies to liquidator</catchphrase>
+<catchphrase >whether directors had reasonable grounds for expecting solvency</catchphrase>
+<catchphrase >directors bear onus of proving expectation of solvency</catchphrase>
+<catchphrase >no reasonable grounds</catchphrase>
+<catchphrase >corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -225,9 +225,9 @@ These payments were made by TSIA by cheques drawn on its bank account.</sentence
  (iv) the commercial reality that creditors will normally allow some latitude in time for payment of their debts does not, in itself, warrant a conclusion that the debts are not payable at the times contractually stipulated and have become debts payable only upon demand: Standard Chartered Bank v Antico (at 331); Hall v Press Plumbing ; Melbase (at 199; 832-3); Carrier (at 253; 777-778); Cuthbertson v Thomas (at 320); Lee Kong (at 112; 1,568); 
  
  (v) in assessing solvency, the court acts upon the basis that a contract debt is payable at the time stipulated for payment in the contract unless there is evidence, proving to the court's satisfaction, that: 
- &#8226; there has been an express or implied agreement between the company and the creditor for an extension of the time stipulated for payment; or 
- &#8226; there is a course of conduct between the company and the creditor sufficient to give rise to an estoppel preventing the creditor from relying upon the stipulated time for payment; or 
- &#8226; there has been a well established and recognised course of conduct in the industry in which the company operates, or as between the company and its creditors as a body, whereby debts are payable at a time other than that stipulated in the creditors' terms of trade or are payable only on demand: 
+ #8226; there has been an express or implied agreement between the company and the creditor for an extension of the time stipulated for payment; or 
+ #8226; there is a course of conduct between the company and the creditor sufficient to give rise to an estoppel preventing the creditor from relying upon the stipulated time for payment; or 
+ #8226; there has been a well established and recognised course of conduct in the industry in which the company operates, or as between the company and its creditors as a body, whereby debts are payable at a time other than that stipulated in the creditors' terms of trade or are payable only on demand: 
  Newark (at 414-415); Standard Chartered Bank v Antico (at 331); Melbase ; Cuthbertson v Thomas ; Fryer v Powell (at 444-445); 
  
  (vi) it is for the party asserting that a company's contract debts are not payable at the times contractually stipulated to make good that assertion by satisfactory evidence: Fryer v Powell (at 444-445); Melbase ; Cuthbertson v Thomas .</sentence>
@@ -277,10 +277,10 @@ Giles JA went on to add that solvency can be established even though the arrange
 <sentence id="s110">There is overwhelming evidence to support this opinion.</sentence>
 <sentence id="s111">41 TSI's operating revenue was never sufficient to meet the costs and expenses it incurred in each period after 1 July 1999.</sentence>
 <sentence id="s112">It made losses consistently between 1 July 1999 and 14 May 2003, as follows:
- &#8226; a loss of $129,845.00 for the year ending 30 June 2000;
- &#8226; a loss of $1,342,904.00 for the year ending 30 June 2001;
- &#8226; a loss of $278,597.00 for the year ending 30 June 2002; and
- &#8226; a loss of $695,493.00 for the period ending 14 May 2003.</sentence>
+ #8226; a loss of $129,845.00 for the year ending 30 June 2000;
+ #8226; a loss of $1,342,904.00 for the year ending 30 June 2001;
+ #8226; a loss of $278,597.00 for the year ending 30 June 2002; and
+ #8226; a loss of $695,493.00 for the period ending 14 May 2003.</sentence>
 <sentence id="s113">
 
 During the period 1 July 2002 to 14 May 2003, which encompasses the six months relation back period, TSI's accounts show that only $39,430.00 was recorded in sales whilst expenses of $917,370.00 were incurred.</sentence>
@@ -288,10 +288,10 @@ During the period 1 July 2002 to 14 May 2003, which encompasses the six months r
 <sentence id="s115">It is obvious from these figures, as the liquidator said in evidence, that TSI's profit margins were not such that the company could maintain ongoing operations without funds from sources exterior to the company.</sentence>
 <sentence id="s116">
  42 TSI had a substantial net asset deficiency throughout the period between 1 July 1999 to 15 May 2003, as follows:
- &#8226; a net asset deficiency of $94,608.00 for the year ended 30 June 2000;
- &#8226; a net asset deficiency of $1,437,512.00 for the year ended 30 June 2001;
- &#8226; a net asset deficiency of $1,716,109.00 for the year ended 30 June 2002; and
- &#8226; a net asset deficiency of $812,792.00 for the period ended 14 May 2003.</sentence>
+ #8226; a net asset deficiency of $94,608.00 for the year ended 30 June 2000;
+ #8226; a net asset deficiency of $1,437,512.00 for the year ended 30 June 2001;
+ #8226; a net asset deficiency of $1,716,109.00 for the year ended 30 June 2002; and
+ #8226; a net asset deficiency of $812,792.00 for the period ended 14 May 2003.</sentence>
 <sentence id="s117">
 
 Overall, the liquidator estimated that the total deficiency in the liquidation of TSI would be $1,279,353.00.</sentence>
@@ -320,7 +320,7 @@ These ratios indicate that TSI had inadequate current assets available to meet i
 <sentence id="s133">On 7 April 2003 the Commissioner again issued penalty notices against the directors of TSI.</sentence>
 <sentence id="s134">46 Throughout the period from November 2002 to April 2003, TSI's outstanding creditors were owed approximately $600,000.00.</sentence>
 <sentence id="s135">Debts to several creditors had been outstanding for substantial periods of time.</sentence>
-<sentence id="s136">These included debts owing to Baker &amp; McKenzie, the State Revenue Office of Victoria ('SRO'), and Swinburne University of Technology ('Swinburne').</sentence>
+<sentence id="s136">These included debts owing to Baker amp; McKenzie, the State Revenue Office of Victoria ('SRO'), and Swinburne University of Technology ('Swinburne').</sentence>
 <sentence id="s137">From August 2002, TSI fell behind in its obligation to make employee superannuation payments to REST Superannuation.</sentence>
 <sentence id="s138">By 30 April 2003, unpaid employee superannuation amounted to $4,938.00.</sentence>
 <sentence id="s139">In their reports as to the affairs of TSI, Scott and Fairbank estimated that unsecured creditors as at 15 May 2003 totalled approximately $1,301,575.00 and $196,261.00 respectively.</sentence>
@@ -352,7 +352,7 @@ There is no evidence that any of these parties was willing or able to repay its 
 <sentence id="s152">In this regard, it may be noted that the original agreement for Steven Girotto to participate in the business was for him to provide capital of US$7 million but no more than one third was ever provided.</sentence>
 <sentence id="s153">
  
- I also note that in an effort to provide an opportunity for the TSI group to continue in Australia, Swift Securities &amp; Investments Ltd in Malaysia has advanced to the Australian companies over $2 million.</sentence>
+ I also note that in an effort to provide an opportunity for the TSI group to continue in Australia, Swift Securities amp; Investments Ltd in Malaysia has advanced to the Australian companies over $2 million.</sentence>
 <sentence id="s154">At present, they are not in a position to continue that support due to their other commitments.</sentence>
 <sentence id="s155">
  
@@ -415,7 +415,7 @@ There is no evidence that any of these parties was willing or able to repay its 
  66 Scott and Fairbank disputed that the following debts were due and payable by TSI: 
  SRO: $118,408.00
  Swinburne: $73,005.00
- Baker &amp; McKenzie: $13,000.00
+ Baker amp; McKenzie: $13,000.00
  Gasp of Amazement Pty Ltd: $22,077.00
  Girotto Precast: $1,115,000.00 
 
@@ -429,7 +429,7 @@ The dispute takes no account of other debts which were due and payable by TSI du
  Paul Turner (Focus Point Services): $44,040.00 
 
 
-Scott and Fairbank did not dispute that the following debts were due and payable, but went unpaid, during the six month period ending 15 May 2003: superannuation contributions payable to the Australian Tax Office ($10,293.00) dating from July 2002; CARE Superannuation ($2,985.00) dating from August 2002; and Index Options Australia ($9,385.00) dating from August 2002; Chenu &amp; Associates ($3,000.00) dating from January 2003; and ASIC ($900.00) dating from February 2003.</sentence>
+Scott and Fairbank did not dispute that the following debts were due and payable, but went unpaid, during the six month period ending 15 May 2003: superannuation contributions payable to the Australian Tax Office ($10,293.00) dating from July 2002; CARE Superannuation ($2,985.00) dating from August 2002; and Index Options Australia ($9,385.00) dating from August 2002; Chenu amp; Associates ($3,000.00) dating from January 2003; and ASIC ($900.00) dating from February 2003.</sentence>
 <sentence id="s197">
  68 As for the disputed debts, Scott and Fairbank did not advance any satisfactory evidence establishing that the debts were not due and payable.</sentence>
 <sentence id="s198">Instead, they relied on assertions made from the witness box largely without any prior notice to the Commissioner or the liquidator.</sentence>
@@ -529,21 +529,21 @@ Scott and Fairbank did not dispute that the following debts were due and payable
 <sentence id="s231">There is no admissible evidence to support it.</sentence>
 <sentence id="s232">I reject the assertion that such an arrangement was made with Swinburne.</sentence>
 <sentence id="s233">
- Baker &amp; McKenzie 
+ Baker amp; McKenzie 
  
- 74 Baker &amp; McKenzie filed a proof of debt in the liquidation of TSI claiming an outstanding debt of $13,000.00.</sentence>
+ 74 Baker amp; McKenzie filed a proof of debt in the liquidation of TSI claiming an outstanding debt of $13,000.00.</sentence>
 <sentence id="s234">The debt arose from invoices submitted during the period 19 April 2002 to 26 July 2002.</sentence>
 <sentence id="s235">The invoices show that much of the work related to the preparation of software licences for entities described as 'TSI- Malaysia or Australia'.</sentence>
 <sentence id="s236">The invoices were directed to Swift Australia and marked for the attention of Scott.</sentence>
-<sentence id="s237">The invoices were recorded in TSI's accounts as a debt owing by TSI to Baker &amp; McKenzie.</sentence>
-<sentence id="s238">Both Scott and Fairbank listed the $13,000.00 debt to Baker &amp; McKenzie as a debt of TSI in their reports as to the affairs of TSI.</sentence>
-<sentence id="s239">75 In his oral evidence, Scott asserted that he had made a payment arrangement with a partner of Baker &amp; McKenzie, Jacobs, under which Baker &amp; McKenzie would not require payment of the outstanding debt until July 2003.</sentence>
+<sentence id="s237">The invoices were recorded in TSI's accounts as a debt owing by TSI to Baker amp; McKenzie.</sentence>
+<sentence id="s238">Both Scott and Fairbank listed the $13,000.00 debt to Baker amp; McKenzie as a debt of TSI in their reports as to the affairs of TSI.</sentence>
+<sentence id="s239">75 In his oral evidence, Scott asserted that he had made a payment arrangement with a partner of Baker amp; McKenzie, Jacobs, under which Baker amp; McKenzie would not require payment of the outstanding debt until July 2003.</sentence>
 <sentence id="s240">There is no written record of this arrangement.</sentence>
 <sentence id="s241">Jacobs was not called.</sentence>
 <sentence id="s242">No prior notice of this asserted arrangement was given by Scott to the other parties.</sentence>
 <sentence id="s243">It is not referred to in his affidavit.</sentence>
 <sentence id="s244">I do not accept Scott's evidence that such an arrangement was made.</sentence>
-<sentence id="s245">76 Fairbank disputed that the debt to Baker &amp; McKenzie was a debt of TSI at all, contending by reference to the invoices that it was really a debt of Swift Australia.</sentence>
+<sentence id="s245">76 Fairbank disputed that the debt to Baker amp; McKenzie was a debt of TSI at all, contending by reference to the invoices that it was really a debt of Swift Australia.</sentence>
 <sentence id="s246">Having regard to the fact that the debt was recorded in the books of account of TSI, and had previously been regarded by the directors of TSI as a company debt, I do not accept this evidence.</sentence>
 <sentence id="s247">
  Gasp of Amazement Pty Ltd 
@@ -600,7 +600,7 @@ Scott and Fairbank did not dispute that the following debts were due and payable
 <sentence id="s284">The second page of the letter contains additions in a different type face by which TSI Inc states that it accepts the arrangement proposed by Swift Malaysia subject to clarifications which are then set out.</sentence>
 <sentence id="s285">This additional segment of the letter was signed on behalf of the TSI Inc by Steven Girotto ('Girotto') and Fairbank in their capacity as directors of TSI Inc on, it seems, 19 July 2002 and 20 July 2002 respectively.</sentence>
 <sentence id="s286">86 So far as relevant, the letter of 17 July 2002 provided: 
- "This is to advise that Swift Securities &amp; Investments Limited (SSI) confirms the following offer: - 
+ "This is to advise that Swift Securities amp; Investments Limited (SSI) confirms the following offer: - 
  
  
  1.</sentence>
@@ -675,7 +675,7 @@ Scott and Fairbank did not dispute that the following debts were due and payable
  
  
  
- 4, 5 &amp; 6 TSI accepts the need for the reduction in operations for the purposes stated and agrees to make the necessary changes to its standard master licence agreement to not include the performance criteria in exclusive licences for 5 years, except if SSI is no longer the majority shareholder ... ... TSI will use its best endeavours to assist in the identification of the staff needed for carrying out the "hibernation" phase, however, the retaining or engaging of staff to carry out the business of TSIA and TSI P/L and their obligations in the new agreements with TSI will be SSI responsibilities.</sentence>
+ 4, 5 amp; 6 TSI accepts the need for the reduction in operations for the purposes stated and agrees to make the necessary changes to its standard master licence agreement to not include the performance criteria in exclusive licences for 5 years, except if SSI is no longer the majority shareholder ... ... TSI will use its best endeavours to assist in the identification of the staff needed for carrying out the "hibernation" phase, however, the retaining or engaging of staff to carry out the business of TSIA and TSI P/L and their obligations in the new agreements with TSI will be SSI responsibilities.</sentence>
 <sentence id="s324">If SSI wishes the current directors of TSIA and TSI P/L to make redundant all surplus staff, they will do so prior to their resignations provided that the funds to meet all such redundancies are first provided by SSI.</sentence>
 <sentence id="s325">TSI will use its best endeavours to assist in the preparation of a business plan for the hibernation phase.</sentence>
 <sentence id="s326">
@@ -982,5 +982,11 @@ Dated: 12 July 2006
  URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/885.html 
  
  </sentence>
+</sentences>
+</case>ce>
+</sentences>
+</case>nce>
+</sentences>
+</case>ce>
 </sentences>
 </case>

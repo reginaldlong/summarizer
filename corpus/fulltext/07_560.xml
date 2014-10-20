@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <case>
-<name>Maher v Commonwealth Bank of Australia &amp; Ors [2007] FCA 560 (20 April 2007)</name>
+<name>Maher v Commonwealth Bank of Australia amp; Ors [2007] FCA 560 (20 April 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/560.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for leave to appeal from an interlocutory judgment</catchphrase>
-<catchphrase "id=c1">leave refused</catchphrase>
-<catchphrase "id=c2">practice and procedure</catchphrase>
+<catchphrase >application for leave to appeal from an interlocutory judgment</catchphrase>
+<catchphrase >leave refused</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -131,4 +131,5 @@ Dated: 20 April 2007
  
  </sentence>
 </sentences>
-</case>
+</case>></sentences>
+</case>>

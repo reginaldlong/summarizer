@@ -3,11 +3,11 @@
 <name>South Johnstone Mill Ltd v Dennis and Scales [2007] FCA 1448 (14 September 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1448.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for leave to bring proceedings</catchphrase>
-<catchphrase "id=c1">whether leave may be granted nunc pro tunc</catchphrase>
-<catchphrase "id=c2">criteria to be applied</catchphrase>
-<catchphrase "id=c3">whether there is a serious question to be tried</catchphrase>
-<catchphrase "id=c4">corporations</catchphrase>
+<catchphrase >application for leave to bring proceedings</catchphrase>
+<catchphrase >whether leave may be granted nunc pro tunc</catchphrase>
+<catchphrase >criteria to be applied</catchphrase>
+<catchphrase >whether there is a serious question to be tried</catchphrase>
+<catchphrase >corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -26,8 +26,8 @@
 <sentence id="s8">The Company owned and operated a sugar mill in North Queensland.</sentence>
 <sentence id="s9">For the purposes of this proceeding, the assets it held may be broken down into two broad categories, namely:
  
- &#8226; milling assets, comprising property such as mill land and buildings, plant and equipment, stock, supplies and shares in sugar industry-related companies, including shares in Sugar Terminals Limited ('STL'); and
- &#8226; other land known as the Warrami Land.</sentence>
+ #8226; milling assets, comprising property such as mill land and buildings, plant and equipment, stock, supplies and shares in sugar industry-related companies, including shares in Sugar Terminals Limited ('STL'); and
+ #8226; other land known as the Warrami Land.</sentence>
 <sentence id="s10">
 
 4 From 1999 to 2001, the Company's trading position deteriorated seriously.</sentence>
@@ -251,7 +251,7 @@
 
 55 The real preliminary question in this application is that which I have just considered, namely whether the legislation, in requiring leave prior to the institution of proceedings, conditions the Court's jurisdiction.</sentence>
 <sentence id="s139">In my view it clearly does not.</sentence>
-<sentence id="s140">56 I note that there have been a number of cases in which leave to proceed under s 237 has been granted nunc pro tunc : see McLean v Lake Como Venture Pty Ltd [2004] 2 Qd R 280; RTP Holdings Pty Ltd v Roberts (2000) 36 ACSR 170; and Maher v Honeysett &amp; Maher Electrical Contractors [2005] NSWSC 859.</sentence>
+<sentence id="s140">56 I note that there have been a number of cases in which leave to proceed under s 237 has been granted nunc pro tunc : see McLean v Lake Como Venture Pty Ltd [2004] 2 Qd R 280; RTP Holdings Pty Ltd v Roberts (2000) 36 ACSR 170; and Maher v Honeysett amp; Maher Electrical Contractors [2005] NSWSC 859.</sentence>
 <sentence id="s141">I accept that in these cases no objection was taken to the grant of leave nunc pro tunc .</sentence>
 <sentence id="s142">It seems to me, having analysed the position, the grant of leave nunc pro tunc would be an available order to make in appropriate circumstances.</sentence>
 <sentence id="s143">Discretion to grant leave nunc pro tunc 
@@ -274,8 +274,8 @@
  
 62 In relation to the first criterion --- that it is probable that the Company will not itself institute proceedings --- the applicants sought to rely upon the following evidence:
  
- &#8226; The Company has had no directors since 20 February 2004.</sentence>
-<sentence id="s156">&#8226; The Company holds no assets as they were sold by the Receivers.</sentence>
+ #8226; The Company has had no directors since 20 February 2004.</sentence>
+<sentence id="s156">#8226; The Company holds no assets as they were sold by the Receivers.</sentence>
 <sentence id="s157">
 
 63 Having regard to the financial resources of the Company and the state of its management I consider that it is probable that the Company will not itself bring proceedings or properly take responsibility for them.</sentence>
@@ -285,8 +285,8 @@
  
 64 In relation to the second criterion --- that the applicants are acting in good faith --- it is established that there are at least two interrelated factors to which the court will have regard, namely:
  
- &#8226; whether the applicants have an honest belief of a good cause of action with reasonable prospects of success; and
- &#8226; whether the applicants have a collateral purpose that would amount to an abuse of process.</sentence>
+ #8226; whether the applicants have an honest belief of a good cause of action with reasonable prospects of success; and
+ #8226; whether the applicants have a collateral purpose that would amount to an abuse of process.</sentence>
 <sentence id="s161">
 
 See Swansson 42 ACSR at [36] per Palmer J; Goozee 42 ACSR at [56] per Barrett J; Herbert [2002] QSC at [27] per Mackenzie J; Fiduciary v Morningstar 53 ACSR at [21] per Austin J; Maher v Honeysett [2005] NSWSC 859 at [28] per Brereton J.</sentence>
@@ -401,35 +401,35 @@ See Swansson 42 ACSR at [36] per Palmer J; Goozee 42 ACSR at [56] per Barrett J;
 <sentence id="s232">To the extent that objections were made originally to the affidavits of Edward John Maitland, where matters the subject of these objections have been otherwise introduced into evidence, I have relied upon such evidence.</sentence>
 <sentence id="s233">In relation to the agency issue raised against the Bank, to which I specifically refer later, I have assumed all the evidence relied upon by the applicants is admissible.</sentence>
 <sentence id="s234">
- &#8226; The Company's annual report released in April 1999 stated that its total assets were valued at $73.32 million.</sentence>
+ #8226; The Company's annual report released in April 1999 stated that its total assets were valued at $73.32 million.</sentence>
 <sentence id="s235">This annual report was audited by PricewaterhouseCoopers.</sentence>
-<sentence id="s236">&#8226; On 6 January 2001, the Company held a public meeting to discuss its future.</sentence>
+<sentence id="s236">#8226; On 6 January 2001, the Company held a public meeting to discuss its future.</sentence>
 <sentence id="s237">It was stated in the presence of a representative of the Bank that the Bank "would not accept any offer in relation to [the Company] from any party other than Bundaberg Sugar Limited".</sentence>
-<sentence id="s238">&#8226; On 18 January 2001, the Receivers were appointed.</sentence>
-<sentence id="s239">&#8226; By 31 January 2001, Tully Sugar Limited ('Tully') had put together a consortium of interested parties including Ergon Energy, Theiss Constructions and North Queensland Electric Authority ('NQEA').</sentence>
-<sentence id="s240">&#8226; On 1 February 2001, Mr Dennis (the first-named first respondent) told Mr Camilleri representing Tully that the Bank would be supportive of a proposal by Tully to reduce the amount owing to the Bank to a manageable level.</sentence>
+<sentence id="s238">#8226; On 18 January 2001, the Receivers were appointed.</sentence>
+<sentence id="s239">#8226; By 31 January 2001, Tully Sugar Limited ('Tully') had put together a consortium of interested parties including Ergon Energy, Theiss Constructions and North Queensland Electric Authority ('NQEA').</sentence>
+<sentence id="s240">#8226; On 1 February 2001, Mr Dennis (the first-named first respondent) told Mr Camilleri representing Tully that the Bank would be supportive of a proposal by Tully to reduce the amount owing to the Bank to a manageable level.</sentence>
 <sentence id="s241">They discussed the fact that the sale of the Warrami Land could possibly eliminate the total debt owing to the Bank.</sentence>
-<sentence id="s242">&#8226; On 7 February 2001, KPMG provided to Tully a preliminary report on a due diligence investigation.</sentence>
+<sentence id="s242">#8226; On 7 February 2001, KPMG provided to Tully a preliminary report on a due diligence investigation.</sentence>
 <sentence id="s243">The value of the total assets of the Company was recorded at $80.3 million, as at 31 December 2000.</sentence>
-<sentence id="s244">&#8226; On 9 February 2001, Tully informed the Receivers by letter of Tully's desire to pursue a majority acquisition of the Company, and an offer was made to put $10.75 million in escrow for 6 to 8 weeks.</sentence>
+<sentence id="s244">#8226; On 9 February 2001, Tully informed the Receivers by letter of Tully's desire to pursue a majority acquisition of the Company, and an offer was made to put $10.75 million in escrow for 6 to 8 weeks.</sentence>
 <sentence id="s245">Government entities expressed support, in order to have $4 to $5 million set aside for repairs to the mill and contingencies.</sentence>
-<sentence id="s246">&#8226; Also on 9 February 2001, Tully informed the Receivers by letter that they were interested in purchasing the Company's sugar industry-related shares separately, including the STL shares.</sentence>
-<sentence id="s247">&#8226; On 12 February 2001, there was a meeting between Mr Camilleri, and the Receivers at which Mr Dennis advised Tully to proceed with its proposal but did not give a deadline.</sentence>
+<sentence id="s246">#8226; Also on 9 February 2001, Tully informed the Receivers by letter that they were interested in purchasing the Company's sugar industry-related shares separately, including the STL shares.</sentence>
+<sentence id="s247">#8226; On 12 February 2001, there was a meeting between Mr Camilleri, and the Receivers at which Mr Dennis advised Tully to proceed with its proposal but did not give a deadline.</sentence>
 <sentence id="s248">Tully thereafter inspected the Company's factory and continued with due diligence.</sentence>
-<sentence id="s249">&#8226; On 16 February 2001, STL reported to shareholders the net tangible asset backing was $1.06 per share, and the earnings per share were $0.013 per share.</sentence>
-<sentence id="s250">&#8226; On 19 February 2001, Tully wrote to the Receivers regarding previous inspection of the factory and due diligence.</sentence>
+<sentence id="s249">#8226; On 16 February 2001, STL reported to shareholders the net tangible asset backing was $1.06 per share, and the earnings per share were $0.013 per share.</sentence>
+<sentence id="s250">#8226; On 19 February 2001, Tully wrote to the Receivers regarding previous inspection of the factory and due diligence.</sentence>
 <sentence id="s251">Tully reiterated that it was interested in purchasing all the Company's assets or purchasing the STL shares separately.</sentence>
-<sentence id="s252">&#8226; On 20 February 2001, the Receivers advised Tully that their equity proposal "would be sufficient to take [the Company] out of receivership".</sentence>
-<sentence id="s253">&#8226; On 21 February 2001, at about 9.45 am, Tully told Mr Dennis that a proposal was to be presented to the Receivers and travel arrangements had been made.</sentence>
+<sentence id="s252">#8226; On 20 February 2001, the Receivers advised Tully that their equity proposal "would be sufficient to take [the Company] out of receivership".</sentence>
+<sentence id="s253">#8226; On 21 February 2001, at about 9.45 am, Tully told Mr Dennis that a proposal was to be presented to the Receivers and travel arrangements had been made.</sentence>
 <sentence id="s254">Mr Dennis said he would arrange a suitable time and venue (after a scheduled telephone conference with the Bank at 10.30 am).</sentence>
-<sentence id="s255">&#8226; On 21 February 2001, at about 10.30 am, the telephone conference between the Receivers and the Bank occurred.</sentence>
-<sentence id="s256">&#8226; On the same day, a contract for sale of all the Company's assets (save the Warrami Land) was entered into with Bundaberg for $15.1 million.</sentence>
-<sentence id="s257">&#8226; At about 4.00 pm on the same day, Mr Shannon representing Tully called Mr Dennis but was told he was unavailable.</sentence>
-<sentence id="s258">&#8226; At about 5.00 pm on that day, Tully first became aware that "a highly conditional contract had been signed...with [Bundaberg]".</sentence>
+<sentence id="s255">#8226; On 21 February 2001, at about 10.30 am, the telephone conference between the Receivers and the Bank occurred.</sentence>
+<sentence id="s256">#8226; On the same day, a contract for sale of all the Company's assets (save the Warrami Land) was entered into with Bundaberg for $15.1 million.</sentence>
+<sentence id="s257">#8226; At about 4.00 pm on the same day, Mr Shannon representing Tully called Mr Dennis but was told he was unavailable.</sentence>
+<sentence id="s258">#8226; At about 5.00 pm on that day, Tully first became aware that "a highly conditional contract had been signed...with [Bundaberg]".</sentence>
 <sentence id="s259">The Receivers advised "not to bother with any travel arrangements".</sentence>
-<sentence id="s260">&#8226; On 2 April 2001 the Receivers filed a report with ASIC.</sentence>
+<sentence id="s260">#8226; On 2 April 2001 the Receivers filed a report with ASIC.</sentence>
 <sentence id="s261">In that report there was no indication that the Receivers carried out valuations of the assets sold or advertised the sale.</sentence>
-<sentence id="s262">&#8226; On 21 August 2006, the Company executed transfer of part of the mill land.</sentence>
+<sentence id="s262">#8226; On 21 August 2006, the Company executed transfer of part of the mill land.</sentence>
 <sentence id="s263">Consideration was recorded as $14,599,993.</sentence>
 <sentence id="s264">
 
@@ -510,7 +510,7 @@ See Swansson 42 ACSR at [36] per Palmer J; Goozee 42 ACSR at [56] per Barrett J;
 <sentence id="s304">The letter went on:
  
  
- (iii) [Tully] still needed to establish how "to take control of [the Company's] Board" and advice was being sought from Flower &amp; Hart, Solicitors on this and other issues.</sentence>
+ (iii) [Tully] still needed to establish how "to take control of [the Company's] Board" and advice was being sought from Flower amp; Hart, Solicitors on this and other issues.</sentence>
 <sentence id="s305">
  
  
@@ -605,15 +605,15 @@ See Swansson 42 ACSR at [36] per Palmer J; Goozee 42 ACSR at [56] per Barrett J;
 <sentence id="s351">112 However, more than mere consultation or the communication of preferences by the mortgagee would be required: Chia 50 NSWLR at [885].</sentence>
 <sentence id="s352">113 The applicants relied upon the following main matters to support their contention that the Bank was heavily involved in the performance of the Receivers' duties:
  
- &#8226; The Bank had expressed a preference for a sale to Bundaberg on 6 January 2001.</sentence>
-<sentence id="s353">&#8226; On 30 January 2001, Mr Ray Pridmore, Global Credit Manager of the Melbourne branch of the Bank, spoke to members of Tully stating "[the Bank] can't allow the [Bundaberg] offer to lapse.</sentence>
+ #8226; The Bank had expressed a preference for a sale to Bundaberg on 6 January 2001.</sentence>
+<sentence id="s353">#8226; On 30 January 2001, Mr Ray Pridmore, Global Credit Manager of the Melbourne branch of the Bank, spoke to members of Tully stating "[the Bank] can't allow the [Bundaberg] offer to lapse.</sentence>
 <sentence id="s354">[Mr Pridmore] will attempt to negotiate an extended period.</sentence>
 <sentence id="s355">" At that time, no final offer had been received by the Bank from Bundaberg (through the Receivers).</sentence>
-<sentence id="s356">&#8226; Clause 18 of the Contract, which provided for the Bank to elect to complete the Contract or exercise the power of sale as mortgagee could only have been inserted on the Bank's instruction.</sentence>
+<sentence id="s356">#8226; Clause 18 of the Contract, which provided for the Bank to elect to complete the Contract or exercise the power of sale as mortgagee could only have been inserted on the Bank's instruction.</sentence>
 <sentence id="s357">The applicants submitted that if the Receivers were simply acting as agents for the Company, there would be no need for them to add such a clause.</sentence>
-<sentence id="s358">&#8226; On the morning of 21 February 2001, Tully spoke to the Receivers and wanted to arrange a meeting.</sentence>
+<sentence id="s358">#8226; On the morning of 21 February 2001, Tully spoke to the Receivers and wanted to arrange a meeting.</sentence>
 <sentence id="s359">The Receivers said they could not arrange a time without first conferring with the Bank at 10.30 am.</sentence>
-<sentence id="s360">&#8226; Mr Dennis wrote to Tully on 22 February 2001 and said "the position of our negotiations with [Tully] was duly considered in a telephone conference with [the Bank] on 21 February having regard to the interest of [the Bank] and the other stakeholders and in the context of the information available to me".</sentence>
+<sentence id="s360">#8226; Mr Dennis wrote to Tully on 22 February 2001 and said "the position of our negotiations with [Tully] was duly considered in a telephone conference with [the Bank] on 21 February having regard to the interest of [the Bank] and the other stakeholders and in the context of the information available to me".</sentence>
 <sentence id="s361">
 
 114 The applicants submitted that the Receivers were not merely consulting with the Bank but were taking instructions from it regarding negotiations with Tully.</sentence>
@@ -854,7 +854,7 @@ Dated: 14 September 2007
  
  Venera Angelina LO MONACO Eighty First Applicant 
  
- MJ ZAMMIT &amp; SONS PTY LTD Eighty Second Applicant 
+ MJ ZAMMIT amp; SONS PTY LTD Eighty Second Applicant 
  
  Concetto MONTI Eighty Third Applicant 
  
@@ -981,5 +981,9 @@ Dated: 14 September 2007
  URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/1448.html 
  
  </sentence>
+</sentences>
+</case> </sentence>
+</sentences>
+</case>e> </sentence>
 </sentences>
 </case>

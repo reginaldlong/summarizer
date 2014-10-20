@@ -3,9 +3,9 @@
 <name>Australian Prudential Regulation Authority v Siminton [2006] FCA 326 (30 March 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/326.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">whether order of a judge of the court made on an ex parte application was a nullity or was valid unless set aside</catchphrase>
-<catchphrase "id=c1">whether the respondent engaged in deliberate conduct in breach of the order</catchphrase>
-<catchphrase "id=c2">contempt</catchphrase>
+<catchphrase >whether order of a judge of the court made on an ex parte application was a nullity or was valid unless set aside</catchphrase>
+<catchphrase >whether the respondent engaged in deliberate conduct in breach of the order</catchphrase>
+<catchphrase >contempt</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -103,8 +103,8 @@
  Commonwealth Bank of Australia 
  
  
- &#8226; Account Name: Principality of Camside 
- &#8226; Account Number 3162 1027 8861; 
+ #8226; Account Name: Principality of Camside 
+ #8226; Account Number 3162 1027 8861; 
  
  ... 
  SAVE THAT nothing in this Order shall prevent the Respondent from: 
@@ -422,7 +422,7 @@
 <sentence id="s139">"' (footnotes omitted) 
  
 
-28 See also Australian Industry Group v Automotive, Food, Metals, Engineering, Printing &amp; Kindred Industries Union &amp; Ors [2000] FCA 629 (' AIG ') at [58].</sentence>
+28 See also Australian Industry Group v Automotive, Food, Metals, Engineering, Printing amp; Kindred Industries Union amp; Ors [2000] FCA 629 (' AIG ') at [58].</sentence>
 <sentence id="s140">29 In the present case, Siminton's failure to contradict the 'damning' inferences which APRA claims ought to be drawn from the proven facts, leaves no real scope for a rational or reasonable hypothesis consistent with his innocence.</sentence>
 <sentence id="s141">In the circumstances, I am satisfied beyond reasonable doubt that:
  
@@ -675,7 +675,7 @@ Dated: 30 March 2006
 
  Counsel for the Applicant: D Sharp 
  
- Solicitor for the Applicant: Erhardt &amp; Associates 
+ Solicitor for the Applicant: Erhardt amp; Associates 
  
  Counsel for the Respondent: D Mortimer SC with
 St J Hibble and 
@@ -695,4 +695,5 @@ V Priskich
  
  </sentence>
 </sentences>
-</case>
+</case>case>ntences>
+</case>case>

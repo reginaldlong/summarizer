@@ -3,11 +3,11 @@
 <name>Lawson v NSW Minister for Land and Water Conservation [2007] FCA 8 (12 January 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/8.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application by representative body to be joined as a party</catchphrase>
-<catchphrase "id=c1">application for compensation application to be dismissed</catchphrase>
-<catchphrase "id=c2">authorisation of representative body to seek dismissal of compensation application</catchphrase>
-<catchphrase "id=c3">compensation application dismissed for applicant's failure to progress ;</catchphrase>
-<catchphrase "id=c4">native title</catchphrase>
+<catchphrase >application by representative body to be joined as a party</catchphrase>
+<catchphrase >application for compensation application to be dismissed</catchphrase>
+<catchphrase >authorisation of representative body to seek dismissal of compensation application</catchphrase>
+<catchphrase >compensation application dismissed for applicant's failure to progress ;</catchphrase>
+<catchphrase >native title</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -109,9 +109,9 @@
 <sentence id="s66">Sackville J expressed those reasons as follows (at [789]): 
  
  
- &#8226; 'First, the applicants have not shown, on the evidence, that the indigenous witnesses, or members of the compensation claim group, acknowledged and observed at the relevant times the laws and customs of the Western Desert bloc as pleaded in the Points of Claim .</sentence>
+ #8226; 'First, the applicants have not shown, on the evidence, that the indigenous witnesses, or members of the compensation claim group, acknowledged and observed at the relevant times the laws and customs of the Western Desert bloc as pleaded in the Points of Claim .</sentence>
 <sentence id="s67">
- &#8226; Secondly, I am not satisfied that any laws and customs relating to rights and interests in land that may have been acknowledged and observed by the Aboriginal witnesses are the traditional laws and customs of the Western Desert bloc, within the meaning of s 223(1) of the NTA.</sentence>
+ #8226; Secondly, I am not satisfied that any laws and customs relating to rights and interests in land that may have been acknowledged and observed by the Aboriginal witnesses are the traditional laws and customs of the Western Desert bloc, within the meaning of s 223(1) of the NTA.</sentence>
 <sentence id="s68">' 
  
  
@@ -150,4 +150,6 @@ Dated: 12 January 2007
  
  </sentence>
 </sentences>
-</case>
+</case>e> </sentence>
+</sentences>
+</case>e>

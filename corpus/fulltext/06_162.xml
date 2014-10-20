@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <case>
-<name>VSAJ v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2006] FCA 162 (28 February 2006)</name>
+<name>VSAJ v Minister for Immigration amp; Multicultural amp; Indigenous Affairs [2006] FCA 162 (28 February 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/162.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from federal magistrates court</catchphrase>
-<catchphrase "id=c1">whether refugee review tribunal considered essential integer of appellant's claim</catchphrase>
-<catchphrase "id=c2">whether appellant denied procedural fairness by reason of lack of interpreter</catchphrase>
-<catchphrase "id=c3">whether refugee review tribunal biased</catchphrase>
-<catchphrase "id=c4">migration</catchphrase>
+<catchphrase >appeal from federal magistrates court</catchphrase>
+<catchphrase >whether refugee review tribunal considered essential integer of appellant's claim</catchphrase>
+<catchphrase >whether appellant denied procedural fairness by reason of lack of interpreter</catchphrase>
+<catchphrase >whether refugee review tribunal biased</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -66,7 +66,7 @@
 <sentence id="s51">His written contentions are difficult to follow, although his oral submissions were somewhat clearer.</sentence>
 <sentence id="s52">In substance, his complaints appear to be as follows:
  
- &#8226; the Tribunal failed to address an integral aspect of his claim, namely his contention that he was a member of the Muslim League; &#8226; he was denied procedural fairness by reason of the Tribunal's failure to provide him with the services of a competent interpreter; and &#8226; the Tribunal was biased, by which the appellant appeared to mean actually, and not merely ostensibly, biased.</sentence>
+ #8226; the Tribunal failed to address an integral aspect of his claim, namely his contention that he was a member of the Muslim League; #8226; he was denied procedural fairness by reason of the Tribunal's failure to provide him with the services of a competent interpreter; and #8226; the Tribunal was biased, by which the appellant appeared to mean actually, and not merely ostensibly, biased.</sentence>
 <sentence id="s53">
 
 14 In addition, the appellant sought to have the appeal to this Court adjourned for two to three weeks in order to enable him to obtain certain documents that he claimed would assist his case.</sentence>
@@ -138,4 +138,6 @@ Dated: 28 February 2006
  
  </sentence>
 </sentences>
-</case>
+</case>case>sentence>
+</sentences>
+</case>case>

@@ -3,10 +3,10 @@
 <name>Australian Olives Limited v Stout (No. 2) [2007] FCA 2090 (24 December 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/2090.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">consideration of an application by members of a managed investment scheme registered under the provisions of the corporations act 2001 (cth) for orders for the convening of a meeting of scheme members pursuant to s 252e(1) of the act</catchphrase>
-<catchphrase "id=c1">consideration of whether a declaration ought to be made as to a chairman's failure to put a motion to an earlier meeting of scheme members</catchphrase>
-<catchphrase "id=c2">consideration of whether an order in relation to the earlier meeting ought to be made pursuant to s 1332 of the act</catchphrase>
-<catchphrase "id=c3">corporations law</catchphrase>
+<catchphrase >consideration of an application by members of a managed investment scheme registered under the provisions of the corporations act 2001 (cth) for orders for the convening of a meeting of scheme members pursuant to s 252e(1) of the act</catchphrase>
+<catchphrase >consideration of whether a declaration ought to be made as to a chairman's failure to put a motion to an earlier meeting of scheme members</catchphrase>
+<catchphrase >consideration of whether an order in relation to the earlier meeting ought to be made pursuant to s 1332 of the act</catchphrase>
+<catchphrase >corporations law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -196,7 +196,7 @@
 <sentence id="s119">The chairman 'as a matter of law has a wide discretion with which the Court will not interfere unless the exercise of the discretion can be shown to be invalid, e.g.</sentence>
 <sentence id="s120">on the ground that it was exercised in bad faith' ( Re Direct Acceptance Corporation Ltd (1987) 5 ACLC 1037, per McLelland J, at 1041).</sentence>
 <sentence id="s121">Some questions must be determined by the chairman that are characterised as 'emergent questions', ie, 'questions of fact which have to be decided then and there and as to which there is the general presumption, in the absence of fraud, that they were duly and properly decided.</sentence>
-<sentence id="s122">It rests, therefore, upon the side impeaching such a decision to overturn it by evidence showing that it was without foundation, that the fact was wrongly decided, or that there was some legal requisite not observed' ( McLean Bros &amp; Rigg Ltd v Grice (1906) 4 (Pt 1) CLR 835 at 860 and 861, per Barton J; Re Indian Zoedone Company (1884) 26 Ch. D 70 at p 77, per the Earl of Selbourne LC).</sentence>
+<sentence id="s122">It rests, therefore, upon the side impeaching such a decision to overturn it by evidence showing that it was without foundation, that the fact was wrongly decided, or that there was some legal requisite not observed' ( McLean Bros amp; Rigg Ltd v Grice (1906) 4 (Pt 1) CLR 835 at 860 and 861, per Barton J; Re Indian Zoedone Company (1884) 26 Ch. D 70 at p 77, per the Earl of Selbourne LC).</sentence>
 <sentence id="s123">The chairman must act in good faith, in accordance with any relevant law, and on reasonable grounds.</sentence>
 <sentence id="s124">If there is insufficient material available to the chairman to enable him or her properly to make such a determination in a particular case, the chairman should not purport to do so.</sentence>
 <sentence id="s125">However, if the chairman does do so the Court will treat the determination as correct unless it is shown that it was not made in good faith or that there were no reasonable grounds to support it or that on the evidence before the Court the determination was incorrect in point of substance (see Re Triden Contractors Ltd (1992) 30 NSWLR 615 at pp 616 and 617 per McLelland J).</sentence>
@@ -320,4 +320,6 @@ Dated: 24 December 2007
  
  </sentence>
 </sentences>
-</case>
+</case>>tence>
+</sentences>
+</case>>

@@ -3,15 +3,15 @@
 <name>Vision Super Pty Ltd v Poulter [2006] FCA 849 (6 July 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/849.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">review of decisions of superannuation complaints tribunal</catchphrase>
-<catchphrase "id=c1">whether tribunal had jurisdiction</catchphrase>
-<catchphrase "id=c2">whether complaint related to management of fund as a whole</catchphrase>
-<catchphrase "id=c3">construction of terms of deed governing fund</catchphrase>
-<catchphrase "id=c4">construction of term 'interest'</catchphrase>
-<catchphrase "id=c5">whether tribunal decision contrary to terms of deed</catchphrase>
-<catchphrase "id=c6">whether tribunal decision contrary to law</catchphrase>
-<catchphrase "id=c7">whether fair and reasonable in the circumstances</catchphrase>
-<catchphrase "id=c8">superannuation</catchphrase>
+<catchphrase >review of decisions of superannuation complaints tribunal</catchphrase>
+<catchphrase >whether tribunal had jurisdiction</catchphrase>
+<catchphrase >whether complaint related to management of fund as a whole</catchphrase>
+<catchphrase >construction of terms of deed governing fund</catchphrase>
+<catchphrase >construction of term 'interest'</catchphrase>
+<catchphrase >whether tribunal decision contrary to terms of deed</catchphrase>
+<catchphrase >whether tribunal decision contrary to law</catchphrase>
+<catchphrase >whether fair and reasonable in the circumstances</catchphrase>
+<catchphrase >superannuation</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -173,7 +173,7 @@ Clause C.4.9(a)(1) is essentially a starting point for calculating a member's be
 <sentence id="s57">When he resigned from this employment in 1993, he had the option of exiting the scheme and being paid a resignation benefit, or remaining in the scheme and electing to take a deferred retirement benefit.</sentence>
 <sentence id="s58">On 5 August 1993, Mr Mathews elected to remain in the scheme and to accept a deferred retirement benefit.</sentence>
 <sentence id="s59">23 The applicant's calculation sheet shows that Mr Matthew's resignation benefit at the point of his election was $306,703, whereas his deferred retirement benefit at that point was $461,669.</sentence>
-<sentence id="s60">24 For the period from 1 July 2001 to 30 June 2002, Mr Mathews received a statement from the applicant advising that his entitlement had been reduced by 'interest' of &#173;$24,796.96.</sentence>
+<sentence id="s60">24 For the period from 1 July 2001 to 30 June 2002, Mr Mathews received a statement from the applicant advising that his entitlement had been reduced by 'interest' of #173;$24,796.96.</sentence>
 <sentence id="s61">Mr Mathews retired from his employment in Queensland on 11 August 2002 and ceased to be a deferred benefit member of the Fund on 15 August 2002.</sentence>
 <sentence id="s62">For the period from 1 July 2002 to 15 August 2002, the applicant advised Mr Mathews by letter dated 11 December 2002 that his deferred retirement account balance as at 30 June 2002 had been reduced by negative earnings of -$2,183.76 for the period from 1 July to 15 August 2002.</sentence>
 <sentence id="s63">Mr Mathews was paid the reduced benefit on or about 15 August 2002.</sentence>
@@ -558,10 +558,10 @@ This provision is not directly applicable because it only concerns interest betw
 <sentence id="s300">88 The respondents relied upon provisions found in other divisions of the Deed, aside from Divisions A and C, in support of their arguments.</sentence>
 <sentence id="s301">These other references need to be approached with caution, as they are directed to different sub-schemes and different kinds of entitlement.</sentence>
 <sentence id="s302">89 In summary, the other provisions are:
- &#8226; Clause B.3.2(k), which relates to Division B accumulation members and which allows for the debiting of a negative 'Declared Rate' (as defined in cl B.1.2).</sentence>
-<sentence id="s303">&#8226; Clause D.4.5(c)(3) and (9), which relate to former City of Melbourne Superannuation Fund members.</sentence>
-<sentence id="s304">&#8226; Clause G.2.2(h) and (o), which relate to personal retirement account holders.</sentence>
-<sentence id="s305">&#8226; Clause H.4.2(a)(2) and (b)(6), which relate to eligible spouse member's accounts.</sentence>
+ #8226; Clause B.3.2(k), which relates to Division B accumulation members and which allows for the debiting of a negative 'Declared Rate' (as defined in cl B.1.2).</sentence>
+<sentence id="s303">#8226; Clause D.4.5(c)(3) and (9), which relate to former City of Melbourne Superannuation Fund members.</sentence>
+<sentence id="s304">#8226; Clause G.2.2(h) and (o), which relate to personal retirement account holders.</sentence>
+<sentence id="s305">#8226; Clause H.4.2(a)(2) and (b)(6), which relate to eligible spouse member's accounts.</sentence>
 <sentence id="s306">
 
 
@@ -584,7 +584,7 @@ The provisions are not uniform and it is unnecessary to set them out in detail.<
 <sentence id="s320">93 The respondents' argument invokes the maxim expressio unius est exclusio alterius.</sentence>
 <sentence id="s321">Particular reliance was placed upon the statement by DC Pearce and RS Geddes, Statutory Interpretation in Australia , 5 th edn, Butterworths, 2001, at para [4.26] that '[i]t is a reasonable assumption that when legislation includes provisions relating to similar matters in different terms, there is a deliberate intention to deal with them differently.</sentence>
 <sentence id="s322">'
- 94 From time to time courts have expressed reservations about this maxim, and it is always applied with caution: see Houssein v Under Secretary, Department of Industrial Relations &amp; Technology (NSW) (1982) 48 CLR 88 at 94 per Stephen, Mason, Aickin, Wilson and Brennan JJ; see also the authorities collected in Pearce and Geddes, Statutory Interpretation in Australia , supra, at paras [4.24]-[4.27].</sentence>
+ 94 From time to time courts have expressed reservations about this maxim, and it is always applied with caution: see Houssein v Under Secretary, Department of Industrial Relations amp; Technology (NSW) (1982) 48 CLR 88 at 94 per Stephen, Mason, Aickin, Wilson and Brennan JJ; see also the authorities collected in Pearce and Geddes, Statutory Interpretation in Australia , supra, at paras [4.24]-[4.27].</sentence>
 <sentence id="s323">95 Bearing these reservations in mind and recognising the need to proceed with caution, I have concluded that the contrast between cl C.4.10 and these other provisions is capable of providing some support, albeit in a very subsidiary way, for the construction of cl C.4.10 that I prefer.</sentence>
 <sentence id="s324">The short point is that the drafters of the Deed could have specifically included a provision in cl C.4.10 entitling the applicant to deduct negative interest (as defined) from a member's deferred retirement benefit, but they did not do so.</sentence>
 <sentence id="s325">However, given the history of the LAS Act and the Deed and the way in which different divisions have been introduced at different times to accommodate different sub-schemes, I would treat the point very cautiously.</sentence>
@@ -714,4 +714,8 @@ Dated: 6 July 2006
  
  </sentence>
 </sentences>
-</case>
+</case>/case>th/FCA/2006/849.html 
+ 
+ </sentence>
+</sentences>
+</case>/case>

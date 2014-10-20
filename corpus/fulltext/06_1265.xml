@@ -3,12 +3,12 @@
 <name>Amcor Packaging (Australia) Pty Ltd v The Automotive, Food, Metals, Engineering, Printing and Kindred Industries Union of Australia [2006] FCA 1265 (11 August 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1265.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">interlocutory application (to prevent industrial action)</catchphrase>
-<catchphrase "id=c1">principles applicable</catchphrase>
-<catchphrase "id=c2">whether serious question to be tried</catchphrase>
-<catchphrase "id=c3">whether balance of convenience favours grant of interlocutory relief</catchphrase>
-<catchphrase "id=c4">consideration of appropriate orders</catchphrase>
-<catchphrase "id=c5">industrial law</catchphrase>
+<catchphrase >interlocutory application (to prevent industrial action)</catchphrase>
+<catchphrase >principles applicable</catchphrase>
+<catchphrase >whether serious question to be tried</catchphrase>
+<catchphrase >whether balance of convenience favours grant of interlocutory relief</catchphrase>
+<catchphrase >consideration of appropriate orders</catchphrase>
+<catchphrase >industrial law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -243,7 +243,7 @@ Dated: 22 September 2006
 
  Counsel for the Applicant: Mr N Green QC with Mr J Snaden 
  
- Solicitor for the Applicant: Trindale Farr &amp; Pill 
+ Solicitor for the Applicant: Trindale Farr amp; Pill 
  
  Counsel for the Respondent: Ms A Gooley 
  
@@ -261,4 +261,8 @@ Dated: 22 September 2006
  
  </sentence>
 </sentences>
-</case>
+</case>>html 
+ 
+ </sentence>
+</sentences>
+</case>>

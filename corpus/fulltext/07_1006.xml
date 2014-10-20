@@ -3,19 +3,19 @@
 <name>Di Lorenzo Ceramics Pty Ltd v Commissioner of Taxation [2007] FCA 1006 (5 July 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1006.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">deemed dividends</catchphrase>
-<catchphrase "id=c1">div 7a of pt iii of the income tax assessment act 1936 (cth)</catchphrase>
-<catchphrase "id=c2">trustee (t) of unit trust purchases land and constructs business premises upon it, borrowing from bank (anz) for the purpose</catchphrase>
-<catchphrase "id=c3">related trading company (c) pays some of the liabilities incurred by t on the purchase and the construction, debiting a "loan account" of t in c's general ledger</catchphrase>
-<catchphrase "id=c4">advances by anz and other amounts payable to t are credited to the loan account</catchphrase>
-<catchphrase "id=c5">t has no bank account of its own, all payments and receipts on account of t taking place in c's bank account and being reflected in t's running loan account with c</catchphrase>
-<catchphrase "id=c6">factual dispute as to whether loans by c to t within s 109d of the act or payments by c to t within s 109c of the act</catchphrase>
-<catchphrase "id=c7">whether ss 109c and 109d operated only to deem payments and loans made to persons beneficially to be dividends</catchphrase>
-<catchphrase "id=c8">whether the loans or payments made by c should be seen to be deemed dividends paid to the unitholders, c and another family company (f). held : (1) the amounts paid by c were loans to t; (2) div 7a was not limited to amounts lent or paid to an entity in a non-trustee capacity; (3) div 7a operated to deem the loans or payments to be dividends paid to t as trustee; (4) div 6 of pt iii of the act made the deemed dividends assessable income of the unitholders, c and f, as persons presently entitled to income of the unit trust fund.</catchphrase>
-<catchphrase "id=c9">109ze ) esp ss 109c , 109d , 109j , 109k , 109z , 109zd , 109ze income tax assessment act 1997 (cth) ss 2</catchphrase>
-<catchphrase "id=c10">45 , 960-100</catchphrase>
-<catchphrase "id=c11">income tax</catchphrase>
-<catchphrase "id=c12">income tax assessment act 1936 (cth) pt iii , div 7a (ss 109a</catchphrase>
+<catchphrase >deemed dividends</catchphrase>
+<catchphrase >div 7a of pt iii of the income tax assessment act 1936 (cth)</catchphrase>
+<catchphrase >trustee (t) of unit trust purchases land and constructs business premises upon it, borrowing from bank (anz) for the purpose</catchphrase>
+<catchphrase >related trading company (c) pays some of the liabilities incurred by t on the purchase and the construction, debiting a "loan account" of t in c's general ledger</catchphrase>
+<catchphrase >advances by anz and other amounts payable to t are credited to the loan account</catchphrase>
+<catchphrase >t has no bank account of its own, all payments and receipts on account of t taking place in c's bank account and being reflected in t's running loan account with c</catchphrase>
+<catchphrase >factual dispute as to whether loans by c to t within s 109d of the act or payments by c to t within s 109c of the act</catchphrase>
+<catchphrase >whether ss 109c and 109d operated only to deem payments and loans made to persons beneficially to be dividends</catchphrase>
+<catchphrase >whether the loans or payments made by c should be seen to be deemed dividends paid to the unitholders, c and another family company (f). held : (1) the amounts paid by c were loans to t; (2) div 7a was not limited to amounts lent or paid to an entity in a non-trustee capacity; (3) div 7a operated to deem the loans or payments to be dividends paid to t as trustee; (4) div 6 of pt iii of the act made the deemed dividends assessable income of the unitholders, c and f, as persons presently entitled to income of the unit trust fund.</catchphrase>
+<catchphrase >109ze ) esp ss 109c , 109d , 109j , 109k , 109z , 109zd , 109ze income tax assessment act 1997 (cth) ss 2</catchphrase>
+<catchphrase >45 , 960-100</catchphrase>
+<catchphrase >income tax</catchphrase>
+<catchphrase >income tax assessment act 1936 (cth) pt iii , div 7a (ss 109a</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -60,7 +60,7 @@
 <sentence id="s34">The construction of the building was completed in September 2002.</sentence>
 <sentence id="s35">In October 2002, the business was relocated to the new building.</sentence>
 <sentence id="s36">10 Mrs Fresta is a qualified chartered accountant and a member of the Institute of Chartered Accountants in Australia.</sentence>
-<sentence id="s37">According to her affidavit, she left employment with Ernst &amp; Young in 1993 and joined the family's business as the internal accountant for Ceramics.</sentence>
+<sentence id="s37">According to her affidavit, she left employment with Ernst amp; Young in 1993 and joined the family's business as the internal accountant for Ceramics.</sentence>
 <sentence id="s38">According to Mr Di Lorenzo's affidavit, from about 1996, when he underwent heart surgery, Mr and Mrs Fresta have worked in the family business.</sentence>
 <sentence id="s39">It may be that 1993 is the correct year for Mrs Fresta and 1996 the correct one for her husband.</sentence>
 <sentence id="s40">11 The external accountants and tax agents of the business are LCI Partners Pty Ltd (LCI).</sentence>
@@ -111,11 +111,11 @@
 Generally speaking, the amendments applied from 4 December 1997, the date of their introduction into the Parliament.</sentence>
 <sentence id="s80">Section 109B , the first section within Div 7A, explained that the Division treated three kinds of amounts as dividends paid by a private company:
  
-&#8226; amounts paid by the company to a shareholder or shareholder's associate (s 109C) ;
+#8226; amounts paid by the company to a shareholder or shareholder's associate (s 109C) ;
  
-&#8226; amounts lent by the company to a shareholder or shareholder's associate (ss 109D , 109E );
+#8226; amounts lent by the company to a shareholder or shareholder's associate (ss 109D , 109E );
  
-&#8226; amounts of debts owed by a shareholder or shareholder's associate to the company that the company forgave (s 109F).</sentence>
+#8226; amounts of debts owed by a shareholder or shareholder's associate to the company that the company forgave (s 109F).</sentence>
 <sentence id="s81">27 The amounts were made assessable income of the shareholder or associate (under s 44(1) , noted earlier) and provided a basis for reducing the company's franking account credit (under s 160AQCNC).</sentence>
 <sentence id="s82">28 Some payments, loans and forgivings of debts were not treated as dividends (Subdivs C and D).</sentence>
 <sentence id="s83">Two of the provisions in Subdiv D have featured in this case.</sentence>
@@ -149,11 +149,11 @@ I discuss this provision at [95] --- [98] below.</sentence>
 <sentence id="s93">31 In the present case, "the company" is Ceramics and the shareholders in it are Mr and Mrs Di Lorenzo.</sentence>
 <sentence id="s94">The Commissioner's case is that:
  
-&#8226; Ceramics made loans to Tile by reason of the payments it made in discharge of Tile's liabilities in connection with the purchase and construction;
+#8226; Ceramics made loans to Tile by reason of the payments it made in discharge of Tile's liabilities in connection with the purchase and construction;
  
-&#8226; by reason of the fact that Mr and Mrs Di Lorenzo were the only shareholders in Ceramics and Tile, and of the statutory definition of "associate", Tile was an associate of the shareholders in Ceramics; and
+#8226; by reason of the fact that Mr and Mrs Di Lorenzo were the only shareholders in Ceramics and Tile, and of the statutory definition of "associate", Tile was an associate of the shareholders in Ceramics; and
  
-&#8226; in their capacity as unitholders, Ceramics and Fresta were presently entitled to the income consisting of the deemed dividends, as to three quarters in the case of Ceramics and as to one quarter in the case of Fresta.</sentence>
+#8226; in their capacity as unitholders, Ceramics and Fresta were presently entitled to the income consisting of the deemed dividends, as to three quarters in the case of Ceramics and as to one quarter in the case of Fresta.</sentence>
 <sentence id="s95">32 Sections 109C and 109D provided as follows:
  
  109C Payments treated as dividends 
@@ -609,13 +609,13 @@ There is in evidence a statement of account issued by ANZ in respect of Ceramics
 <sentence id="s348">105 I do not find it necessary to discuss in detail the present Unit Trust Deed or the matters just mentioned in the light of its terms.</sentence>
 <sentence id="s349">It suffices to say that under the Unit Trust Deed:
  
-&#8226; Ceramics and Fresta as the unitholders are beneficially entitled to the Trust Fund (as defined in the Deed) in proportion to the numbers of units registered in their respective names, but that neither of them has any interest in any particular part of the Trust Fund (cl 2.3);
+#8226; Ceramics and Fresta as the unitholders are beneficially entitled to the Trust Fund (as defined in the Deed) in proportion to the numbers of units registered in their respective names, but that neither of them has any interest in any particular part of the Trust Fund (cl 2.3);
  
-&#8226; Tile, as trustee, is required at the end of each financial year to determine the net income of the Trust Fund and the amount of any distribution to unit holders (cl 10.3); 
+#8226; Tile, as trustee, is required at the end of each financial year to determine the net income of the Trust Fund and the amount of any distribution to unit holders (cl 10.3); 
  
-&#8226; if it fails to do so, the income of the Trust Fund for that year is the "net income" of it determined in accordance with s 95(1) of the Act (cl 10.5); and
+#8226; if it fails to do so, the income of the Trust Fund for that year is the "net income" of it determined in accordance with s 95(1) of the Act (cl 10.5); and
  
-&#8226; Tile as trustee is given expressly a right of indemnity out of the Trust Fund in respect of liabilities incurred by it (cl 31.3) but is not entitled to indemnity or reimbursement from the unitholders themselves (cl 31.4 --- an exclusion of the right of a trustee recognised in Hardoon v Belilios [1901] AC 118).</sentence>
+#8226; Tile as trustee is given expressly a right of indemnity out of the Trust Fund in respect of liabilities incurred by it (cl 31.3) but is not entitled to indemnity or reimbursement from the unitholders themselves (cl 31.4 --- an exclusion of the right of a trustee recognised in Hardoon v Belilios [1901] AC 118).</sentence>
 <sentence id="s350">106 While the provisions mentioned indicate that it would be quite inconsistent with the terms of the Unit Trust to regard the case as one in which Ceramics and Fresta held the Trust Fund themselves, both the applicants and the Commissioner have proceeded on the basis that Ceramics and Fresta are presently entitled, as to three quarters and one quarter respectively, to the income of the Trust Fund.</sentence>
 <sentence id="s351">107 For the year of income ended 30 June 2000, the Commissioner treated the income of the Unit Trust as increased by $384,218 representing the amount of the payments made by Ceramics to Tile in that year, and for the year of income ended 30 June 2001, the Commissioner treated the net income of the Unit Trust increased by $457,487 representing the net amount of the payments made by Ceramics to Tile during that year after allowing for credits.</sentence>
 <sentence id="s352">He treated Ceramics and Tile, as unitholders, as presently entitled, as to three quarters and one quarter respectively, to the income of the Trust Fund.</sentence>
@@ -669,7 +669,7 @@ Dated: 5 July 2007
 
  Counsel for the Applicants: Mr D G Russell QC and Mr M L Robertson 
  
- Solicitors for the Applicants: N Panos &amp; Associates 
+ Solicitors for the Applicants: N Panos amp; Associates 
  
  Counsel for the Respondent: Ms M Kennedy SC and Mr A Diethelm 
  
@@ -691,4 +691,10 @@ Dated: 5 July 2007
  
  </sentence>
 </sentences>
+</case>ces>
+</case>ustlii.edu.au/au/cases/cth/FCA/2007/1006.html 
+ 
+ </sentence>
+</sentences>
+</case>ces>
 </case>

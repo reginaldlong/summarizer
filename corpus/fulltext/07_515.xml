@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <case>
-<name>SZIMO v Minister for Immigration &amp; Citizenship [2007] FCA 515 (20 April 2007)</name>
+<name>SZIMO v Minister for Immigration amp; Citizenship [2007] FCA 515 (20 April 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/515.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">protection visa</catchphrase>
-<catchphrase "id=c1">no jurisdictional error</catchphrase>
-<catchphrase "id=c2">migration</catchphrase>
+<catchphrase >protection visa</catchphrase>
+<catchphrase >no jurisdictional error</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -237,4 +237,5 @@ Dated: 20 April 2007
  
  </sentence>
 </sentences>
-</case>
+</case>></sentences>
+</case>>

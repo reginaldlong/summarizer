@@ -3,11 +3,11 @@
 <name>Laserbond Limited (ACN 057 636 692), in the matter of Laserbond Limited (ACN 057 636 692) [2007] FCA 2056 (19 December 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/2056.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for listing to asx lodged 1 day late</catchphrase>
-<catchphrase "id=c1">administrative error only</catchphrase>
-<catchphrase "id=c2">analysis of appropriate relief and considerations relevant to exercise of discretion if relief is to be granted</catchphrase>
-<catchphrase "id=c3">turns on own facts</catchphrase>
-<catchphrase "id=c4">corporations</catchphrase>
+<catchphrase >application for listing to asx lodged 1 day late</catchphrase>
+<catchphrase >administrative error only</catchphrase>
+<catchphrase >analysis of appropriate relief and considerations relevant to exercise of discretion if relief is to be granted</catchphrase>
+<catchphrase >turns on own facts</catchphrase>
+<catchphrase >corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -70,7 +70,7 @@
 <sentence id="s46">(b) Pursuant to section 1322(4)(a) of the Corporations Act , the issue of options by the Applicant pursuant to the Prospectus is not invalid by reason of any contravention of section 723 or section 724 of the Corporations Act .</sentence>
 <sentence id="s47">
  3.</sentence>
-<sentence id="s48">The Applicant do forthwith lodge a copy of these orders with the Australian Securities &amp; Investments Commission.</sentence>
+<sentence id="s48">The Applicant do forthwith lodge a copy of these orders with the Australian Securities amp; Investments Commission.</sentence>
 <sentence id="s49">4.</sentence>
 <sentence id="s50">Upon the Applicant becoming listed on the ASX, the Applicant do make an announcement to the ASX disclosing the terms of these orders.</sentence>
 <sentence id="s51">5.</sentence>
@@ -261,7 +261,7 @@
 <sentence id="s110">(b) Pursuant to section 1322(4)(a) of the Corporations Act , the issue of options by the Applicant pursuant to the Prospectus is not invalid by reason of any contravention of section 723 or section 724 of the Corporations Act .</sentence>
 <sentence id="s111">
  3.</sentence>
-<sentence id="s112">The Applicant forthwith lodge a copy of these orders with the Australian Securities &amp; Investments Commission.</sentence>
+<sentence id="s112">The Applicant forthwith lodge a copy of these orders with the Australian Securities amp; Investments Commission.</sentence>
 <sentence id="s113">4.</sentence>
 <sentence id="s114">Upon the Applicant becoming listed on the ASX, the Applicant make an announcement to the ASX disclosing the terms of these orders.</sentence>
 <sentence id="s115">5.</sentence>
@@ -277,7 +277,7 @@ Dated: 19 December 2007
 
  Counsel for the Applicant: SJ Lemonis 
  
- Solicitor for the Applicant: Fairweather &amp; Lemonis 
+ Solicitor for the Applicant: Fairweather amp; Lemonis 
  
  Date of Hearing: 12 December 2007 
  
@@ -293,4 +293,6 @@ Dated: 19 December 2007
  
  </sentence>
 </sentences>
-</case>
+</case>se></sentence>
+</sentences>
+</case>se>

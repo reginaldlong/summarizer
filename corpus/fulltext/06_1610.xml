@@ -3,11 +3,11 @@
 <name>Orix Australia Corporation Limited v Crouch [2006] FCA 1610 (24 November 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1610.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">legal professional privilege</catchphrase>
-<catchphrase "id=c1">dominant purpose of the relevant document or communication</catchphrase>
-<catchphrase "id=c2">whether an unfiled affidavit and subsequent drafts are covered by the privilege</catchphrase>
-<catchphrase "id=c3">whether documents enclosed with a privileged letter are covered by the privilege.</catchphrase>
-<catchphrase "id=c4">privilege</catchphrase>
+<catchphrase >legal professional privilege</catchphrase>
+<catchphrase >dominant purpose of the relevant document or communication</catchphrase>
+<catchphrase >whether an unfiled affidavit and subsequent drafts are covered by the privilege</catchphrase>
+<catchphrase >whether documents enclosed with a privileged letter are covered by the privilege.</catchphrase>
+<catchphrase >privilege</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -87,7 +87,7 @@
  
  17 
  
- Letter from David Vorbach of Ebsworth &amp; Ebsworth (solicitors for MKP) to Crouch dated 19 July 2005 concerning anticipated proceedings against ORIX regarding a preference payment.</sentence>
+ Letter from David Vorbach of Ebsworth amp; Ebsworth (solicitors for MKP) to Crouch dated 19 July 2005 concerning anticipated proceedings against ORIX regarding a preference payment.</sentence>
 <sentence id="s19">
  
  Section 119 Evidence Act Adducing the evidence would result in a disclosure of a confidential communication that was prepared for the dominant purpose of the client being provided with professional legal services relating to an anticipated proceedings in which the client is a party.</sentence>
@@ -96,7 +96,7 @@
  19.</sentence>
 <sentence id="s21">
  
- Letter from Doug Vorbach of Ebsworth &amp; Ebsworth (solicitors for MKP) to Crouch dated 9 May 2005 concerning anticipated proceedings against ORIX regarding a preference payment 
+ Letter from Doug Vorbach of Ebsworth amp; Ebsworth (solicitors for MKP) to Crouch dated 9 May 2005 concerning anticipated proceedings against ORIX regarding a preference payment 
  
  Section 119 Evidence Act Adducing the evidence would result in a disclosure of a confidential communication that was made for the dominant purpose of the client being provided with professional legal services relating to an anticipated proceedings in which the client is a party.</sentence>
 <sentence id="s22">
@@ -162,14 +162,14 @@
 <sentence id="s65">There is no description as to its origin or purpose, although there is a reference in the email to an anticipated Statement of Claim.</sentence>
 <sentence id="s66">However, I do not consider there is sufficient connection between this letter and the giving of legal advice or the conduct of legal proceedings such as to warrant a conclusion that the dominant purpose of this communication was to obtain professional legal services.</sentence>
 <sentence id="s67">Therefore, I do not think this document is privileged.</sentence>
-<sentence id="s68">15 Document 17 is a letter from Ebsworth &amp; Ebsworth to Mr Crouch dated 19 July 2005.</sentence>
+<sentence id="s68">15 Document 17 is a letter from Ebsworth amp; Ebsworth to Mr Crouch dated 19 July 2005.</sentence>
 <sentence id="s69">The letter concerns anticipated proceedings against Orix regarding a preference payment.</sentence>
 <sentence id="s70">In my view, it comes within the protection of s 119 of the Act.</sentence>
 <sentence id="s71">It refers to legal advice and discusses evidence in prospective proceedings.</sentence>
 <sentence id="s72">Therefore, it is privileged.</sentence>
 <sentence id="s73">16 Document 18 is a letter from Crouch Insolvency to Douros Lawyers enclosing a response to a s 77A notice which notes particular points of interest in respect of that response.</sentence>
 <sentence id="s74">It is agreed between the parties that this document is privileged on the basis that it is a communication between solicitor and client.</sentence>
-<sentence id="s75">17 Document 19 is a letter from Ebsworth &amp; Ebsworth to Mr Crouch dated 9 May 2005 providing files which relate to legal proceedings.</sentence>
+<sentence id="s75">17 Document 19 is a letter from Ebsworth amp; Ebsworth to Mr Crouch dated 9 May 2005 providing files which relate to legal proceedings.</sentence>
 <sentence id="s76">The letter also comments on the significance of these documents.</sentence>
 <sentence id="s77">I do not consider that the documents which are enclosed with that letter are subject to privilege.</sentence>
 <sentence id="s78">However, in my view, the covering letter itself is covered by the privilege.</sentence>
@@ -190,7 +190,7 @@ Dated: 24 November 2006
  Counsel for the Applicant: Mr J K Chippindall 
  
  Solicitor for the Applicant: M.D.</sentence>
-<sentence id="s88">Nikolaidis &amp; Co Solicitors 
+<sentence id="s88">Nikolaidis amp; Co Solicitors 
  
  Counsel for the Respondents: Ms E. Glover 
  
@@ -210,4 +210,6 @@ Dated: 24 November 2006
  
  </sentence>
 </sentences>
-</case>
+</case>case>sentence>
+</sentences>
+</case>case>

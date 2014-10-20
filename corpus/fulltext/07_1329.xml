@@ -3,10 +3,10 @@
 <name>Hayes, in the matter of Estate Property Group Limited (Administrators Appointed) [2007] FCA 1329 (29 August 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1329.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">second extension of convening period for second meeting of creditors of companies in administration</catchphrase>
-<catchphrase "id=c1">parliamentary intention of maintaining tight time limits</catchphrase>
-<catchphrase "id=c2">purpose of company administration</catchphrase>
-<catchphrase "id=c3">corporations</catchphrase>
+<catchphrase >second extension of convening period for second meeting of creditors of companies in administration</catchphrase>
+<catchphrase >parliamentary intention of maintaining tight time limits</catchphrase>
+<catchphrase >purpose of company administration</catchphrase>
+<catchphrase >corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -43,10 +43,10 @@
 <sentence id="s29">It preferred voluntary administration and did not consider that wholesale amendments to the voluntary administration procedure were required (Ch 5.75).</sentence>
 <sentence id="s30">Amongst the factors referred to by the Joint Committee were as follows:
  
- "&#8226; Whilst both regimes impose a moratorium on creditors' claims, the voluntary administration regime places tighter timeframes to minimise the inconvenience and prejudice to creditors through the abridgement of their propriety rights and rights accrued under freedom of contract.</sentence>
+ "#8226; Whilst both regimes impose a moratorium on creditors' claims, the voluntary administration regime places tighter timeframes to minimise the inconvenience and prejudice to creditors through the abridgement of their propriety rights and rights accrued under freedom of contract.</sentence>
 <sentence id="s31">
  ... 
- &#8226; Quite lengthy timeframes apply to proposed plans for reorganisation that would see a company under Chapter 11 administration having no certainty of future direction for over 6 months and in practice much longer.</sentence>
+ #8226; Quite lengthy timeframes apply to proposed plans for reorganisation that would see a company under Chapter 11 administration having no certainty of future direction for over 6 months and in practice much longer.</sentence>
 <sentence id="s32">Under voluntary administration decisions are undertaken more quickly and under the supervision of a qualified independent administrator.</sentence>
 <sentence id="s33">" 
  
@@ -68,9 +68,9 @@ It noted that the Corporations and Markets Advisory Committee (CAMAC) was then e
 <sentence id="s41">CAMAC then considered a number of detailed matters, including the timing of first and major meetings (2.6).</sentence>
 <sentence id="s42">The recommendation was:
  
- "&#8226; the periods for holding the first and major meetings of creditors should be incrementally increased (namely, for the first meeting within 8 business days, and for the major meeting within 25 business days, of the appointment of the administrator), and 
+ "#8226; the periods for holding the first and major meetings of creditors should be incrementally increased (namely, for the first meeting within 8 business days, and for the major meeting within 25 business days, of the appointment of the administrator), and 
  
- &#8226; the administrator should be permitted to hold the major meeting before the end of the convening period.</sentence>
+ #8226; the administrator should be permitted to hold the major meeting before the end of the convening period.</sentence>
 <sentence id="s43">
  
  In addition, the court should have a specific power, on application by the administrator, to override the statutory timetable and to substitute a specific and comprehensive timetable for a particular administration.</sentence>
@@ -172,4 +172,6 @@ Dated: 29 August 2007
  
  </sentence>
 </sentences>
-</case>
+</case>ase>ce>
+</sentences>
+</case>ase>

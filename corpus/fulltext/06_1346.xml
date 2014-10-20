@@ -3,14 +3,14 @@
 <name>Dragan Vasiljkovic v Minister for Justice and Customsand Ors (with Corrigendum dated 17 October 2006) [2006] FCA 1346 (13 October 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1346.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">hearing pending before magistrate to determine whether person is eligible for surrender</catchphrase>
-<catchphrase "id=c1">application for habeas corpus</catchphrase>
-<catchphrase "id=c2">application to adjourn hearing for habeas corpus</catchphrase>
-<catchphrase "id=c3">whether issues raised on habeas corpus application should be raised before magistrate</catchphrase>
-<catchphrase "id=c4">matters relevant to exercise of discretion</catchphrase>
-<catchphrase "id=c5">p rinciple against fragmentation</catchphrase>
-<catchphrase "id=c6">adjournment granted.</catchphrase>
-<catchphrase "id=c7">extradition</catchphrase>
+<catchphrase >hearing pending before magistrate to determine whether person is eligible for surrender</catchphrase>
+<catchphrase >application for habeas corpus</catchphrase>
+<catchphrase >application to adjourn hearing for habeas corpus</catchphrase>
+<catchphrase >whether issues raised on habeas corpus application should be raised before magistrate</catchphrase>
+<catchphrase >matters relevant to exercise of discretion</catchphrase>
+<catchphrase >p rinciple against fragmentation</catchphrase>
+<catchphrase >adjournment granted.</catchphrase>
+<catchphrase >extradition</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -69,8 +69,8 @@ Once such notice has been issued, the magistrate is to conduct a hearing under s
  
  ' ... an extradition request has been received from the Republic of Croatia, an extradition country, in relation to Dragan Vasiljkovic for the following extradition offences: 
  
- &#8226; War crimes against prisoners of war, contrary to Article 122 of the Basic Criminal Code of the Republic of Croatia (2 counts), and 
- &#8226; War crimes against the civilian population, contrary to Article 120, paragraphs 1 and 2, of the Basic Criminal Code of the Republic of Croatia (1 count).</sentence>
+ #8226; War crimes against prisoners of war, contrary to Article 122 of the Basic Criminal Code of the Republic of Croatia (2 counts), and 
+ #8226; War crimes against the civilian population, contrary to Article 120, paragraphs 1 and 2, of the Basic Criminal Code of the Republic of Croatia (1 count).</sentence>
 <sentence id="s22">' 
  
  11 Article 120 of the Code is entitled ' War Crimes Against the Civilian Population ', and defines conduct which constitutes a breach of such Article.</sentence>
@@ -84,7 +84,7 @@ Once such notice has been issued, the magistrate is to conduct a hearing under s
 <sentence id="s30">The Minister claims that the equivalent offences in New South Wales to those referred to in the warrant are contained in the Crimes Act 1900 (NSW), namely assault occasioning bodily harm and common assault (ss 59(1) and 61 ); murder as accessory before the fact and/or soliciting or encouraging a person to commit murder (ss 19A and 26 ); and murder, malicious wounding, malicious destruction of property, firing a firearm with reckless disregard for safety, and stealing property in a dwelling house (ss 19A , 35 , 195 , 93GA and 148 ).</sentence>
 <sentence id="s31">Each offence carries a prescribed penalty including imprisonment for a period of not less than 12 months.</sentence>
 <sentence id="s32">14 Following his apprehension, Dragan instituted proceedings for a writ of habeas corpus in the High Court of Australia claiming that both s 15 of the Act and the Regulations were invalid.</sentence>
-<sentence id="s33">On 15 June 2006 those proceedings were dismissed: see Vasiljkovic v The Commonwealth of Australia &amp; Ors [2006] HCA 40 .</sentence>
+<sentence id="s33">On 15 June 2006 those proceedings were dismissed: see Vasiljkovic v The Commonwealth of Australia amp; Ors [2006] HCA 40 .</sentence>
 <sentence id="s34">15 On 7 July 2006 Dragan instituted the present proceedings by filing an application stated to be pursuant to s 39B of the Judiciary Act 1903 (Cth).</sentence>
 <sentence id="s35">On 27 September 2006 an amended application was filed seeking the relief set out in para [3] above, together with a Statement of Issues ('the Issues'), which raise the following questions for determination: 
  
@@ -226,7 +226,7 @@ Dated: 13 October 2006
 
  Counsel for the Applicant: Brad Slowgrove 
  
- Solicitor for the Applicant: Dennis &amp; Company Solicitors 
+ Solicitor for the Applicant: Dennis amp; Company Solicitors 
  
  Counsel for the Respondent: James Renwick 
  
@@ -247,4 +247,8 @@ Dated: 13 October 2006
  
  </sentence>
 </sentences>
-</case>
+</case>ase>/2006/1346.html 
+ 
+ </sentence>
+</sentences>
+</case>ase>

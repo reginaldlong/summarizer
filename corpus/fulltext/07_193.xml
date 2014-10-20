@@ -3,11 +3,11 @@
 <name>Guest v Commissioner of Taxation [2007] FCA 193 (23 February 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/193.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">allowable deductions</catchphrase>
-<catchphrase "id=c1">claim for interest accrued in 1998-2001 on loan for business purposes taken out in 1987</catchphrase>
-<catchphrase "id=c2">cessation of involvement in business in 1991</catchphrase>
-<catchphrase "id=c3">taxpayer only liable for principal and interest if two early repayments not made on time</catchphrase>
-<catchphrase "id=c4">income tax</catchphrase>
+<catchphrase >allowable deductions</catchphrase>
+<catchphrase >claim for interest accrued in 1998-2001 on loan for business purposes taken out in 1987</catchphrase>
+<catchphrase >cessation of involvement in business in 1991</catchphrase>
+<catchphrase >taxpayer only liable for principal and interest if two early repayments not made on time</catchphrase>
+<catchphrase >income tax</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -215,13 +215,13 @@
  
  "9 th October, 1987 
  
- Messrs Melloy, Jensen, Guest &amp; Guest 
+ Messrs Melloy, Jensen, Guest amp; Guest 
  c/- Mr. Gregory Melloy 
  11 Eramus Street 
  SURREY HILLS VIC.</sentence>
 <sentence id="s112">3127 
  
- Dear Messrs Melloy, Jensen, Guest &amp; Guest, 
+ Dear Messrs Melloy, Jensen, Guest amp; Guest, 
  
  We take this opportunity to draw your attention to certain terms and conditions of the Loan Agreement (dated 29.06.897) between yourself and rural Finance Pty Ltd. 
  
@@ -417,7 +417,7 @@
  Issue 2 --- gaining or producing income 
  
  71 This issue, which also arises under the carrying on business limb, raises the question whether Mr Guest has shown there was a sufficient nexus between his incurring of interest liabilities in 1998 to 2001 and the blueberry growing business in which, following the appointment of Receivers, he ceased to have any involvement after 1991.</sentence>
-<sentence id="s224">72 A line of cases supports the proposition that a loss or outgoing may be deductible even if it is incurred some years after the associated business, or the taxpayer's involvement in it, has ceased: Placer Pacific Management Pty Ltd v Federal Commissioner of Taxation (1995) 31 ATR 253, Federal Commissioner of Taxation v Brown (1999) 99 ATC 4600, Federal Commissioner of Taxation v Jones (2002) ATC 4135, and R &amp; D Holdings Pty Ltd v Deputy Federal Commissioner of Taxation (2006) ATC 4472.</sentence>
+<sentence id="s224">72 A line of cases supports the proposition that a loss or outgoing may be deductible even if it is incurred some years after the associated business, or the taxpayer's involvement in it, has ceased: Placer Pacific Management Pty Ltd v Federal Commissioner of Taxation (1995) 31 ATR 253, Federal Commissioner of Taxation v Brown (1999) 99 ATC 4600, Federal Commissioner of Taxation v Jones (2002) ATC 4135, and R amp; D Holdings Pty Ltd v Deputy Federal Commissioner of Taxation (2006) ATC 4472.</sentence>
 <sentence id="s225">In Placer the claimed deduction was for a payment in settlement of litigation in respect of defective goods supplied.</sentence>
 <sentence id="s226">In the other cases it was for interest on a business related loan.</sentence>
 <sentence id="s227">73 That the gap in time may be considerable is demonstrated by the following table:
@@ -425,15 +425,15 @@
  Placer 1981 1989
  Brown 1990 1994
  Jones 1993 1998
- R &amp; D 1990 1999
+ R amp; D 1990 1999
  
- In R &amp; D there is the qualification that the business in question, the leasing of an office building, was still carried on, although not by the taxpayer but by a mortgagee in possession.</sentence>
+ In R amp; D there is the qualification that the business in question, the leasing of an office building, was still carried on, although not by the taxpayer but by a mortgagee in possession.</sentence>
 <sentence id="s228">74 In the present case the Commissioner argues that some intervening event or act has broken the nexus between the income-obtaining activity and the outgoing in question.</sentence>
 <sentence id="s229">Such a breaking of the nexus is said to have occurred when Mr Guest 
 
-&#8226; failed to repay the loan on the due date (31 March 1992), or
+#8226; failed to repay the loan on the due date (31 March 1992), or
  
-&#8226; failed to accept the Receivers' offer in August 1996
+#8226; failed to accept the Receivers' offer in August 1996
  
  The Commissioner also says the lapse of time in itself is sufficient to break the nexus.</sentence>
 <sentence id="s230">75 The concept of a break in the nexus was applied in Commissioner of Taxation v Riverside Road Lodge Pty Ltd (in liq) (1990) 23 FCR 305.</sentence>
@@ -578,4 +578,6 @@ Dated: 23 February 2007
  
  </sentence>
 </sentences>
-</case>
+</case></case>ntence>
+</sentences>
+</case></case>

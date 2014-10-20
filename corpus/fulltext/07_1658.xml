@@ -3,13 +3,13 @@
 <name>Fitzpatrick v Kidney [2007] FCA 1658 (19 September 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1658.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">control of persons and property of bankrupt</catchphrase>
-<catchphrase "id=c1">stay of actions already commenced until trustee elects to prosecute or discontinue</catchphrase>
-<catchphrase "id=c2">discharge of bankrupt and annulment of sequestration order</catchphrase>
-<catchphrase "id=c3">annulment of bankruptcy</catchphrase>
-<catchphrase "id=c4">where bankrupt is able to pay outstanding debt but has not yet done so</catchphrase>
-<catchphrase "id=c5">bankruptcy</catchphrase>
-<catchphrase "id=c6">bankruptcy</catchphrase>
+<catchphrase >control of persons and property of bankrupt</catchphrase>
+<catchphrase >stay of actions already commenced until trustee elects to prosecute or discontinue</catchphrase>
+<catchphrase >discharge of bankrupt and annulment of sequestration order</catchphrase>
+<catchphrase >annulment of bankruptcy</catchphrase>
+<catchphrase >where bankrupt is able to pay outstanding debt but has not yet done so</catchphrase>
+<catchphrase >bankruptcy</catchphrase>
+<catchphrase >bankruptcy</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -32,14 +32,14 @@
  To determine this issue it is helpful to set out in brief the chronology of events and in particular of the litigation: 
  
  
- &#8226; a decision of Special Magistrate Symons on 22 September 2003 when she made orders against the applicant requiring him to pay certain costs and conduct money.</sentence>
+ #8226; a decision of Special Magistrate Symons on 22 September 2003 when she made orders against the applicant requiring him to pay certain costs and conduct money.</sentence>
 <sentence id="s13">This included conduct money of $10 for the respondent 
- &#8226; an order of Master Harper on 14 November 2003 in the ACT Supreme Court dismissing an application for leave to appeal from Special Magistrate Symons' decision and awarding costs against the applicant 
- &#8226; an order of Connolly J in the ACT Supreme Court on 6 February 2004 dismissing a notice of motion dated 17 December 2003 and also ordering the applicant to pay the respondent's costs
- &#8226; a certificate of taxation made by the Deputy Registrar of the ACT Supreme Court on 1 November 2004 for the two costs orders of 14 November 2003 and 6 February 2004 
- &#8226; a notice of motion dated 20 October 2005 in the ACT Court of Appeal against both the decision of Master Harper and the decision of Connolly J dismissed by Crispin J on 1 February 2006.</sentence>
+ #8226; an order of Master Harper on 14 November 2003 in the ACT Supreme Court dismissing an application for leave to appeal from Special Magistrate Symons' decision and awarding costs against the applicant 
+ #8226; an order of Connolly J in the ACT Supreme Court on 6 February 2004 dismissing a notice of motion dated 17 December 2003 and also ordering the applicant to pay the respondent's costs
+ #8226; a certificate of taxation made by the Deputy Registrar of the ACT Supreme Court on 1 November 2004 for the two costs orders of 14 November 2003 and 6 February 2004 
+ #8226; a notice of motion dated 20 October 2005 in the ACT Court of Appeal against both the decision of Master Harper and the decision of Connolly J dismissed by Crispin J on 1 February 2006.</sentence>
 <sentence id="s14">He also ordered the applicant pay the respondent's costs 
- &#8226; an application for special leave to appeal to the High Court dismissed on 7 September 2006 by Hayne and Crennan JJ.</sentence>
+ #8226; an application for special leave to appeal to the High Court dismissed on 7 September 2006 by Hayne and Crennan JJ.</sentence>
 <sentence id="s15">
  
  
@@ -176,7 +176,7 @@ Dated: 31 October 2007
 
  Counsel for the Applicant: The Applicant appeared in person 
  
- Solicitor for the Applicant: Gillespie-Jones &amp; Co 
+ Solicitor for the Applicant: Gillespie-Jones amp; Co 
  
  Date of Hearing: 19 September 2007 
  
@@ -190,4 +190,8 @@ Dated: 31 October 2007
  
  </sentence>
 </sentences>
-</case>
+</case></case>.html 
+ 
+ </sentence>
+</sentences>
+</case></case>

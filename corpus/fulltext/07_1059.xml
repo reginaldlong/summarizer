@@ -3,14 +3,14 @@
 <name>Rainsford v Victoria [2007] FCA 1059 (19 July 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1059.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">prisoner with back injury</catchphrase>
-<catchphrase "id=c1">prisoner transferred between prisons and placed in management cell</catchphrase>
-<catchphrase "id=c2">whether transport and accommodation aggravated condition</catchphrase>
-<catchphrase "id=c3">whether failure to provide adequate exercise facilities aggravated condition</catchphrase>
-<catchphrase "id=c4">whether a 'service' provided</catchphrase>
-<catchphrase "id=c5">whether applicant required to comply with a requirement or condition</catchphrase>
-<catchphrase "id=c6">whether applicant could comply with requirement or condition</catchphrase>
-<catchphrase "id=c7">disability discrimination</catchphrase>
+<catchphrase >prisoner with back injury</catchphrase>
+<catchphrase >prisoner transferred between prisons and placed in management cell</catchphrase>
+<catchphrase >whether transport and accommodation aggravated condition</catchphrase>
+<catchphrase >whether failure to provide adequate exercise facilities aggravated condition</catchphrase>
+<catchphrase >whether a 'service' provided</catchphrase>
+<catchphrase >whether applicant required to comply with a requirement or condition</catchphrase>
+<catchphrase >whether applicant could comply with requirement or condition</catchphrase>
+<catchphrase >disability discrimination</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -114,18 +114,18 @@
 <sentence id="s90">They referred to a series of diary notes contained within Mr Rainsford's Local Management Plan Progress Notes.</sentence>
 <sentence id="s91">The following brief selection will suffice to demonstrate the flavour of them:
  
- &#8226; "On the many previous occasions Rainsford has been here, including this time, he has been observed by unit staff performing elevated pushups and lifting more than his supposed medical limit of 10 kg on the gym equipment.</sentence>
+ #8226; "On the many previous occasions Rainsford has been here, including this time, he has been observed by unit staff performing elevated pushups and lifting more than his supposed medical limit of 10 kg on the gym equipment.</sentence>
 <sentence id="s92">His behaviour demonstrates a distinct lack of restrictions or problems in regards to his physical capabilities.</sentence>
 <sentence id="s93">" 
- &#8226; "In spite of a stated back condition which allegedly precludes James from work and from extended travel, James is seen daily performing vigorous weight-bearing exercise using the unit gym equipment.</sentence>
+ #8226; "In spite of a stated back condition which allegedly precludes James from work and from extended travel, James is seen daily performing vigorous weight-bearing exercise using the unit gym equipment.</sentence>
 <sentence id="s94">" 
- &#8226; "Rainsford does weights most days and has been observed by me performing karate type kicks to shoulder height without any sign or indication of discomfort.</sentence>
+ #8226; "Rainsford does weights most days and has been observed by me performing karate type kicks to shoulder height without any sign or indication of discomfort.</sentence>
 <sentence id="s95">" 
- &#8226; "Over the past week I have observed Rainsford working out on weight machine, skipping rope, pull up bar (chin up) and aerobic type exercises.</sentence>
+ #8226; "Over the past week I have observed Rainsford working out on weight machine, skipping rope, pull up bar (chin up) and aerobic type exercises.</sentence>
 <sentence id="s96">These workouts take 30 to 40 minutes during which and after he displayed no visible irritation to any possible injuries.</sentence>
 <sentence id="s97">Today's workout was skipping, weight machine, total time 35 minutes, then played table tennis for 25 minutes.</sentence>
 <sentence id="s98">" 
- &#8226; "His health except for back injury (discs) remains to be stable.</sentence>
+ #8226; "His health except for back injury (discs) remains to be stable.</sentence>
 <sentence id="s99">He walks and does various exercises for his back.</sentence>
 <sentence id="s100">For recreation he attends amenities daily, exercises with weights in the gym to strengthen back.</sentence>
 <sentence id="s101">Through his own admission he does some exercises he shouldn't.</sentence>
@@ -245,7 +245,7 @@ Mr Rainsford agreed that it was his understanding that a nurse would examine the
 <sentence id="s192">For example, a medical record from 14 September 2001 notes that Mr Rainsford "stated he needed to rest in a proper bed, rather than a mattress on a floor".</sentence>
 <sentence id="s193">A further record from 21 September 2001 states that Mr Rainsford "was in Spine with problem of bed at floor level.</sentence>
 <sentence id="s194">Now in normal cell.</sentence>
-<sentence id="s195">Claims he can't do back xcises --- given instruction sheet &amp; discussed.</sentence>
+<sentence id="s195">Claims he can't do back xcises --- given instruction sheet amp; discussed.</sentence>
 <sentence id="s196">" This latter note concludes as follows: "Explained we cannot be involved re placement problem on medical grounds".</sentence>
 <sentence id="s197">FINDINGS 
  
@@ -406,10 +406,10 @@ Mr Rainsford relies on (a) and (e) since his injury, a prolapsed disc, is both a
  
 63 The issues to be resolved are:
  
- &#8226; Did the respondents, or either of them, provide a service or make a facility available?</sentence>
-<sentence id="s268">&#8226; Was Mr Rainsford required to comply with a 'requirement or condition'?</sentence>
-<sentence id="s269">&#8226; Was the requirement to comply with a 'requirement or condition' reasonable?</sentence>
-<sentence id="s270">&#8226; Was the 'requirement or condition' such that Mr Rainsford was not able to comply with it but that a substantially higher proportion of persons without his disability were able to comply?</sentence>
+ #8226; Did the respondents, or either of them, provide a service or make a facility available?</sentence>
+<sentence id="s268">#8226; Was Mr Rainsford required to comply with a 'requirement or condition'?</sentence>
+<sentence id="s269">#8226; Was the requirement to comply with a 'requirement or condition' reasonable?</sentence>
+<sentence id="s270">#8226; Was the 'requirement or condition' such that Mr Rainsford was not able to comply with it but that a substantially higher proportion of persons without his disability were able to comply?</sentence>
 <sentence id="s271">
  DID THE RESPONDENTS PROVIDE A SERVICE OR MAKE A FACILITY AVAILABLE?</sentence>
 <sentence id="s272">
@@ -727,4 +727,10 @@ Dated: 19 July 2007
  
  </sentence>
 </sentences>
+</case>s>
+</case>1059.html 
+ 
+ </sentence>
+</sentences>
+</case>s>
 </case>

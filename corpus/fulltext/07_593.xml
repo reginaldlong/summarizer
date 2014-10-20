@@ -3,11 +3,11 @@
 <name>Secretary, Department of Employment and Workplace Relations v Cameron (No. 2) [2007] FCA 593 (27 April 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/593.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">partner allowance</catchphrase>
-<catchphrase "id=c1">redress available where the rate at which a social security payment is being, or has been, paid is less than the rate provided for by the social security law</catchphrase>
-<catchphrase "id=c2">limited power to backdate a favourable determination</catchphrase>
-<catchphrase "id=c3">no power to backdate a favourable determination to a date earlier than 13 weeks before the date on which the favourable determination is made</catchphrase>
-<catchphrase "id=c4">social security</catchphrase>
+<catchphrase >partner allowance</catchphrase>
+<catchphrase >redress available where the rate at which a social security payment is being, or has been, paid is less than the rate provided for by the social security law</catchphrase>
+<catchphrase >limited power to backdate a favourable determination</catchphrase>
+<catchphrase >no power to backdate a favourable determination to a date earlier than 13 weeks before the date on which the favourable determination is made</catchphrase>
+<catchphrase >social security</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -524,13 +524,13 @@ It will be seen that Part 2.15A dealt with 'Partner allowance'.</sentence>
  
 26 It may be seen that the date upon which a favourable determination under s 771NL of the Social Security Act (or s 78 of the Administration Act) is to take effect will be:
  
-&#8226; the day on which the decision under review (the day on which the determination embodying the original decision) took effect;
+#8226; the day on which the decision under review (the day on which the determination embodying the original decision) took effect;
  
-&#8226; the day on which the review was sought (the day on which the application for review was made);
+#8226; the day on which the review was sought (the day on which the application for review was made);
  
-&#8226; the day on which the favourable determination was made; or 
+#8226; the day on which the favourable determination was made; or 
  
-&#8226; the day specified in the favourable determination, but in this case the specified day may not be earlier than 3 months (13 weeks) before the day on which the favourable determination was made.</sentence>
+#8226; the day specified in the favourable determination, but in this case the specified day may not be earlier than 3 months (13 weeks) before the day on which the favourable determination was made.</sentence>
 <sentence id="s64">27 Where a favourable determination is made as a result of an application for review of a decision :
  
  (a) that the Secretary is not satisfied that the rate at which partner allowance is being, or has been, paid is less than the rate provided by the Social Security Act ; or 
@@ -600,9 +600,9 @@ then, a three month (or 13 week) backdating will not be permissible.</sentence>
  
  I have attached a decision statement showing: 
  
- &#8226; the information I took into account when making my decision; 
- &#8226; the Social Security Law and any policy guidelines that apply in your case; and 
- &#8226; the reasons for my decision.</sentence>
+ #8226; the information I took into account when making my decision; 
+ #8226; the Social Security Law and any policy guidelines that apply in your case; and 
+ #8226; the reasons for my decision.</sentence>
 <sentence id="s108">
  
  
@@ -785,4 +785,6 @@ Dated: 27 April 2007
  
  </sentence>
 </sentences>
-</case>
+</case></case>ntence>
+</sentences>
+</case></case>

@@ -3,35 +3,35 @@
 <name>Stena Rederi Aktiebolag v Austal Ships Sales Pty Ltd [2007] FCA 864 (21 June 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/864.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">hull structure of multi-hull vessel</catchphrase>
-<catchphrase "id=c1">improved seakeeping at high speeds</catchphrase>
-<catchphrase "id=c2">construction of claims</catchphrase>
-<catchphrase "id=c3">application of agreed legal principles to present case</catchphrase>
-<catchphrase "id=c4">whether claims ambiguous or uncertain</catchphrase>
-<catchphrase "id=c5">whether ambiguity in 'substantial portion' or 'narrow waisted'</catchphrase>
-<catchphrase "id=c6">'substantial portion' not defined by numerical parameters</catchphrase>
-<catchphrase "id=c7">'narrow waisted' means 'significant narrowing'</catchphrase>
-<catchphrase "id=c8">construction of inconsistent claims</catchphrase>
-<catchphrase "id=c9">modification of claims</catchphrase>
-<catchphrase "id=c10">infringement of patent</catchphrase>
-<catchphrase "id=c11">whether width of allegedly infringing vessels continually decreases</catchphrase>
-<catchphrase "id=c12">priority date of patent</catchphrase>
-<catchphrase "id=c13">whether claims in australian application disclosed by claims in earlier swedish application</catchphrase>
-<catchphrase "id=c14">whether amendments affect priority date</catchphrase>
-<catchphrase "id=c15">inventive step and obviousness</catchphrase>
-<catchphrase "id=c16">consideration of high court in lockwood</catchphrase>
-<catchphrase "id=c17">application of agreed legal principles to present case</catchphrase>
-<catchphrase "id=c18">whether combination of swath forward hull with catamaran stern hull obvious</catchphrase>
-<catchphrase "id=c19">whether prior art disclosed inventive step before priority date</catchphrase>
-<catchphrase "id=c20">prior art of vessels built before priority date</catchphrase>
-<catchphrase "id=c21">prior art of publications published before priority date</catchphrase>
-<catchphrase "id=c22">novelty</catchphrase>
-<catchphrase "id=c23">whether claims are clear and succinct, define the invention and possess fair basis.</catchphrase>
-<catchphrase "id=c24">narrow waisting</catchphrase>
-<catchphrase "id=c25">substantial proportion</catchphrase>
-<catchphrase "id=c26">continually decreases</catchphrase>
-<catchphrase "id=c27">patent</catchphrase>
-<catchphrase "id=c28">words and phrases</catchphrase>
+<catchphrase >hull structure of multi-hull vessel</catchphrase>
+<catchphrase >improved seakeeping at high speeds</catchphrase>
+<catchphrase >construction of claims</catchphrase>
+<catchphrase >application of agreed legal principles to present case</catchphrase>
+<catchphrase >whether claims ambiguous or uncertain</catchphrase>
+<catchphrase >whether ambiguity in 'substantial portion' or 'narrow waisted'</catchphrase>
+<catchphrase >'substantial portion' not defined by numerical parameters</catchphrase>
+<catchphrase >'narrow waisted' means 'significant narrowing'</catchphrase>
+<catchphrase >construction of inconsistent claims</catchphrase>
+<catchphrase >modification of claims</catchphrase>
+<catchphrase >infringement of patent</catchphrase>
+<catchphrase >whether width of allegedly infringing vessels continually decreases</catchphrase>
+<catchphrase >priority date of patent</catchphrase>
+<catchphrase >whether claims in australian application disclosed by claims in earlier swedish application</catchphrase>
+<catchphrase >whether amendments affect priority date</catchphrase>
+<catchphrase >inventive step and obviousness</catchphrase>
+<catchphrase >consideration of high court in lockwood</catchphrase>
+<catchphrase >application of agreed legal principles to present case</catchphrase>
+<catchphrase >whether combination of swath forward hull with catamaran stern hull obvious</catchphrase>
+<catchphrase >whether prior art disclosed inventive step before priority date</catchphrase>
+<catchphrase >prior art of vessels built before priority date</catchphrase>
+<catchphrase >prior art of publications published before priority date</catchphrase>
+<catchphrase >novelty</catchphrase>
+<catchphrase >whether claims are clear and succinct, define the invention and possess fair basis.</catchphrase>
+<catchphrase >narrow waisting</catchphrase>
+<catchphrase >substantial proportion</catchphrase>
+<catchphrase >continually decreases</catchphrase>
+<catchphrase >patent</catchphrase>
+<catchphrase >words and phrases</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -111,10 +111,10 @@
 <sentence id="s38">10 The following characteristics can be drawn from integers 1.5 and 1.6 of claim 1:
  
  
- &#8226; the width of the hull at the water line is substantially greater in the after body than in the forward body of the hull;
- &#8226; the width of the hull at the water line continually decreases in a forward direction;
- &#8226; the cross-sectional shape of the hull throughout a substantial portion of the forward half of the hull has a bulbous underwater part; and
- &#8226; a substantial portion of the forward half has a narrow waisted part which extends through the water line.</sentence>
+ #8226; the width of the hull at the water line is substantially greater in the after body than in the forward body of the hull;
+ #8226; the width of the hull at the water line continually decreases in a forward direction;
+ #8226; the cross-sectional shape of the hull throughout a substantial portion of the forward half of the hull has a bulbous underwater part; and
+ #8226; a substantial portion of the forward half has a narrow waisted part which extends through the water line.</sentence>
 <sentence id="s39">
  
 
@@ -127,11 +127,11 @@ The words in bold emphasis give rise to the dispute in these proceedings because
 <sentence id="s45">These are:
  
  
- &#8226; vessel propulsion equipment, including jet engines, can be mounted comfortably in the hull and easily maintained;
- &#8226; the hull can withstand loads in the stern;
- &#8226; the hull is adapted for high speeds up to 40 knots;
- &#8226; the hull has a low pitching tendency during movement of the vessel through the water and can transport passengers and goods; and
- &#8226; the hull obviates the need to lash down cargo such as lorries and trucks under normal sea conditions.</sentence>
+ #8226; vessel propulsion equipment, including jet engines, can be mounted comfortably in the hull and easily maintained;
+ #8226; the hull can withstand loads in the stern;
+ #8226; the hull is adapted for high speeds up to 40 knots;
+ #8226; the hull has a low pitching tendency during movement of the vessel through the water and can transport passengers and goods; and
+ #8226; the hull obviates the need to lash down cargo such as lorries and trucks under normal sea conditions.</sentence>
 <sentence id="s46">
  
 
@@ -167,7 +167,7 @@ The words in bold emphasis give rise to the dispute in these proceedings because
 See also Kirin-Amgen Inc v Hoechst Marion Roussel Limited [2004] UKHL 46 at [20] (per Lord Hoffmann); Kimberly-Clark Pty Ltd v Arico Trading International Pty Limited [2001] HCA 8 ; (2001) 207 CLR 1 at 12; Interlego AG v Toltoys Pty Ltd [1973] HCA 1 ; (1973) 130 CLR 461 at 479.</sentence>
 <sentence id="s68">21 Patent language which uses terms expressing approximation or requiring assessment according to circumstances does necessarily not mean that the impugned claim lacks clarity.</sentence>
 <sentence id="s69">Exact expressions are not always essential.</sentence>
-<sentence id="s70">An example of this dictum is found in Minnesota Mining &amp; Manufacturing Company v Beiersdorf (Australia) Ltd [1980] HCA 9 ; (1980) 144 CLR 253 at 274, where Aickin J said that lack of precise definition in claims is not fatal to validity so long as they provide a workable standard suitable to the intended use.</sentence>
+<sentence id="s70">An example of this dictum is found in Minnesota Mining amp; Manufacturing Company v Beiersdorf (Australia) Ltd [1980] HCA 9 ; (1980) 144 CLR 253 at 274, where Aickin J said that lack of precise definition in claims is not fatal to validity so long as they provide a workable standard suitable to the intended use.</sentence>
 <sentence id="s71">In that case, his Honour did not consider the word 'inextensible' to be imprecise because on its correct construction in the circumstances his Honour considered that it meant 'relatively inextensible' or 'not capable of extending appreciably'.</sentence>
 <sentence id="s72">As can been seen from his Honour's use of language in deciding the meaning of the term, his Honour did not shrink from using other words of general connotation.</sentence>
 <sentence id="s73">22 In Leonardis v Sartas No 1 Pty Ltd (1996) 67 FCR 126 at 134, the Full Court stated that it is not inadmissible to use an imprecise word in a claim where, in an appropriate context, it conveys the necessary meaning.</sentence>
@@ -254,20 +254,20 @@ See also Kirin-Amgen Inc v Hoechst Marion Roussel Limited [2004] UKHL 46 at [20]
 39 As noted by Bennett J in Austal Ships Pty Ltd v Stena Rederi Aktiebolag (2004) 66 IPR 420 at 433, the requirements in the patent specification in relation to 'narrow waisted' are:
  
  
- &#8226; 'SWATHs are catamaran type vessels where those parts of the hull located beneath the surface of the water are joined by narrow connections.</sentence>
+ #8226; 'SWATHs are catamaran type vessels where those parts of the hull located beneath the surface of the water are joined by narrow connections.</sentence>
 <sentence id="s147">Such vessels have a narrow hull waist, or narrow cross section, at the water line.</sentence>
 <sentence id="s148">
- &#8226; The cross sectional shape of the hull shapes of the claims throughout a substantial portion of the forward half of the hull has a bulbous underwater part and a narrow waisted part which extends through the water line.</sentence>
+ #8226; The cross sectional shape of the hull shapes of the claims throughout a substantial portion of the forward half of the hull has a bulbous underwater part and a narrow waisted part which extends through the water line.</sentence>
 <sentence id="s149">
- &#8226; The hull construction of the claims comprises a forward hull part which has a bulbous underwater cross section.</sentence>
+ #8226; The hull construction of the claims comprises a forward hull part which has a bulbous underwater cross section.</sentence>
 <sentence id="s150">That is, the hull width is narrower in the region of the water line than both above and below the water line.</sentence>
 <sentence id="s151">There are numerous references to the bulbous shape.</sentence>
 <sentence id="s152">For example, 'pronounced bulbous shape solely at the foreward part of its underwater body'.</sentence>
 <sentence id="s153">The bulbous shape of the forward part of the hull cross-section --- a relatively narrow hull width in the vertical region of the hull extends up through the water line.</sentence>
 <sentence id="s154">
- &#8226; The figures, in particular fig 1, show the bulbous shape underwater and significant waisting at the water line.</sentence>
+ #8226; The figures, in particular fig 1, show the bulbous shape underwater and significant waisting at the water line.</sentence>
 <sentence id="s155">
- &#8226; The hull is described in such a way as to indicate to the skilled reader that the forward part is SWATH-like.</sentence>
+ #8226; The hull is described in such a way as to indicate to the skilled reader that the forward part is SWATH-like.</sentence>
 <sentence id="s156">There is a specific reference to the link between the area above the water line and a characteristic of SWATHs' 
  
 
@@ -277,11 +277,11 @@ See also Kirin-Amgen Inc v Hoechst Marion Roussel Limited [2004] UKHL 46 at [20]
 <sentence id="s159">It is common ground that the degree of waisting of the preferred embodiment in Figure 1 (expressed as a percentage of the forward half of the hull which is narrowed or waisted) is as follows: 
  
  
- &#8226; 85% narrowing at 40% of the forward half of the hull;
- &#8226; about 79-80% narrowing at 50% of the forward half of the hull;
- &#8226; 62% narrowing at 80% of the forward half of the hull;
- &#8226; about 42% narrowing at 100% of the forward half of the hull; and
- &#8226; 23% narrowing at 120% of the forward half of the hull.</sentence>
+ #8226; 85% narrowing at 40% of the forward half of the hull;
+ #8226; about 79-80% narrowing at 50% of the forward half of the hull;
+ #8226; 62% narrowing at 80% of the forward half of the hull;
+ #8226; about 42% narrowing at 100% of the forward half of the hull; and
+ #8226; 23% narrowing at 120% of the forward half of the hull.</sentence>
 <sentence id="s160">
  
 
@@ -423,7 +423,7 @@ See also Kirin-Amgen Inc v Hoechst Marion Roussel Limited [2004] UKHL 46 at [20]
 <sentence id="s258">In that case, their Honours referred to ss 7(2) and (3) the Act , which describe the statutory test as to what constitutes an 'inventive step'.</sentence>
 <sentence id="s259">Their Honours noted at [122] and [150] that the standard by which obviousness is to be determined is by reference to the understanding of a person skilled in the relevant art, who, at the priority relevant date, would possess common general knowledge in that art, and who would have had regard to any additional information referred to in s 7(3): see also Firebelt Pty Ltd v Brambles Australia Ltd [2002] HCA 21 ; (2002) 188 ALR 280 at 287-289; Tidy Tea Ltd v Unilever Australia Ltd (1995) 32 IPR 405 at 414 (per Burchett J).</sentence>
 <sentence id="s260">The Court clarified at [152] that s 7(3) has the effect of enlarging the prior art base to include relevant prior disclosures beyond that information which is shown to constitute common general knowledge in that art.</sentence>
-<sentence id="s261">73 The High Court at [111] emphasised that it is not the role of a court to substitute its own conclusion for the objective test laid down by ss 7(2) and (3), except in the rarest of circumstances: see also Technograph Printed Circuits Ltd v Mills &amp; Rockley (Electronics) Ltd [1972] RPC 346 at 355 (per Lord Reid).</sentence>
+<sentence id="s261">73 The High Court at [111] emphasised that it is not the role of a court to substitute its own conclusion for the objective test laid down by ss 7(2) and (3), except in the rarest of circumstances: see also Technograph Printed Circuits Ltd v Mills amp; Rockley (Electronics) Ltd [1972] RPC 346 at 355 (per Lord Reid).</sentence>
 <sentence id="s262">The task for the court is to look forward from the prior art base to what a person skilled in the relevant art is likely to have done when faced with the problem which the patentee claims to have solved.</sentence>
 <sentence id="s263">The Court noted at [115]-[116] the importance of secondary evidence when considering whether an inventive step has been achieved.</sentence>
 <sentence id="s264">Secondary evidence is that evidence which relates to matters such as the commercial success of the invention, the satisfaction of a long felt want or need, the failure of others to find a solution to the problem and the copying of the invention by competitors.</sentence>
@@ -469,11 +469,11 @@ See also Kirin-Amgen Inc v Hoechst Marion Roussel Limited [2004] UKHL 46 at [20]
 <sentence id="s304">He had carried out tank testing on the effects of bow shape on dampening motions, but felt that while they would provide some improvement it would be quite small.</sentence>
 <sentence id="s305">He considers that the identified 'prior art' does not meet requirements of claim 1 of the patent that:
  
-&#8226; the width of the hull must continually decrease in a forward direction; 
+#8226; the width of the hull must continually decrease in a forward direction; 
  
-&#8226; there is a bulbous under water part and a narrow waisted part which extends through the water line for a substantial portion of the forward half; an
+#8226; there is a bulbous under water part and a narrow waisted part which extends through the water line for a substantial portion of the forward half; an
  
-&#8226; the volumetric centre-of-gravity requirement of the hull in the forward half is less than 55 percent.</sentence>
+#8226; the volumetric centre-of-gravity requirement of the hull in the forward half is less than 55 percent.</sentence>
 <sentence id="s306">82 He does not consider that someone as at the priority date would have tried to solve the problem addressed by the patent in the way set out therein.</sentence>
 <sentence id="s307">The facts that there was a lot of development work going on world-wide, including in Australia, and that nobody had resolved the seakeeping problem in the way described by the patent, supports the innovative nature of the hull shapes in the patent.</sentence>
 <sentence id="s308">83 He states that other hull forms which had been designed sought to reduce pitching by reducing the reserve buoyancy above the water line, while the inventive hull sought to reduce buoyancy both above and just below the water line.</sentence>
@@ -546,14 +546,14 @@ See also Kirin-Amgen Inc v Hoechst Marion Roussel Limited [2004] UKHL 46 at [20]
 <sentence id="s375">The result of this submission is that the invention would be obvious once a person skilled in the art had regard to the Davidson A hull design.</sentence>
 <sentence id="s376">96 In particular, Austal relied on prior art information in the form of some journal articles, drawn in particular from the Journal of Ship Research .</sentence>
 <sentence id="s377">These articles, which date back to 1960, are advanced as publications which Mr Quigley in fact consulted or which he could have readily located.</sentence>
-<sentence id="s378">For instance, Austal relies on information relating to the Davidson A destroyer discussed in an article in a 1970 article: Smith &amp; Salvesen, "Comparison of Ship-Motion" (1970) 14(1) Journal of Ship Research 67.</sentence>
+<sentence id="s378">For instance, Austal relies on information relating to the Davidson A destroyer discussed in an article in a 1970 article: Smith amp; Salvesen, "Comparison of Ship-Motion" (1970) 14(1) Journal of Ship Research 67.</sentence>
 <sentence id="s379">However, in my view, the articles are inconclusive.</sentence>
 <sentence id="s380">In part, this is because the Davidson A destroyer is a monohull vessel developed in the area of military defence vessels.</sentence>
 <sentence id="s381">Mr Quigley gave evidence that he is now aware of the Davidson Laboratory, but did not recall whether he was aware of it in January 1991.</sentence>
 <sentence id="s382">He says that it was possible that he might have sought out a copy of the publications concerning the vessel.</sentence>
 <sentence id="s383">His evidence is quite unsatisfactory on this aspect.</sentence>
 <sentence id="s384">The mere fact that the vessel was a monohull would not of itself eliminate from consideration publications discussing it, but Austal has not explained precisely how such modification to a monohull shape could be achieved so that it would come within the claims.</sentence>
-<sentence id="s385">97 As pointed out by Emmett J in E I Du Pont De Nemours v ICI Chemicals &amp; Polymers Ltd (2005) 66 IPR 462 at 493:
+<sentence id="s385">97 As pointed out by Emmett J in E I Du Pont De Nemours v ICI Chemicals amp; Polymers Ltd (2005) 66 IPR 462 at 493:
  
  'Ultimately, it is a matter for the court as to whether a proposed line of enquiry was obvious to the relevant persons.</sentence>
 <sentence id="s386">Where the evidence of a relevant person constitutes no more than speculation as to what that person might have done in circumstances that had never arisen ... the evidence will have little weight'.</sentence>
@@ -604,7 +604,7 @@ Dated: 21 June 2007
 
  Counsel for the Applicant: Mr J. Nicholas SC and Mr C. Dimitriadis 
  
- Solicitor for the Applicant: Spruson &amp; Ferguson Lawyers 
+ Solicitor for the Applicant: Spruson amp; Ferguson Lawyers 
  
  Counsel for the Respondent: Mr B. Caine SC, Mr G.L.</sentence>
 <sentence id="s419">Fitzgerald and Dr L. Duncan 
@@ -625,5 +625,22 @@ Dated: 21 June 2007
  URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/864.html 
  
  </sentence>
+</sentences>
+</case>tence>
+</sentences>
+</case> 21 June 2007 
+
+
+ 
+ 
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/864.html 
+ 
+ </sentence>
+</sentences>
+</case>tence>
 </sentences>
 </case>

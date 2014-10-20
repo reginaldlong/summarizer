@@ -3,11 +3,11 @@
 <name>Australian Securities and Investments Commission v HLP Financial Planning (Aust) Pty Ltd [2007] FCA 1868 (29 November 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1868.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">unregistered managed investment scheme</catchphrase>
-<catchphrase "id=c1">declaration of criminal conduct sought</catchphrase>
-<catchphrase "id=c2">criminal prosecution in contemplation</catchphrase>
-<catchphrase "id=c3">whether declaration should be made</catchphrase>
-<catchphrase "id=c4">corporations</catchphrase>
+<catchphrase >unregistered managed investment scheme</catchphrase>
+<catchphrase >declaration of criminal conduct sought</catchphrase>
+<catchphrase >criminal prosecution in contemplation</catchphrase>
+<catchphrase >whether declaration should be made</catchphrase>
+<catchphrase >corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -472,7 +472,7 @@ Dated: 29 November 2007
 
  Counsel for the Plaintiff: S Marks 
  
- Solicitor for the Plaintiff: Australian Securities &amp; Investments
+ Solicitor for the Plaintiff: Australian Securities amp; Investments
 Commission 
  
  Appearing for the First and Third to Fourteenth Defendants: F Murray-Palmer 
@@ -565,4 +565,7 @@ Commission
  
  </sentence>
 </sentences>
-</case>
+</case>>
+ </sentence>
+</sentences>
+</case>>

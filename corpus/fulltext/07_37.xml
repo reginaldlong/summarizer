@@ -3,16 +3,16 @@
 <name>Aristocrat Technologies Australia Pty Ltd v IGT(Australia) Pty Ltd [2007] FCA 37 (7 February 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/37.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">patents</catchphrase>
-<catchphrase "id=c1">patent for a system of bonus prize winning mode on gaming machines</catchphrase>
-<catchphrase "id=c2">opposition to the grant of patent</catchphrase>
-<catchphrase "id=c3">degree of weight given to views of the delegate of the commissioner of patents</catchphrase>
-<catchphrase "id=c4">issues for court in opposition proceedings</catchphrase>
-<catchphrase "id=c5">patent application construction principles</catchphrase>
-<catchphrase "id=c6">whether lack of novelty or anticipation</catchphrase>
-<catchphrase "id=c7">application of reverse infringement test</catchphrase>
-<catchphrase "id=c8">whether obvious</catchphrase>
-<catchphrase "id=c9">intellectual property</catchphrase>
+<catchphrase >patents</catchphrase>
+<catchphrase >patent for a system of bonus prize winning mode on gaming machines</catchphrase>
+<catchphrase >opposition to the grant of patent</catchphrase>
+<catchphrase >degree of weight given to views of the delegate of the commissioner of patents</catchphrase>
+<catchphrase >issues for court in opposition proceedings</catchphrase>
+<catchphrase >patent application construction principles</catchphrase>
+<catchphrase >whether lack of novelty or anticipation</catchphrase>
+<catchphrase >application of reverse infringement test</catchphrase>
+<catchphrase >whether obvious</catchphrase>
+<catchphrase >intellectual property</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -61,7 +61,7 @@
  
  [emphasis added] 
 
-6 The potential procedural consequences of the recognition of the nature of the task before the Court in an appeal from opposition proceedings were illustrated in E I Du Pont de Nemours and Company v ICI Chemicals &amp; Polymers Ltd [2003] FCA 291 ; (2003) 128 FCR 392 at 396-97 [25] , where Emmett J said:
+6 The potential procedural consequences of the recognition of the nature of the task before the Court in an appeal from opposition proceedings were illustrated in E I Du Pont de Nemours and Company v ICI Chemicals amp; Polymers Ltd [2003] FCA 291 ; (2003) 128 FCR 392 at 396-97 [25] , where Emmett J said:
  
  "In opposition proceedings, the opponent must establish that it is practically certain that the patent that would be granted on the application would be invalid.</sentence>
 <sentence id="s25">Thus, opposition should be confined to those grounds that have a fair potential to establish clearly that the prospective patent would be invalid.</sentence>
@@ -206,7 +206,7 @@
 <sentence id="s87">The inventiveness and novelty is said by IGT to lie in the duality of phases and the use of two, what were called, count triggers to end each successive phase.</sentence>
 <sentence id="s88">31 There was no disagreement about the expression of the principles of construction.</sentence>
 <sentence id="s89">The debate lay in the different application of them, in particular in the subtle question of the correct perspective from, or prism through, which to read the patent application.</sentence>
-<sentence id="s90">The construction of the claims takes place in the context of the specification as a whole, recognising the existence and role of the different parts thereof, the Court having placed itself in the position of someone acquainted with the state of the art: Fresenius Medical Care Australia Pty Ltd v Gambro Pty Ltd (2005) 67 IPR 230 at 236 [39]; Welch Perrin &amp; Co Pty Ltd v Worrel [1960] HCA 91 ; (1961) 106 CLR 588 at 610; and Kimberly-Clark Australia Pty Ltd v Arico Trading International Pty Ltd [2001] HCA 8 ; (2001) 207 CLR 1 at 16 [24] .</sentence>
+<sentence id="s90">The construction of the claims takes place in the context of the specification as a whole, recognising the existence and role of the different parts thereof, the Court having placed itself in the position of someone acquainted with the state of the art: Fresenius Medical Care Australia Pty Ltd v Gambro Pty Ltd (2005) 67 IPR 230 at 236 [39]; Welch Perrin amp; Co Pty Ltd v Worrel [1960] HCA 91 ; (1961) 106 CLR 588 at 610; and Kimberly-Clark Australia Pty Ltd v Arico Trading International Pty Ltd [2001] HCA 8 ; (2001) 207 CLR 1 at 16 [24] .</sentence>
 <sentence id="s91">That said, two different people skilled in the art may take the meaning of the specification as a whole or the claims therein differently.</sentence>
 <sentence id="s92">That may reflect the perennial problem of the imprecision of language, meaning and perception or it may reflect different emphases taken from the prior art.</sentence>
 <sentence id="s93">In such cases (as to a degree is the case here) the following words of Hely J in Flexible Steel Lacing Company v Beltreco Ltd (2000) 49 IPR 331 at 350 [81] are apposite (in his Honour's always helpful, if I may respectfully say so, discussion of the principles of construction of patents at 347-350 [70]-[81]):
@@ -416,8 +416,8 @@ The last and emphasised sentence of this paragraph appears to be wide enough to 
 <sentence id="s219">Mr Daley, however, in the context of the various references in the Bennett Patent to combination triggers, interpreted the general phrase "predetermined objective" to be limited to a predetermined objective by combination trigger.</sentence>
 <sentence id="s220">Novelty and the Bennett Patent 
  
-65 An essential step in deciding any question of novelty or anticipation is the proper construction of both the prior publication and the claims in the patent application in the light of all admissible evidence: General Tire &amp; Rubber Company v Firestone Tyre and Rubber Company Ltd (1971) 1A IPR 121 at 137-38.</sentence>
-<sentence id="s221">The matter was expressed in General Tire &amp; Rubber 1A IPR at 138 as follows:
+65 An essential step in deciding any question of novelty or anticipation is the proper construction of both the prior publication and the claims in the patent application in the light of all admissible evidence: General Tire amp; Rubber Company v Firestone Tyre and Rubber Company Ltd (1971) 1A IPR 121 at 137-38.</sentence>
+<sentence id="s221">The matter was expressed in General Tire amp; Rubber 1A IPR at 138 as follows:
  
  "When the prior inventor's publication and the patentee's claim have respectively been construed by the court in the light of all properly admissible evidence to technical matters, the meaning of words and expressions used in the art and so forth, the question whether the patentee's claim is new for the purposes of s 32(1)(e) falls to be decided as a question of fact.</sentence>
 <sentence id="s222">If the prior inventor's publication contains a clear description of, or clear instructions to do or make, something that would infringe the patentee's claim if carried out after the grant of the patentee's patent, the patentee's claim will have been shown to lack the necessary novelty, that is to say, it will have been anticipated.</sentence>
@@ -425,7 +425,7 @@ The last and emphasised sentence of this paragraph appears to be wide enough to 
 <sentence id="s224">
  
  If, on the other hand, the prior publication contains a direction which is capable of being carried out in a manner which would infringe the patentee's claim, but would be at least as likely to be carried out in a way which would not do so, the patentee's claim will not have been anticipated, although it may fail on the ground of obviousness.</sentence>
-<sentence id="s225">To anticipate the patentee's claim the prior publication must contain clear and unmistakable directions to do what the patentee claims to have invented: Flour Oxidising Co Ltd v Carr &amp; Co Ltd (1908) 25 RPC 428 at 457, line 34, approved in BTH Co Ltd v Metropolitan Vickers Electrical Co Ltd (1928) 45 RPC 1 at 24, line 1.</sentence>
+<sentence id="s225">To anticipate the patentee's claim the prior publication must contain clear and unmistakable directions to do what the patentee claims to have invented: Flour Oxidising Co Ltd v Carr amp; Co Ltd (1908) 25 RPC 428 at 457, line 34, approved in BTH Co Ltd v Metropolitan Vickers Electrical Co Ltd (1928) 45 RPC 1 at 24, line 1.</sentence>
 <sentence id="s226">A signpost, however clear, upon the road to the patentee's invention will not suffice.</sentence>
 <sentence id="s227">The prior inventor must be clearly shown to have planted his flag at the precise destination before the patentee.</sentence>
 <sentence id="s228">" 
@@ -440,8 +440,8 @@ The last and emphasised sentence of this paragraph appears to be wide enough to 
  
 
 See also Olin Corporation v Super Cartridge Co Pty Ltd [1977] HCA 23 ; (1977) 180 CLR 236 at 261.</sentence>
-<sentence id="s232">67 The reverse infringement test cannot be applied literally: see Nicaro Holdings Pty Ltd v Martin Engineering Co (1990) 91 ALR 513 at 528 and R D Werner &amp; Co Inc v Bailey Aluminium Products Pty Ltd (1989) 25 FCR 565 at 568-569.</sentence>
-<sentence id="s233">And see generally Bristol Myers Squibb Company v FH Faulding &amp; Co Ltd [2000] FCA 316 ; (2000) 97 FCR 524 at 546-49 [60] - [68] ; Jupiter Ltd v Neurizon Pty Ltd (2005) 65 IPR 86 at 105-106; Fresenius Medical Care Australia Pty Ltd v Gambro Pty Ltd (2005) 67 IPR 230; Pfizer Overseas Pharmaceuticals v Eli Lilly &amp; Co (2005) 68 IPR 1 at 66-69 [311]-[324]; Imperial Chemical Industries Pty Ltd v Commissioner of Patents (2004) 63 IPR 476 at 487-490 [60]-[68]; Merck &amp; Co Inc v Arrow Pharmaceuticals Ltd [2006] FCAFC 91 ; (2006) 68 IPR 511 at 537-538 [104] - [112] .</sentence>
+<sentence id="s232">67 The reverse infringement test cannot be applied literally: see Nicaro Holdings Pty Ltd v Martin Engineering Co (1990) 91 ALR 513 at 528 and R D Werner amp; Co Inc v Bailey Aluminium Products Pty Ltd (1989) 25 FCR 565 at 568-569.</sentence>
+<sentence id="s233">And see generally Bristol Myers Squibb Company v FH Faulding amp; Co Ltd [2000] FCA 316 ; (2000) 97 FCR 524 at 546-49 [60] - [68] ; Jupiter Ltd v Neurizon Pty Ltd (2005) 65 IPR 86 at 105-106; Fresenius Medical Care Australia Pty Ltd v Gambro Pty Ltd (2005) 67 IPR 230; Pfizer Overseas Pharmaceuticals v Eli Lilly amp; Co (2005) 68 IPR 1 at 66-69 [311]-[324]; Imperial Chemical Industries Pty Ltd v Commissioner of Patents (2004) 63 IPR 476 at 487-490 [60]-[68]; Merck amp; Co Inc v Arrow Pharmaceuticals Ltd [2006] FCAFC 91 ; (2006) 68 IPR 511 at 537-538 [104] - [112] .</sentence>
 <sentence id="s234">68 The Bennett Patent undoubtedly discloses a two stage progressive prize system.</sentence>
 <sentence id="s235">It discloses the accumulation of a bonus prize in a separate and antecedent prize accumulation phase.</sentence>
 <sentence id="s236">It discloses a separate and subsequent prize awarding phase.</sentence>
@@ -679,7 +679,7 @@ Dated: 7 February 2007
  
  Counsel for the Respondents: Ms K J Howard SC and Mr C Dimitriatis 
  
- Solicitor for the Respondents: Spruson &amp; Ferguson Lawyers 
+ Solicitor for the Respondents: Spruson amp; Ferguson Lawyers 
  
  Date of Hearing: 9, 10 and 11 October 2006 
  
@@ -698,4 +698,10 @@ Dated: 7 February 2007
  
  </sentence>
 </sentences>
+</case>s>
+</case>es/cth/FCA/2007/37.html 
+ 
+ </sentence>
+</sentences>
+</case>s>
 </case>

@@ -3,11 +3,11 @@
 <name>Australian Competition and Consumer Commission v TEAC Australia Pty Ltd [2007] FCA 1859 (28 November 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1859.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">resale price maintenance</catchphrase>
-<catchphrase "id=c1">agreed facts</catchphrase>
-<catchphrase "id=c2">consent orders sought</catchphrase>
-<catchphrase "id=c3">consideration of factors relevant to penalty</catchphrase>
-<catchphrase "id=c4">trade practices</catchphrase>
+<catchphrase >resale price maintenance</catchphrase>
+<catchphrase >agreed facts</catchphrase>
+<catchphrase >consent orders sought</catchphrase>
+<catchphrase >consideration of factors relevant to penalty</catchphrase>
+<catchphrase >trade practices</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -267,7 +267,7 @@ There is to be a further order, providing for what is to happen in the event of 
 <sentence id="s55">
  
 
-16 The relevant principles governing the imposition of pecuniary penalties are discussed in Australian Consumer and Competition Commission v Dataline.Net.Au Pty Ltd [2007] FCAFC 146 (" Dataline ") at [60]-[75]; Trade Practices Commission v CSR Ltd (1991) ATPR 41-076 at 52,151-52, 154; NW Frozen Foods Pty Ltd v Australian Consumer and Competition Commission (1997) 71 FCR 285 at 290-295; J McPhee &amp; Son (Aust) Pty Ltd v Australian Consumer and Competition Commission (2000) 172 ALR 532; and Minister for Industry, Tourism and Resources v Mobil Oil Australia Pty Ltd [2004] FCAFC 72 (" Mobil Oil ") at [51]-[58].</sentence>
+16 The relevant principles governing the imposition of pecuniary penalties are discussed in Australian Consumer and Competition Commission v Dataline.Net.Au Pty Ltd [2007] FCAFC 146 (" Dataline ") at [60]-[75]; Trade Practices Commission v CSR Ltd (1991) ATPR 41-076 at 52,151-52, 154; NW Frozen Foods Pty Ltd v Australian Consumer and Competition Commission (1997) 71 FCR 285 at 290-295; J McPhee amp; Son (Aust) Pty Ltd v Australian Consumer and Competition Commission (2000) 172 ALR 532; and Minister for Industry, Tourism and Resources v Mobil Oil Australia Pty Ltd [2004] FCAFC 72 (" Mobil Oil ") at [51]-[58].</sentence>
 <sentence id="s56">These authorities indicate that further relevant matters include:
  
  (a) the size of the contravening company; 
@@ -297,7 +297,7 @@ See also Australian Consumer and Competition Commission v Jurlique International
 <sentence id="s62">
 
 What is known in the criminal law as the "totality principle" is also relevant.</sentence>
-<sentence id="s63">That is, the total penalty for related offences ought not to exceed what is appropriate for the entire contravening conduct involved: see Jurlique at [52]; Trade Practices Commission v TNT Australia Pty Ltd &amp; Ors (1995) ATPR 41-375 at 40,169; Knight at [73]; and Visy Industries at [304].</sentence>
+<sentence id="s63">That is, the total penalty for related offences ought not to exceed what is appropriate for the entire contravening conduct involved: see Jurlique at [52]; Trade Practices Commission v TNT Australia Pty Ltd amp; Ors (1995) ATPR 41-375 at 40,169; Knight at [73]; and Visy Industries at [304].</sentence>
 <sentence id="s64">The "parity principle" is also relevant, namely, all other things being equal, like cases should be treated alike.</sentence>
 <sentence id="s65">18 Further, the fact that the ACCC and the respondents have put forward a penalty that they have agreed as between themselves is relevant, although not conclusive because the Court retains the responsibility for imposing penalties: see Dataline at [59]; Visy Industries at [305]; and Australian Consumer and Competition Commission v ABB Power Transmission Pty Ltd (2004) ATPR 42-011; [2004] FCA 819 at [46] - [56] .</sentence>
 <sentence id="s66">19 The parties propose that an appropriate penalty for TEAC would be $235,000 discounted, by 25% for cooperation and early acknowledgment of liability, to $175,000 payable by instalments.</sentence>
@@ -413,4 +413,6 @@ Dated: 28 November 2007
  
  </sentence>
 </sentences>
-</case>
+</case>e> </sentence>
+</sentences>
+</case>e>

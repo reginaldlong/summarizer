@@ -3,11 +3,11 @@
 <name>Commissioner of Taxation v Milne (with Corrigendumdated 9 August 2006) [2006] FCA 1005 (4 August 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1005.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">context of liability to income tax</catchphrase>
-<catchphrase "id=c1">review of decision of aat to grant relief from income tax in favour of legal practitioner referrable to circumstances of serious hardship</catchphrase>
-<catchphrase "id=c2">implications of that statutory notion in case of long established legal practitioner adversely affected financially by marital breakdown, illness and financial misconduct of former partner</catchphrase>
-<catchphrase "id=c3">whether tribunal took into account irrelevant considerations or failed to take into account relevant considerations in its determination or otherwise of the prevalence of serious hardship</catchphrase>
-<catchphrase "id=c4">administrative law</catchphrase>
+<catchphrase >context of liability to income tax</catchphrase>
+<catchphrase >review of decision of aat to grant relief from income tax in favour of legal practitioner referrable to circumstances of serious hardship</catchphrase>
+<catchphrase >implications of that statutory notion in case of long established legal practitioner adversely affected financially by marital breakdown, illness and financial misconduct of former partner</catchphrase>
+<catchphrase >whether tribunal took into account irrelevant considerations or failed to take into account relevant considerations in its determination or otherwise of the prevalence of serious hardship</catchphrase>
+<catchphrase >administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -470,7 +470,7 @@ The reference in [9] above to hardship being largely personal to the taxpayer ma
 <sentence id="s89">In reaching the decision to release in whole or part, the question to be addressed is whether, in all the circumstances, it is just and proper to provide the requested relief.</sentence>
 <sentence id="s90">Matters pertaining to the incidence and consequence of the tax and the effect of its exaction upon the affairs of the person will bear upon the issue of whether the relief is just and proper.</sentence>
 <sentence id="s91">Support for the two stage approach is to be found in the decision of the High Court in Rex v Trebilco; ex parte F.S.</sentence>
-<sentence id="s92">Falkiner &amp; Sons Ltd [1936] HCA 63 ; (1936) 56 CLR 20 .</sentence>
+<sentence id="s92">Falkiner amp; Sons Ltd [1936] HCA 63 ; (1936) 56 CLR 20 .</sentence>
 <sentence id="s93">' 
 
 
@@ -548,7 +548,7 @@ Understandably counsel for Mr Milne invoked, as largely here applicable, those o
  
 
 24 Further in his reasons for judgment in Powell at 263, Hill J referred to the dictum of Windeyer J in Giris Pty Ltd v Commissioner of Taxation [1969] HCA 5 ; (1969) 119 CLR 365 at 384 concerning the need '... to be guided and controlled by the policy and purpose of the enactment, so far as that is manifest in it [and to] exclude from... consideration any matter which it would be unlawful... to take as a criterion... [subject to the qualification where] the statute seems to allow great latitude to the Commissioner in forming his opinion' .</sentence>
-<sentence id="s125">Moreover his Honour referred to what was said by Dixon J (as he then was) in R v Trebilco; Ex parte FS Falkiner &amp; Sons Ltd [1936] HCA 63 ; (1936) 56 CLR 20 at 32 as to certain statutory 'considerations by which an exercise of discretion is to be guided... [t] he nature of those considerations [to] be gathered from the scope and object of the provision' .</sentence>
+<sentence id="s125">Moreover his Honour referred to what was said by Dixon J (as he then was) in R v Trebilco; Ex parte FS Falkiner amp; Sons Ltd [1936] HCA 63 ; (1936) 56 CLR 20 at 32 as to certain statutory 'considerations by which an exercise of discretion is to be guided... [t] he nature of those considerations [to] be gathered from the scope and object of the provision' .</sentence>
 <sentence id="s126">Additionally his Honour referred further to dictum of Mason J (as he then was) in Minister for Aboriginal Affairs v Peko-Wallsend Ltd [1986] HCA 40 ; (1986) 162 CLR 24 at 40, where his Honour described the statutory discretion there addressed, albeit not related to fiscal exaction, as '... similarly unconfined, except in so far as there may be found in the subject matter, scope and purpose of the statute some implied limitation on the factors to which the decision-maker may legitimately have regard', and where his Honour thereafter proceeded to emphasise that '[b]y analogy, where the ground of review is that a relevant consideration has not been taken into account and the discretion is unconfined by the terms of the statute, the court will not find that the decision-maker is bound to take a particular matter into account unless an implication that he is bound to do so is to be found in the subject matter, scope and purpose of the Act.</sentence>
 <sentence id="s127">' Those factors have aspects of materiality in relation to the issue or issues here falling for consideration.</sentence>
 <sentence id="s128">25 Subsequently in Van Grieken v Veilands (1991) 21 ATR 1639, Gummow J cited the principled approach outlined by Hill J in Powell with at least implicit approval, observing that his Honour had further pointed out (at 626 of Powell ) that the decision-maker was entitled to 'consider not only such matters as go to the issue of serious hardship, but also other matters which, in the discretion of the Board, may be relevant'.</sentence>
@@ -766,13 +766,13 @@ The Council of the Law Society of New South Wales was said by the Commissioner t
  
  
  
- &#8226; operate any trust account or controlled money account or receive any money from any other person in circumstances to which s 61 of the [Legal Profession Act 2004 (NSW)] applies; 
+ #8226; operate any trust account or controlled money account or receive any money from any other person in circumstances to which s 61 of the [Legal Profession Act 2004 (NSW)] applies; 
  
- &#8226; commence or continue to act as a trustee of any real or personal property; 
+ #8226; commence or continue to act as a trustee of any real or personal property; 
  
- &#8226; accept appointment to, or continue to act in the office of executor or administrator of a deceased person's estate, or as trustee of any real or personal property, or as donee under any power of attorney or other instrument under whose authority a power of appointment or disposition of property can be exercised; nor 
+ #8226; accept appointment to, or continue to act in the office of executor or administrator of a deceased person's estate, or as trustee of any real or personal property, or as donee under any power of attorney or other instrument under whose authority a power of appointment or disposition of property can be exercised; nor 
  
- &#8226; engage in any activity from which a bankrupt is disqualified under any Federal or New South Wales law.</sentence>
+ #8226; engage in any activity from which a bankrupt is disqualified under any Federal or New South Wales law.</sentence>
 <sentence id="s182">' 
 
 
@@ -881,4 +881,6 @@ Dated: 4 August 2006
  
  </sentence>
 </sentences>
-</case>
+</case>/case>entence>
+</sentences>
+</case>/case>

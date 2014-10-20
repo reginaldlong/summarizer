@@ -3,10 +3,10 @@
 <name>Vinciguerra v MG Corrosion Consultants Pty Ltd [2007] FCA 503 (5 April 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/503.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application to inspect company's books</catchphrase>
-<catchphrase "id=c1">whether 'acting in good faith and inspection for a proper purpose'</catchphrase>
-<catchphrase "id=c2">whether an inspection should be ordered pursuant to s 247a of the corporations act.</catchphrase>
-<catchphrase "id=c3">corporations</catchphrase>
+<catchphrase >application to inspect company's books</catchphrase>
+<catchphrase >whether 'acting in good faith and inspection for a proper purpose'</catchphrase>
+<catchphrase >whether an inspection should be ordered pursuant to s 247a of the corporations act.</catchphrase>
+<catchphrase >corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -103,11 +103,11 @@
 <sentence id="s38">Accordingly, whichever be the actual reason for his resignation as a director, the relationship between the applicant and Mr Gilmour was to some degree soured by that time.</sentence>
 <sentence id="s39">16 The applicant says that he has never had an opportunity to inspect the books of the respondent although he has been provided by Mr Gilmour with the following documents which were tendered in evidence before me: 
  
- &#8226; the respondent's financial statements for the year ended 30 June 2005;
- &#8226; the respondent's balance sheets as of October 2005, January 2006 and 1 February 2006;
- &#8226; the respondent's tax returns for 2004 and 2005;
- &#8226; the respondent's management reports for May and August 2003, January and March to December 2004, January to December 2005 and January, February, April and May 2006; and 
- &#8226; the respondent's sales (customer summary) for the period 1 October 2004 to 31 October 2004.</sentence>
+ #8226; the respondent's financial statements for the year ended 30 June 2005;
+ #8226; the respondent's balance sheets as of October 2005, January 2006 and 1 February 2006;
+ #8226; the respondent's tax returns for 2004 and 2005;
+ #8226; the respondent's management reports for May and August 2003, January and March to December 2004, January to December 2005 and January, February, April and May 2006; and 
+ #8226; the respondent's sales (customer summary) for the period 1 October 2004 to 31 October 2004.</sentence>
 <sentence id="s40">
 
 17 Mr Gilmour on the other hand asserts that the applicant received monthly management reports from the respondent including monthly and year-to-date profit and loss accounts with comparisons; budgets and profit and loss accounts for the prior year; the top ten clients of the respondent and the top ten suppliers of the respondent.</sentence>
@@ -391,18 +391,18 @@
  
  
  
- &#8226; the respondent's statement of financial performance for the year ended 30 June 2005 contained in the financial statements annexed to the applicant' s 9 November 2006 affidavit records (at page 59) that the respondent derived a profit from ordinary activities before income tax of $358,602 for the year ended 30 June 2005.</sentence>
+ #8226; the respondent's statement of financial performance for the year ended 30 June 2005 contained in the financial statements annexed to the applicant' s 9 November 2006 affidavit records (at page 59) that the respondent derived a profit from ordinary activities before income tax of $358,602 for the year ended 30 June 2005.</sentence>
 <sentence id="s186">Despite this, those same financial statements record that the respondent's net liabilities (and accumulated losses) only decreased by the sum of $26,738 during the period 30 June 2004 to 30 June 2005; 
  
  
  
- &#8226; the respondent's balance sheet as at 30 June 2004 contained in the respondent's management report for June 2004 (annexure "ACV-18" to the applicant' s 9 November 2006 affidavit at page 187) records the respondent as having net assets of $265,164.51 as at June 2004 and retained earnings in the amount of negative $43,079.63 as at June 2004; 
+ #8226; the respondent's balance sheet as at 30 June 2004 contained in the respondent's management report for June 2004 (annexure "ACV-18" to the applicant' s 9 November 2006 affidavit at page 187) records the respondent as having net assets of $265,164.51 as at June 2004 and retained earnings in the amount of negative $43,079.63 as at June 2004; 
  
  
  
- &#8226; the balance sheets that are contained in the respondent's management reports that have been provided to the applicant, being May 2003 (page 186), August 2003 (page 117), January 2004 (page 129), March 2004 (page 143), May 2004 (page 172), June 2004 (page 187), July 2004 (page 197), August 2004 (page 209), September 2004 (page 221), October 2004 (page 232), November 2004 (page 245), January 2005 (page 258), February 2005 (page 272), March 2005 (page 286), April 2005 (page 301), May 2005 (page 315) and May 2006 (page 448), all record the respondent as having net assets of between $138,207.91 and $514,219.58; and
+ #8226; the balance sheets that are contained in the respondent's management reports that have been provided to the applicant, being May 2003 (page 186), August 2003 (page 117), January 2004 (page 129), March 2004 (page 143), May 2004 (page 172), June 2004 (page 187), July 2004 (page 197), August 2004 (page 209), September 2004 (page 221), October 2004 (page 232), November 2004 (page 245), January 2005 (page 258), February 2005 (page 272), March 2005 (page 286), April 2005 (page 301), May 2005 (page 315) and May 2006 (page 448), all record the respondent as having net assets of between $138,207.91 and $514,219.58; and
  
- &#8226; the respondent's balance sheet contained in its June 2004 Management report (page 187) records the respondent as having net assets of $265,164.51 as at June 2004, the same time that both versions of the respondent's statement of financial position contained in its 2005 financial statements recorded it as having net liabilities of $34,488.</sentence>
+ #8226; the respondent's balance sheet contained in its June 2004 Management report (page 187) records the respondent as having net assets of $265,164.51 as at June 2004, the same time that both versions of the respondent's statement of financial position contained in its 2005 financial statements recorded it as having net liabilities of $34,488.</sentence>
 <sentence id="s187">
 
 56 The respondent does not by evidence or submission deal with these concerns.</sentence>
@@ -449,14 +449,14 @@
 <sentence id="s220">I am satisfied that the applicant's purpose is proper in that respect.</sentence>
 <sentence id="s221">64 It operates where the applicant seeks to protect some specific or personal right by the making of the order: Acehill Investments Pty Ltd v Incitec Ltd [2002] SASC 344 at [29] per Debelle J.</sentence>
 <sentence id="s222">In Intercapital Holdings Ltd v M.E.H.</sentence>
-<sentence id="s223">Ltd &amp; Ors (1988) 6 ACLC 1068 Brooking J in the Victorian Supreme Court was concerned with, relevantly, an application for an inspection of books of a company pursuant to s 265B of the then Companies (Victoria) Code.</sentence>
+<sentence id="s223">Ltd amp; Ors (1988) 6 ACLC 1068 Brooking J in the Victorian Supreme Court was concerned with, relevantly, an application for an inspection of books of a company pursuant to s 265B of the then Companies (Victoria) Code.</sentence>
 <sentence id="s224">That statutory provision is substantially in the same terms as s 247A(1) of the Act .</sentence>
 <sentence id="s225">His Honour (at 1,074) considered as relevant to the questions of whether the applicant was acting in good faith and for a proper purpose that a reasonable shareholder in a company could take the view that his investment in that company may be adversely affected by a particular transaction and could take the view that he wished to investigate the question whether he should endeavour to cause legal proceedings to be taken whereby he or the company may in appropriate circumstances recover damages or compensation for wrongful acts associated with the transaction.</sentence>
 <sentence id="s226">In this case, although not dealing with one transaction but a number of transactions involving questions or concerns as to proper accounting in the respondent's books, the applicant is doing the very same.</sentence>
 <sentence id="s227">Access to the respondent's books will assist his investigation of concerns which may result in proceedings in his own right and/or in the name of the respondent.</sentence>
 <sentence id="s228">65 Where orders for inspection are sought under the regime found within s 247A(3) -(6), this will require, in my opinion, a consideration of the bases relied upon or to be relied upon in any foreshadowed application pursuant to s 237 of the Act .</sentence>
-<sentence id="s229">Accordingly, I respectfully agree, with the view expressed by Master Sanderson in Caveat Pty Ltd v Baillie &amp; Ors [2002] WASC 83 at [24] - [25] .</sentence>
-<sentence id="s230">This approach was adopted by Commissioner Siopis SC, as he then was, in Chuen v Laredo Pty Ltd &amp; Ors [2005] WASC 58 at [59] .</sentence>
+<sentence id="s229">Accordingly, I respectfully agree, with the view expressed by Master Sanderson in Caveat Pty Ltd v Baillie amp; Ors [2002] WASC 83 at [24] - [25] .</sentence>
+<sentence id="s230">This approach was adopted by Commissioner Siopis SC, as he then was, in Chuen v Laredo Pty Ltd amp; Ors [2005] WASC 58 at [59] .</sentence>
 <sentence id="s231">66 The factual matrix replied upon by the applicant under each head of application is essentially the same.</sentence>
 <sentence id="s232">Accordingly my findings on the issues of good faith and proper purpose relate to both equally.</sentence>
 <sentence id="s233">67 The respondent contends that the applicant is not acting in good faith and his application for inspection of the books is not for a proper purpose.</sentence>
@@ -526,4 +526,7 @@ Dated: 5 April 2007
  
  </sentence>
 </sentences>
+</case>ces>
+</case>ntences>
+</case>ces>
 </case>

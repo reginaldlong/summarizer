@@ -3,12 +3,12 @@
 <name>SZJBA v Minister for Immigration and Citizenship (Corrigendum 19 October 2007) [2007] FCA 1592 (16 October 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1592.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from a decision of the federal magistrates court</catchphrase>
-<catchphrase "id=c1">where the refugee review tribunal sent a letter to the appellant inviting comment</catchphrase>
-<catchphrase "id=c2">where letter purportedly sent under s 424a of the migration act 1958 (cth)</catchphrase>
-<catchphrase "id=c3">where appellant's adviser attempted to send response to invitation</catchphrase>
-<catchphrase "id=c4">whether failure by tribunal to follow up response amounts to jurisdictional error.</catchphrase>
-<catchphrase "id=c5">migration</catchphrase>
+<catchphrase >appeal from a decision of the federal magistrates court</catchphrase>
+<catchphrase >where the refugee review tribunal sent a letter to the appellant inviting comment</catchphrase>
+<catchphrase >where letter purportedly sent under s 424a of the migration act 1958 (cth)</catchphrase>
+<catchphrase >where appellant's adviser attempted to send response to invitation</catchphrase>
+<catchphrase >whether failure by tribunal to follow up response amounts to jurisdictional error.</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -369,7 +369,7 @@ The evidence before the Federal Magistrates Court did not explain the inconsiste
 
 33 This (together with the Minister's submissions) was the foundation for the Federal Magistrate saying in his reasons at [27]:
  
- Although the headings on the 25 January 2007 facsimile might have put an alert reader at the Tribunal on notice that not all pages which had been intended to be sent were actually sent, or at least had not been received, the Tribunal is not obliged to make inquiries or to prompt and stimulate an elaboration which the applicant choses [sic] not to embark upon: Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs v SGLB [2004] HCA 32 ; (2004) 207 ALR 12 at 21 --- 22 [42] and [43]; Re Ruddock; Ex parte Applicant S154/2002 (2003) 201 ALR 437 at 451 [58].</sentence>
+ Although the headings on the 25 January 2007 facsimile might have put an alert reader at the Tribunal on notice that not all pages which had been intended to be sent were actually sent, or at least had not been received, the Tribunal is not obliged to make inquiries or to prompt and stimulate an elaboration which the applicant choses [sic] not to embark upon: Minister for Immigration amp; Multicultural amp; Indigenous Affairs v SGLB [2004] HCA 32 ; (2004) 207 ALR 12 at 21 --- 22 [42] and [43]; Re Ruddock; Ex parte Applicant S154/2002 (2003) 201 ALR 437 at 451 [58].</sentence>
 <sentence id="s183">No error is demonstrated by the Tribunal not correcting the applicant's adviser's error.</sentence>
 <sentence id="s184">
  
@@ -620,4 +620,8 @@ Dated: 16 October 2007
  
  </sentence>
 </sentences>
-</case>
+</case>e>tml 
+ 
+ </sentence>
+</sentences>
+</case>e>

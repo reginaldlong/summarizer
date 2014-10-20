@@ -3,11 +3,11 @@
 <name>Wakaman People 2 v Native Title Registrar and Authorised Delegate [2006] FCA 1251 (21 September 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1251.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">registration of native title claim</catchphrase>
-<catchphrase "id=c1">whether court has authority to direct the registrar to make a back-dated entry on the register</catchphrase>
-<catchphrase "id=c2">purpose of register and registration</catchphrase>
-<catchphrase "id=c3">notification of future acts and ability to negotiation</catchphrase>
-<catchphrase "id=c4">native title</catchphrase>
+<catchphrase >registration of native title claim</catchphrase>
+<catchphrase >whether court has authority to direct the registrar to make a back-dated entry on the register</catchphrase>
+<catchphrase >purpose of register and registration</catchphrase>
+<catchphrase >notification of future acts and ability to negotiation</catchphrase>
+<catchphrase >native title</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -106,7 +106,7 @@ Dated: 21 September 2006
  
  Solicitor for the Applicant: North Queensland Land Council 
  
- Solicitor for the First Respondent: Gore &amp; Associates 
+ Solicitor for the First Respondent: Gore amp; Associates 
  
  Solicitor for the Second Respondent Crown Law 
  
@@ -128,4 +128,7 @@ Dated: 21 September 2006
  
  </sentence>
 </sentences>
-</case>
+</case>>
+ </sentence>
+</sentences>
+</case>>

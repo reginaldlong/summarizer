@@ -3,12 +3,12 @@
 <name>Marijancevic v Mann [2007] FCA 1648 (2 November 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1648.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">notices of assessment</catchphrase>
-<catchphrase "id=c1">validity</catchphrase>
-<catchphrase "id=c2">whether bona fide attempts by commissioner to assess income</catchphrase>
-<catchphrase "id=c3">invalid garnishee notice served by commissioner</catchphrase>
-<catchphrase "id=c4">whether invalidity establishes lack of bona fide attempt</catchphrase>
-<catchphrase "id=c5">income tax (cth)</catchphrase>
+<catchphrase >notices of assessment</catchphrase>
+<catchphrase >validity</catchphrase>
+<catchphrase >whether bona fide attempts by commissioner to assess income</catchphrase>
+<catchphrase >invalid garnishee notice served by commissioner</catchphrase>
+<catchphrase >whether invalidity establishes lack of bona fide attempt</catchphrase>
+<catchphrase >income tax (cth)</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -68,13 +68,13 @@
 <sentence id="s29">(o) A file note made on 11 February shows that Mr Wicks rang the applicant back at 3:20 pm, the applicant was not available, and Mr Wicks left a message.</sentence>
 <sentence id="s30">(p) On the same day the respondent issued assessments for 
 
-&#8226; the 1998 year of $173,373.73 due for payment on 18 March 2003
+#8226; the 1998 year of $173,373.73 due for payment on 18 March 2003
  
-&#8226; the 2000 year of $272,722.06 due for payment on 18 March 2003
+#8226; the 2000 year of $272,722.06 due for payment on 18 March 2003
  
-&#8226; the 2001 financial year of $441,059.70 due for payment on 21 November 2001
+#8226; the 2001 financial year of $441,059.70 due for payment on 21 November 2001
  
-&#8226; the 2002 financial year of $959,287.00 due for payment on 21 November 2001.</sentence>
+#8226; the 2002 financial year of $959,287.00 due for payment on 21 November 2001.</sentence>
 <sentence id="s31">
  (q) On 12 February 2003 the District Court allowed the Police appeal referred to in (d).</sentence>
 <sentence id="s32">(r) On 3 March 2003 Mr Saunders signed a document headed "Serious Non-Compliance Team Audit Case Plan Update --- Review Points" (the Audit Report).</sentence>
@@ -212,7 +212,7 @@
 <sentence id="s92">Continue to obtain and analyse Bank account details to determine if action is warranted on other years.</sentence>
 <sentence id="s93">
  2.</sentence>
-<sentence id="s94">Obtain property searches in both Vic, NSW &amp; Qld to determine if private expenditure correlates with known income.</sentence>
+<sentence id="s94">Obtain property searches in both Vic, NSW amp; Qld to determine if private expenditure correlates with known income.</sentence>
 <sentence id="s95">
  3.</sentence>
 <sentence id="s96">Prepare s 167 Submission and Issue Report based upon current information whilst awaiting full bank account statements and analysis.</sentence>
@@ -457,7 +457,7 @@ Dated: 2 November 2007
 
  Counsel for the Applicant S Gillespie-Jones 
  
- Solicitors for the Applicant Ferraro Pruscino &amp; Co 
+ Solicitors for the Applicant Ferraro Pruscino amp; Co 
  
  Counsel for the Respondent: P Nicholas 
  
@@ -478,4 +478,8 @@ Dated: 2 November 2007
  
  </sentence>
 </sentences>
-</case>
+</case>/case>
+ 
+ </sentence>
+</sentences>
+</case>/case>

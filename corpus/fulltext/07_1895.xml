@@ -3,11 +3,11 @@
 <name>G S Technology Pty Ltd v GSA Industries (Aust) Pty Limited [2007] FCA 1895 (30 November 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1895.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application to set aside statutory demand under s 459g corporations act 2001 (cth)</catchphrase>
-<catchphrase "id=c1">where amount of demand not disputed</catchphrase>
-<catchphrase "id=c2">whether plaintiff has genuine claims against the defendant to offset the admitted amount pursuant to s 459h(1)(b)</catchphrase>
-<catchphrase "id=c3">where plaintiff found to have arguable genuine claims for offset in excess of admitted amount</catchphrase>
-<catchphrase "id=c4">corporations law</catchphrase>
+<catchphrase >application to set aside statutory demand under s 459g corporations act 2001 (cth)</catchphrase>
+<catchphrase >where amount of demand not disputed</catchphrase>
+<catchphrase >whether plaintiff has genuine claims against the defendant to offset the admitted amount pursuant to s 459h(1)(b)</catchphrase>
+<catchphrase >where plaintiff found to have arguable genuine claims for offset in excess of admitted amount</catchphrase>
+<catchphrase >corporations law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -262,8 +262,8 @@
  
  34.</sentence>
 <sentence id="s97">Those costs have been assessed by cost assessors except for photocopying fees.</sentence>
-<sentence id="s98">The firm of Hickey &amp; Garrett has made an assessment in the sum of $97,825.58.</sentence>
-<sentence id="s99">Exhibited hereto and marked with the letters "GS-6" is a copy of a letter from Hickey &amp; Garrett addressed to my solicitor.</sentence>
+<sentence id="s98">The firm of Hickey amp; Garrett has made an assessment in the sum of $97,825.58.</sentence>
+<sentence id="s99">Exhibited hereto and marked with the letters "GS-6" is a copy of a letter from Hickey amp; Garrett addressed to my solicitor.</sentence>
 <sentence id="s100">
  
  
@@ -357,4 +357,6 @@ Dated: 30 November 2007
  
  </sentence>
 </sentences>
-</case>
+</case>e> </sentence>
+</sentences>
+</case>e>

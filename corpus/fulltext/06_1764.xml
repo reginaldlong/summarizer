@@ -3,27 +3,27 @@
 <name>BHP Billiton Iron Ore Pty Ltd v The National Competition Council [2006] FCA 1764 (18 December 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1764.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">access to services</catchphrase>
-<catchphrase "id=c1">application for declaration recommendation of a service</catchphrase>
-<catchphrase "id=c2">whether rail track service is a 'service' within the meaning of s 44b of the trade practices act 1974 (cth)</catchphrase>
-<catchphrase "id=c3">whether the use of the rail track service would be the use of a production process</catchphrase>
-<catchphrase "id=c4">meaning of the expression 'use of a production process'</catchphrase>
-<catchphrase "id=c5">legislative purpose of the production process exclusion to the definition of service</catchphrase>
-<catchphrase "id=c6">principles of statutory interpretation</catchphrase>
-<catchphrase "id=c7">importance of the context of the provision</catchphrase>
-<catchphrase "id=c8">role of dictionary meanings in task of statutory interpretation</catchphrase>
-<catchphrase "id=c9">application of previous judicial pronouncements</catchphrase>
-<catchphrase "id=c10">whether previous decision 'clearly wrong' or 'plainly wrong'</catchphrase>
-<catchphrase "id=c11">admissibility</catchphrase>
-<catchphrase "id=c12">expert evidence</catchphrase>
-<catchphrase "id=c13">economic evidence</catchphrase>
-<catchphrase "id=c14">relevance to task of statutory interpretation of part iiia of the trade practices act 1974 (cth)</catchphrase>
-<catchphrase "id=c15">whether purporting to interpret statute</catchphrase>
-<catchphrase "id=c16">'production process'</catchphrase>
-<catchphrase "id=c17">trade practices</catchphrase>
-<catchphrase "id=c18">statutory interpretation</catchphrase>
-<catchphrase "id=c19">evidence</catchphrase>
-<catchphrase "id=c20">words and phrases</catchphrase>
+<catchphrase >access to services</catchphrase>
+<catchphrase >application for declaration recommendation of a service</catchphrase>
+<catchphrase >whether rail track service is a 'service' within the meaning of s 44b of the trade practices act 1974 (cth)</catchphrase>
+<catchphrase >whether the use of the rail track service would be the use of a production process</catchphrase>
+<catchphrase >meaning of the expression 'use of a production process'</catchphrase>
+<catchphrase >legislative purpose of the production process exclusion to the definition of service</catchphrase>
+<catchphrase >principles of statutory interpretation</catchphrase>
+<catchphrase >importance of the context of the provision</catchphrase>
+<catchphrase >role of dictionary meanings in task of statutory interpretation</catchphrase>
+<catchphrase >application of previous judicial pronouncements</catchphrase>
+<catchphrase >whether previous decision 'clearly wrong' or 'plainly wrong'</catchphrase>
+<catchphrase >admissibility</catchphrase>
+<catchphrase >expert evidence</catchphrase>
+<catchphrase >economic evidence</catchphrase>
+<catchphrase >relevance to task of statutory interpretation of part iiia of the trade practices act 1974 (cth)</catchphrase>
+<catchphrase >whether purporting to interpret statute</catchphrase>
+<catchphrase >'production process'</catchphrase>
+<catchphrase >trade practices</catchphrase>
+<catchphrase >statutory interpretation</catchphrase>
+<catchphrase >evidence</catchphrase>
+<catchphrase >words and phrases</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -32,10 +32,10 @@
 1 BHP Billiton Iron Ore Pty Ltd ('BHPBIO') carries on the business of the mining, blending and other processing of various types of iron ore in the Pilbara region of Western Australia on behalf of various unincorporated joint ventures for the purpose of producing bulk iron ore products for sale.</sentence>
 <sentence id="s1">2 The iron ore originates from four mining areas in the Pilbara region, consisting of the:
  
- &#8226; Newman mining area;
- &#8226; Yandi mining area;
- &#8226; Area C mining area; and
- &#8226; Goldsworthy mining area.</sentence>
+ #8226; Newman mining area;
+ #8226; Yandi mining area;
+ #8226; Area C mining area; and
+ #8226; Goldsworthy mining area.</sentence>
 <sentence id="s2">
 
 3 The mining areas are operated by BHPBIO and the ore is transported from the mine to port via two distinct railway lines in the Pilbara region being the Mt Newman rail line and the Goldsworthy rail line.</sentence>
@@ -54,11 +54,11 @@
 <sentence id="s15">The PIO JV holds tenements at Mindy Mindy.</sentence>
 <sentence id="s16">The Mindy Mindy tenements are:
  
- &#8226; approximately 295 kilometres south-east of Port Hedland;
- &#8226; approximately 17 kilometres south-west from the Mt Newman Railway Line;
- &#8226; within an approximate 75 kilometre radius of the Newman mining area;
- &#8226; approximately 285 kilometres south-east of the Goldsworthy Railway Line; and
- &#8226; approximately 275 kilometres south-west of the Goldsworthy mining area.</sentence>
+ #8226; approximately 295 kilometres south-east of Port Hedland;
+ #8226; approximately 17 kilometres south-west from the Mt Newman Railway Line;
+ #8226; within an approximate 75 kilometre radius of the Newman mining area;
+ #8226; approximately 285 kilometres south-east of the Goldsworthy Railway Line; and
+ #8226; approximately 275 kilometres south-west of the Goldsworthy mining area.</sentence>
 <sentence id="s17">
 
 9 Fortescue wishes to access the service provided by part of the Mt Newman Railway Line and part of the Goldsworthy Railway Line in order to haul iron ore from a rail siding to be constructed near the Mindy Mindy mine to Port Hedland.</sentence>
@@ -411,7 +411,7 @@ Further, the Commission may also take into account any other matters it thinks r
 
 38 In order to understand the economic theory underpinning Part IIIA of the Act, it is useful to consider its origins and purpose.</sentence>
 <sentence id="s90">The Full Court recently set out the background and context to Part IIIA in its decision in Sydney Airport Corporation Ltd v Australian Competition Tribunal [2006] FCAFC 146 (' Sydney Airport') , to which I will briefly return.</sentence>
-<sentence id="s91">39 Part IIIA of the Act was introduced by the Competition Policy Reform Act 1995 (Cth) and had its genesis in the recommendations of the report entitled 'National Competition Policy Report by the Independent Committee of Inquiry, August 1993' by F Hilmer, M Rayner &amp; G Taperell.</sentence>
+<sentence id="s91">39 Part IIIA of the Act was introduced by the Competition Policy Reform Act 1995 (Cth) and had its genesis in the recommendations of the report entitled 'National Competition Policy Report by the Independent Committee of Inquiry, August 1993' by F Hilmer, M Rayner amp; G Taperell.</sentence>
 <sentence id="s92">The report is more commonly known as the 'Hilmer Report'.</sentence>
 <sentence id="s93">Of course, one must recall that not all the recommendations of the Hilmer Report were adopted by Parliament.</sentence>
 <sentence id="s94">Nevertheless, it provides an insight into the purpose of the access regime in Part IIIA of the Act.</sentence>
@@ -545,11 +545,11 @@ And at p 248:
  
 57 The Newman mining area consists of the following mines and pits currently operated by BHPBIO:
  
- &#8226; Mt Whaleback;
- &#8226; Orebodies 29 &amp; 30;
- &#8226; Satellite Orebody 25 (including Orebody 23);
- &#8226; Orebody 18; and
- &#8226; Jimblebar.</sentence>
+ #8226; Mt Whaleback;
+ #8226; Orebodies 29 amp; 30;
+ #8226; Satellite Orebody 25 (including Orebody 23);
+ #8226; Orebody 18; and
+ #8226; Jimblebar.</sentence>
 <sentence id="s161">
 
 58 With the exception of Jimblebar, the lessees of the mines in the Newman mining area (and the owners of the ore from those mines) are the participants in the Mt Newman JV.</sentence>
@@ -559,10 +559,10 @@ And at p 248:
  
 60 The Yandi mining area consists of the following pits all currently operated by BHPBIO:
  
- &#8226; Central 1 ('C1');
- &#8226; Central 5 ('C5');
- &#8226; Eastern 2 ('E2'); and
- &#8226; Western 4 ('W4').</sentence>
+ #8226; Central 1 ('C1');
+ #8226; Central 5 ('C5');
+ #8226; Eastern 2 ('E2'); and
+ #8226; Western 4 ('W4').</sentence>
 <sentence id="s165">
 
 61 With the exception of W4, ore from each of the pits that comprise the Yandi mining area is owned by the participants in the unincorporated joint venture Yandi Joint Venture ('Yandi JV'), comprising the same participants in the same participating interests as the Goldsworthy JV.</sentence>
@@ -612,12 +612,12 @@ And at p 248:
 <sentence id="s173">67 BHPBIO currently produces for sale six finished iron ore products from its Pilbara operations.</sentence>
 <sentence id="s174">Those products are:
  
- &#8226; Newman High Grade Lump ('NHGL');
- &#8226; Newman High Grade Fines ('NHGF');
- &#8226; Yandi Lump;
- &#8226; Yandi Fines;
- &#8226; MAC Lump; and
- &#8226; MAC Fines.</sentence>
+ #8226; Newman High Grade Lump ('NHGL');
+ #8226; Newman High Grade Fines ('NHGF');
+ #8226; Yandi Lump;
+ #8226; Yandi Fines;
+ #8226; MAC Lump; and
+ #8226; MAC Fines.</sentence>
 <sentence id="s175">
 
 68 Immediately prior to September 2006, BHPBIO also produced two other products comprising ore from the Goldsworthy mining area, being Goldsworthy Medium Grade Lump ('GMGL') and Goldsworthy Medium Grade Fines ('GMGF').</sentence>
@@ -763,7 +763,7 @@ And also in Cabell v Markham (1945) 148 F (2d) 737 at 739:
 <sentence id="s267">
 
 97 The second matter is that the construction of the definition of 'service' and the term 'use of a production process' has been comprehensively considered by a single judge of this Court in Hamersley Iron Pty Ltd v National Competition Council (1999) 164 ALR 203 (' Hamersley ').</sentence>
-<sentence id="s268">98 I accept that I should not depart from the ratio decidendi of the Hamersley decision unless I am satisfied it is 'clearly wrong' or 'plainly wrong': see Nezovic v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs (No 2) [2003] FCA 1263 ; (2003) 133 FCR 190 (' Nezovic ') at 206, [52]; Marr v Australian Telecommunications Corp (1991) 34 FCR 82; Upperedge v Bailey (1994) 13 ACSR 541 at 543; Bank of Western Australia Ltd v Commissioner of Taxation (1994) 55 FCR 233 at 255.</sentence>
+<sentence id="s268">98 I accept that I should not depart from the ratio decidendi of the Hamersley decision unless I am satisfied it is 'clearly wrong' or 'plainly wrong': see Nezovic v Minister for Immigration amp; Multicultural amp; Indigenous Affairs (No 2) [2003] FCA 1263 ; (2003) 133 FCR 190 (' Nezovic ') at 206, [52]; Marr v Australian Telecommunications Corp (1991) 34 FCR 82; Upperedge v Bailey (1994) 13 ACSR 541 at 543; Bank of Western Australia Ltd v Commissioner of Taxation (1994) 55 FCR 233 at 255.</sentence>
 <sentence id="s269">It would not be sufficient for a judge to merely reach one view, which he or she may prefer over that of an earlier decision, and upon that basis not follow the strong persuasive authority that has already pronounced on the same legislative provision.</sentence>
 <sentence id="s270">Before a judge refuses to follow an earlier decision regarding the construction of the same legislative provision he or she must come to the view the earlier decision is 'clearly wrong' or 'plainly wrong'.</sentence>
 <sentence id="s271">99 Justice French in Nezovic noted that the rule that one judge of the same or co-ordinate jurisdiction should follow another has greater significance in the area of statutory construction.</sentence>
@@ -1026,7 +1026,7 @@ I will refer to this definition of 'production process' as the 'Hamersley Constr
 <sentence id="s471">The natural gas was conveyed by a third pipeline to Melbourne.</sentence>
 <sentence id="s472">At Long Island Point fractionating, processing and purification took place.</sentence>
 <sentence id="s473">The resulting liquefied petroleum gas, ethane and stabilised crude oil were all marketed and sold from Long Island Point.</sentence>
-<sentence id="s474">The natural gas produced at Longford was sold and delivered by the plaintiffs to the Gas &amp; Fuel Corporation of Victoria at Longford and subsequently conveyed to Melbourne by the Gas &amp; Fuel Corporation pipeline, which was owned by the Gas &amp; Fuel Corporation.</sentence>
+<sentence id="s474">The natural gas produced at Longford was sold and delivered by the plaintiffs to the Gas amp; Fuel Corporation of Victoria at Longford and subsequently conveyed to Melbourne by the Gas amp; Fuel Corporation pipeline, which was owned by the Gas amp; Fuel Corporation.</sentence>
 <sentence id="s475">The tax on that pipeline was not relevant to the issues before the court.</sentence>
 <sentence id="s476">156 At p 634 Mason J said: 
  
@@ -1179,5 +1179,14 @@ Dated: 18 December 2006
  URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/1764.html 
  
  </sentence>
+</sentences>
+</case>/sentence>
+</sentences>
+</case>Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/1764.html 
+ 
+ </sentence>
+</sentences>
+</case>/sentence>
 </sentences>
 </case>

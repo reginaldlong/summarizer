@@ -3,9 +3,9 @@
 <name>Australasian Meat Industry Employees Union (WA Branch) v Woolworths Limited [2006] FCA 206 (8 March 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/206.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">costs</catchphrase>
-<catchphrase "id=c1">excepting provision applicable only to institution of proceeding not to a step in the proceedings</catchphrase>
-<catchphrase "id=c2">workplace relations</catchphrase>
+<catchphrase >costs</catchphrase>
+<catchphrase >excepting provision applicable only to institution of proceeding not to a step in the proceedings</catchphrase>
+<catchphrase >workplace relations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -49,7 +49,7 @@ Dated: 10 March 2006
 
  Counsel for the Applicant: A Gill 
  
- Solicitor for the Applicant: Chapmans Barristers &amp; Solicitors 
+ Solicitor for the Applicant: Chapmans Barristers amp; Solicitors 
  
  Counsel for the Respondent: SD Harben 
  
@@ -67,4 +67,5 @@ Dated: 10 March 2006
  
  </sentence>
 </sentences>
-</case>
+</case>></sentences>
+</case>>

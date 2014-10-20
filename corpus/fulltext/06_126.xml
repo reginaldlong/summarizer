@@ -3,18 +3,18 @@
 <name>Selim v Lele [2006] FCA 126 (23 February 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/126.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">powers of commonwealth parliament</catchphrase>
-<catchphrase "id=c1">power to make laws with respect to the provision of medical and dental services (but not so as to authorise any form of civil conscription)</catchphrase>
-<catchphrase "id=c2">power to make laws with respect to matters incidental to the provision of medical and dental services</catchphrase>
-<catchphrase "id=c3">meaning of 'civil conscription', 'inappropriate practice'</catchphrase>
-<catchphrase "id=c4">constitution s 51 (xxiiia), (xxxix)</catchphrase>
-<catchphrase "id=c5">health insurance act 1973 (cth) part vaa ss 82 , 86 and 106u</catchphrase>
-<catchphrase "id=c6">constitutional validity</catchphrase>
-<catchphrase "id=c7">law imposing standards on provision of medical services incidental to commonwealth power to provide medical services</catchphrase>
-<catchphrase "id=c8">law imposing standards upon provision of medical services not civil conscription</catchphrase>
-<catchphrase "id=c9">'civil conscription', 'inappropriate practice'</catchphrase>
-<catchphrase "id=c10">constitutional law</catchphrase>
-<catchphrase "id=c11">words and phrases</catchphrase>
+<catchphrase >powers of commonwealth parliament</catchphrase>
+<catchphrase >power to make laws with respect to the provision of medical and dental services (but not so as to authorise any form of civil conscription)</catchphrase>
+<catchphrase >power to make laws with respect to matters incidental to the provision of medical and dental services</catchphrase>
+<catchphrase >meaning of 'civil conscription', 'inappropriate practice'</catchphrase>
+<catchphrase >constitution s 51 (xxiiia), (xxxix)</catchphrase>
+<catchphrase >health insurance act 1973 (cth) part vaa ss 82 , 86 and 106u</catchphrase>
+<catchphrase >constitutional validity</catchphrase>
+<catchphrase >law imposing standards on provision of medical services incidental to commonwealth power to provide medical services</catchphrase>
+<catchphrase >law imposing standards upon provision of medical services not civil conscription</catchphrase>
+<catchphrase >'civil conscription', 'inappropriate practice'</catchphrase>
+<catchphrase >constitutional law</catchphrase>
+<catchphrase >words and phrases</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -266,18 +266,18 @@
 
 17 The applicant also referred to the Report of the Review Committee of the Professional Services Review Scheme, Commonwealth, 1999 at pp 15-16 where categories of conduct identified as involving inappropriate practice include:
  
- &#8226; concerns about clinical competence and performance;
- &#8226; aberrant professional behaviour or beliefs;
- &#8226; lack of meaningful continuing medical education;
- &#8226; physical or mental impairment;
- &#8226; substance abuse;
- &#8226; organisational issues affecting safety (such as equipment and staffing deficiencies);
- &#8226; high number of services per patient;
- &#8226; unusual incidence of specific types of services;
- &#8226; inappropriate prescribing;
- &#8226; inappropriate ordering of diagnostic imaging and pathology;
- &#8226; inappropriate use of Medicare item numbers when making claims; and
- &#8226; high numbers of services per day with low rates of consultation services per patient.</sentence>
+ #8226; concerns about clinical competence and performance;
+ #8226; aberrant professional behaviour or beliefs;
+ #8226; lack of meaningful continuing medical education;
+ #8226; physical or mental impairment;
+ #8226; substance abuse;
+ #8226; organisational issues affecting safety (such as equipment and staffing deficiencies);
+ #8226; high number of services per patient;
+ #8226; unusual incidence of specific types of services;
+ #8226; inappropriate prescribing;
+ #8226; inappropriate ordering of diagnostic imaging and pathology;
+ #8226; inappropriate use of Medicare item numbers when making claims; and
+ #8226; high numbers of services per day with low rates of consultation services per patient.</sentence>
 <sentence id="s66">
 
 18 Under s 106U of the HIA, the sanctions attached to a finding of inappropriate practice range from reprimand or counselling to substantial monetary penalties and disqualification from participating in the Medicare Scheme for up to three years.</sentence>
@@ -587,4 +587,10 @@ Dated: 23 February 2006
  
  </sentence>
 </sentences>
+</case>ces>
+</case>edu.au/au/cases/cth/FCA/2006/126.html 
+ 
+ </sentence>
+</sentences>
+</case>ces>
 </case>

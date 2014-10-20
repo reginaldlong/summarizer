@@ -3,12 +3,12 @@
 <name>Adams v Lambert [2006] FCA 623 (25 May 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/623.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">whether creditor's petition lapsed by virtue of s 52(4) of the bankruptcy act 1966 (cth)</catchphrase>
-<catchphrase "id=c1">where petition dismissed within 12 months but dismissal set aside on appeal after 12 months</catchphrase>
-<catchphrase "id=c2">practice</catchphrase>
-<catchphrase "id=c3">whether late amendment of petition should be permitted</catchphrase>
-<catchphrase "id=c4">bankruptcy</catchphrase>
-<catchphrase "id=c5">bankruptcy</catchphrase>
+<catchphrase >whether creditor's petition lapsed by virtue of s 52(4) of the bankruptcy act 1966 (cth)</catchphrase>
+<catchphrase >where petition dismissed within 12 months but dismissal set aside on appeal after 12 months</catchphrase>
+<catchphrase >practice</catchphrase>
+<catchphrase >whether late amendment of petition should be permitted</catchphrase>
+<catchphrase >bankruptcy</catchphrase>
+<catchphrase >bankruptcy</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -125,7 +125,7 @@ Dated: 25 May 2006
  
  Solicitor for the Applicant Creditor: Kinneally Miley Law 
  
- Solicitor for the Respondent Debtor: Mr J Duncan of Marler &amp; Darvall 
+ Solicitor for the Respondent Debtor: Mr J Duncan of Marler amp; Darvall 
  
  Date of Hearing: 23 May 2006 
  
@@ -139,4 +139,8 @@ Dated: 25 May 2006
  
  </sentence>
 </sentences>
-</case>
+</case>>html 
+ 
+ </sentence>
+</sentences>
+</case>>

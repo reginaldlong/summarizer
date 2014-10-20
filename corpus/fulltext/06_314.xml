@@ -3,13 +3,13 @@
 <name>In the matter of Federation Health Limited (Administrator Appointed) (ACN 004 155 622) [2006] FCA 314 (30 March 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/314.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from decision of administrator to partially reject proof of debt</catchphrase>
-<catchphrase "id=c1">administration under national health act</catchphrase>
-<catchphrase "id=c2">whether court has jurisdiction</catchphrase>
-<catchphrase "id=c3">nature of hearing de novo</catchphrase>
-<catchphrase "id=c4">whether order for indemnity costs appropriate in circumstances</catchphrase>
-<catchphrase "id=c5">corporations</catchphrase>
-<catchphrase "id=c6">practice and procedure</catchphrase>
+<catchphrase >appeal from decision of administrator to partially reject proof of debt</catchphrase>
+<catchphrase >administration under national health act</catchphrase>
+<catchphrase >whether court has jurisdiction</catchphrase>
+<catchphrase >nature of hearing de novo</catchphrase>
+<catchphrase >whether order for indemnity costs appropriate in circumstances</catchphrase>
+<catchphrase >corporations</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -38,7 +38,7 @@
  
  "Dear Sir 
  
- Re: Federation Health &amp; Controlled Entities 
+ Re: Federation Health amp; Controlled Entities 
  
  We refer to the visit of Mr Glenn Crisp and Mr Terry Sandy to the abovenamed company on 22 June, 2004.</sentence>
 <sentence id="s19">
@@ -46,11 +46,11 @@
  Following that meeting the association would like to engage Birdanco Practice Trust trading as RSM Bird Cameron to undertake the following work: 
  
  
- &#61912; Attend company premises.</sentence>
+ #61912; Attend company premises.</sentence>
 <sentence id="s20">
- &#61912; Review company records.</sentence>
+ #61912; Review company records.</sentence>
 <sentence id="s21">
- &#61912; Liaise with employees, management and directors.</sentence>
+ #61912; Liaise with employees, management and directors.</sentence>
 <sentence id="s22">
  
  
@@ -58,14 +58,14 @@
 <sentence id="s23">The report should cover the following: 
  
  
- &#61912; Current financial position of Yallourn Friendly Society ('YFS') 
- &#61912; The estimated financial position if YFS is placed into administration and the operations closed compared to the estimated outcome if YFS is traded on and sole as a going concern.</sentence>
+ #61912; Current financial position of Yallourn Friendly Society ('YFS') 
+ #61912; The estimated financial position if YFS is placed into administration and the operations closed compared to the estimated outcome if YFS is traded on and sole as a going concern.</sentence>
 <sentence id="s24">
- &#61912; The estimated impact upon Federation Health of the closure and administration of YFS.</sentence>
+ #61912; The estimated impact upon Federation Health of the closure and administration of YFS.</sentence>
 <sentence id="s25">
- &#61912; Any other relevant matter arising from the review.</sentence>
+ #61912; Any other relevant matter arising from the review.</sentence>
 <sentence id="s26">
- &#61912; If required to investigate the financial position of Federation Health, in a time frame to be agreed.</sentence>
+ #61912; If required to investigate the financial position of Federation Health, in a time frame to be agreed.</sentence>
 <sentence id="s27">
  
  
@@ -314,10 +314,10 @@ Sandy emailed the letter of engagement to Dawson on 28 June 2004, and requested 
 <sentence id="s136">He said that he rejected Dawson's proposal that a cap should apply to the plaintiff's fees when the matter was raised by Dawson in the course of their telephone conversation in early July 2004.</sentence>
 <sentence id="s137">41 The defendant relied on the following grounds to reject the plaintiff's proof of debt:
  
- &#8226; "The letter of engagement issued by Federation Health on 28 June 2004 placed a cap of $10,000 plus GST and expenses on the work undertaken; 
- &#8226; The company further evidenced this arrangement when it paid $11,000.00 on receipt of your invoice; 
- &#8226; RSM Bird Cameron evidenced its receipt of the letter of engagement of 28 June 2004 as it was referred to in the report dated 8 July 2004; 
- &#8226; RSM Bird Cameron has been unable to provide any written evidence requested in my notice dated 25 August 2005 that would contradict the records of Federation Health regarding the terms of the engagement.</sentence>
+ #8226; "The letter of engagement issued by Federation Health on 28 June 2004 placed a cap of $10,000 plus GST and expenses on the work undertaken; 
+ #8226; The company further evidenced this arrangement when it paid $11,000.00 on receipt of your invoice; 
+ #8226; RSM Bird Cameron evidenced its receipt of the letter of engagement of 28 June 2004 as it was referred to in the report dated 8 July 2004; 
+ #8226; RSM Bird Cameron has been unable to provide any written evidence requested in my notice dated 25 August 2005 that would contradict the records of Federation Health regarding the terms of the engagement.</sentence>
 <sentence id="s138">" 
  
  
@@ -408,4 +408,10 @@ Dated: 30 March 2006
  
  </sentence>
 </sentences>
+</case>nces>
+</case>
+ 
+ </sentence>
+</sentences>
+</case>nces>
 </case>

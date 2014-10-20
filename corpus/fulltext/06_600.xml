@@ -3,13 +3,13 @@
 <name>SZHDC v Minister for immigration and Multicultural Affairs [2006] FCA 600 (23 May 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/600.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">procedural fairness</catchphrase>
-<catchphrase "id=c1">invitation to hearing</catchphrase>
-<catchphrase "id=c2">hearing rescheduled at applicant's request</catchphrase>
-<catchphrase "id=c3">whether tribunal required to provide further 14 day period of notice for rescheduled hearing</catchphrase>
-<catchphrase "id=c4">whether tribunal required to provide reasonable notice</catchphrase>
-<catchphrase "id=c5">notice provided was reasonable in the circumstances</catchphrase>
-<catchphrase "id=c6">migration</catchphrase>
+<catchphrase >procedural fairness</catchphrase>
+<catchphrase >invitation to hearing</catchphrase>
+<catchphrase >hearing rescheduled at applicant's request</catchphrase>
+<catchphrase >whether tribunal required to provide further 14 day period of notice for rescheduled hearing</catchphrase>
+<catchphrase >whether tribunal required to provide reasonable notice</catchphrase>
+<catchphrase >notice provided was reasonable in the circumstances</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -158,7 +158,7 @@
 <sentence id="s86">The statements concerned the appellant's explanation of why he did not receive the Tribunal's letter notifying him of the rescheduled hearing until after the date fixed for that hearing.</sentence>
 <sentence id="s87">The second affidavit dealt with the reasons why the appellant was not represented in the Federal Magistrates Court.</sentence>
 <sentence id="s88">24 Ms Henderson pointed out that no objection had been made in that court to the appellant making the unsworn statements and no such objection was raised on the appeal.</sentence>
-<sentence id="s89">To the extent that the proposed evidence might add to what was said to the Federal Magistrate, Ms Henderson objected that the conditions stated in NASB v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2004] FCAFC 24 had not been met.</sentence>
+<sentence id="s89">To the extent that the proposed evidence might add to what was said to the Federal Magistrate, Ms Henderson objected that the conditions stated in NASB v Minister for Immigration amp; Multicultural amp; Indigenous Affairs [2004] FCAFC 24 had not been met.</sentence>
 <sentence id="s90">Those conditions, as set out at [42], are:
  
  'first, the party seeking to adduce the evidence must show that it could not, with reasonable diligence, have been adduced at the trial; and, secondly, the evidence must be such that very probably the result would have been different.</sentence>
@@ -191,4 +191,8 @@ Dated: 23 May 2006
  
  </sentence>
 </sentences>
-</case>
+</case>e>6/600.html 
+ 
+ </sentence>
+</sentences>
+</case>e>

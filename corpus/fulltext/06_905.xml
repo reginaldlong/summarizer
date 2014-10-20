@@ -3,13 +3,13 @@
 <name>Hussain v King Investment Solutions Pty Ltd [2006] FCA 905 (14 July 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/905.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">whether notice pursuant to s 41(5) can be given by service of application to set aside bankruptcy notice</catchphrase>
-<catchphrase "id=c1">whether service in accordance with r 30.02(4) of federal magistrates court rules 2001 mandatory</catchphrase>
-<catchphrase "id=c2">whether late served application a nullity</catchphrase>
-<catchphrase "id=c3">' gives notice '</catchphrase>
-<catchphrase "id=c4">bankruptcy</catchphrase>
-<catchphrase "id=c5">practice and procedure</catchphrase>
-<catchphrase "id=c6">words and phrases</catchphrase>
+<catchphrase >whether notice pursuant to s 41(5) can be given by service of application to set aside bankruptcy notice</catchphrase>
+<catchphrase >whether service in accordance with r 30.02(4) of federal magistrates court rules 2001 mandatory</catchphrase>
+<catchphrase >whether late served application a nullity</catchphrase>
+<catchphrase >' gives notice '</catchphrase>
+<catchphrase >bankruptcy</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
+<catchphrase >words and phrases</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -39,7 +39,7 @@
 <sentence id="s13">
  We confirm that our client has negotiated the following arrangement with [the] Defendant directly: 
  
- &#8226; If the Defendant pays a bank cheque to our client in the sum of $20,000.00 before 9.30am on Monday 5 September 2005 our client will agree to a stay of eviction until 20 September 2005.</sentence>
+ #8226; If the Defendant pays a bank cheque to our client in the sum of $20,000.00 before 9.30am on Monday 5 September 2005 our client will agree to a stay of eviction until 20 September 2005.</sentence>
 <sentence id="s14">' 
  
  
@@ -412,7 +412,7 @@ No application was made in that case for dispensation.</sentence>
 <sentence id="s116">It was found that the affidavits which accompanied the application did not comply strictly with O 77 r 13(3)(c) (corresponding to r 30.02(3)(c)) but nonetheless the Court gave such a dispensation.</sentence>
 <sentence id="s117">
  24 Counsel for the creditor developed an interesting argument based upon ss 459C---J (inclusive) of the Corporations Act 2001 (Cth) that were said to be cognate with the provisions in question here.</sentence>
-<sentence id="s118">It was submitted that the approach to those provisions (exemplified by Centurian Constructions Pty Ltd v Beca Developments Pty Ltd (In Liq) (1996) 129 FLR 364 and David Grant &amp; Co Pty Limited (Receiver Appointed) v Westpac Banking Corporation [1995] HCA 43 ; (1995) 184 CLR 265) would result in there being no effective proceeding unless the strict requirements of the Act are met.</sentence>
+<sentence id="s118">It was submitted that the approach to those provisions (exemplified by Centurian Constructions Pty Ltd v Beca Developments Pty Ltd (In Liq) (1996) 129 FLR 364 and David Grant amp; Co Pty Limited (Receiver Appointed) v Westpac Banking Corporation [1995] HCA 43 ; (1995) 184 CLR 265) would result in there being no effective proceeding unless the strict requirements of the Act are met.</sentence>
 <sentence id="s119">It would also follow that the defect could not be cured pursuant to s 306 of the Act because there is no effective proceeding as required by that section.</sentence>
 <sentence id="s120">25 There is a critical difference between rules of court, on one hand, and statutory obligations on the other.</sentence>
 <sentence id="s121">As shown by the decision in Crimmins v Glenview Home Units there is always an overriding power in the Court to dispense with the effect of rules of court.</sentence>
@@ -466,4 +466,8 @@ Dated: 14 July 2006
  
  </sentence>
 </sentences>
-</case>
+</case>e>6/905.html 
+ 
+ </sentence>
+</sentences>
+</case>e>

@@ -3,11 +3,11 @@
 <name>Spalla v St George Wholesale Finance Pty Ltd [2006] FCA 416 (18 April 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/416.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">disqualification for apprehended bias</catchphrase>
-<catchphrase "id=c1">allegation that certain rulings and statements made by the trial judge taken together evidenced bias</catchphrase>
-<catchphrase "id=c2">application of "fair-minded lay observer" test</catchphrase>
-<catchphrase "id=c3">no grounds for disqualification</catchphrase>
-<catchphrase "id=c4">practice and procedure</catchphrase>
+<catchphrase >disqualification for apprehended bias</catchphrase>
+<catchphrase >allegation that certain rulings and statements made by the trial judge taken together evidenced bias</catchphrase>
+<catchphrase >application of "fair-minded lay observer" test</catchphrase>
+<catchphrase >no grounds for disqualification</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -29,10 +29,10 @@
 4 At the hearing on 7 April 2006, Mr Spalla raised a number of grounds in support of his application.</sentence>
 <sentence id="s13">These included the following:
  
- &#8226; My direction that the trial continue despite the illness of senior counsel for the applicant.</sentence>
-<sentence id="s14">&#8226; My having been a member of a Full Court that was to hear an appeal in a related matter, even though the appeal did not proceed.</sentence>
-<sentence id="s15">&#8226; My ruling denying in part Mr Spalla's application for leave to amend further his notice of motion.</sentence>
-<sentence id="s16">&#8226; My ruling that Mr Spalla's affidavit of 1 June 2005 was inadmissible.</sentence>
+ #8226; My direction that the trial continue despite the illness of senior counsel for the applicant.</sentence>
+<sentence id="s14">#8226; My having been a member of a Full Court that was to hear an appeal in a related matter, even though the appeal did not proceed.</sentence>
+<sentence id="s15">#8226; My ruling denying in part Mr Spalla's application for leave to amend further his notice of motion.</sentence>
+<sentence id="s16">#8226; My ruling that Mr Spalla's affidavit of 1 June 2005 was inadmissible.</sentence>
 <sentence id="s17">
 
 Mr Spalla also directed my attention to a number of isolated remarks from the transcript of the first four days of hearing in this proceeding.</sentence>
@@ -163,4 +163,6 @@ Mr Spalla also directed my attention to a number of isolated remarks from the tr
  
  </sentence>
 </sentences>
-</case>
+</case>ase>/sentence>
+</sentences>
+</case>ase>

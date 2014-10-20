@@ -3,18 +3,18 @@
 <name>QPSX Limited v Ericsson Australia Ltd (No 5) [2007] FCA 244 (1 March 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/244.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">discovery of documents</catchphrase>
-<catchphrase "id=c1">implied undertaking</catchphrase>
-<catchphrase "id=c2">proposed release of discovered documents by applicant to litigation funder</catchphrase>
-<catchphrase "id=c3">litigation funder not empowered to control or direct proceedings</catchphrase>
-<catchphrase "id=c4">contractual entitlement in relation to settlement of proceedings</catchphrase>
-<catchphrase "id=c5">insufficient specificity of purpose or range of documents to be disclosed to litigation funder</catchphrase>
-<catchphrase "id=c6">application refused</catchphrase>
-<catchphrase "id=c7">pleadings</catchphrase>
-<catchphrase "id=c8">particulars</catchphrase>
-<catchphrase "id=c9">insufficiency of particulars</catchphrase>
-<catchphrase "id=c10">parts of pleading struck out as embarrassing</catchphrase>
-<catchphrase "id=c11">practice and procedure</catchphrase>
+<catchphrase >discovery of documents</catchphrase>
+<catchphrase >implied undertaking</catchphrase>
+<catchphrase >proposed release of discovered documents by applicant to litigation funder</catchphrase>
+<catchphrase >litigation funder not empowered to control or direct proceedings</catchphrase>
+<catchphrase >contractual entitlement in relation to settlement of proceedings</catchphrase>
+<catchphrase >insufficient specificity of purpose or range of documents to be disclosed to litigation funder</catchphrase>
+<catchphrase >application refused</catchphrase>
+<catchphrase >pleadings</catchphrase>
+<catchphrase >particulars</catchphrase>
+<catchphrase >insufficiency of particulars</catchphrase>
+<catchphrase >parts of pleading struck out as embarrassing</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -117,7 +117,7 @@ In Lord Diplock's reasoning reliance appeared to be placed upon the unfair advan
 <sentence id="s59">15 The majority in Harman 1 AC 280 applied the limitation even to documents which had been received or read in evidence.</sentence>
 <sentence id="s60">On the latter point, Lords Scarman and Simon dissented (at 313).</sentence>
 <sentence id="s61">The consideration which divided the dissenters from the majority is not material for present purposes and, in any event, has been overtaken by O 15 r 18 of the Federal Court Rules which provides, inter alia, that the implied undertaking ceases to apply to a document after it has been read to or by the Court or referred to in open court in such terms as to disclose its contents unless the Court otherwise orders.</sentence>
-<sentence id="s62">16 The application of the implied undertaking to proceedings in this Court was asserted by Northrop J in National Mutual Holdings Pty Ltd v Sentury Corporation &amp; Ors [1990] FCA 245 when his Honour said (at [17]): 
+<sentence id="s62">16 The application of the implied undertaking to proceedings in this Court was asserted by Northrop J in National Mutual Holdings Pty Ltd v Sentury Corporation amp; Ors [1990] FCA 245 when his Honour said (at [17]): 
  
  It is clear that according to Australian law a person who acquires a document pursuant to the processes of the Court is under a duty not to disclose or make use of that document for purposes other than the Court proceedings without the leave of the Court or the person from whom the document has been obtained.</sentence>
 <sentence id="s63">
@@ -235,4 +235,8 @@ Dated: 1 March 2007
  
  </sentence>
 </sentences>
-</case>
+</case>>ww.austlii.edu.au/au/cases/cth/FCA/2007/244.html 
+ 
+ </sentence>
+</sentences>
+</case>>

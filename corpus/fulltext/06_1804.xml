@@ -3,12 +3,12 @@
 <name>Tolcher v Capital Finance Australia Limited [2006] FCA 1804 (22 December 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1804.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">whether transactions relating to payments made to the first respondent should be construed as preferential, uncommercial or voidable transactions</catchphrase>
-<catchphrase "id=c1">whether debtor-creditor relationship existed between first respondent and company subsequently declared insolvent at the time the challenged payments were made</catchphrase>
-<catchphrase "id=c2">whether payments were made to first respondent by company or another entity</catchphrase>
-<catchphrase "id=c3">whether totality of arrangements and payments should be construed as a "transaction"</catchphrase>
-<catchphrase "id=c4">whether statutory defence can apply on basis that the respondents had no reasonable grounds to suspect that the company was insolvent.</catchphrase>
-<catchphrase "id=c5">corporations</catchphrase>
+<catchphrase >whether transactions relating to payments made to the first respondent should be construed as preferential, uncommercial or voidable transactions</catchphrase>
+<catchphrase >whether debtor-creditor relationship existed between first respondent and company subsequently declared insolvent at the time the challenged payments were made</catchphrase>
+<catchphrase >whether payments were made to first respondent by company or another entity</catchphrase>
+<catchphrase >whether totality of arrangements and payments should be construed as a "transaction"</catchphrase>
+<catchphrase >whether statutory defence can apply on basis that the respondents had no reasonable grounds to suspect that the company was insolvent.</catchphrase>
+<catchphrase >corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -112,12 +112,12 @@
 <sentence id="s18">The parties are similarly in agreement that immediately prior to each of the above payments being made, the then existing liabilities of LSE to the NAB, as secured by a charge to NAB by LSE, exceeded the reasonable value of all assets of LSE.</sentence>
 <sentence id="s19">BACKGROUND 
  
-11 The contractual arrangements between LSE and the respective Capital companies were governed by Principal and Agency Agreements ("P &amp; A Agreements").</sentence>
-<sentence id="s20">On 7 July 1995, LSE entered into a P &amp; A Agreement with Capital Corporate.</sentence>
+11 The contractual arrangements between LSE and the respective Capital companies were governed by Principal and Agency Agreements ("P amp; A Agreements").</sentence>
+<sentence id="s20">On 7 July 1995, LSE entered into a P amp; A Agreement with Capital Corporate.</sentence>
 <sentence id="s21">This Agreement provided that Capital Corporate would provide "vendor finance" to LSE, which supplied office equipment to a range of end users in the region of Newcastle and north of Newcastle.</sentence>
 <sentence id="s22">This involved LSE approaching Capital Corporate as financiers to buy office equipment, which was then leased to an end user such as a local council, a university or hospital.</sentence>
 <sentence id="s23">The equipment was purchased by Capital Corporate and leased to the end user by LSE as lessor pursuant to a lease agreement between the end user and LSE, with the equipment being owned by Capital Corporate at all times and with Capital being the undisclosed principal in the leasing transaction.</sentence>
-<sentence id="s24">12 On 1 July 2000, another P &amp; A Agreement was entered into between LSE and Capital Finance.</sentence>
+<sentence id="s24">12 On 1 July 2000, another P amp; A Agreement was entered into between LSE and Capital Finance.</sentence>
 <sentence id="s25">For all practical purposes, this second Agreement provided for a similar arrangement between LSE and Capital Finance.</sentence>
 <sentence id="s26">LSE would receive inquiries from persons who wished to lease equipment and would then request Capital Finance to purchase the equipment and lease it to the end user with LSE acting as agent for Capital Finance.</sentence>
 <sentence id="s27">LSE would then collect the rentals from the end users and hold the monies on trust for Capital Finance.</sentence>
@@ -173,21 +173,21 @@
 <sentence id="s73">25 The expression "transaction" is defined in s 9 of the Corporations Act 2001 (Cth) to include the disposition of property, payments made and obligations incurred.</sentence>
 <sentence id="s74">The case law indicates that the term "transaction" is a word of wide connotations.</sentence>
 <sentence id="s75">A transaction in its totality may include a series of events in a course of dealings initiated by a debtor intended to extinguish the debt: Re Emanuel (No.</sentence>
-<sentence id="s76">14) Pty Ltd (in liq) ; Macks &amp; Anor v Blacklaw &amp; Shadforth Pty Ltd (1997) 147 ALR 281 at 288.</sentence>
+<sentence id="s76">14) Pty Ltd (in liq) ; Macks amp; Anor v Blacklaw amp; Shadforth Pty Ltd (1997) 147 ALR 281 at 288.</sentence>
 <sentence id="s77">The events can occur at different points of time and need not occur simultaneously.</sentence>
 <sentence id="s78">The Court must consider the transaction in its entirety so that it can determine the ultimate effect of the transaction.</sentence>
 <sentence id="s79">26 In V.R.</sentence>
-<sentence id="s80">Dye &amp; Co v Peninsula Hotels Pty Ltd (in liq) [1999] VSCA 60 ; [1999] 3 VR 201, Ormiston J at [39] pointed out that to properly characterise a transaction, it is necessary to look at the totality of the business relationship between the parties in order to see whether there is a true preference in favour of a creditor by the insolvent company.</sentence>
+<sentence id="s80">Dye amp; Co v Peninsula Hotels Pty Ltd (in liq) [1999] VSCA 60 ; [1999] 3 VR 201, Ormiston J at [39] pointed out that to properly characterise a transaction, it is necessary to look at the totality of the business relationship between the parties in order to see whether there is a true preference in favour of a creditor by the insolvent company.</sentence>
 <sentence id="s81">The Court will look at what the parties are intending to effectuate and how that was effectuated in part or in whole by the transactions in question: see also Mann v Sangria Pty Ltd (2001) 38 ACSR 307.</sentence>
 <sentence id="s82">27 Mr Tolcher contends that the "transaction" with respect to each of the NAB payments was a composite series of arrangements between LSE, NAB and Corporate Finance involving the following steps:
  
  
- &#8226; LSE entered into the Second Deed of 12 January 2001, creating a debtor creditor relationship between LSE and Capital Finance; 
- &#8226; LSE approached NAB for the purpose of obtaining finance to pay out the Exposure of the Capital companies as contemplated by the terms of the Second Deed; 
- &#8226; LSE entered into leases with NAB relating to specific equipment pursuant to a Master Lease Agreement;
- &#8226; LSE procured NAB to forward payments to Corporate Finance in order to discharge the debt under the Second Deed;
- &#8226; LSE incurred liability to NAB under lease finance accounts which were opened and debited to effect the payments from NAB to Corporate Finance through the NAB Office Suspense Account.</sentence>
-<sentence id="s83">&#8226; Each payment was initiated by LSE to satisfy the obligations imposed on and bestowed by LSE to Capital Finance under the Second Deed in order to reduce the "exposure" as referred to in Clause 4 of that Deed.</sentence>
+ #8226; LSE entered into the Second Deed of 12 January 2001, creating a debtor creditor relationship between LSE and Capital Finance; 
+ #8226; LSE approached NAB for the purpose of obtaining finance to pay out the Exposure of the Capital companies as contemplated by the terms of the Second Deed; 
+ #8226; LSE entered into leases with NAB relating to specific equipment pursuant to a Master Lease Agreement;
+ #8226; LSE procured NAB to forward payments to Corporate Finance in order to discharge the debt under the Second Deed;
+ #8226; LSE incurred liability to NAB under lease finance accounts which were opened and debited to effect the payments from NAB to Corporate Finance through the NAB Office Suspense Account.</sentence>
+<sentence id="s83">#8226; Each payment was initiated by LSE to satisfy the obligations imposed on and bestowed by LSE to Capital Finance under the Second Deed in order to reduce the "exposure" as referred to in Clause 4 of that Deed.</sentence>
 <sentence id="s84">
  
 
@@ -214,7 +214,7 @@
 
 29 A threshold question arises as to the construction of this clause.</sentence>
 <sentence id="s87">The Capital companies submit that the Second Deed formed part of an overall arrangement whereby NAB would purchase the goods from Capital Finance in return for the payments, effectively becoming a substituted financier so that the end hirer would continue to lease goods from LSE as owner or lessee under the Master Lease Agreement.</sentence>
-<sentence id="s88">It is contended by the Capital companies that Clause 4 requires LSE to incur an obligation to reduce of the exposure of the Capital companies under the lease arrangements previously existing in accordance with the P &amp; A Agreements between LSE and the respective Capital companies.</sentence>
+<sentence id="s88">It is contended by the Capital companies that Clause 4 requires LSE to incur an obligation to reduce of the exposure of the Capital companies under the lease arrangements previously existing in accordance with the P amp; A Agreements between LSE and the respective Capital companies.</sentence>
 <sentence id="s89">Capital says that this was to be done by arranging alternative finance, and that the Second Deed did not impose an obligation upon LSE as debtor.</sentence>
 <sentence id="s90">It is submitted that the proper characterisation of the arrangements leading up to the payouts, when looked at in their entirety, should be viewed as a sale transaction where NAB agreed to buy out and pay for the equipment and rights of the Capital companies.</sentence>
 <sentence id="s91">Furthermore, the Capital companies add, a breach of an agreement to procure a reduction in exposure does not give rise to a debtor-creditor relationship, although it may expose the party in breach to an action for damages.</sentence>
@@ -222,7 +222,7 @@
 <sentence id="s93">30 It is clear from the authorities that the Court is concerned to determine the nature of a transaction in issue as an objective matter.</sentence>
 <sentence id="s94">The views of individuals involved in the transaction do not determine the true characterisation of the transaction, although they may be of some assistance.</sentence>
 <sentence id="s95">It is also noteworthy that Capital Finance lodged an informal proof of debt as an unsecured creditor in the winding up on or about 29 June 2001 claiming an unsecured debt of $7,162,151.84.</sentence>
-<sentence id="s96">31 In support of the contention that the transaction, properly characterised, did not involve the purpose or effect of discharging any unsecured indebtedness on the part of LSE, the Capital companies point out that prior to 12 January 2001, no debtor-creditor relationship existed because the arrangements between the Capital entities and LSE were in the form of Principal &amp; Agency Agreements whereby the agent was simply the conduit for the transmission of funds for the Capital companies.</sentence>
+<sentence id="s96">31 In support of the contention that the transaction, properly characterised, did not involve the purpose or effect of discharging any unsecured indebtedness on the part of LSE, the Capital companies point out that prior to 12 January 2001, no debtor-creditor relationship existed because the arrangements between the Capital entities and LSE were in the form of Principal amp; Agency Agreements whereby the agent was simply the conduit for the transmission of funds for the Capital companies.</sentence>
 <sentence id="s97">The respondents submit that if the effect of the Second Deed was, as is contended by Mr Tolcher, to create a new obligation to pay out more than $10 million, then this was a dramatic and inexplicable change in the relationship between the two companies which is extraordinary from a commercial perspective.</sentence>
 <sentence id="s98">It is said by the respondents that from the viewpoint of LSE, it was an extremely unfavourable transaction involving an obligation to pay a large sum which was not previously due.</sentence>
 <sentence id="s99">32 The difficulty with this construction is that the language of Clause 4.1 obliges LSE to reduce the exposure by payment in cleared funds of specific amounts on specific dates.</sentence>
@@ -249,7 +249,7 @@
 <sentence id="s120">The subjective beliefs of Ms Cook and Mr Green do not establish that such an agreement existed, and it is of some significance, in my view, that no satisfactory explanation was advanced as to why Ms Foreman was not called.</sentence>
 <sentence id="s121">37 Having regard to the clear language of the Second Deed, I am satisfied that the arrangements in place for payment of the obligations under that Deed resulted in LSE approaching the NAB in January --- February 2001 to obtain funds necessary for it to meet the obligations of LSE as specified under the Deed.</sentence>
 <sentence id="s122">This had the consequence that Capital Finance obtained payment in full of the debts created by the Deed at the time when LSE was insolvent.</sentence>
-<sentence id="s123">38 I do not consider that any different view is tenable having regard to the matrix of agreements and records in evidence, including the P &amp; A Agreements between LSE and the Capital companies; the Deed of Charge given by LSE to NAB, the Master Leasing Agreement between LSE and NAB; the payout invoices; the existence of the NAB Office Suspense Account and the NAB bank statements.</sentence>
+<sentence id="s123">38 I do not consider that any different view is tenable having regard to the matrix of agreements and records in evidence, including the P amp; A Agreements between LSE and the Capital companies; the Deed of Charge given by LSE to NAB, the Master Leasing Agreement between LSE and NAB; the payout invoices; the existence of the NAB Office Suspense Account and the NAB bank statements.</sentence>
 <sentence id="s124">39 Accordingly, I am satisfied that there was a debtor-creditor relationship, that the transaction was constituted in the way contended for by Mr Tolcher, and that the challenged payments were made in order to pay out the debt incurred by LSE to Capital Finance under the Second Deed.</sentence>
 <sentence id="s125">RESULT OF THE PAYMENTS 
  
@@ -366,4 +366,8 @@ Mr M. Ashhurst
  
  </sentence>
 </sentences>
+</case>tences>
+</case>tence>
+</sentences>
+</case>tences>
 </case>

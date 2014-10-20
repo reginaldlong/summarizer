@@ -3,14 +3,14 @@
 <name>Wang v Minister for Immigration and Citizenship [2007] FCA 488 (4 April 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/488.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from decision of federal magistrate dismissing application for review of decision of migration review tribunal</catchphrase>
-<catchphrase "id=c1">where tribunal affirmed decision of minister's delegate to cancel student visa</catchphrase>
-<catchphrase "id=c2">where basis for cancellation was appellant's failure to make satisfactory academic progress</catchphrase>
-<catchphrase "id=c3">where tribunal sent letter in purported compliance with s 359a of migration act 1958 (cth)</catchphrase>
-<catchphrase "id=c4">whether tribunal discharged obligation to ensure appellant understood why certain information was relevant to tribunal's review of minister's decision</catchphrase>
-<catchphrase "id=c5">futility</catchphrase>
-<catchphrase "id=c6">where magistrate exercised discretion to refuse relief.</catchphrase>
-<catchphrase "id=c7">migration</catchphrase>
+<catchphrase >appeal from decision of federal magistrate dismissing application for review of decision of migration review tribunal</catchphrase>
+<catchphrase >where tribunal affirmed decision of minister's delegate to cancel student visa</catchphrase>
+<catchphrase >where basis for cancellation was appellant's failure to make satisfactory academic progress</catchphrase>
+<catchphrase >where tribunal sent letter in purported compliance with s 359a of migration act 1958 (cth)</catchphrase>
+<catchphrase >whether tribunal discharged obligation to ensure appellant understood why certain information was relevant to tribunal's review of minister's decision</catchphrase>
+<catchphrase >futility</catchphrase>
+<catchphrase >where magistrate exercised discretion to refuse relief.</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -142,7 +142,7 @@
  Section 359A of the Act states that the Tribunal must explain, and invite comment on, "particulars of any information that the Tribunal considers would be the reason, or a part of the reason, for affirming the decision that is under review".</sentence>
 <sentence id="s42">You are invited to comment, in writing, on the following information: 
  
- &#8226; Monash University has notified DIMIA that your (sic) were excluded by the Faculty of Business and Economics for unsatisfactory performance in the 2003 academic year.</sentence>
+ #8226; Monash University has notified DIMIA that your (sic) were excluded by the Faculty of Business and Economics for unsatisfactory performance in the 2003 academic year.</sentence>
 <sentence id="s43">Academic records from Monash University show that you failed 4 out of 4 subjects attempted in Semester 1 of 2003 and 3 out of 4 subjects attempted in Semester 2 of 2003.</sentence>
 <sentence id="s44">
  
@@ -365,4 +365,8 @@ Dated: 4 April 2007
  
  </sentence>
 </sentences>
-</case>
+</case>>/FCA/2007/488.html 
+ 
+ </sentence>
+</sentences>
+</case>>

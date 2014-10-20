@@ -3,12 +3,12 @@
 <name>SZIWJ v Minister for Immigration and Multicultural Affairs [2006] FCA 1706 (27 November 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1706.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">whether rrt constructively failed to exercise jurisdiction</catchphrase>
-<catchphrase "id=c1">whether rrt addressed explicit claim to consider evidence cumulatively</catchphrase>
-<catchphrase "id=c2">whether rrt failed to consider whole of material</catchphrase>
-<catchphrase "id=c3">no jurisdictional error</catchphrase>
-<catchphrase "id=c4">appeal dismissed</catchphrase>
-<catchphrase "id=c5">migration</catchphrase>
+<catchphrase >whether rrt constructively failed to exercise jurisdiction</catchphrase>
+<catchphrase >whether rrt addressed explicit claim to consider evidence cumulatively</catchphrase>
+<catchphrase >whether rrt failed to consider whole of material</catchphrase>
+<catchphrase >no jurisdictional error</catchphrase>
+<catchphrase >appeal dismissed</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -54,14 +54,14 @@
 <sentence id="s27">These reasons were then summarised in five bullet points.</sentence>
 <sentence id="s28">They were as follows:
  
- &#61863; Her sister and sister's husband were deeply involved in Falun Gong up until March 2000 when they committed suicide as a result of the authorities' crackdown on Falun Gong.</sentence>
+ #61863; Her sister and sister's husband were deeply involved in Falun Gong up until March 2000 when they committed suicide as a result of the authorities' crackdown on Falun Gong.</sentence>
 <sentence id="s29">
- &#61863; When the authorities questioned the Applicant on her return to China in February 2005 she confessed to them that whilst she was in Australia she had lodged an application for a protection visa on the basis of an involvement with Falun Gong.</sentence>
+ #61863; When the authorities questioned the Applicant on her return to China in February 2005 she confessed to them that whilst she was in Australia she had lodged an application for a protection visa on the basis of an involvement with Falun Gong.</sentence>
 <sentence id="s30">
- &#61863; When she returned to China in February 2005 members of Falun Gong Association attempted to contact with her by sending text messages dropping leaflets in her letterbox etc and these communications came to the notice of the Chinese authorities and 
- &#61863; Chinese officials in an attempt to meet their quotas would in any event be indifferent to the truth of her association with Falun Gong.</sentence>
+ #61863; When she returned to China in February 2005 members of Falun Gong Association attempted to contact with her by sending text messages dropping leaflets in her letterbox etc and these communications came to the notice of the Chinese authorities and 
+ #61863; Chinese officials in an attempt to meet their quotas would in any event be indifferent to the truth of her association with Falun Gong.</sentence>
 <sentence id="s31">
- &#61863; She practised Falun Gong prior to the crackdown in 1999 
+ #61863; She practised Falun Gong prior to the crackdown in 1999 
 
 11 It is important to note that this was not an exhaustive statement of the detailed claims.</sentence>
 <sentence id="s32">12 The Tribunal went on to say that it did not accept that the appellant was subject to ongoing harassment or detention by the Chinese authorities after she was deported back to China in February 2005 upon the basis of being a suspected associate of Falun Gong.</sentence>
@@ -179,4 +179,8 @@ Dated: 27 November 2006
  
  </sentence>
 </sentences>
-</case>
+</case>case> 
+ 
+ </sentence>
+</sentences>
+</case>case>

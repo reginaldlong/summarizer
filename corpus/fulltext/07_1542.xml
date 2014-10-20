@@ -3,23 +3,23 @@
 <name>Deputy Commissioner of Taxation v Wellnora Pty Limited [2007] FCA 1542 (8 October 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1542.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">indemnity costs</catchphrase>
-<catchphrase "id=c1">whether creditor who failed in application to set aside deed of company arrangement (doca) should be ordered to pay doca administrators' costs on indemnity basis</catchphrase>
-<catchphrase "id=c2">whether it should have been obvious to creditor that it had lost standing as a creditor to apply for winding up, once operation of doca terminated upon exhaustion of doca fund</catchphrase>
-<catchphrase "id=c3">statutory provisions under which order could have been made preserving status of "creditor" even if order had been made setting aside doca. held: indemnity costs not awarded.</catchphrase>
-<catchphrase "id=c4">costs</catchphrase>
-<catchphrase "id=c5">indemnity costs</catchphrase>
-<catchphrase "id=c6">whether creditor who failed in application to set aside deed of company arrangement (doca) should be ordered to pay doca administrators' costs on indemnity basis</catchphrase>
-<catchphrase "id=c7">whether it should have been obvious to creditor that it had lost standing as a creditor to apply for winding up, once operation of doca terminated upon exhaustion of doca fund</catchphrase>
-<catchphrase "id=c8">statutory provisions under which order could have been made preserving status of "creditor" even if order had been made setting aside doca. held: indemnity costs not awarded.</catchphrase>
-<catchphrase "id=c9">costs</catchphrase>
-<catchphrase "id=c10">indemnity costs</catchphrase>
-<catchphrase "id=c11">whether creditor who failed in application to set aside deed of company arrangement (doca) should be ordered to pay doca administrators' costs on indemnity basis</catchphrase>
-<catchphrase "id=c12">whether it should have been obvious to creditor that it had lost standing as a creditor to apply for winding up, once operation of doca terminated upon exhaustion of doca fund</catchphrase>
-<catchphrase "id=c13">statutory provisions under which order could have been made preserving status of "creditor" even if order had been made setting aside doca. held: indemnity costs not awarded.</catchphrase>
-<catchphrase "id=c14">costs</catchphrase>
-<catchphrase "id=c15">practice and procedure</catchphrase>
-<catchphrase "id=c16">corporations</catchphrase>
+<catchphrase >indemnity costs</catchphrase>
+<catchphrase >whether creditor who failed in application to set aside deed of company arrangement (doca) should be ordered to pay doca administrators' costs on indemnity basis</catchphrase>
+<catchphrase >whether it should have been obvious to creditor that it had lost standing as a creditor to apply for winding up, once operation of doca terminated upon exhaustion of doca fund</catchphrase>
+<catchphrase >statutory provisions under which order could have been made preserving status of "creditor" even if order had been made setting aside doca. held: indemnity costs not awarded.</catchphrase>
+<catchphrase >costs</catchphrase>
+<catchphrase >indemnity costs</catchphrase>
+<catchphrase >whether creditor who failed in application to set aside deed of company arrangement (doca) should be ordered to pay doca administrators' costs on indemnity basis</catchphrase>
+<catchphrase >whether it should have been obvious to creditor that it had lost standing as a creditor to apply for winding up, once operation of doca terminated upon exhaustion of doca fund</catchphrase>
+<catchphrase >statutory provisions under which order could have been made preserving status of "creditor" even if order had been made setting aside doca. held: indemnity costs not awarded.</catchphrase>
+<catchphrase >costs</catchphrase>
+<catchphrase >indemnity costs</catchphrase>
+<catchphrase >whether creditor who failed in application to set aside deed of company arrangement (doca) should be ordered to pay doca administrators' costs on indemnity basis</catchphrase>
+<catchphrase >whether it should have been obvious to creditor that it had lost standing as a creditor to apply for winding up, once operation of doca terminated upon exhaustion of doca fund</catchphrase>
+<catchphrase >statutory provisions under which order could have been made preserving status of "creditor" even if order had been made setting aside doca. held: indemnity costs not awarded.</catchphrase>
+<catchphrase >costs</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
+<catchphrase >corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -39,10 +39,10 @@
 <sentence id="s10">In Hamod v New South Wales (2002) 188 ALR 659, Gray J (with whom the other members of the Full Court agreed) stated (at [20]) that indemnity costs served the purpose of compensating a party fully for costs incurred where the Court is of the view that it was "unreasonable for the party against whom the order is made to have subjected the innocent party to the exposure of costs".</sentence>
 <sentence id="s11">5 The Administrators submit that it was unreasonable for the DCT to have subjected them to the cost of a five day hearing and to have persisted to the end in a wide ranging attack on the conduct, and, consequently, the professional standing, of Mr Hamilton, when:
  
- &#8226; as early as in the Report (dated 25 January 2006) and the Supplementary Report (dated 8 February 2006), Mr Hamilton explained that any question of any recoveries by a liquidator for the benefit of unsecured creditors was very doubtful;
- &#8226; any attempt to recover monies from third parties would require the funding of investigations, public examinations and recovery proceedings;
- &#8226; I was disposed not to set aside the DOCA primarily because of the absence of evidence or an undertaking to the Court by the DCT that she would fund investigations and public examinations, and, if recommended, recovery proceedings;
- &#8226; in these circumstances a winding up would serve no useful purpose (see earlier Reasons at [261]).</sentence>
+ #8226; as early as in the Report (dated 25 January 2006) and the Supplementary Report (dated 8 February 2006), Mr Hamilton explained that any question of any recoveries by a liquidator for the benefit of unsecured creditors was very doubtful;
+ #8226; any attempt to recover monies from third parties would require the funding of investigations, public examinations and recovery proceedings;
+ #8226; I was disposed not to set aside the DOCA primarily because of the absence of evidence or an undertaking to the Court by the DCT that she would fund investigations and public examinations, and, if recommended, recovery proceedings;
+ #8226; in these circumstances a winding up would serve no useful purpose (see earlier Reasons at [261]).</sentence>
 <sentence id="s12">
  THE QUESTION OF THE DCT'S STATUS AS A CREDITOR FOR THE PURPOSE OF COMMENCING A WINDING UP PROCEEDING 
  
@@ -71,7 +71,7 @@ DOCA administrator, member or creditor of the company, or ASIC.</sentence>
 <sentence id="s24">An order declaring the deed, or a provision of it, to be void or not to be void on grounds relating to whether the entering into of a DOCA, or the DOCA itself, complies with Pt 5.3A.</sentence>
 <sentence id="s25">(This section was not relied on: see [24] of the earlier Reasons.</sentence>
 <sentence id="s26">It was therefore not necessary to consider s 445H.</sentence>
-<sentence id="s27">) 99981" colspan="1" rowspan="1" valign="top"> 
+<sentence id=11top"> 
 447A 
 Company, creditor, DOCA administrator, administrator, ASIC or "any other interested person".</sentence>
 <sentence id="s28">(Therefore it is not necessary that the DCT be a creditor of Wellnora.</sentence>
@@ -154,8 +154,8 @@ Person aggrieved by any act, omission or decision of an administrator of company
 <sentence id="s83">If the present case had turned out differently in other respects, it may have been appropriate to set aside the DOCA.</sentence>
 <sentence id="s84">It may have been appropriate to do so:
  
- &#8226; if I had accepted that Mr Hamilton had a positive duty to investigate and form opinions about the Soong group of companies from the view point of the public interest and commercial morality, and been governed by those opinions in exercising his casting vote; or
- &#8226; if relevant evidence had demonstrated that Mr Hamilton had been the unwitting instrument of Ms Soong in an abuse by her of the DOCA procedure.</sentence>
+ #8226; if I had accepted that Mr Hamilton had a positive duty to investigate and form opinions about the Soong group of companies from the view point of the public interest and commercial morality, and been governed by those opinions in exercising his casting vote; or
+ #8226; if relevant evidence had demonstrated that Mr Hamilton had been the unwitting instrument of Ms Soong in an abuse by her of the DOCA procedure.</sentence>
 <sentence id="s85">
 
 29 I therefore do not think it can be said to have been obvious throughout that the proceeding would be futile in the absence of an offer of funding.</sentence>
@@ -200,4 +200,9 @@ Cross Claimants: RBHM Commercial Lawyers
  
  </sentence>
 </sentences>
-</case>
+</case>/case>LII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/1542.html 
+ 
+ </sentence>
+</sentences>
+</case>/case>

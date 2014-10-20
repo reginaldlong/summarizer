@@ -3,10 +3,10 @@
 <name>Martincevic v Commonwealth of Australia [2007] FCA 453 (28 March 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/453.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">judicial review</catchphrase>
-<catchphrase "id=c1">where applicant discharged from australian army</catchphrase>
-<catchphrase "id=c2">where decision reviewable under administrative decisions (judicial review) act, but no ground of review made out</catchphrase>
-<catchphrase "id=c3">administrative law</catchphrase>
+<catchphrase >judicial review</catchphrase>
+<catchphrase >where applicant discharged from australian army</catchphrase>
+<catchphrase >where decision reviewable under administrative decisions (judicial review) act, but no ground of review made out</catchphrase>
+<catchphrase >administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -716,7 +716,7 @@
 <sentence id="s264">' 
  
 
-63 On 18 July 2006, Mr James Patterson, solicitor for James Watts &amp; Co, made an appointment for the applicant to see Professor Whiteford, for the purpose of obtaining a report on whether the applicant was fit for continued service.</sentence>
+63 On 18 July 2006, Mr James Patterson, solicitor for James Watts amp; Co, made an appointment for the applicant to see Professor Whiteford, for the purpose of obtaining a report on whether the applicant was fit for continued service.</sentence>
 <sentence id="s265">64 The third respondent, in his affidavit of 5 December 2006, says: 
  
  
@@ -1496,4 +1496,6 @@ Dated: 28 March 2007
  
  </sentence>
 </sentences>
-</case>
+</case>>tence>
+</sentences>
+</case>>

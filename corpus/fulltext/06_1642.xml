@@ -3,12 +3,12 @@
 <name>Secretary, Department of Family and Community Services v Waldron (Corrigendum dated 23 February 2007) [2006] FCA 1642 (30 November 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1642.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">social security act 1991</catchphrase>
-<catchphrase "id=c1">whether respondent entitled to a double orphan pension under s 999(1)</catchphrase>
-<catchphrase "id=c2">child adopted under ethiopian law but adoption not recognised by australian law</catchphrase>
-<catchphrase "id=c3">whether respondent is a "parent" of the child for the purposes of the act</catchphrase>
-<catchphrase "id=c4">appeal from decision of administrative appeals tribunal that respondent entitled to double orphan pension</catchphrase>
-<catchphrase "id=c5">administrative law</catchphrase>
+<catchphrase >social security act 1991</catchphrase>
+<catchphrase >whether respondent entitled to a double orphan pension under s 999(1)</catchphrase>
+<catchphrase >child adopted under ethiopian law but adoption not recognised by australian law</catchphrase>
+<catchphrase >whether respondent is a "parent" of the child for the purposes of the act</catchphrase>
+<catchphrase >appeal from decision of administrative appeals tribunal that respondent entitled to double orphan pension</catchphrase>
+<catchphrase >administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -412,7 +412,7 @@ Dated: 28 November 2006
  
  Solicitor for the Respondent: Australian Government Solicitor 
  
- Solicitor for the Manager, Adoption &amp; Family Information Service, as Intervenor: Crown Solicitor's Office 
+ Solicitor for the Manager, Adoption amp; Family Information Service, as Intervenor: Crown Solicitor's Office 
  
  Date of Hearing: 24 April 2006 
  
@@ -430,4 +430,8 @@ Dated: 28 November 2006
  
  </sentence>
 </sentences>
-</case>
+</case>>html 
+ 
+ </sentence>
+</sentences>
+</case>>

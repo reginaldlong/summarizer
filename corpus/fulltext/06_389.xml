@@ -3,9 +3,9 @@
 <name>David v Superannuation Complaints Tribunal [2006] FCA 389 (7 April 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/389.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal</catchphrase>
-<catchphrase "id=c1">whether federal magistrate erred in holding that the superannuation complaints tribunal had not failed to make a decision, or delayed unreasonably in making a decision</catchphrase>
-<catchphrase "id=c2">administrative law</catchphrase>
+<catchphrase >appeal</catchphrase>
+<catchphrase >whether federal magistrate erred in holding that the superannuation complaints tribunal had not failed to make a decision, or delayed unreasonably in making a decision</catchphrase>
+<catchphrase >administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -24,14 +24,14 @@
 <sentence id="s11">4 The Federal Magistrate noted that Mr David lodged his complaint with the Tribunal on 8 February 2005.</sentence>
 <sentence id="s12">His Honour also noted the following relevant events, amongst others:
  
- &#8226; 14 February 2005 --- The Tribunal received a Registration of Complaint Form from Mr David;
- &#8226; 28 February 2005 --- the Assistant Director of the Tribunal allocated the complaint file to a Complaints Analyst;
- &#8226; 1 March 2005 --- the Complaints Analyst issued a notice under s 17 of the Superannuation (Resolution of Complaints) Act 1993 (Cth) to Mr David and the trustee of his superannuation fund;
- &#8226; 12 April, 20 May and 5 July 2005 --- the Tribunal requested certain information from the trustee;
- &#8226; 1 August 2005 --- the Tribunal wrote to Mr David advising him that his complaint was still being investigated and that it had asked for information from the trustee.</sentence>
-<sentence id="s13">&#8226; 3 August 2005 --- the Complaints Analyst completed the Complaint Report and provided it to the Director for action;
- &#8226; Later in August 2005, the Tribunal sought legal advice concerning whether the subject matter of Mr David's complaint was beyond the power of the Tribunal to investigate; and
- &#8226; On 25 August 2005 Mr David's application was served on the Tribunal.</sentence>
+ #8226; 14 February 2005 --- The Tribunal received a Registration of Complaint Form from Mr David;
+ #8226; 28 February 2005 --- the Assistant Director of the Tribunal allocated the complaint file to a Complaints Analyst;
+ #8226; 1 March 2005 --- the Complaints Analyst issued a notice under s 17 of the Superannuation (Resolution of Complaints) Act 1993 (Cth) to Mr David and the trustee of his superannuation fund;
+ #8226; 12 April, 20 May and 5 July 2005 --- the Tribunal requested certain information from the trustee;
+ #8226; 1 August 2005 --- the Tribunal wrote to Mr David advising him that his complaint was still being investigated and that it had asked for information from the trustee.</sentence>
+<sentence id="s13">#8226; 3 August 2005 --- the Complaints Analyst completed the Complaint Report and provided it to the Director for action;
+ #8226; Later in August 2005, the Tribunal sought legal advice concerning whether the subject matter of Mr David's complaint was beyond the power of the Tribunal to investigate; and
+ #8226; On 25 August 2005 Mr David's application was served on the Tribunal.</sentence>
 <sentence id="s14">
 
 5 Since 25 August 2005, the Tribunal has not been able to deal with the complaint due to the operation of s 20 of the Superannuation (Resolution of Complaints) Act 1993 (Cth).</sentence>
@@ -80,4 +80,7 @@ Dated: 7 April 2006
  
  </sentence>
 </sentences>
+</case>
+</case>nces>
+</case>
 </case>

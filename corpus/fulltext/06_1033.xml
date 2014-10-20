@@ -3,11 +3,11 @@
 <name>Wearne v Southern Cross University [2006] FCA 1033 (11 August 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1033.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application to strike out applicant's second amended application and third amended statement of claim</catchphrase>
-<catchphrase "id=c1">whether statement of claim discloses a reasonable cause of action or is otherwise defective</catchphrase>
-<catchphrase "id=c2">whether compliance with rules of pleading</catchphrase>
-<catchphrase "id=c3">whether pleading has tendency to cause prejudice, embarrassment or delay</catchphrase>
-<catchphrase "id=c4">practice and procedure</catchphrase>
+<catchphrase >application to strike out applicant's second amended application and third amended statement of claim</catchphrase>
+<catchphrase >whether statement of claim discloses a reasonable cause of action or is otherwise defective</catchphrase>
+<catchphrase >whether compliance with rules of pleading</catchphrase>
+<catchphrase >whether pleading has tendency to cause prejudice, embarrassment or delay</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -84,7 +84,7 @@
  
 
 10 The University accepted that under each of the above rules it bears the onus of establishing that the Statement of Claim does not disclose a reasonable cause of action or is otherwise defective.</sentence>
-<sentence id="s27">11 The power conferred on the Court by O 11 r 16 is to be exercised to ensure that a party complies with the rules of pleading ( Australian Competition and Consumer Commission v Fox Symes &amp; Associates Pty Ltd [2005] FCA 1071 ( 'Fox Symes' ) at [95]).</sentence>
+<sentence id="s27">11 The power conferred on the Court by O 11 r 16 is to be exercised to ensure that a party complies with the rules of pleading ( Australian Competition and Consumer Commission v Fox Symes amp; Associates Pty Ltd [2005] FCA 1071 ( 'Fox Symes' ) at [95]).</sentence>
 <sentence id="s28">Ordinarily the party should be given an opportunity to replead in accordance with the rules ( Fox Symes at [95]).</sentence>
 <sentence id="s29">However, if a party's pleading is repeatedly struck out, it may be inferred that the party is unable to plead a reasonable cause of action as required by the rules ( Fox Symes at [109]).</sentence>
 <sentence id="s30">12 The principal rules of pleading are, for present purposes, to be found in Orders 11 and 12 of the FCRs.</sentence>
@@ -460,4 +460,7 @@ Dated: 11 August 2006
  
  </sentence>
 </sentences>
-</case>
+</case>>
+ </sentence>
+</sentences>
+</case>>

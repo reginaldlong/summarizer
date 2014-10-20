@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <case>
-<name>SZCVP v Minister for Immigration &amp; Multicultural Affairs [2007] FCA 32 (30 January 2007)</name>
+<name>SZCVP v Minister for Immigration amp; Multicultural Affairs [2007] FCA 32 (30 January 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/32.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">whether tribunal failed to ask relevant questions</catchphrase>
-<catchphrase "id=c1">whether tribunal failed to determine the 'particular social group' the applicant belonged to</catchphrase>
-<catchphrase "id=c2">migration</catchphrase>
+<catchphrase >whether tribunal failed to ask relevant questions</catchphrase>
+<catchphrase >whether tribunal failed to determine the 'particular social group' the applicant belonged to</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -168,4 +168,5 @@ Dated: 30 January 2007
  
  </sentence>
 </sentences>
-</case>
+</case>></sentences>
+</case>>

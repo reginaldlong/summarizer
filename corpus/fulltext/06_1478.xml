@@ -3,11 +3,11 @@
 <name>Sayem v Minister for Immigration and Multicultural Affairs [2006] FCA 1478 (9 November 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1478.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from federal magistrates court judgment affirming migration review tribunal decision</catchphrase>
-<catchphrase "id=c1">breach of condition 8202</catchphrase>
-<catchphrase "id=c2">student visa cancelled pursuant to s 116 of the migration act 1958 (cth) on ground of failure to achieve satisfactory academic result</catchphrase>
-<catchphrase "id=c3">whether jurisdictional error established</catchphrase>
-<catchphrase "id=c4">migration</catchphrase>
+<catchphrase >appeal from federal magistrates court judgment affirming migration review tribunal decision</catchphrase>
+<catchphrase >breach of condition 8202</catchphrase>
+<catchphrase >student visa cancelled pursuant to s 116 of the migration act 1958 (cth) on ground of failure to achieve satisfactory academic result</catchphrase>
+<catchphrase >whether jurisdictional error established</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -238,9 +238,9 @@
 <sentence id="s47">18 The Federal Magistrate observed that the appellant sought review of the Tribunal's decision on the following grounds: 
  
  
- &#8226; that s 20 of the ESOS Act and Subdiv GB of Div 3, of Pt 2 of the Migration Act limit the operation of s 116 of the Migration Act ;
- &#8226; that the notice sent to the appellant purportedly under s 20 of the ESOS Act was invalid on the grounds set out in Uddin v Minister for Immigration and Multicultural and Indigenous Affairs [2005] FMCA 841 , so that there was no power in the Tribunal to cancel the visa, or alternatively, it was not open to it to be satisfied that the appellant had not complied with condition 8202 as the sending of a valid notice was a condition of non-compliance; and
- &#8226; that the Tribunal erred by considering whether the appellant had breached condition 8202 rather than inquiring whether or not he had complied with that condition.</sentence>
+ #8226; that s 20 of the ESOS Act and Subdiv GB of Div 3, of Pt 2 of the Migration Act limit the operation of s 116 of the Migration Act ;
+ #8226; that the notice sent to the appellant purportedly under s 20 of the ESOS Act was invalid on the grounds set out in Uddin v Minister for Immigration and Multicultural and Indigenous Affairs [2005] FMCA 841 , so that there was no power in the Tribunal to cancel the visa, or alternatively, it was not open to it to be satisfied that the appellant had not complied with condition 8202 as the sending of a valid notice was a condition of non-compliance; and
+ #8226; that the Tribunal erred by considering whether the appellant had breached condition 8202 rather than inquiring whether or not he had complied with that condition.</sentence>
 <sentence id="s48">
  
 
@@ -339,4 +339,6 @@ Dated: 9 November 2006
  
  </sentence>
 </sentences>
-</case>
+</case>se></sentence>
+</sentences>
+</case>se>

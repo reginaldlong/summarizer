@@ -3,12 +3,12 @@
 <name>Travers as liquidator of Askernish Pty Ltd (in liq),in the matter of Askernish Pty Ltd (in liq) v Commissioner of Taxation [2006] FCA 1073 (16 August 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1073.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">undue preference</catchphrase>
-<catchphrase "id=c1">insolvency</catchphrase>
-<catchphrase "id=c2">whether there was sufficient evidence of insolvency</catchphrase>
-<catchphrase "id=c3">summary judgment</catchphrase>
-<catchphrase "id=c4">corporations</catchphrase>
-<catchphrase "id=c5">practice and procedure</catchphrase>
+<catchphrase >undue preference</catchphrase>
+<catchphrase >insolvency</catchphrase>
+<catchphrase >whether there was sufficient evidence of insolvency</catchphrase>
+<catchphrase >summary judgment</catchphrase>
+<catchphrase >corporations</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -23,7 +23,7 @@
 <sentence id="s7">He, and the second plaintiff, have brought an application for summary judgment.</sentence>
 <sentence id="s8">Background 
  
-2 The company was incorporated in 1976 and thereafter carried on business in the earthmoving and equipment repair industry under the name 'Allplant &amp; Mechanical Services'.</sentence>
+2 The company was incorporated in 1976 and thereafter carried on business in the earthmoving and equipment repair industry under the name 'Allplant amp; Mechanical Services'.</sentence>
 <sentence id="s9">3 In 2001 the defendant carried out an audit of the company.</sentence>
 <sentence id="s10">As a result of what was discovered during the audit the defendant determined that a number of subcontractors engaged by the company were in fact employees of the company.</sentence>
 <sentence id="s11">The company was required to pay the defendant a superannuation guarantee charge in respect of those employees.</sentence>
@@ -161,11 +161,11 @@
  
  (v) in assessing solvency, the court acts upon the basis that a contract debt is payable at the time stipulated for payment in the contract unless there is evidence, proving to the court's satisfaction, that: 
  
- &#8226; there has been an express or implied agreement between the company and the creditor for an extension of the time stipulated for payment; or 
+ #8226; there has been an express or implied agreement between the company and the creditor for an extension of the time stipulated for payment; or 
  
- &#8226; there is a course of conduct between the company and the creditor sufficient to give rise to an estoppel preventing the creditor from relying upon the stipulated time for payment; or 
+ #8226; there is a course of conduct between the company and the creditor sufficient to give rise to an estoppel preventing the creditor from relying upon the stipulated time for payment; or 
  
- &#8226; there has been a well established and recognised course of conduct in the industry in which the company operates, or as between the company and its creditors as a body, whereby debts are payable at a time other than that stipulated in the creditors' terms of trade or are payable only on demand: 
+ #8226; there has been a well established and recognised course of conduct in the industry in which the company operates, or as between the company and its creditors as a body, whereby debts are payable at a time other than that stipulated in the creditors' terms of trade or are payable only on demand: 
  
  Re Newark (at 414-415); Standard Chartered Bank v Antico (at 331), Melbase ; Cuthbertson v Thomas ; Fryer v Powell (at 444-445); 
  
@@ -221,7 +221,7 @@
 <sentence id="s103">This inference is drawn from the following factors: the company's failure to meet the instalment payment arrangement it reached with the defendant in September 2002; the fact that the defendant was required in February 2003 to issue a statutory demand for the sum of $404 382.39; the company's failure in March 2003 to meet that statutory demand; the failure of the company to pay its trade creditors in the period leading up to July 2003 such that by the beginning of July 2003 the company had aged payables for its trade creditors in excess of 60 days, of $314 853.97; the fact that at the beginning of July 2003 the company had only $4584.42 in its bank account and no overdraft facilities, and was only able to discharge the debt of its most pressing long term creditor by a combination of the proceeds from the sale of assets and an advance from a related party; the fact that after the impugned payments were made the company was unable to meet its continuing taxation obligations to the defendant with the result that a second winding up application was made by the defendant; and from the fact that the balance sheet of the company as at 30 June 2003 showed that the current liabilities of the company exceeded its current assets by $966 835.</sentence>
 <sentence id="s104">38 Counsel for the defendant did not persist with his initial objections to the admissibility of the evidence of the first plaintiff, but submitted rather that no weight should be placed on the affidavits of the first plaintiff, and that the matter should be sent to trial.</sentence>
 <sentence id="s105">It was said that there were no audited accounts of financial statements in the affidavit material relied upon by the plaintiffs as to the financial position of the company as at July 2003 and the affidavit of the first plaintiff was not of sufficient probative value.</sentence>
-<sentence id="s106">Counsel relied upon the observations of the New South Wales Court of Appeal in Switz Pty Ltd v Glowbind [2000] NSWCA 37 ; (2000) 48 NSWLR 661 and Evans &amp; Tate Premium Wines Pty Ltd v Australian Beverage Distributors Pty Ltd [2005] NSWSC 186.</sentence>
+<sentence id="s106">Counsel relied upon the observations of the New South Wales Court of Appeal in Switz Pty Ltd v Glowbind [2000] NSWCA 37 ; (2000) 48 NSWLR 661 and Evans amp; Tate Premium Wines Pty Ltd v Australian Beverage Distributors Pty Ltd [2005] NSWSC 186.</sentence>
 <sentence id="s107">39 The submissions of counsel for the defendant cannot be accepted.</sentence>
 <sentence id="s108">The question of whether a company is able to pay its debts as and when they fall due is a question of fact.</sentence>
 <sentence id="s109">It is not essential that this finding of fact be based only on audited accounts.</sentence>
@@ -261,4 +261,8 @@ Dated: 16 August 2006
  
  </sentence>
 </sentences>
-</case>
+</case>case> 
+ 
+ </sentence>
+</sentences>
+</case>case>

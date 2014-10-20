@@ -3,10 +3,10 @@
 <name>Coogee Chemicals Pty Ltd v BHP Billiton Petroleum (Bass Strait) Pty Ltd [2006] FCA 1820 (22 December 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1820.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">further discovery</catchphrase>
-<catchphrase "id=c1">sufficiency of evidence to ground order</catchphrase>
-<catchphrase "id=c2">relevance to pleaded issues</catchphrase>
-<catchphrase "id=c3">discovery</catchphrase>
+<catchphrase >further discovery</catchphrase>
+<catchphrase >sufficiency of evidence to ground order</catchphrase>
+<catchphrase >relevance to pleaded issues</catchphrase>
+<catchphrase >discovery</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -286,7 +286,7 @@
  
 32 The motion is supported by an affidavit of Mr Sergio Lopes Freire sworn on 4 December 2006.</sentence>
 <sentence id="s80">Mr Freire is a solicitor in the employ of the respondents' solicitors.</sentence>
-<sentence id="s81">He deposes to the fact that on 31 October 2006 he arranged for a letter to be sent by facsimile transmission to Williams &amp; Hughes the applicants' solicitors in which was enclosed a copy of a newspaper article referring to the upcoming public float of Coogee Resources Limited on the Australian Stock Exchange (annexure "SLF-10" to the affidavit of Mr Freire).</sentence>
+<sentence id="s81">He deposes to the fact that on 31 October 2006 he arranged for a letter to be sent by facsimile transmission to Williams amp; Hughes the applicants' solicitors in which was enclosed a copy of a newspaper article referring to the upcoming public float of Coogee Resources Limited on the Australian Stock Exchange (annexure "SLF-10" to the affidavit of Mr Freire).</sentence>
 <sentence id="s82">33 In that letter the respondents' solicitors referring to the newspaper article concerning the float said the following: 
  
  The article refers to the proposed float of Coogee Resources, which appears to be an entity related to the two applicant companies.</sentence>
@@ -455,7 +455,7 @@ Dated: 22 December 2006
 
  Counsel for the Applicants: Mr D Kilpatrick 
  
- Solicitors for the Applicants: Williams &amp; Hughes 
+ Solicitors for the Applicants: Williams amp; Hughes 
  
  Counsel for the Respondents: Mr C Archibald 
  
@@ -473,4 +473,6 @@ Dated: 22 December 2006
  
  </sentence>
 </sentences>
-</case>
+</case>e>ence>
+</sentences>
+</case>e>

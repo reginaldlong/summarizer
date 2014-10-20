@@ -3,11 +3,11 @@
 <name>HPAL Limited [2007] FCA 1570 (5 September 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1570.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">scheme of arrangement</catchphrase>
-<catchphrase "id=c1">no novel jurisdictional or procedural issues</catchphrase>
-<catchphrase "id=c2">performance risk addressed</catchphrase>
-<catchphrase "id=c3">break fee appropriate</catchphrase>
-<catchphrase "id=c4">corporations</catchphrase>
+<catchphrase >scheme of arrangement</catchphrase>
+<catchphrase >no novel jurisdictional or procedural issues</catchphrase>
+<catchphrase >performance risk addressed</catchphrase>
+<catchphrase >break fee appropriate</catchphrase>
+<catchphrase >corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -36,7 +36,7 @@
 <sentence id="s19">I am also satisfied that the issue referred to in [27] of Investa , namely, the "vesting free of encumbrances" term is sufficiently addressed.</sentence>
 <sentence id="s20">6 There was some discussion of the provision of the implementation agreement under which HPAL has agreed to pay a "break fee" not exceeding $3 million if the scheme does not proceed.</sentence>
 <sentence id="s21">The break fee is less than one per cent calculated on the transaction value.</sentence>
-<sentence id="s22">This topic was addressed by Lindgren J in APN News &amp; Media Limited [2007] FCA 770 , in particular at [43], [46]-[49] and [55].</sentence>
+<sentence id="s22">This topic was addressed by Lindgren J in APN News amp; Media Limited [2007] FCA 770 , in particular at [43], [46]-[49] and [55].</sentence>
 <sentence id="s23">Although there is no affidavit evidence along the lines of that referred to by Lindgren J at [55], I would infer that there had been arm's length negotiations between the parties because each of the parties is independently represented by experienced firms of solicitors.</sentence>
 <sentence id="s24">7 It is true, as Mr Oakes points out, that there may be some cases in which the requirements referred to by Lindgren J at [55] would need to be dealt with; for example where the acquirer had a substantial shareholding in the target company.</sentence>
 <sentence id="s25">That is not the case here and that issue does not need to be further considered by me today.</sentence>
@@ -64,4 +64,7 @@ Dated: 11 October 2007
  
  </sentence>
 </sentences>
-</case>
+</case>>
+ </sentence>
+</sentences>
+</case>>

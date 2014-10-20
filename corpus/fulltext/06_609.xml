@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <case>
-<name>SZCJD v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2006] FCA 609 (24 May 2006)</name>
+<name>SZCJD v Minister for Immigration amp; Multicultural amp; Indigenous Affairs [2006] FCA 609 (24 May 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/609.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from federal magistrates court's dismissal of application for review of refugee review tribunal decision</catchphrase>
-<catchphrase "id=c1">bangladeshi national claiming fear of persecution on grounds of political opinion as member of awami league</catchphrase>
-<catchphrase "id=c2">alleged tribunal failed to consider certain matters and made irrational and illogical assumptions</catchphrase>
-<catchphrase "id=c3">alleged tribunal failed to comply with s 424a of migration act 1958 (cth) by relying on vagueness in protection visa application concerning appellant's claimed involvement in awami league</catchphrase>
-<catchphrase "id=c4">migration</catchphrase>
+<catchphrase >appeal from federal magistrates court's dismissal of application for review of refugee review tribunal decision</catchphrase>
+<catchphrase >bangladeshi national claiming fear of persecution on grounds of political opinion as member of awami league</catchphrase>
+<catchphrase >alleged tribunal failed to consider certain matters and made irrational and illogical assumptions</catchphrase>
+<catchphrase >alleged tribunal failed to comply with s 424a of migration act 1958 (cth) by relying on vagueness in protection visa application concerning appellant's claimed involvement in awami league</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -172,11 +172,11 @@ The part underlined is said to be the "information" which attracted the operatio
 <sentence id="s115">The Tribunal was obliged to consider information which came before it: s 424(1).</sentence>
 <sentence id="s116">Until the Tribunal has in fact considered all the material, whether from a hearing or otherwise, it could not form any view as to whether any particular information would 
  
-&#8226; tend to show the decision under review should be affirmed; or
+#8226; tend to show the decision under review should be affirmed; or
  
-&#8226; tend to show the decision under review should be set aside; or
+#8226; tend to show the decision under review should be set aside; or
  
-&#8226; be irrelevant.</sentence>
+#8226; be irrelevant.</sentence>
 <sentence id="s117">41 The obligation under s 424A(1) does not attach at any particular stage of the Tribunal's internal decision-making process.</sentence>
 <sentence id="s118">In the course of that process, as the Tribunal member thinks about material which is progressively obtained and considered, some matters will emerge as significant and others will assume less significance.</sentence>
 <sentence id="s119">Their respective significance may change again.</sentence>
@@ -224,4 +224,6 @@ Dated: 24 May 2006
  
  </sentence>
 </sentences>
-</case>
+</case>case>sentence>
+</sentences>
+</case>case>

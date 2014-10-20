@@ -3,12 +3,12 @@
 <name>Ogawa v Minister for Immigration and Multicultural Affairs and Anor [2006] FCA 1694 (15 December 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1694.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">migration</catchphrase>
-<catchphrase "id=c1">application for bridging visa</catchphrase>
-<catchphrase "id=c2">whether judicial review proceedings had been finalised under migration regulations 1994</catchphrase>
-<catchphrase "id=c3">deemed abandonment of application for special leave to appeal to high court of australia</catchphrase>
-<catchphrase "id=c4">withdrawal of request for ministerial intervention pursuant to s 351 of the migration act 1958 (cth)</catchphrase>
-<catchphrase "id=c5">administrative law</catchphrase>
+<catchphrase >migration</catchphrase>
+<catchphrase >application for bridging visa</catchphrase>
+<catchphrase >whether judicial review proceedings had been finalised under migration regulations 1994</catchphrase>
+<catchphrase >deemed abandonment of application for special leave to appeal to high court of australia</catchphrase>
+<catchphrase >withdrawal of request for ministerial intervention pursuant to s 351 of the migration act 1958 (cth)</catchphrase>
+<catchphrase >administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -106,7 +106,7 @@
 <sentence id="s60">She also claims that the notification of the Registrar of the High Court was treated by Scarlett FM as a decision of the High Court to dismiss her judicial review proceeding.</sentence>
 <sentence id="s61">Review of Federal Magistrate's Decision 
  
-23 The role of the Court in an appeal such as this is to determine whether the Federal Magistrate erred: see SZAJB v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2004] FCA 782.</sentence>
+23 The role of the Court in an appeal such as this is to determine whether the Federal Magistrate erred: see SZAJB v Minister for Immigration amp; Multicultural amp; Indigenous Affairs [2004] FCA 782.</sentence>
 <sentence id="s62">The Court is confined to a consideration of the issues before Scarlett FM.</sentence>
 <sentence id="s63">These issues are whether the appellant was entitled to a Bridging visa on 19 May 2006, and whether there was an application being considered by the Minister under s 351 of the Act.</sentence>
 <sentence id="s64">24 The conclusion reached by His Honour relating to the expiration of Ms Ogawa's Bridging visa is not dependent upon any letter of the Registrar of the High Court as constituting a ' decision ' as Ms Ogawa has submitted.</sentence>
@@ -186,7 +186,7 @@ The letter invited her to make submissions within 35 days and stated:
 <sentence id="s105">She refers to the decision of Gauthiez v Minister for Immigration and Ethnic Affairs (1994) 53 FCR 512 per Gummow J at 519.</sentence>
 <sentence id="s106">40 Ms Ogawa claims that in order to determine whether or not her Ministerial Intervention request ' was being assessed ', it was ' necessary for the Tribunal to take into account the reasons why an officer did not take action in respect of the appellant's Ministerial Intervention Request '.</sentence>
 <sentence id="s107">She says that if the officer did not take action in respect of a Ministerial Intervention Request for illegitimate reasons, the Minister cannot rely upon ' the time when the officer did not take action '.</sentence>
-<sentence id="s108">She refers to Scargill v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2003] FCAFC 116 at para 29.</sentence>
+<sentence id="s108">She refers to Scargill v Minister for Immigration amp; Multicultural amp; Indigenous Affairs [2003] FCAFC 116 at para 29.</sentence>
 <sentence id="s109">41 Ms Ogawa thereafter refers to the observations made by Scarlett FM of the MIU and of his observation that the ' Department acted wrongly ' in withdrawing Ms Ogawa's request.</sentence>
 <sentence id="s110">She therefore claims that the Tribunal erred in law.</sentence>
 <sentence id="s111">42 Further, she claims that an officer of the Department has no power or authority to withdraw her request for Ministerial intervention and the purported withdrawal was in itself an error of law.</sentence>
@@ -301,4 +301,8 @@ Dated: 15 December 2006
  
  </sentence>
 </sentences>
-</case>
+</case>ase>l 
+ 
+ </sentence>
+</sentences>
+</case>ase>

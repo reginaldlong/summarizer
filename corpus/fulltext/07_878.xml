@@ -3,13 +3,13 @@
 <name>Bowen Investments Pty Ltd v Tabcorp Holdings Ltd (No 2) [2007] FCA 878 (12 June 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/878.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">indemnity costs</catchphrase>
-<catchphrase "id=c1">where applicant rejected offer of compromise</catchphrase>
-<catchphrase "id=c2">where damages awarded to applicant amounted to less than $100,000</catchphrase>
-<catchphrase "id=c3">whether costs order reducible</catchphrase>
-<catchphrase "id=c4">general rule stipulated in o 23 r 11(5) of federal court rules applied</catchphrase>
-<catchphrase "id=c5">departure from general rule proscribed by o 62 r 36(1)</catchphrase>
-<catchphrase "id=c6">costs</catchphrase>
+<catchphrase >indemnity costs</catchphrase>
+<catchphrase >where applicant rejected offer of compromise</catchphrase>
+<catchphrase >where damages awarded to applicant amounted to less than $100,000</catchphrase>
+<catchphrase >whether costs order reducible</catchphrase>
+<catchphrase >general rule stipulated in o 23 r 11(5) of federal court rules applied</catchphrase>
+<catchphrase >departure from general rule proscribed by o 62 r 36(1)</catchphrase>
+<catchphrase >costs</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -22,8 +22,8 @@
 <sentence id="s5">I invited submissions from the parties as to what costs orders should be made.</sentence>
 <sentence id="s6">2 The respondent has submitted that the Court should order that:
  
- &#8226; The respondent pay the applicant's costs of the proceeding to 11:00 am on 26 November 2005, including any reserved costs to that time, taxed on a party-party basis reduced by one third; and
- &#8226; The applicant pay the respondent's costs of the proceeding from 11:00 am on 26 November 2005, including any reserved costs after that time and including the respondent's costs ordered to be paid by the applicant pursuant to the order of the Court made on 19 October 2006, taxed on an indemnity basis.</sentence>
+ #8226; The respondent pay the applicant's costs of the proceeding to 11:00 am on 26 November 2005, including any reserved costs to that time, taxed on a party-party basis reduced by one third; and
+ #8226; The applicant pay the respondent's costs of the proceeding from 11:00 am on 26 November 2005, including any reserved costs after that time and including the respondent's costs ordered to be paid by the applicant pursuant to the order of the Court made on 19 October 2006, taxed on an indemnity basis.</sentence>
 <sentence id="s7">
 
 3 Indemnity costs were sought because the applicant had rejected an offer of compromise for $140,000 on 25 November 2005.</sentence>
@@ -31,8 +31,8 @@
 <sentence id="s9">The one third reduction proposed in relation to the period before the offer was rejected was justified by reference to O 62 r 36A(1) which provides for such a reduction where judgment is awarded for less than $100,000.</sentence>
 <sentence id="s10">4 The applicant submits that the Court should order that:
  
- &#8226; The respondent pay the applicant's costs of the proceeding to 11:00 am on 26 November 2005, including any reserved costs to such time, taxed on a party-party basis; and
- &#8226; The applicant pay 75 percent of the respondent's costs of the proceeding from 11:00 am 26 November 2005, including any reserved costs after such time, taxed on an indemnity basis.</sentence>
+ #8226; The respondent pay the applicant's costs of the proceeding to 11:00 am on 26 November 2005, including any reserved costs to such time, taxed on a party-party basis; and
+ #8226; The applicant pay 75 percent of the respondent's costs of the proceeding from 11:00 am 26 November 2005, including any reserved costs after such time, taxed on an indemnity basis.</sentence>
 <sentence id="s11">
 
 5 The applicant seeks to support a departure from the general rule contained in O 23 r 11(5) by reference to the time devoted at trial (estimated at 50 percent of hearing time) to the issue on which the applicant was successful and because of some assertions made in the witness statement of one of the respondent's witnesses (but later deleted) which it is said led to the prosecution of the rectification claim.</sentence>
@@ -75,15 +75,15 @@
 
 Dated: 12 June 2007
 
- Counsel for the Applicant: Mr M Colbran QC &amp; Mr I Upjohn 
+ Counsel for the Applicant: Mr M Colbran QC amp; Mr I Upjohn 
  
  Solicitor for the Applicant: Scanlan Carroll 
  
- Counsel for the Respondent: Mr C Macaulay SC &amp; Mr T Woodward 
+ Counsel for the Respondent: Mr C Macaulay SC amp; Mr T Woodward 
  
  Solicitor for the Respondent: Mallesons Stephen Jaques 
  
- Date of Hearing: (Written Submissions received 23 &amp; 28 May 2007) 
+ Date of Hearing: (Written Submissions received 23 amp; 28 May 2007) 
  
  Date of Judgment: 12 June 2007 
 
@@ -98,4 +98,8 @@ Dated: 12 June 2007
  
  </sentence>
 </sentences>
-</case>
+</case></case>.html 
+ 
+ </sentence>
+</sentences>
+</case></case>

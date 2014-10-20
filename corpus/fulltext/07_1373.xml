@@ -3,11 +3,11 @@
 <name>Ally v Minister for Immigration and Citizenship [2007] FCA 1373 (30 August 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1373.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for leave to file and serve notice of appeal</catchphrase>
-<catchphrase "id=c1">whether special reasons for granting leave</catchphrase>
-<catchphrase "id=c2">consideration of proper use of later facts in respect of a factual question to be determined at an earlier time</catchphrase>
-<catchphrase "id=c3">where appeal not without merit and leave granted</catchphrase>
-<catchphrase "id=c4">practice and procedure</catchphrase>
+<catchphrase >application for leave to file and serve notice of appeal</catchphrase>
+<catchphrase >whether special reasons for granting leave</catchphrase>
+<catchphrase >consideration of proper use of later facts in respect of a factual question to be determined at an earlier time</catchphrase>
+<catchphrase >where appeal not without merit and leave granted</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -249,7 +249,7 @@
  The applicant's counsel in his written and oral submissions made unfocused complaints about the Tribunal's decision which were clearly outside the ambit of his amended application.</sentence>
 <sentence id="s104">These were, in my opinion, almost entirely attacks on the merits of the factual assessments reached by the Tribunal.</sentence>
 <sentence id="s105">However, the Tribunal was required to address impressionistic criteria which were particularly difficult to apply to the present case.</sentence>
-<sentence id="s106">In this situation a court of judicial review must bear in mind its duty "to leave the decision of that fact to the public body to whom Parliament has entrusted the decision-making power save in a case where it is obvious that the public body, consciously or unconsciously, are acting perversely" ( Puhlhofer v Hillingdon London Borough Council [1986] UKHL 1 ; [1986] AC 484 at 518, quoted in Minister for Immigration &amp; Multicultural Affairs v Eschetu [1999] HCA 21 ; (1999) 197 CLR 611 at [41] ).</sentence>
+<sentence id="s106">In this situation a court of judicial review must bear in mind its duty "to leave the decision of that fact to the public body to whom Parliament has entrusted the decision-making power save in a case where it is obvious that the public body, consciously or unconsciously, are acting perversely" ( Puhlhofer v Hillingdon London Borough Council [1986] UKHL 1 ; [1986] AC 484 at 518, quoted in Minister for Immigration amp; Multicultural Affairs v Eschetu [1999] HCA 21 ; (1999) 197 CLR 611 at [41] ).</sentence>
 <sentence id="s107">Counsel's arguments did not cause me to arrive at such a judgment in this case.</sentence>
 <sentence id="s108">
 
@@ -322,4 +322,7 @@ Dated: 30 August 2007
  
  </sentence>
 </sentences>
-</case>
+</case>>
+ </sentence>
+</sentences>
+</case>>

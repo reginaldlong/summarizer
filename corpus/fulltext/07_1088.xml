@@ -3,9 +3,9 @@
 <name>Lau v Minister for Immigration and Citizenship (No 2) [2007] FCA 1088 (27 July 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1088.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">exercise of discretion under s 116(1) of the migration act 1958 (cth)</catchphrase>
-<catchphrase "id=c1">whether migration review tribunal obliged to comply with migration series instruction 368</catchphrase>
-<catchphrase "id=c2">migration</catchphrase>
+<catchphrase >exercise of discretion under s 116(1) of the migration act 1958 (cth)</catchphrase>
+<catchphrase >whether migration review tribunal obliged to comply with migration series instruction 368</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -24,11 +24,11 @@
 <sentence id="s11">The arguable grounds of jurisdictional error depended upon it being established that the Tribunal, in the exercise of its discretion, had not complied with Migration Series Instruction 368 (MSI 368), as in force at the relevant time.</sentence>
 <sentence id="s12">Clause 17.2.1 of MSI 368 identified the primary considerations relevant to the exercise of the discretion as being:
  
- &#8226; the purpose of the visa holder's travel to and stay in Australia;
- &#8226; the extent of non-compliance with any conditions subject to which the visa was granted;
- &#8226; the degree of hardship which may be caused to the visa holder and any family members;
- &#8226; the circumstances in which the ground for cancellation arose;
- &#8226; the person's behaviour in relation to the Department, now and on previous occasions.</sentence>
+ #8226; the purpose of the visa holder's travel to and stay in Australia;
+ #8226; the extent of non-compliance with any conditions subject to which the visa was granted;
+ #8226; the degree of hardship which may be caused to the visa holder and any family members;
+ #8226; the circumstances in which the ground for cancellation arose;
+ #8226; the person's behaviour in relation to the Department, now and on previous occasions.</sentence>
 <sentence id="s13">
 
 4 I considered that it was arguable that the Tribunal had failed to address the issues as to the extent of non-compliance with Condition 8101, and the circumstances in which the ground for cancellation arose, in accordance with MSI 368, and that accordingly the Tribunal had committed jurisdictional error.</sentence>
@@ -121,4 +121,5 @@ Dated: 26 July 2007
  
  </sentence>
 </sentences>
-</case>
+</case>case>ntences>
+</case>case>

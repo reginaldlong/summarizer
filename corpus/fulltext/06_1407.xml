@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <case>
-<name>Merck &amp; Co Inc v Genrx Pty Ltd [2006] FCA 1407 (31 October 2006)</name>
+<name>Merck amp; Co Inc v Genrx Pty Ltd [2006] FCA 1407 (31 October 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1407.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">interlocutory injunction</catchphrase>
-<catchphrase "id=c1">application to restrain respondent from importing and supplying pharmaceutical products containing applicant's patented compound</catchphrase>
-<catchphrase "id=c2">claim that patent invalid for lack of novelty</catchphrase>
-<catchphrase "id=c3">considerations relevant to grant of injunction where respondent challenges validity of patent</catchphrase>
-<catchphrase "id=c4">whether serious question to be tried on validity of patent</catchphrase>
-<catchphrase "id=c5">patents</catchphrase>
+<catchphrase >interlocutory injunction</catchphrase>
+<catchphrase >application to restrain respondent from importing and supplying pharmaceutical products containing applicant's patented compound</catchphrase>
+<catchphrase >claim that patent invalid for lack of novelty</catchphrase>
+<catchphrase >considerations relevant to grant of injunction where respondent challenges validity of patent</catchphrase>
+<catchphrase >whether serious question to be tried on validity of patent</catchphrase>
+<catchphrase >patents</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
  
- 1 An international pharmaceutical company, Merck &amp; Co Inc, owns an Australian patent for a compound used therapeutically.</sentence>
+ 1 An international pharmaceutical company, Merck amp; Co Inc, owns an Australian patent for a compound used therapeutically.</sentence>
 <sentence id="s1">It was granted the patent in 1992.</sentence>
 <sentence id="s2">Another international pharmaceutical company, Apotex International Inc, is on the verge of supplying drugs for importation into Australia which contain that compound.</sentence>
 <sentence id="s3">The generic drugs will be imported through GenRx Pty Ltd, a company ultimately owned by Apotex.</sentence>
@@ -32,7 +32,7 @@
 <sentence id="s16">The patent period is from 8 June 1990 to 8 June 2010.</sentence>
 <sentence id="s17">A claimed salt of alendronic acid in Merck's patent (claim 23) is 4-amino-1-hydroxybutylidene-1, 1-bisphosphonic acid monosodium salt trihydrate ("AMT").</sentence>
 <sentence id="s18">AMT is an active ingredient in Merck products carrying the FOSAMAX label, prescribed for the treatment of various bone disorders such as osteoporosis.</sentence>
-<sentence id="s19">The second applicant, Merck Sharp &amp; Dohme (Australia) Pty Ltd carries on in Australia the business of formulation, sale and distribution of pharmaceutical products.</sentence>
+<sentence id="s19">The second applicant, Merck Sharp amp; Dohme (Australia) Pty Ltd carries on in Australia the business of formulation, sale and distribution of pharmaceutical products.</sentence>
 <sentence id="s20">It is a subsidiary of the first applicant.</sentence>
 <sentence id="s21">On 7 February 2001, MSDA obtained registration of "FOSAMAX Once Weekly" and "FOSAMAX Plus" on the Australian Register of Therapeutic Goods.</sentence>
 <sentence id="s22">The applicants commenced these proceedings on 25 September 2006 shortly after receiving correspondence suggesting one or number of the generic drugs to be imported by GenRx had been included in the Pharmaceutical Benefits Scheme.</sentence>
@@ -180,4 +180,8 @@ Dated: 31 October 2006
  
  </sentence>
 </sentences>
-</case>
+</case>se>ml 
+ 
+ </sentence>
+</sentences>
+</case>se>

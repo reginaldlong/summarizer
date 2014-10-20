@@ -3,9 +3,9 @@
 <name>In the matter of Rocksoft Limited [2006] FCA 1098 (18 August 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1098.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">scheme of arrangement</catchphrase>
-<catchphrase "id=c1">court approval of scheme</catchphrase>
-<catchphrase "id=c2">corporations</catchphrase>
+<catchphrase >scheme of arrangement</catchphrase>
+<catchphrase >court approval of scheme</catchphrase>
+<catchphrase >corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -87,7 +87,7 @@ Dated: 18 August 2006
 
  Counsel for the Applicant: B Roberts 
  
- Solicitor for the Applicant: Kelly &amp; Co 
+ Solicitor for the Applicant: Kelly amp; Co 
  
  Date of Hearing: 25 July 2006 
  
@@ -106,4 +106,5 @@ Dated: 18 August 2006
  
  </sentence>
 </sentences>
-</case>
+</case>></sentences>
+</case>>

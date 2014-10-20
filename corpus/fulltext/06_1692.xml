@@ -3,11 +3,11 @@
 <name>Mario Guiseppe v Registrar of Aboriginal Corporationsand Another [2006] FCA 1692 (18 December 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1692.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">procedural unfairness</catchphrase>
-<catchphrase "id=c1">adequacy of time allowed in show cause notice</catchphrase>
-<catchphrase "id=c2">whether reasonable</catchphrase>
-<catchphrase "id=c3">authority of minister to approve appointment of administrator to aboriginal corporation.</catchphrase>
-<catchphrase "id=c4">administrative law</catchphrase>
+<catchphrase >procedural unfairness</catchphrase>
+<catchphrase >adequacy of time allowed in show cause notice</catchphrase>
+<catchphrase >whether reasonable</catchphrase>
+<catchphrase >authority of minister to approve appointment of administrator to aboriginal corporation.</catchphrase>
+<catchphrase >administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -46,17 +46,17 @@
  Details: 
  ... 
  
- &#8226; On 4 July 2006 the Office of the Registrar of Aboriginal Corporations (ORAC) received from a delegate of FaCSIA a communication stating, among other things that: 
- &#8226; FaCSIA has lost confidence in the Governing Committee and the Corporation; 
- &#8226; As a result, FaCSIA has decided not to release funds to the Corporation for the 2006-07 financial year; 
- &#8226; FaCSIA would however release the funds for the 2006/07 financial year to the Corporation if an Administrator were appointed to the Corporation pursuant to section 71 of the Act.</sentence>
+ #8226; On 4 July 2006 the Office of the Registrar of Aboriginal Corporations (ORAC) received from a delegate of FaCSIA a communication stating, among other things that: 
+ #8226; FaCSIA has lost confidence in the Governing Committee and the Corporation; 
+ #8226; As a result, FaCSIA has decided not to release funds to the Corporation for the 2006-07 financial year; 
+ #8226; FaCSIA would however release the funds for the 2006/07 financial year to the Corporation if an Administrator were appointed to the Corporation pursuant to section 71 of the Act.</sentence>
 <sentence id="s21">
 
 The notice then stated that FaCSIA would release funds if an administrator was appointed and on 10 July 2006 ORAC was again advised that no funding would be provided.</sentence>
 <sentence id="s22">The notice continued:
  
  
- &#8226; Without continued funding from FaCSIA, the Corporation cannot continue functioning at a level which would enable it to continue providing the services referred to above.</sentence>
+ #8226; Without continued funding from FaCSIA, the Corporation cannot continue functioning at a level which would enable it to continue providing the services referred to above.</sentence>
 <sentence id="s23">' 
  
 
@@ -308,7 +308,7 @@ The events which caused FaCSIA to determine that funding should not be continued
 <sentence id="s182">The critical fact is that at the date of the appointment of the Administrator, Mr Andrews approved of such appointment with the authority of the Minister.</sentence>
 <sentence id="s183">65 Even if, contrary to the above finding, Mr Andrews did not possess the requisite power for the purpose of the appointment, the circumstances surrounding the appointment were such that the Court would exercise its discretion to decline the relief claimed.</sentence>
 <sentence id="s184">Considering the arrangements that may have been made in the intervening period the consequences of deeming the appointment invalid are such as may cause considerable inconvenience.</sentence>
-<sentence id="s185">The 'defacto officers' doctrine' was considered by Kirby J in Cassell v The Queen [2000] HCA 8 ; (2000) 201 CLR 189 at [71] in which it was observed that the doctrine was usually invoked to cure an accidental or unintentional lack of authority: see also GJ Coles &amp; Co Ltd and Others v Retail Trade Industrial Tribunal and Others (1987) 7 NSWLR 503 at 525-526.</sentence>
+<sentence id="s185">The 'defacto officers' doctrine' was considered by Kirby J in Cassell v The Queen [2000] HCA 8 ; (2000) 201 CLR 189 at [71] in which it was observed that the doctrine was usually invoked to cure an accidental or unintentional lack of authority: see also GJ Coles amp; Co Ltd and Others v Retail Trade Industrial Tribunal and Others (1987) 7 NSWLR 503 at 525-526.</sentence>
 <sentence id="s186">At 527 it was said:
  
  'Whatever is the true account of the origin of the de facto officer rule, its rationale in modern times is the protection which affords the public' 
@@ -350,4 +350,6 @@ Dated: 18 December 2006
  
  </sentence>
 </sentences>
-</case>
+</case>/case>entence>
+</sentences>
+</case>/case>

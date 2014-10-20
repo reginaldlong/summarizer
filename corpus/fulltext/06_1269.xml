@@ -3,12 +3,12 @@
 <name>Starr Partners Pty Ltd v Dem Prem Pty Ltd (No. 2) [2006] FCA 1269 (25 September 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1269.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">trade marks and trade names</catchphrase>
-<catchphrase "id=c1">infringement and passing off</catchphrase>
-<catchphrase "id=c2">where trade marks incorporated star shaped graphic and the words 'starr partners' and 'star realty' respectively</catchphrase>
-<catchphrase "id=c3">whether mark substantially identical with or deceptively similar to registered mark</catchphrase>
-<catchphrase "id=c4">application of established principles</catchphrase>
-<catchphrase "id=c5">intellectual property</catchphrase>
+<catchphrase >trade marks and trade names</catchphrase>
+<catchphrase >infringement and passing off</catchphrase>
+<catchphrase >where trade marks incorporated star shaped graphic and the words 'starr partners' and 'star realty' respectively</catchphrase>
+<catchphrase >whether mark substantially identical with or deceptively similar to registered mark</catchphrase>
+<catchphrase >application of established principles</catchphrase>
+<catchphrase >intellectual property</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -346,7 +346,7 @@ And at T 50 he said:
  28 Section 10 looks to how closely one mark resembles the other and whether the effect of that resemblance is likely to deceive or cause confusion, rather than intent to deceive or cause confusion.</sentence>
 <sentence id="s148">Evidence that there was such an intention is admissible and relevant and may lead the Court to infer more readily that there has, in fact, been use of a mark that is likely to deceive or cause confusion and is therefore deceptively similar to a registered mark: Beecham Group Plc v Colgate-Palmolive Pty Ltd (2005) 66 IPR 254 at [64] per Emmett J.</sentence>
 <sentence id="s149">But as indicated in [23] supra, there is no such evidence in the present case.</sentence>
-<sentence id="s150">Ultimately, it is a question of fact for the Court to decide whether there is a reasonable probability of deception or confusion between an impugned mark and a registered mark: Australian Woollen Mills Ltd v F S Walton &amp; Co Ltd [1937] HCA 51 ; (1937) 58 CLR 641 at 658 per Dixon and McTiernan JJ.</sentence>
+<sentence id="s150">Ultimately, it is a question of fact for the Court to decide whether there is a reasonable probability of deception or confusion between an impugned mark and a registered mark: Australian Woollen Mills Ltd v F S Walton amp; Co Ltd [1937] HCA 51 ; (1937) 58 CLR 641 at 658 per Dixon and McTiernan JJ.</sentence>
 <sentence id="s151">29 I was also referred to certain propositions set out by Kitto J at first instance in Southern Cross Refrigerating Co v Toowoomba Foundry Pty Ltd [1953] HCA 73 ; (1953) 91 CLR 592 at 594 --- 595: 
  
  (1) To show that a trade mark is deceptively similar to another it is necessary to show a real, tangible danger of deception or confusion occurring.</sentence>
@@ -510,7 +510,7 @@ And what is said at [7.80] as to imperfect recollection:
  52 The same can be said with respect to the words 'STARR' and 'Star', even coupled with the star logo in each case; the similarity is not sufficient to create a reasonable likelihood of deception where the remaining portions of the marks are so different.</sentence>
 <sentence id="s239">As was recently said by a Full Court of this Court in Melbourne Chinese Press at [40]: 
  
- 'Cases like Cooper Engineering, Coca-Cola Co [(1942) 59 RPC 127] and Sports Caf&eacute; [(1998) 42 IPR 552] do not support the proposition ... that non-descriptive words should be emphasised in considering deceptive similarity.</sentence>
+ 'Cases like Cooper Engineering, Coca-Cola Co [(1942) 59 RPC 127] and Sports Cafeacute; [(1998) 42 IPR 552] do not support the proposition ... that non-descriptive words should be emphasised in considering deceptive similarity.</sentence>
 <sentence id="s240">In considering marks as a whole, where they contain common words, one should look primarily to those aspects of the marks that are not common: Cooper Engineering at 538-9.</sentence>
 <sentence id="s241">Where distinctive aspects of the marks are the aspects that would remain with a consumer, that is sufficient to avoid confusion: Coca-Cola Co at 134.</sentence>
 <sentence id="s242">Elements of the mark were not discounted in these cases because they were descriptive but because they were common to the two marks.</sentence>
@@ -557,7 +557,7 @@ Dated: 25 September 2006
  
  Counsel for the Respondent: Mr A Collins 
  
- Solicitor for the Respondent: Stephens &amp; Tozer 
+ Solicitor for the Respondent: Stephens amp; Tozer 
 
  Date of Hearing: 26 and 27 April 2006 
  
@@ -572,4 +572,8 @@ Dated: 25 September 2006
  
  </sentence>
 </sentences>
-</case>
+</case>se>ml 
+ 
+ </sentence>
+</sentences>
+</case>se>

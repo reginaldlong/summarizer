@@ -3,11 +3,11 @@
 <name>SZDPY v Minister for Immigration and Multicultural Affairs [2006] FCA 627 (25 May 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/627.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">alleged breach of s 424a of the migration act</catchphrase>
-<catchphrase "id=c1">whether information was within exemption of s 424a(3)(b)</catchphrase>
-<catchphrase "id=c2">the relevant information was given to the tribunal</catchphrase>
-<catchphrase "id=c3">appeal dismissed</catchphrase>
-<catchphrase "id=c4">migration</catchphrase>
+<catchphrase >alleged breach of s 424a of the migration act</catchphrase>
+<catchphrase >whether information was within exemption of s 424a(3)(b)</catchphrase>
+<catchphrase >the relevant information was given to the tribunal</catchphrase>
+<catchphrase >appeal dismissed</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -49,7 +49,7 @@
 <sentence id="s28">The Federal Magistrate dismissed the application.</sentence>
 <sentence id="s29">The appellant appeals from his Honour's judgment.</sentence>
 <sentence id="s30">10 Before the Federal Magistrate, the appellant's primary argument was that the Tribunal, by considering the possibility of relocation and concealing his whereabouts from relatives, was requiring him to avoid harm by acting discreetly in the practise of his religion.</sentence>
-<sentence id="s31">The appellant argued this was an error of law as identified by the High Court in S395/2002 v Minister for Immigration &amp; Multicultural Affairs [2003] HCA 71 ; (2003) 216 CLR 473.</sentence>
+<sentence id="s31">The appellant argued this was an error of law as identified by the High Court in S395/2002 v Minister for Immigration amp; Multicultural Affairs [2003] HCA 71 ; (2003) 216 CLR 473.</sentence>
 <sentence id="s32">11 The Federal Magistrate found that the Tribunal's decision was not based on a finding that the appellant would be required to modify his behaviour.</sentence>
 <sentence id="s33">Rather, his Honour held that the Tribunal had determined that wherever the appellant chose to live in India he could continue the normal practice of his religion without fear of persecution.</sentence>
 <sentence id="s34">Also, the Federal Magistrate concluded that the Tribunal's finding about relocation was an alternate ground relating to the appellant's fear of coming to serious harm on account of his conversion.</sentence>
@@ -186,4 +186,7 @@ Dated: 25 May 2006
  
  </sentence>
 </sentences>
-</case>
+</case>>
+ </sentence>
+</sentences>
+</case>>

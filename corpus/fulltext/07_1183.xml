@@ -3,14 +3,14 @@
 <name>Picone v Velos [2007] FCA 1183 (10 August 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1183.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">solvency</catchphrase>
-<catchphrase "id=c1">set-off</catchphrase>
-<catchphrase "id=c2">magistrate did not accept appellant's statement of assets or existence of set-off</catchphrase>
-<catchphrase "id=c3">indemnity costs</catchphrase>
-<catchphrase "id=c4">unsupported allegations of perjury</catchphrase>
-<catchphrase "id=c5">whether appropriate to make against bankrupt</catchphrase>
-<catchphrase "id=c6">bankruptcy</catchphrase>
-<catchphrase "id=c7">costs</catchphrase>
+<catchphrase >solvency</catchphrase>
+<catchphrase >set-off</catchphrase>
+<catchphrase >magistrate did not accept appellant's statement of assets or existence of set-off</catchphrase>
+<catchphrase >indemnity costs</catchphrase>
+<catchphrase >unsupported allegations of perjury</catchphrase>
+<catchphrase >whether appropriate to make against bankrupt</catchphrase>
+<catchphrase >bankruptcy</catchphrase>
+<catchphrase >costs</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -52,7 +52,7 @@
 <sentence id="s33">First, in the words of Burchardt FM, the correction of "two minor typographical matters in paragraph 2, neither of which in my opinion would have misled the Respondent".</sentence>
 <sentence id="s34">Secondly, the correction in paragraph 4 of the petition of the date of the failure to comply with the bankruptcy notice.</sentence>
 <sentence id="s35">Thirdly, the correction of the date of service.</sentence>
-<sentence id="s36">Fourthly, changing the description of the creditor from "Velos &amp; Davis (a firm)" to "Bill Velos &amp; Peter Davis trading as Velos &amp; Davis (a firm).</sentence>
+<sentence id="s36">Fourthly, changing the description of the creditor from "Velos amp; Davis (a firm)" to "Bill Velos amp; Peter Davis trading as Velos amp; Davis (a firm).</sentence>
 <sentence id="s37">12 On 10 August 2006 a Registrar made a sequestration order.</sentence>
 <sentence id="s38">On 28 August 2006 the appellant applied to set aside that order.</sentence>
 <sentence id="s39">On 2 February 2007, Burchardt FM dismissed that application.</sentence>
@@ -561,7 +561,7 @@ Dated: 10 August 2007
  
  Counsel for the Respondents: Mr A Ellis 
  
- Solicitor for the Respondents: Velos &amp; Davis 
+ Solicitor for the Respondents: Velos amp; Davis 
  
  Date of Hearing: 3 August 2007 
  
@@ -575,4 +575,8 @@ Dated: 10 August 2007
  
  </sentence>
 </sentences>
-</case>
+</case>ase>/2007/1183.html 
+ 
+ </sentence>
+</sentences>
+</case>ase>

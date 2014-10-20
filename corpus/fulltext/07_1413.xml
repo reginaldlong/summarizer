@@ -3,13 +3,13 @@
 <name>NBKM v Minister for Immigration and Citizenship [2007] FCA 1413 (10 September 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1413.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for a protection visa</catchphrase>
-<catchphrase "id=c1">tribunal's decision set aside</catchphrase>
-<catchphrase "id=c2">matter remitted to tribunal</catchphrase>
-<catchphrase "id=c3">no second hearing</catchphrase>
-<catchphrase "id=c4">whether tribunal was obliged to conduct a second hearing</catchphrase>
-<catchphrase "id=c5">whether issues in relation to the decision under review had changed</catchphrase>
-<catchphrase "id=c6">migration</catchphrase>
+<catchphrase >application for a protection visa</catchphrase>
+<catchphrase >tribunal's decision set aside</catchphrase>
+<catchphrase >matter remitted to tribunal</catchphrase>
+<catchphrase >no second hearing</catchphrase>
+<catchphrase >whether tribunal was obliged to conduct a second hearing</catchphrase>
+<catchphrase >whether issues in relation to the decision under review had changed</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -62,9 +62,9 @@
 <sentence id="s39">The Member may do one or more of the following:
  
  
- &#8226; seek further information
- &#8226; seek your comments on particular information
- &#8226; invite you to a hearing 
+ #8226; seek further information
+ #8226; seek your comments on particular information
+ #8226; invite you to a hearing 
  
  
  before making a decision on your case.</sentence>
@@ -102,7 +102,7 @@ The Federal Magistrate found that:
 <sentence id="s59">The Tribunal was entitled to take into account information of claims that had been made to the earlier Tribunal at the hearing.</sentence>
 <sentence id="s60">
 
-16 The Federal Magistrate referred to the following observations of the Full Federal Court in SZEPZ v Minister for Immigration &amp; Multicultural Affairs [2006] FCAFC 107 at [39] ( SZEPZ ) in support of his finding that there was no obligation on the Tribunal to hold a second hearing:
+16 The Federal Magistrate referred to the following observations of the Full Federal Court in SZEPZ v Minister for Immigration amp; Multicultural Affairs [2006] FCAFC 107 at [39] ( SZEPZ ) in support of his finding that there was no obligation on the Tribunal to hold a second hearing:
  
  Until the Tribunal has made a valid decision on the review that has been initiated by a valid application under s 414 , it has a duty to perform that particular review.</sentence>
 <sentence id="s61">An invalid decision by the Tribunal is no decision at all but it does not follow that all steps and procedures taken in arriving at that invalid decision are themselves invalid.</sentence>
@@ -218,4 +218,8 @@ Dated: 10 September 2007
  
  </sentence>
 </sentences>
-</case>
+</case>ase>413.html 
+ 
+ </sentence>
+</sentences>
+</case>ase>

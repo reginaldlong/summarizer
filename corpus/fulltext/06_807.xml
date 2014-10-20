@@ -3,10 +3,10 @@
 <name>MZWPN v Minister for Immigration and Multicultural Affairs [2006] FCA 807 (28 June 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/807.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appellant failed to appear before tribunal</catchphrase>
-<catchphrase "id=c1">tribunal held hearing in appellant's absence</catchphrase>
-<catchphrase "id=c2">no breach of procedural fairness</catchphrase>
-<catchphrase "id=c3">migration</catchphrase>
+<catchphrase >appellant failed to appear before tribunal</catchphrase>
+<catchphrase >tribunal held hearing in appellant's absence</catchphrase>
+<catchphrase >no breach of procedural fairness</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -85,7 +85,7 @@ No medical certificate or affidavit was enclosed with this letter.</sentence>
 <sentence id="s55">The first respondent argued that there is no breach of natural justice where the Tribunal proceeds in such circumstances.</sentence>
 <sentence id="s56">The first respondent also referred to Minister for Immigration and Multicultural Affairs v Lay Lat [2006] FCAFC 61 at [66] and SZCIJ v Minister for Immigration and Multicultural Affairs [2006] FCAFC 62 at [7] - [8] .</sentence>
 <sentence id="s57">12 I accept the first respondent's submissions.</sentence>
-<sentence id="s58">In S58 of 2003 v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2004] FCAFC 283 (" S58 ") a Full Court of this Court considered a similar claim.</sentence>
+<sentence id="s58">In S58 of 2003 v Minister for Immigration amp; Multicultural amp; Indigenous Affairs [2004] FCAFC 283 (" S58 ") a Full Court of this Court considered a similar claim.</sentence>
 <sentence id="s59">In S58 , as in the present case, the Tribunal had informed the visa applicant that it could not make a favourable decision solely on the basis of material then before it.</sentence>
 <sentence id="s60">The visa applicant's representative had then informed the Tribunal that the applicant would not appear at the hearing and the Tribunal should proceed "on the papers".</sentence>
 <sentence id="s61">The Tribunal proceeded with the hearing in the applicant's absence.</sentence>
@@ -133,4 +133,6 @@ Dated: 28 June 2006
  
  </sentence>
 </sentences>
-</case>
+</case>e>ence>
+</sentences>
+</case>e>

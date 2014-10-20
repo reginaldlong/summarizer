@@ -3,10 +3,10 @@
 <name>Australian Competition and Consumer Commission v Australian Securities and Investment Commission [2007] FCA 696 (8 May 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/696.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">consideration of an application for reinstatement</catchphrase>
-<catchphrase "id=c1">reinstatement sought for the purposes of a pending appeal in a proceeding to which the deregistered entity was a party</catchphrase>
-<catchphrase "id=c2">consideration of the standing of the accc in an application pursuant to s 601ah(2) of the corporations act 2001 (cth) and whether, in the circumstances, reinstatement is just.</catchphrase>
-<catchphrase "id=c3">corporations</catchphrase>
+<catchphrase >consideration of an application for reinstatement</catchphrase>
+<catchphrase >reinstatement sought for the purposes of a pending appeal in a proceeding to which the deregistered entity was a party</catchphrase>
+<catchphrase >consideration of the standing of the accc in an application pursuant to s 601ah(2) of the corporations act 2001 (cth) and whether, in the circumstances, reinstatement is just.</catchphrase>
+<catchphrase >corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -53,7 +53,7 @@
  'There is also the particular role and responsibility of the ACCC.</sentence>
 <sentence id="s38">It is not like a commercial corporation which will decide (quite properly) whether or not to commence litigation solely in terms of what will be to the benefit of its own interests.</sentence>
 <sentence id="s39">The ACCC exists to give practical effect to the objective as stated in s 2 [Trade Practices Act] to enhance the welfare of Australians through the promotion of competition and fair trading and provision for consumer protection.</sentence>
-<sentence id="s40">Litigation to enforce the Act is part of the ACCC's raison d'&ecirc;tre.</sentence>
+<sentence id="s40">Litigation to enforce the Act is part of the ACCC's raison d'ecirc;tre.</sentence>
 <sentence id="s41">' 
  
  
@@ -100,4 +100,6 @@ Dated: 8 May 2007
  
  </sentence>
 </sentences>
-</case>
+</case>>tence>
+</sentences>
+</case>>

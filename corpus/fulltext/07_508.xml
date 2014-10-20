@@ -3,10 +3,10 @@
 <name>Australian Securities and Investments Commission v Lee [2007] FCA 508 (11 April 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/508.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">investigation by asic</catchphrase>
-<catchphrase "id=c1">application for orders under s 1323 of the corporations act 2001</catchphrase>
-<catchphrase "id=c2">principles to be applied</catchphrase>
-<catchphrase "id=c3">corporations</catchphrase>
+<catchphrase >investigation by asic</catchphrase>
+<catchphrase >application for orders under s 1323 of the corporations act 2001</catchphrase>
+<catchphrase >principles to be applied</catchphrase>
+<catchphrase >corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -43,7 +43,7 @@
 <sentence id="s29">Myself runs an IT company in Malaysia.</sentence>
 <sentence id="s30">"
  
-4 In due course Mr Lee retained Melbourne solicitors, Baker &amp; McKenzie, to act on his behalf.</sentence>
+4 In due course Mr Lee retained Melbourne solicitors, Baker amp; McKenzie, to act on his behalf.</sentence>
 <sentence id="s31">The solicitors took up with ASIC its investigation into Mr Lee.</sentence>
 <sentence id="s32">In a letter dated 20 December 2006 the solicitors informed ASIC that they would not advise their client "to participate in [ASIC's] investigations in any way unless ASIC [could] confirm in writing that [Mr Lee was] not and [would] not be a subject in any criminal or civil penalty investigation and unless and until [ASIC gave] undertakings to that effect.</sentence>
 <sentence id="s33">" ASIC was not willing to give the undertaking.</sentence>
@@ -120,7 +120,7 @@ J Moore
  Counsel for the First Defendant: J Delany SC
 A Hanak 
  
- Solicitor for the First Defendant: Baker &amp; McKenzie 
+ Solicitor for the First Defendant: Baker amp; McKenzie 
  
  Appearing for the Second Defendant: Praveen Kumar Jugraj (in person) 
  
@@ -136,4 +136,6 @@ A Hanak
  
  </sentence>
 </sentences>
-</case>
+</case>e>ence>
+</sentences>
+</case>e>

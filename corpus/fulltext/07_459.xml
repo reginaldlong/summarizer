@@ -3,10 +3,10 @@
 <name>Wood v ASP Ship Management Pty Ltd [2007] FCA 459 (28 March 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/459.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from a decision of the administrative appeals tribunal</catchphrase>
-<catchphrase "id=c1">calculation of worker's compensation payments</catchphrase>
-<catchphrase "id=c2">whether the tribunal applied proper construction of s 13(6) of the seafarers rehabilitation and compensation act 1992 (cth)</catchphrase>
-<catchphrase "id=c3">administrative law</catchphrase>
+<catchphrase >appeal from a decision of the administrative appeals tribunal</catchphrase>
+<catchphrase >calculation of worker's compensation payments</catchphrase>
+<catchphrase >whether the tribunal applied proper construction of s 13(6) of the seafarers rehabilitation and compensation act 1992 (cth)</catchphrase>
+<catchphrase >administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -150,7 +150,7 @@ Dated: 28 March 2007
  
  Counsel for the Respondent: Mr J Lenczner 
  
- Solicitor for the Respondent: Holman Fenwick &amp; Willan 
+ Solicitor for the Respondent: Holman Fenwick amp; Willan 
  
  Date of Hearing: 19 March 2007 
  
@@ -164,4 +164,6 @@ Dated: 28 March 2007
  
  </sentence>
 </sentences>
-</case>
+</case>>tence>
+</sentences>
+</case>>

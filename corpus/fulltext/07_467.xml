@@ -3,13 +3,13 @@
 <name>ICAP Australia Pty Limited v BGC Partners (Australia) Pty Limited [2007] FCA 467 (29 March 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/467.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">discovery</catchphrase>
-<catchphrase "id=c1">application to vary access regime for discovered documents</catchphrase>
-<catchphrase "id=c2">to whom confidential business documents should be disclosed</catchphrase>
-<catchphrase "id=c3">applicable principles</catchphrase>
-<catchphrase "id=c4">need for procedural fairness</catchphrase>
-<catchphrase "id=c5">in balancing the competing considerations access to individual employee respondents granted to most of the documents subject to the giving of a confidentiality undertaking</catchphrase>
-<catchphrase "id=c6">practice and procedure</catchphrase>
+<catchphrase >discovery</catchphrase>
+<catchphrase >application to vary access regime for discovered documents</catchphrase>
+<catchphrase >to whom confidential business documents should be disclosed</catchphrase>
+<catchphrase >applicable principles</catchphrase>
+<catchphrase >need for procedural fairness</catchphrase>
+<catchphrase >in balancing the competing considerations access to individual employee respondents granted to most of the documents subject to the giving of a confidentiality undertaking</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -42,7 +42,7 @@
 <sentence id="s21">The legal principles 
  
 13 The principles have been applied and explained in a large number of authorities.</sentence>
-<sentence id="s22">They include Mobil Oil of Australia Ltd v Guina Developments Pty Ltd [1996] 2 VR 34, Macquarie Generation v Coal &amp; Allied Industries Ltd [2001] FCA 1349 , C7 Pty Ltd v Foxtel Management Pty Ltd [2002] FCA 1189 and Reebok v SOCOG [2000] NSWSC 295.</sentence>
+<sentence id="s22">They include Mobil Oil of Australia Ltd v Guina Developments Pty Ltd [1996] 2 VR 34, Macquarie Generation v Coal amp; Allied Industries Ltd [2001] FCA 1349 , C7 Pty Ltd v Foxtel Management Pty Ltd [2002] FCA 1189 and Reebok v SOCOG [2000] NSWSC 295.</sentence>
 <sentence id="s23">14 In Mobil Oil at 38, Hayne JA pointed out that ordinarily, the fact that documents are confidential is not a bar to inspection by the other party.</sentence>
 <sentence id="s24">He said, however, that where the parties are trade rivals, different considerations arise.</sentence>
 <sentence id="s25">15 What underlies Hayne JA's analysis is his statement that the principles of a trade rival cannot forget the secret information once it is revealed.</sentence>
@@ -76,9 +76,9 @@
 <sentence id="s51">Also, in December 2006, BGC appears to have made an unsuccessful approach to brokers employed by another competitor.</sentence>
 <sentence id="s52">26 Thus, the substance of ICAP's concerns is that there is a real risk that once the confidential information is revealed to the nominated persons, it would be used to BGC's advantage:
  
-&#8226; to solicit or recruit brokers from ICAP, or at least, to evaluate the time at which approaches may be made;
+#8226; to solicit or recruit brokers from ICAP, or at least, to evaluate the time at which approaches may be made;
  
-&#8226; to assess the performance of ICAP's swaps desk and to assist BGC's strategic business planning.</sentence>
+#8226; to assess the performance of ICAP's swaps desk and to assist BGC's strategic business planning.</sentence>
 <sentence id="s53">27 ICAP points to the fiduciary obligations of the nominated persons to BGC to advance BGC's business interests.</sentence>
 <sentence id="s54">ICAP submits that it is unlikely that the nominated persons could disregard the information once it is revealed to them.</sentence>
 <sentence id="s55">However, ICAP concedes in its evidence that it does not suggest that the nominated persons will consciously misuse the information.</sentence>
@@ -193,4 +193,8 @@ Dated: 29 March 2007
  
  </sentence>
 </sentences>
-</case>
+</case>se>/467.html 
+ 
+ </sentence>
+</sentences>
+</case>se>

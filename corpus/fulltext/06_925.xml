@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <case>
-<name>SBBC v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2006] FCA 925 (25 July 2006)</name>
+<name>SBBC v Minister for Immigration amp; Multicultural amp; Indigenous Affairs [2006] FCA 925 (25 July 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/925.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for permanent protection visa</catchphrase>
-<catchphrase "id=c1">whether failure by tribunal to consider well-founded fear of persecution by reason of the renewed activities of the taliban as non-state agents</catchphrase>
-<catchphrase "id=c2">whether failure to accord procedural fairness</catchphrase>
-<catchphrase "id=c3">migration</catchphrase>
+<catchphrase >application for permanent protection visa</catchphrase>
+<catchphrase >whether failure by tribunal to consider well-founded fear of persecution by reason of the renewed activities of the taliban as non-state agents</catchphrase>
+<catchphrase >whether failure to accord procedural fairness</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -43,7 +43,7 @@
 <sentence id="s26">It was then contended that the Tribunal had failed to apply that measure to his permanent protection visa application, but had erroneously simply had regard to whether, at the time of its decision, the test established by Art 1A(2) was satisfied.</sentence>
 <sentence id="s27">That is, it was claimed, the Tribunal when addressing Art 1C(5) had erred in law.</sentence>
 <sentence id="s28">9 In my judgment, even if it be assumed that the Tribunal simply applied Art 1C(5) as a mirror of the Art 1A(2) test to the applicant's permanent protection visa application, the Tribunal has not committed jurisdictional error.</sentence>
-<sentence id="s29">At present, the authority binding on me is the decision of the Full Court of this Court in NBGM v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2006] FCAFC 60.</sentence>
+<sentence id="s29">At present, the authority binding on me is the decision of the Full Court of this Court in NBGM v Minister for Immigration amp; Multicultural amp; Indigenous Affairs [2006] FCAFC 60.</sentence>
 <sentence id="s30">As the Chief Justice points out at [25], the majority decision in that case required the Tribunal, where (as here) it was said that the relevant circumstances had changed since the grant of a temporary protection visa, to be satisfied in accordance with s 36 of the Act that the applicant for a permanent protection visa at the time of the decision has a well-founded fear of persecution for a Convention reason.</sentence>
 <sentence id="s31">There is no additional element to be applied because of Art 1C(5) in the Convention.</sentence>
 <sentence id="s32">10 Accordingly, even on that assumption, the first basis of jurisdictional error is not made out.</sentence>
@@ -75,7 +75,7 @@ That led the Tribunal to conclude that the circumstances in connection with whic
 <sentence id="s45">It is not necessary to refer further to them.</sentence>
 <sentence id="s46">15 The Tribunal did not, when addressing the other reasons, have regard to the applicant's claimed fear of persecution by reason of the renewed activities of the Taliban, even if (as it found) the Taliban was unlikely to re-assume political power in Afghanistan in the foreseeable future.</sentence>
 <sentence id="s47">That was a claim made by the applicant.</sentence>
-<sentence id="s48">If it were a real possibility that the Taliban might pose a serious threat to the applicant if he were to return to Afghanistan, because the Taliban (on the Tribunal's findings) would be a non-State entity, it would also be necessary for the Tribunal then to address the capacity of the Afghani authorities to protect the applicant and others from the threat of the Taliban: see Minister for Immigration &amp; Multicultural Affairs v Respondents S152/2003 (2004) 205 ALR 487 at [23].</sentence>
+<sentence id="s48">If it were a real possibility that the Taliban might pose a serious threat to the applicant if he were to return to Afghanistan, because the Taliban (on the Tribunal's findings) would be a non-State entity, it would also be necessary for the Tribunal then to address the capacity of the Afghani authorities to protect the applicant and others from the threat of the Taliban: see Minister for Immigration amp; Multicultural Affairs v Respondents S152/2003 (2004) 205 ALR 487 at [23].</sentence>
 <sentence id="s49">The Afghani authorities are obliged to take reasonable measure to protect the lives and safety of its citizens from non-State violence, including by provision of an appropriate criminal law and the provision of a reasonably effective and impartial police force and justice system: per Gleeson CJ, Hayne and Heydon JJ in Respondents S152/2003 at [26].</sentence>
 <sentence id="s50">16 In my view, the Tribunal's failure to address that particular claim of the applicant's is apparent from the part of its reasons for decision to which I have referred.</sentence>
 <sentence id="s51">Immediately preceding the passage quoted, the Tribunal recognised that Taliban remnants are in Afghanistan, and that its activities demonstrate that its power, militarily and politically, is growing.</sentence>
@@ -148,4 +148,6 @@ Dated: 24 July 2006
  
  </sentence>
 </sentences>
-</case>
+</case>case>e>
+</sentences>
+</case>case>

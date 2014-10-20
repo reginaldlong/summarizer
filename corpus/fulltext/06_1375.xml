@@ -3,12 +3,12 @@
 <name>Commissioner of Taxation for the Commonwealth of Australia v Woodside Energy Limited (with Corrigendum dated 20 October 2006) [2006] FCA 1375 (20 October 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1375.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for leave to appeal</catchphrase>
-<catchphrase "id=c1">admission of affidavits of economic and accounting experts</catchphrase>
-<catchphrase "id=c2">whether admitted for purpose of statutory construction and contrary to applicable principles</catchphrase>
-<catchphrase "id=c3">whether decision attended with sufficient doubt to warrant grant of leave</catchphrase>
-<catchphrase "id=c4">whether substantial injustice would result from such admission</catchphrase>
-<catchphrase "id=c5">procedure</catchphrase>
+<catchphrase >application for leave to appeal</catchphrase>
+<catchphrase >admission of affidavits of economic and accounting experts</catchphrase>
+<catchphrase >whether admitted for purpose of statutory construction and contrary to applicable principles</catchphrase>
+<catchphrase >whether decision attended with sufficient doubt to warrant grant of leave</catchphrase>
+<catchphrase >whether substantial injustice would result from such admission</catchphrase>
+<catchphrase >procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -33,10 +33,10 @@
 <sentence id="s17">6 It is common ground that the tests to be applied in determining whether leave to appeal from an interlocutory decision should be granted are broadly two-fold.</sentence>
 <sentence id="s18">First, the Court must be satisfied whether, in all the circumstances, the decision is attended with sufficient doubt to warrant its being reconsidered by the Full Court.</sentence>
 <sentence id="s19">The second is whether substantial injustice would result if leave were refused, supposing the decision to be wrong.</sentence>
-<sentence id="s20">These tests, however, are not isolated from each other and they may bear upon each other and involve a fine balancing of considerations: D&eacute;cor Corporation Pty Ltd v Dart Industries Inc (1991) 33 FCR 397 ( D&eacute;cor ) at 398-399 and the authorities there cited.</sentence>
+<sentence id="s20">These tests, however, are not isolated from each other and they may bear upon each other and involve a fine balancing of considerations: Deacute;cor Corporation Pty Ltd v Dart Industries Inc (1991) 33 FCR 397 ( Deacute;cor ) at 398-399 and the authorities there cited.</sentence>
 <sentence id="s21">They are not to be regarded as rigid rules that operate so as to destroy a court's discretion.</sentence>
-<sentence id="s22">In D&eacute;cor the Full Court (Sheppard, Burchett and Heerey JJ) also recognised that Full Courts have granted leave on the footing that a matter of importance was raised which was appropriate to be determined by a Full Court and that there will continue to be cases raising 'special considerations'.</sentence>
-<sentence id="s23">As expressed by their Honours at 399-400 in D&eacute;cor , the legislature has evinced a policy against the bringing of interlocutory appeals except where the Court, acting judicially, finds reason to grant leave.</sentence>
+<sentence id="s22">In Deacute;cor the Full Court (Sheppard, Burchett and Heerey JJ) also recognised that Full Courts have granted leave on the footing that a matter of importance was raised which was appropriate to be determined by a Full Court and that there will continue to be cases raising 'special considerations'.</sentence>
+<sentence id="s23">As expressed by their Honours at 399-400 in Deacute;cor , the legislature has evinced a policy against the bringing of interlocutory appeals except where the Court, acting judicially, finds reason to grant leave.</sentence>
 <sentence id="s24">The Commissioner places particular reliance on these latter considerations in contentions in support of the motion.</sentence>
 <sentence id="s25">7 The statutory context in which the issues in the action arise is set out in [14]-[17] of the reasons of French J.</sentence>
 <sentence id="s26">It may be summarised as follows.</sentence>
@@ -113,7 +113,7 @@ The description 'deductible expenditure' is defined in s 32 as a reference to th
 <sentence id="s81">Burchett J was considering an application brought by the Registrar of Trade Marks for leave to appeal against a decision of a judge from a decision of a delegate to reject an application by Woolworths Limited to register a certain trade mark.</sentence>
 <sentence id="s82">Burchett J pointed to the fact that the Registrar has a statutory responsibility in relation to the implementation of the Act with respect to the register.</sentence>
 <sentence id="s83">His Honour said that supposing the decision to be wrong, the fact that it would require the performance of the Registrar's duties inappropriately and so as to affect adversely the rights of registered proprietors of marks, rights which the Registrar should protect, was a sufficient basis to allow a reasonably arguable appeal to proceed.</sentence>
-<sentence id="s84">19 It is in respect of these circumstances that the Commissioner places particular reliance on what was said in D&eacute;cor at [399] as to the existence of cases raising 'special considerations' such as to move the Court's discretion to grant leave.</sentence>
+<sentence id="s84">19 It is in respect of these circumstances that the Commissioner places particular reliance on what was said in Deacute;cor at [399] as to the existence of cases raising 'special considerations' such as to move the Court's discretion to grant leave.</sentence>
 <sentence id="s85">
  REASONING 
  
@@ -291,4 +291,8 @@ Dated: 20 October 2006
  
  </sentence>
 </sentences>
-</case>
+</case>case> 
+ 
+ </sentence>
+</sentences>
+</case>case>

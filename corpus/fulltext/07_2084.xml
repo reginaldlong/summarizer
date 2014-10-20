@@ -3,15 +3,15 @@
 <name>Australian Securities and Investments Commission v Centro Financial Synergy Group [2007] FCA 2084 (17 December 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/2084.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">winding up on application by asic</catchphrase>
-<catchphrase "id=c1">just and equitable grounds</catchphrase>
-<catchphrase "id=c2">s 461(1)(k) corporations act 2001 (cth)</catchphrase>
-<catchphrase "id=c3">sole director ill</catchphrase>
-<catchphrase "id=c4">company no longer carrying on any business</catchphrase>
-<catchphrase "id=c5">claims by investors made to company ignored</catchphrase>
-<catchphrase "id=c6">no effective management</catchphrase>
-<catchphrase "id=c7">other failures by company to comply with statutory requirements</catchphrase>
-<catchphrase "id=c8">corporations</catchphrase>
+<catchphrase >winding up on application by asic</catchphrase>
+<catchphrase >just and equitable grounds</catchphrase>
+<catchphrase >s 461(1)(k) corporations act 2001 (cth)</catchphrase>
+<catchphrase >sole director ill</catchphrase>
+<catchphrase >company no longer carrying on any business</catchphrase>
+<catchphrase >claims by investors made to company ignored</catchphrase>
+<catchphrase >no effective management</catchphrase>
+<catchphrase >other failures by company to comply with statutory requirements</catchphrase>
+<catchphrase >corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -54,13 +54,13 @@
 8 The plaintiff relies on the following affidavits:
  
  
- &#8226; Nikola Petrovski sworn 17 January 2007;
- &#8226; Shona Anne Rogers sworn 2 February 2007;
- &#8226; Jeni Maree Hall sworn 2 February 2007;
- &#8226; Davide Scalzi sworn 7 February 2007;
- &#8226; Pamela Nancy Stewart sworn 30 July 2007;
- &#8226; James Stewart Natt sworn 27 July 2007; and
- &#8226; Varna Elen Roddan sworn 8 August 2007.</sentence>
+ #8226; Nikola Petrovski sworn 17 January 2007;
+ #8226; Shona Anne Rogers sworn 2 February 2007;
+ #8226; Jeni Maree Hall sworn 2 February 2007;
+ #8226; Davide Scalzi sworn 7 February 2007;
+ #8226; Pamela Nancy Stewart sworn 30 July 2007;
+ #8226; James Stewart Natt sworn 27 July 2007; and
+ #8226; Varna Elen Roddan sworn 8 August 2007.</sentence>
 <sentence id="s18">
  
 
@@ -149,7 +149,7 @@ Dated: 21 December 2007
 
  Counsel for the Plaintiff: Mr C Slater 
  
- Solicitor for the Plaintiff: Australian Securities &amp; Investment Commission 
+ Solicitor for the Plaintiff: Australian Securities amp; Investment Commission 
  
  Date of Hearing: 17 December 2007 
  
@@ -166,4 +166,10 @@ Dated: 21 December 2007
  
  </sentence>
 </sentences>
+</case>
+</case>FCA/2007/2084.html 
+ 
+ </sentence>
+</sentences>
+</case>
 </case>

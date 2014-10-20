@@ -3,10 +3,10 @@
 <name>Jansen v Secretary, Department of Employment and Workplace Relations [2007] FCA 1358 (7 September 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1358.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application to extend time for appeal from administrative appeals tribunal</catchphrase>
-<catchphrase "id=c1">applicant suffered anxiety/depression and self-medicated with alcohol and occasional anti-depressants</catchphrase>
-<catchphrase "id=c2">applicant denied disability support pension under s 94 and schedule 1b of the social security act 1991 (cth) because of applicant's refusal to adopt recommended treatments</catchphrase>
-<catchphrase "id=c3">social security</catchphrase>
+<catchphrase >application to extend time for appeal from administrative appeals tribunal</catchphrase>
+<catchphrase >applicant suffered anxiety/depression and self-medicated with alcohol and occasional anti-depressants</catchphrase>
+<catchphrase >applicant denied disability support pension under s 94 and schedule 1b of the social security act 1991 (cth) because of applicant's refusal to adopt recommended treatments</catchphrase>
+<catchphrase >social security</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -81,9 +81,9 @@
  
  
  
- &#8226; what treatment or rehabilitation has occurred; 
- &#8226; whether treatment is still continuing or is planned in the near future; 
- &#8226; whether any further reasonable medical treatment is likely to lead to significant functional improvement within the next 2 years.</sentence>
+ #8226; what treatment or rehabilitation has occurred; 
+ #8226; whether treatment is still continuing or is planned in the near future; 
+ #8226; whether any further reasonable medical treatment is likely to lead to significant functional improvement within the next 2 years.</sentence>
 <sentence id="s41">
  
  
@@ -92,8 +92,8 @@
  
  
  
- &#8226; treatment that is feasible and accessible ie, available locally at a reasonable cost; 
- &#8226; where a substantial improvement can reliably be expected and where the treatment or procedure is of a type regularly undertaken or performed, with a high success rate and low risk to the patient.</sentence>
+ #8226; treatment that is feasible and accessible ie, available locally at a reasonable cost; 
+ #8226; where a substantial improvement can reliably be expected and where the treatment or procedure is of a type regularly undertaken or performed, with a high success rate and low risk to the patient.</sentence>
 <sentence id="s42">
  
  
@@ -108,9 +108,9 @@
  
  
  
- &#8226; evaluate and document the probable outcome of treatment and the main risks and or side effects of the treatment; and 
- &#8226; indicate why this treatment is reasonable; and 
- &#8226; note the reasons why the person has chosen not to have treatment.</sentence>
+ #8226; evaluate and document the probable outcome of treatment and the main risks and or side effects of the treatment; and 
+ #8226; indicate why this treatment is reasonable; and 
+ #8226; note the reasons why the person has chosen not to have treatment.</sentence>
 <sentence id="s45">" 
  
 
@@ -307,4 +307,7 @@ Dated: 7 September 2007
  
  </sentence>
 </sentences>
+</case>
+</case></sentences>
+</case>
 </case>

@@ -3,9 +3,9 @@
 <name>Nunagin Holdings Pty Ltd v Evertop Investments Pty Ltd [2007] FCA 1165 (6 August 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1165.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">interlocutory proceeding</catchphrase>
-<catchphrase "id=c1">whether costs should be payable forthwith</catchphrase>
-<catchphrase "id=c2">costs</catchphrase>
+<catchphrase >interlocutory proceeding</catchphrase>
+<catchphrase >whether costs should be payable forthwith</catchphrase>
+<catchphrase >costs</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -109,7 +109,7 @@ Dated: 6 August 2007
  
  Counsel for the Third Respondents in WAD 309-310 of 2006: L Hager 
  
- Solicitor for the Third Respondents in WAD 309-310 of 2006: Arthur Metaxas &amp; Co 
+ Solicitor for the Third Respondents in WAD 309-310 of 2006: Arthur Metaxas amp; Co 
  
  Date of Hearing: 1 August 2007 
  
@@ -123,4 +123,5 @@ Dated: 6 August 2007
  
  </sentence>
 </sentences>
-</case>
+</case>></sentences>
+</case>>

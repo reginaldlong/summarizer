@@ -3,12 +3,12 @@
 <name>Paras v Public Service Body Head of the Department of Infrastructure (No 3) [2006] FCA 745 (15 June 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/745.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">costs of notice of motion</catchphrase>
-<catchphrase "id=c1">meaning of 'proceeding' under s 824 of workplace relations act 1996 (cth)</catchphrase>
-<catchphrase "id=c2">whether notice of motion instituted vexatiously or without reasonable cause</catchphrase>
-<catchphrase "id=c3">whether notice of motion an unreasonable act or omission</catchphrase>
-<catchphrase "id=c4">application for costs refused</catchphrase>
-<catchphrase "id=c5">workplace relations</catchphrase>
+<catchphrase >costs of notice of motion</catchphrase>
+<catchphrase >meaning of 'proceeding' under s 824 of workplace relations act 1996 (cth)</catchphrase>
+<catchphrase >whether notice of motion instituted vexatiously or without reasonable cause</catchphrase>
+<catchphrase >whether notice of motion an unreasonable act or omission</catchphrase>
+<catchphrase >application for costs refused</catchphrase>
+<catchphrase >workplace relations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -53,7 +53,7 @@
 <sentence id="s21">9 In my opinion, these submissions do not accord with the authorities.</sentence>
 <sentence id="s22">10 In Shackley v Australian Croatian Club Ltd (1996) 141 ALR 736 (' Shackley' ), a decision of the Full Bench of the Industrial Relations Court of Australia, Wilcox CJ held that the expression 'proceeding in a matter' in s 347(1) of the Industrial Relations Act 1988 (Cth) included a subsidiary application made in the course of the principal action: at 744.</sentence>
 <sentence id="s23">In the course of his reasons for decision, Wilcox CJ disagreed with the view expressed by Gray J in Andrews v Uniting Church in Australia Frontier Services (t/a Old Timers) (1995) 60 IR 437 (' Andrews ') at 441-442 that interlocutory motions ought not to be regarded as proceedings for the purposes of s 347.</sentence>
-<sentence id="s24">Wilcox CJ preferred the view expressed by Northrop J in Viner (Minister of State for Industrial Relations) v Australian Building Construction Employees' &amp; Builders Labourers' Federation (1981) 38 ALR 550 at 553 that 'proceeding' encompasses 'a step in the proceeding as well as the action itself'.</sentence>
+<sentence id="s24">Wilcox CJ preferred the view expressed by Northrop J in Viner (Minister of State for Industrial Relations) v Australian Building Construction Employees' amp; Builders Labourers' Federation (1981) 38 ALR 550 at 553 that 'proceeding' encompasses 'a step in the proceeding as well as the action itself'.</sentence>
 <sentence id="s25">Von Doussa J agreed with Wilcox CJ.</sentence>
 <sentence id="s26">The other member of the Full Bench, North J, did not express any view on the question whether the Court has power under s 347 to make orders for costs in interlocutory applications which are brought vexatiously or without reasonable cause: at 750.</sentence>
 <sentence id="s27">11 In Commonwealth v Construction, Forestry, Mining and Energy Union [2003] FCAFC 115 ; (2003) 129 FCR 271 (' CFMEU '), the Full Court (Black CJ, Tamberlin and Sundberg JJ) followed Shackley .</sentence>
@@ -110,7 +110,7 @@ This simply amounts to a finding that, on the facts, costs should not be ordered
 <sentence id="s66">Thus, the costs order sought by the applicant is only available if the applicant satisfies me that the notice of motion for discharge or variation was instituted vexatiously or without reasonable cause, or that the pursuit of that application by the respondents involved unreasonable acts or omissions that caused the applicant to incur costs.</sentence>
 <sentence id="s67">20 The applicant contended that the discharge application was bound to fail.</sentence>
 <sentence id="s68">It was submitted that the respondents had no prospects of establishing the exceptional circumstances required by the authorities and that, accordingly, the notice of motion was instituted without reasonable cause.</sentence>
-<sentence id="s69">The applicant also pointed out that the respondents had placed heavy but misguided reliance upon the decisions in Tenth Vandy Pty Ltd v Natwest Markets Australia Pty Ltd [2006] VSC 170 and Nominal Defendant v Manning [2000] NSWCA 80 ; (2000) 50 NSWLR 139, and did not address themselves to the relevant authorities, which included Adam P Brown Male Fashions Pty Ltd v Philip Morris Inc [1981] HCA 39 ; (1981) 148 CLR 170 at 178, Chanel Ltd v FW Woolworth &amp; Co Ltd [1981] 1 All ER 745 at 751 and Dudzinski v Centrelink [2003] FCA 308 at [11] .</sentence>
+<sentence id="s69">The applicant also pointed out that the respondents had placed heavy but misguided reliance upon the decisions in Tenth Vandy Pty Ltd v Natwest Markets Australia Pty Ltd [2006] VSC 170 and Nominal Defendant v Manning [2000] NSWCA 80 ; (2000) 50 NSWLR 139, and did not address themselves to the relevant authorities, which included Adam P Brown Male Fashions Pty Ltd v Philip Morris Inc [1981] HCA 39 ; (1981) 148 CLR 170 at 178, Chanel Ltd v FW Woolworth amp; Co Ltd [1981] 1 All ER 745 at 751 and Dudzinski v Centrelink [2003] FCA 308 at [11] .</sentence>
 <sentence id="s70">21 The respondents submitted that the notice of motion was not unreasonable.</sentence>
 <sentence id="s71">They contended that they considered, bona fide, that the Court had a discretion to reconsider its earlier order to the extent that it was based upon a less than complete appreciation of the facts concerning the breakdown in the relationship between the applicant and her immediate superiors.</sentence>
 <sentence id="s72">Notwithstanding that they consciously determined not to refer to certain facts on the earlier injunction application, they considered that, in their own interests and in accordance with their duty to the Court, they should place those facts before the Court.</sentence>
@@ -131,7 +131,7 @@ Dated: 15 June 2006
 
  Counsel for the Applicant: F O'Brien SC with J Snaden 
  
- Solicitor for the Applicant: Tanya Cirkovic &amp; Associates 
+ Solicitor for the Applicant: Tanya Cirkovic amp; Associates 
  
  Counsel for the Respondents: Dr C Jessup QC with R Attiwill 
  
@@ -151,4 +151,8 @@ Dated: 15 June 2006
  
  </sentence>
 </sentences>
-</case>
+</case>se>ml 
+ 
+ </sentence>
+</sentences>
+</case>se>

@@ -3,11 +3,11 @@
 <name>Conor Medsystems, Inc. v The University of British Columbia (No 2) [2006] FCA 32 (3 February 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/32.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">entitlement</catchphrase>
-<catchphrase "id=c1">joint patentees</catchphrase>
-<catchphrase "id=c2">one patentee not claiming through the inventor</catchphrase>
-<catchphrase "id=c3">validity of grant</catchphrase>
-<catchphrase "id=c4">patents</catchphrase>
+<catchphrase >entitlement</catchphrase>
+<catchphrase >joint patentees</catchphrase>
+<catchphrase >one patentee not claiming through the inventor</catchphrase>
+<catchphrase >validity of grant</catchphrase>
+<catchphrase >patents</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -60,7 +60,7 @@ The question in issue is this: If a patent is granted to several persons, must e
 <sentence id="s21">It sometimes was said that the grant to a person not the inventor but the importer of the invention should be regarded "as a sort of anomalous decision": Marsden v Saville Street Foundry and Engineering Co, Ltd (1878) 3 Ex D 203, 205 per Jessel MR. 
  
 5 Until 1883 a patent could only be granted upon the application of the "true and first inventor".</sentence>
-<sentence id="s22">This was changed by the Patents, Designs, and Trade Marks Act 1883 , 46 &amp; 47 Vict, c 57, ss 4 and 5.</sentence>
+<sentence id="s22">This was changed by the Patents, Designs, and Trade Marks Act 1883 , 46 amp; 47 Vict, c 57, ss 4 and 5.</sentence>
 <sentence id="s23">According to those sections, which appeared in subsequent enactments, any person could make application for a patent (s 4(1)) or two or more persons could make joint application for a patent (s 4(2)).</sentence>
 <sentence id="s24">Moreover, a patent granted to several persons was valid even if only one of them was the "true and first inventor": s 5(2).</sentence>
 <sentence id="s25">Consequently, "a capitalist [could] advance money to a needy inventor and obtain an interest in the patent from the beginning": Frost, Patent Law and Practice , 3 rd ed, vol 1 (1906) 4.</sentence>
@@ -69,7 +69,7 @@ The question in issue is this: If a patent is granted to several persons, must e
 <sentence id="s28">Brice wrote (at 3): "If this section were construed strictly, an importer, merely as such, plainly cannot apply for, and therefore cannot receive a grant of letters patent.</sentence>
 <sentence id="s29">" He suggested ways of getting around the problem.</sentence>
 <sentence id="s30">Some also suggested that s 5(2) had removed the ability of several persons to obtain a grant jointly if any one of them was not the inventor.</sentence>
-<sentence id="s31">7 These doubts were removed by the Patents, Designs, and Trade Marks (Amendment) Act 1885 , 48 &amp; 49 Vict, c 63.</sentence>
+<sentence id="s31">7 These doubts were removed by the Patents, Designs, and Trade Marks (Amendment) Act 1885 , 48 amp; 49 Vict, c 63.</sentence>
 <sentence id="s32">Section 1 provided that the Act was to be construed together with the 1883 Act.</sentence>
 <sentence id="s33">Section 5 provided that: "Whereas doubts have arisen whether under the principal Act a patent may lawfully be granted to several persons jointly, some or one of whom only are or is the true and first inventors or inventor; be it therefore enacted and declared that it has been and is lawful under the principal Act to grant such a patent.</sentence>
 <sentence id="s34">" 
@@ -228,7 +228,7 @@ Be that as it may, as regards the intended effect of cl 15 the Explanatory Memor
 
 14 The application of these principles leads inevitably to the following rules which, I am entitled to assume, were likely known to Mr Higgins.</sentence>
 <sentence id="s105">First, a valid patent can only be granted to the real inventor and if there be more than one inventor it must be granted to all: Thomas v Weeks , 2 Paine 92 (1827); Barrett v Hall , 2 F Cas 914 (1818); Carter v Perry , 8 OG 518 (1875).</sentence>
-<sentence id="s106">Second, in the case of a joint invention, a patent issued to only one of the inventors is void: Ex parte Barsaloux, James and Lyon , 16 OG 233 (1878); American Electrical Novelty &amp; Manufacturing Co v Newgold , 108 F 957 (1901) aff'd 113 F 877 (1902).</sentence>
+<sentence id="s106">Second, in the case of a joint invention, a patent issued to only one of the inventors is void: Ex parte Barsaloux, James and Lyon , 16 OG 233 (1878); American Electrical Novelty amp; Manufacturing Co v Newgold , 108 F 957 (1901) aff'd 113 F 877 (1902).</sentence>
 <sentence id="s107">Third, a patent issued in the names of joint patentees will, unless all of them are the inventors, also be void: Stewart v Tenk , 32 F 665 (1887); Hotchkiss v Greenwood , 12 F Cas 551 (1848); Welsbach Light Co v Cosmopolitan Incandescent Gaslight Co , 100 F 648 (1900).</sentence>
 <sentence id="s108">See also W Robinson, The Law of Patents , vol 1 (1890) 570-573.</sentence>
 <sentence id="s109">15 It might fairly be said, and it often was said, that this last rule had the potential to cause injustice, particularly if there was a bona fide mistake in, say, an applicant incorrectly nominating himself as the sole inventor or inadvertently including another as one of the inventors.</sentence>
@@ -313,4 +313,6 @@ C Dimitriadis
  
  </sentence>
 </sentences>
-</case>
+</case>se></sentence>
+</sentences>
+</case>se>

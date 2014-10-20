@@ -3,15 +3,15 @@
 <name>Macchia v Nilant (Trustee) [2006] FCA 213 (13 March 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/213.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">summary dismissal</catchphrase>
-<catchphrase "id=c1">anshun estoppel</catchphrase>
-<catchphrase "id=c2">special circumstances</catchphrase>
-<catchphrase "id=c3">abuse of process</catchphrase>
-<catchphrase "id=c4">relitigation of issues</catchphrase>
-<catchphrase "id=c5">statements of affairs</catchphrase>
-<catchphrase "id=c6">whether to be treated as having been filed at a date earlier than it was actually filed</catchphrase>
-<catchphrase "id=c7">practice and procedure</catchphrase>
-<catchphrase "id=c8">bankruptcy</catchphrase>
+<catchphrase >summary dismissal</catchphrase>
+<catchphrase >anshun estoppel</catchphrase>
+<catchphrase >special circumstances</catchphrase>
+<catchphrase >abuse of process</catchphrase>
+<catchphrase >relitigation of issues</catchphrase>
+<catchphrase >statements of affairs</catchphrase>
+<catchphrase >whether to be treated as having been filed at a date earlier than it was actually filed</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
+<catchphrase >bankruptcy</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -316,7 +316,7 @@
 <sentence id="s149">The relevant paragraphs read as follows:
  
  '5.</sentence>
-<sentence id="s150">On 7 October 1994 [sic] I delivered to Charters &amp; Co all documentation requested in the letter of 2 October 1991.</sentence>
+<sentence id="s150">On 7 October 1994 [sic] I delivered to Charters amp; Co all documentation requested in the letter of 2 October 1991.</sentence>
 <sentence id="s151">I delivered this documentation by hand.</sentence>
 <sentence id="s152">Included in this documentation was another completed statement of affairs.</sentence>
 <sentence id="s153">
@@ -324,7 +324,7 @@
  
  
  6.</sentence>
-<sentence id="s154">I remember the matter clearly as I can recall upon attending Charters &amp; Co Mr Richard Catcho [sic] whom I was dealing with at Charters &amp; Co, was outside on the street.</sentence>
+<sentence id="s154">I remember the matter clearly as I can recall upon attending Charters amp; Co Mr Richard Catcho [sic] whom I was dealing with at Charters amp; Co, was outside on the street.</sentence>
 <sentence id="s155">He was talking to an older gentleman to whom I was introduced by Mr Catcho [sic] as being Mr Richard Catcho's [sic] father.</sentence>
 <sentence id="s156">I handed him all the documents which included my statement of affairs as he said there was no need to go upstairs to his office.</sentence>
 <sentence id="s157">This was done on 7 October 1991.</sentence>
@@ -568,4 +568,8 @@ Dated: 13 March 2006
  
  </sentence>
 </sentences>
-</case>
+</case>se>s/cth/FCA/2006/213.html 
+ 
+ </sentence>
+</sentences>
+</case>se>

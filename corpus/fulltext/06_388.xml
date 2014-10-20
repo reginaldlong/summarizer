@@ -3,20 +3,20 @@
 <name>Australian Securities and Investments Commission v Beekink (with Corrigendum dated 11 April 2006) [2006] FCA 388 (7 April 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/388.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">pecuniary penalties</catchphrase>
-<catchphrase "id=c1">managed investment schemes</catchphrase>
-<catchphrase "id=c2">failure of directors to carry out duties</catchphrase>
-<catchphrase "id=c3">wrongful granting of authority to act by one director</catchphrase>
-<catchphrase "id=c4">reliance by two other directors upon the third director</catchphrase>
-<catchphrase "id=c5">late admissions of breaches</catchphrase>
-<catchphrase "id=c6">breaches serious</catchphrase>
-<catchphrase "id=c7">remorse and contrition</catchphrase>
-<catchphrase "id=c8">restitution to members suffering loss</catchphrase>
-<catchphrase "id=c9">professional impacts of proposed penalties</catchphrase>
-<catchphrase "id=c10">unblemished prior professional records</catchphrase>
-<catchphrase "id=c11">whether disqualification order appropriate for director principally responsible</catchphrase>
-<catchphrase "id=c12">quantum of pecuniary penalties for all three directors</catchphrase>
-<catchphrase "id=c13">corporations law</catchphrase>
+<catchphrase >pecuniary penalties</catchphrase>
+<catchphrase >managed investment schemes</catchphrase>
+<catchphrase >failure of directors to carry out duties</catchphrase>
+<catchphrase >wrongful granting of authority to act by one director</catchphrase>
+<catchphrase >reliance by two other directors upon the third director</catchphrase>
+<catchphrase >late admissions of breaches</catchphrase>
+<catchphrase >breaches serious</catchphrase>
+<catchphrase >remorse and contrition</catchphrase>
+<catchphrase >restitution to members suffering loss</catchphrase>
+<catchphrase >professional impacts of proposed penalties</catchphrase>
+<catchphrase >unblemished prior professional records</catchphrase>
+<catchphrase >whether disqualification order appropriate for director principally responsible</catchphrase>
+<catchphrase >quantum of pecuniary penalties for all three directors</catchphrase>
+<catchphrase >corporations law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -325,7 +325,7 @@ Also see [48] of his Honour's reasons.</sentence>
 <sentence id="s139">53 With respect to the third contravention it is accepted that AMF had a duty to take care with respect to the accuracy of statements in the second part prospectus and that the defendants, as directors of AMF, had a duty to take reasonable steps to ensure that its duty was fulfilled.</sentence>
 <sentence id="s140">54 It is submitted, and I accept, that the second and third contraventions overlap and cover substantially the same ground.</sentence>
 <sentence id="s141">55 It is further submitted for the defendants that it is not part of the plaintiff's pleaded case, nor part of the agreed facts, that the conduct of the defendants caused any loss.</sentence>
-<sentence id="s142">56 It is said it is significant that this is not a case where the corporate structure was used to the financial detriment of investors, shareholders, creditors and persons dealing with a company: cf Re Magna Alloys &amp; Research Pty Ltd (1975) 1 ACLR 203 at 205.</sentence>
+<sentence id="s142">56 It is said it is significant that this is not a case where the corporate structure was used to the financial detriment of investors, shareholders, creditors and persons dealing with a company: cf Re Magna Alloys amp; Research Pty Ltd (1975) 1 ACLR 203 at 205.</sentence>
 <sentence id="s143">57 Further, attention is directed to the fact that the involvement of the defendants in AMF was of a very short duration.</sentence>
 <sentence id="s144">The extent to which participants in the relevant transactions suffered loss, they will now recover all of their capital.</sentence>
 <sentence id="s145">58 Further, it is said there is nothing to suggest the defendants' contraventions were caused by any lack of competence on their part.</sentence>
@@ -378,11 +378,11 @@ Also see [48] of his Honour's reasons.</sentence>
  '(ix) Factors leading to the order of a penalty in the range of $20,000-$40,000 included: 
  
  
- &#8226; defendant was aware of impropriety of actions; 
- &#8226; no intention to deprive company permanently of funds; 
- &#8226; amounts in question not large; 
- &#8226; no deliberate falsification of accounts; 
- &#8226; cases classed as being serious misconduct, but not worst cases.</sentence>
+ #8226; defendant was aware of impropriety of actions; 
+ #8226; no intention to deprive company permanently of funds; 
+ #8226; amounts in question not large; 
+ #8226; no deliberate falsification of accounts; 
+ #8226; cases classed as being serious misconduct, but not worst cases.</sentence>
 <sentence id="s180">
  Re Tasmanian Spastics Association [; Australian Securities Commission v Nandan (1997) 23 ACSR 743] at 752; Australian Securities Commission v Donovan at 609.</sentence>
 <sentence id="s181">
@@ -392,13 +392,13 @@ Also see [48] of his Honour's reasons.</sentence>
  (x) relevant factors leading to the court to order the lower range penalties in the range of $4000-$5000 included: 
  
  
- &#8226; remorse and contrition shown; 
- &#8226; efforts to repay misappropriated funds; 
- &#8226; acted upon the advice of professionals; 
- &#8226; did not contest the proceedings, or sought to save costs in proceedings; 
- &#8226; tended to not involve dishonesty, but negligence or carelessness; 
- &#8226; previous unblemished character; 
- &#8226; further contraventions unlikely.</sentence>
+ #8226; remorse and contrition shown; 
+ #8226; efforts to repay misappropriated funds; 
+ #8226; acted upon the advice of professionals; 
+ #8226; did not contest the proceedings, or sought to save costs in proceedings; 
+ #8226; tended to not involve dishonesty, but negligence or carelessness; 
+ #8226; previous unblemished character; 
+ #8226; further contraventions unlikely.</sentence>
 <sentence id="s182">
  Australian Securities Commission v Donovan at 609; Australian Securities Commission v Spencer (1997) 25 ACSR 143 at 144-5.</sentence>
 <sentence id="s183">' 
@@ -510,14 +510,14 @@ Also see [48] of his Honour's reasons.</sentence>
 <sentence id="s272">It was held that in making such an order it is necessary to assess: 
  
  
- &#8226; character of the offenders; 
- &#8226; nature of the breaches; 
- &#8226; structure of the companies and the nature of their business; 
- &#8226; interests of shareholders, creditors and employees; 
- &#8226; risks to others from the continuation of offenders as company directors; 
- &#8226; honesty and competence of offenders; 
- &#8226; hardship to offenders and their personal and commercial interests; and 
- &#8226; offenders' appreciation that future breaches could result in future proceedings.</sentence>
+ #8226; character of the offenders; 
+ #8226; nature of the breaches; 
+ #8226; structure of the companies and the nature of their business; 
+ #8226; interests of shareholders, creditors and employees; 
+ #8226; risks to others from the continuation of offenders as company directors; 
+ #8226; honesty and competence of offenders; 
+ #8226; hardship to offenders and their personal and commercial interests; and 
+ #8226; offenders' appreciation that future breaches could result in future proceedings.</sentence>
 <sentence id="s273">
  
  
@@ -532,9 +532,9 @@ Later his Honour continued:
  (xv) The factors leading to the shortest disqualifications, that is disqualifications for up to 3 years were: 
  
  
- &#8226; although the defendants had personally gained from the conduct, they had endeavoured to repay or partially repay the amounts misappropriated; 
- &#8226; the defendants had no immediate or discernible future intention to hold a position as manager of a company; 
- &#8226; in Donovan's case, the respondent had expressed remorse and contrition, acted on advice of professionals and had not contested the proceedings; 
+ #8226; although the defendants had personally gained from the conduct, they had endeavoured to repay or partially repay the amounts misappropriated; 
+ #8226; the defendants had no immediate or discernible future intention to hold a position as manager of a company; 
+ #8226; in Donovan's case, the respondent had expressed remorse and contrition, acted on advice of professionals and had not contested the proceedings; 
  
  
  Australian Securities Commission v Donovan ; Re Tasmanian Spastics Association .</sentence>
@@ -633,5 +633,13 @@ Dated: 7 April 2006
  URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/388.html 
  
  </sentence>
+</sentences>
+</case>ce>
+</sentences>
+</case>lii.edu.au/au/cases/cth/FCA/2006/388.html 
+ 
+ </sentence>
+</sentences>
+</case>ce>
 </sentences>
 </case>

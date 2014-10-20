@@ -3,19 +3,19 @@
 <name>United Firefighters' Union of Australia v Country Fire Authority [2007] FCA 853 (1 June 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/853.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">award</catchphrase>
-<catchphrase "id=c1">certified agreement</catchphrase>
-<catchphrase "id=c2">interpretation</catchphrase>
-<catchphrase "id=c3">whether appointment of person employed as instructor to rank of leading firefighter was in breach of term of award or certified agreement</catchphrase>
-<catchphrase "id=c4">power to appoint found in state act</catchphrase>
-<catchphrase "id=c5">whether award or certified agreement restricted or regulated that power</catchphrase>
-<catchphrase "id=c6">whether specification of a period of "service" in definition of classification related only to service with particular employer, or with employer bound by award</catchphrase>
-<catchphrase "id=c7">whether definition prohibited appointment of person without specified length of service to classification</catchphrase>
-<catchphrase "id=c8">whether matrix of facts surrounding making of award and certified agreement, or custom and practice, gave "service" a meaning other than its ordinary meaning</catchphrase>
-<catchphrase "id=c9">whether act done in contravention of term of award or certified agreement void or ineffective</catchphrase>
-<catchphrase "id=c10">" service"</catchphrase>
-<catchphrase "id=c11">industrial relations</catchphrase>
-<catchphrase "id=c12">words and phrases</catchphrase>
+<catchphrase >award</catchphrase>
+<catchphrase >certified agreement</catchphrase>
+<catchphrase >interpretation</catchphrase>
+<catchphrase >whether appointment of person employed as instructor to rank of leading firefighter was in breach of term of award or certified agreement</catchphrase>
+<catchphrase >power to appoint found in state act</catchphrase>
+<catchphrase >whether award or certified agreement restricted or regulated that power</catchphrase>
+<catchphrase >whether specification of a period of "service" in definition of classification related only to service with particular employer, or with employer bound by award</catchphrase>
+<catchphrase >whether definition prohibited appointment of person without specified length of service to classification</catchphrase>
+<catchphrase >whether matrix of facts surrounding making of award and certified agreement, or custom and practice, gave "service" a meaning other than its ordinary meaning</catchphrase>
+<catchphrase >whether act done in contravention of term of award or certified agreement void or ineffective</catchphrase>
+<catchphrase >" service"</catchphrase>
+<catchphrase >industrial relations</catchphrase>
+<catchphrase >words and phrases</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -142,19 +142,19 @@ Section 178(4) provided for the maximum amount of the penalty.</sentence>
  
  
  
- &#8226; Attendance at courses conducted both internally and externally; 
+ #8226; Attendance at courses conducted both internally and externally; 
  
  
  
  
  
- &#8226; Transfer and/or promotion to a vacant position; and 
+ #8226; Transfer and/or promotion to a vacant position; and 
  
  
  
  
  
- &#8226; Any other related matter.</sentence>
+ #8226; Any other related matter.</sentence>
 <sentence id="s43">
  
  
@@ -311,8 +311,8 @@ Strangely, provisions very similar to those in cl 17 of the Certified Agreement 
  In cases where currently paid firefighters are not available and lateral entry is to be sought by CFA no person shall be accepted for lateral entry if their service as a paid career firefighter or Fire officer has been broken with any period exceeding.</sentence>
 <sentence id="s71">
  
- &#8226; Leading Firefighter 24 months 
- &#8226; Fire Officer 12 months 
+ #8226; Leading Firefighter 24 months 
+ #8226; Fire Officer 12 months 
  
  Under special circumstances where the above cannot be met then the CFA will consult with the UFU prior to any employment or offer of employment.</sentence>
 <sentence id="s72">
@@ -609,7 +609,7 @@ Strangely, provisions very similar to those in cl 17 of the Certified Agreement 
 <sentence id="s187">Nothing about the nature of firefighting in general, or firefighting as an employee of the first respondent, provides a context that would enable the drawing of a line somewhere within the range of possible restricted meanings to be given to the word "service" in cl 2.9 of Pt 2 of the Award.</sentence>
 <sentence id="s188">Great caution must be exercised in attempting to rely upon the conduct of parties to an award or agreement as an aid in the interpretation of that award or agreement.</sentence>
 <sentence id="s189">Plainly, conduct subsequent to the making of an award or agreement is inadmissible as an aid to interpretation.</sentence>
-<sentence id="s190">See Seamen's Union of Australia v Adelaide Steamship Co Ltd (1976) 46 FLR 444 at 445 and Printing &amp; Kindred Industries Union &amp; Anor v Davies Bros Ltd (1986) 18 IR 444 at 452.</sentence>
+<sentence id="s190">See Seamen's Union of Australia v Adelaide Steamship Co Ltd (1976) 46 FLR 444 at 445 and Printing amp; Kindred Industries Union amp; Anor v Davies Bros Ltd (1986) 18 IR 444 at 452.</sentence>
 <sentence id="s191">Only if it can be shown that there is a history of the use of a particular term with a particular meaning, sufficient to demonstrate a common understanding between or among the parties to an award or agreement that the term has that meaning, is there any possibility that the conduct of the parties can be relied on.</sentence>
 <sentence id="s192">The evidence in the present case goes nowhere near establishing such a common understanding.</sentence>
 <sentence id="s193">It would be necessary to show that the word "service" had been used in the same context in a previous Award or agreement, now superseded by the Award, and for there to be clear evidence that both the applicant and the first respondent understood the word to have a particular restricted meaning in that context.</sentence>
@@ -654,7 +654,7 @@ Dated: 1 June 2007
 
  Counsel for the applicant: P Rozen 
  
- Solicitor for the applicant: Slater &amp; Gordon 
+ Solicitor for the applicant: Slater amp; Gordon 
  
  Counsel for the first and second respondents: C O'Grady 
  
@@ -672,4 +672,10 @@ Dated: 1 June 2007
  
  </sentence>
 </sentences>
+</case>
+</case>www.austlii.edu.au/au/cases/cth/FCA/2007/853.html 
+ 
+ </sentence>
+</sentences>
+</case>
 </case>

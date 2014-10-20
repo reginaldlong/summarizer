@@ -3,19 +3,19 @@
 <name>Australian Competition and Consumer Commission v Skippy [2006] FCA 1343 (18 October 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1343.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">prosecution</catchphrase>
-<catchphrase "id=c1">consumer protection</catchphrase>
-<catchphrase "id=c2">offences relating to product safety and product information</catchphrase>
-<catchphrase "id=c3">supply of baby walkers and cots</catchphrase>
-<catchphrase "id=c4">non compliance of requisite product safety standard</catchphrase>
-<catchphrase "id=c5">misrepresentation that the defendant satisfied requisite standards</catchphrase>
-<catchphrase "id=c6">misrepresentation that there was no right to refund</catchphrase>
-<catchphrase "id=c7">appropriate penalties to impose</catchphrase>
-<catchphrase "id=c8">matters to which court to have regard when passing sentence</catchphrase>
-<catchphrase "id=c9">financial circumstances of defendant</catchphrase>
-<catchphrase "id=c10">application of deterrence principle</catchphrase>
-<catchphrase "id=c11">trade practices</catchphrase>
-<catchphrase "id=c12">criminal law</catchphrase>
+<catchphrase >prosecution</catchphrase>
+<catchphrase >consumer protection</catchphrase>
+<catchphrase >offences relating to product safety and product information</catchphrase>
+<catchphrase >supply of baby walkers and cots</catchphrase>
+<catchphrase >non compliance of requisite product safety standard</catchphrase>
+<catchphrase >misrepresentation that the defendant satisfied requisite standards</catchphrase>
+<catchphrase >misrepresentation that there was no right to refund</catchphrase>
+<catchphrase >appropriate penalties to impose</catchphrase>
+<catchphrase >matters to which court to have regard when passing sentence</catchphrase>
+<catchphrase >financial circumstances of defendant</catchphrase>
+<catchphrase >application of deterrence principle</catchphrase>
+<catchphrase >trade practices</catchphrase>
+<catchphrase >criminal law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -34,13 +34,13 @@
 <sentence id="s11">I directed that pleas of not guilty be entered in respect of each of the charges and the hearing proceeded.</sentence>
 <sentence id="s12">8 The prosecutor relied on: 
  
- &#8226; A Statement of Agreed Facts filed on 27 June 2006;
- &#8226; An affidavit of Dianna Kinski dated 5 July 2006;
- &#8226; A second affidavit of Dianna Kinski dated 5 July 2006;
- &#8226; An affidavit of Samantha Louise Ellis dated 29 June 2006;
- &#8226; An affidavit of Lee Bowkett dated 26 June 2006;
- &#8226; A further affidavit of Dianna Kinski dated 27 September 2006; and
- &#8226; An affidavit of Phillip Hunter dated 27 September 2006.</sentence>
+ #8226; A Statement of Agreed Facts filed on 27 June 2006;
+ #8226; An affidavit of Dianna Kinski dated 5 July 2006;
+ #8226; A second affidavit of Dianna Kinski dated 5 July 2006;
+ #8226; An affidavit of Samantha Louise Ellis dated 29 June 2006;
+ #8226; An affidavit of Lee Bowkett dated 26 June 2006;
+ #8226; A further affidavit of Dianna Kinski dated 27 September 2006; and
+ #8226; An affidavit of Phillip Hunter dated 27 September 2006.</sentence>
 <sentence id="s13">
  
  9 There was also filed an affidavit by one of the then directors of the defendant, Boris Seroshtan, dated 18 July 2006.</sentence>
@@ -203,7 +203,7 @@
  
  
  
- &#8226; directly from the warehouse, &#8226; via its website at the address www.babygoodsaustralia.com.au , and &#8226; via the eBay Australian auction website at www.ebay.com.au .</sentence>
+ #8226; directly from the warehouse, #8226; via its website at the address www.babygoodsaustralia.com.au , and #8226; via the eBay Australian auction website at www.ebay.com.au .</sentence>
 <sentence id="s60">
  
  
@@ -320,8 +320,8 @@
  
  
  
- &#8226; Two boxed baby walkers of the same model, each described as "Brand New Baby Walker with push bar", and 
- &#8226; Two boxed baby walkers of the same model, each described as "Brand New Baby Walker &amp; Rocker 2 in 1" 
+ #8226; Two boxed baby walkers of the same model, each described as "Brand New Baby Walker with push bar", and 
+ #8226; Two boxed baby walkers of the same model, each described as "Brand New Baby Walker amp; Rocker 2 in 1" 
  
  
  
@@ -392,8 +392,8 @@
  
  
  
- &#8226; Use only on flat surfaces free of objects that could cause the walker to tip over (section 9.3.3.1 of the standard), 
- &#8226; To avoid burns, keep the child away from hot liquids, ranges, radiators, space heaters, fireplaces etc. (Section 9.3.3.2 of the standard), 
+ #8226; Use only on flat surfaces free of objects that could cause the walker to tip over (section 9.3.3.1 of the standard), 
+ #8226; To avoid burns, keep the child away from hot liquids, ranges, radiators, space heaters, fireplaces etc. (Section 9.3.3.2 of the standard), 
  
  
  
@@ -486,8 +486,8 @@
  
  (c) Contrary to section 9.3.3 of the walker standard, the baby walker was not labelled with warnings addressing the following matters: 
  
- &#8226; Use only on flat surfaces free of objects that could cause the walker to tip over (section 9.3.3.1 of the walker standard), 
- &#8226; To avoid burns, keep the child away from hot liquids, ranges, radiators, space heaters, fireplaces etc. (section 9.3.3.2 of the walker standards), 
+ #8226; Use only on flat surfaces free of objects that could cause the walker to tip over (section 9.3.3.1 of the walker standard), 
+ #8226; To avoid burns, keep the child away from hot liquids, ranges, radiators, space heaters, fireplaces etc. (section 9.3.3.2 of the walker standards), 
  
  (d) Contrary to section 9.3.4 of the walker standard, the baby walker was not labelled with a separate stairs warning visible to the consumer when placing the child in the walker, the required stairs warning, as set out in section 9.3.4.2 of the walker standard, being as stated below: 
  
@@ -859,10 +859,10 @@
  
  
  
- &#8226; That when the ACCC expressed concern on 14 July 2005 about the baby walker purchased by it, the defendant immediately ceased supplying the baby walkers, 
- &#8226; That upon receipt of the ACCC's letter of 3 August 2005, the defendant immediately ceased supplying the cots, 
- &#8226; That the defendant would undertake an immediate voluntary recall of the baby walkers and cots, and 
- &#8226; That the baby walkers and cots were supplied to the defendant by a China-based supplier, and that a test report ("the SGS test report") in relation to at least one of the products had been supplied to the defendant by that supplier.</sentence>
+ #8226; That when the ACCC expressed concern on 14 July 2005 about the baby walker purchased by it, the defendant immediately ceased supplying the baby walkers, 
+ #8226; That upon receipt of the ACCC's letter of 3 August 2005, the defendant immediately ceased supplying the cots, 
+ #8226; That the defendant would undertake an immediate voluntary recall of the baby walkers and cots, and 
+ #8226; That the baby walkers and cots were supplied to the defendant by a China-based supplier, and that a test report ("the SGS test report") in relation to at least one of the products had been supplied to the defendant by that supplier.</sentence>
 <sentence id="s169">
  
  
@@ -918,9 +918,9 @@
  
  
  
- &#8226; A national recall being warranted, considering that sales had been made via the internet, 
- &#8226; The appropriate layout of any recall notice; and 
- &#8226; The advisability of direct contact with persons who purchased goods via eBay.</sentence>
+ #8226; A national recall being warranted, considering that sales had been made via the internet, 
+ #8226; The appropriate layout of any recall notice; and 
+ #8226; The advisability of direct contact with persons who purchased goods via eBay.</sentence>
 <sentence id="s182">
  
  
@@ -966,16 +966,16 @@
 <sentence id="s193">There are, however, some matters that are common to all or most of them which can be noted at the outset.</sentence>
 <sentence id="s194">These are: 
  
- &#8226; No relevant prior conduct is alleged against the defendant.</sentence>
-<sentence id="s195">&#8226; The offences did not result from a deliberate attempt on the part of the officers of the defendant to flout the Act and relevant standards.</sentence>
+ #8226; No relevant prior conduct is alleged against the defendant.</sentence>
+<sentence id="s195">#8226; The offences did not result from a deliberate attempt on the part of the officers of the defendant to flout the Act and relevant standards.</sentence>
 <sentence id="s196">Rather, the offences arose from lax management and inadvertence.</sentence>
-<sentence id="s197">&#8226; When the prosecutor became aware of the contraventions relating to the baby walkers and the cots, it requested the defendant to withdraw the items from sale.</sentence>
+<sentence id="s197">#8226; When the prosecutor became aware of the contraventions relating to the baby walkers and the cots, it requested the defendant to withdraw the items from sale.</sentence>
 <sentence id="s198">The defendant agreed to do this and to issue recall notices.</sentence>
 <sentence id="s199">It placed a product recall notice in its warehouse and in a newspaper but not on its website.</sentence>
-<sentence id="s200">&#8226; No injuries were suffered as a result of the contraventions.</sentence>
-<sentence id="s201">&#8226; The defendant indicated its intention to plead guilty to the charges at the earliest available opportunity.</sentence>
+<sentence id="s200">#8226; No injuries were suffered as a result of the contraventions.</sentence>
+<sentence id="s201">#8226; The defendant indicated its intention to plead guilty to the charges at the earliest available opportunity.</sentence>
 <sentence id="s202">The prosecutor accepts that this was indicative of remorse, and acceptance of responsibility and a willingness to facilitate the course of justice.</sentence>
-<sentence id="s203">&#8226; The contraventions involving the baby walkers and the cots placed at risk the lives and physical welfare of very young children.</sentence>
+<sentence id="s203">#8226; The contraventions involving the baby walkers and the cots placed at risk the lives and physical welfare of very young children.</sentence>
 <sentence id="s204">
  
  20 The defendant's accounts for the financial year 2005-6 were in evidence.</sentence>
@@ -1079,5 +1079,13 @@ Dated: 18 October 2006
  URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/1343.html 
  
  </sentence>
+</sentences>
+</case>sentence>
+</sentences>
+</case>ases/cth/FCA/2006/1343.html 
+ 
+ </sentence>
+</sentences>
+</case>sentence>
 </sentences>
 </case>

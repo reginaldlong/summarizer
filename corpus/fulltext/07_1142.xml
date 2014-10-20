@@ -3,21 +3,21 @@
 <name>Anusornchonseree v Minister for Immigration and Citizenship [2007] FCA 1142 (3 August 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1142.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">visa</catchphrase>
-<catchphrase "id=c1">cancellation</catchphrase>
-<catchphrase "id=c2">character test</catchphrase>
-<catchphrase "id=c3">substantial criminal record</catchphrase>
-<catchphrase "id=c4">discretion not to cancel visa</catchphrase>
-<catchphrase "id=c5">procedural fairness</catchphrase>
-<catchphrase "id=c6">minister's advocate tendered letter from victoria police alleging further criminal conduct by applicant</catchphrase>
-<catchphrase "id=c7">applicant's counsel not aware of letter until tendered</catchphrase>
-<catchphrase "id=c8">no opportunity to cross-examine author of letter</catchphrase>
-<catchphrase "id=c9">tribunal admitted document in evidence</catchphrase>
-<catchphrase "id=c10">whether denial of procedural fairness</catchphrase>
-<catchphrase "id=c11">psychologist gave evidence for applicant of prospects for reform</catchphrase>
-<catchphrase "id=c12">tribunal did not accept opinion of psychologist on basis that psychologist lacked information about applicant's recent criminal conduct and past drug rehabilitation treatment</catchphrase>
-<catchphrase "id=c13">whether tribunal obliged to notify applicant that it intended to reject psychologist's opinion on this basis</catchphrase>
-<catchphrase "id=c14">migration</catchphrase>
+<catchphrase >visa</catchphrase>
+<catchphrase >cancellation</catchphrase>
+<catchphrase >character test</catchphrase>
+<catchphrase >substantial criminal record</catchphrase>
+<catchphrase >discretion not to cancel visa</catchphrase>
+<catchphrase >procedural fairness</catchphrase>
+<catchphrase >minister's advocate tendered letter from victoria police alleging further criminal conduct by applicant</catchphrase>
+<catchphrase >applicant's counsel not aware of letter until tendered</catchphrase>
+<catchphrase >no opportunity to cross-examine author of letter</catchphrase>
+<catchphrase >tribunal admitted document in evidence</catchphrase>
+<catchphrase >whether denial of procedural fairness</catchphrase>
+<catchphrase >psychologist gave evidence for applicant of prospects for reform</catchphrase>
+<catchphrase >tribunal did not accept opinion of psychologist on basis that psychologist lacked information about applicant's recent criminal conduct and past drug rehabilitation treatment</catchphrase>
+<catchphrase >whether tribunal obliged to notify applicant that it intended to reject psychologist's opinion on this basis</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -481,7 +481,7 @@ Dated: 3 August 2007
 
  Counsel for the applicant:: G Costello 
  
- Solicitor for the applicant: O'Sullivan &amp; Ruffilli 
+ Solicitor for the applicant: O'Sullivan amp; Ruffilli 
  
  Counsel for the respondent: R Knowles 
  
@@ -504,4 +504,9 @@ Dated: 3 August 2007
  
  </sentence>
 </sentences>
-</case>
+</case>>eedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/1142.html 
+ 
+ </sentence>
+</sentences>
+</case>>

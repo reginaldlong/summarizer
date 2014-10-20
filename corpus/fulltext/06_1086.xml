@@ -3,11 +3,11 @@
 <name>SZHTW v Minister for Immigration and Multicultural Affairs [2006] FCA 1086 (18 August 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1086.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for extension of time to file and serve notice of appeal</catchphrase>
-<catchphrase "id=c1">delay</catchphrase>
-<catchphrase "id=c2">prejudice</catchphrase>
-<catchphrase "id=c3">prospects of success</catchphrase>
-<catchphrase "id=c4">migration</catchphrase>
+<catchphrase >application for extension of time to file and serve notice of appeal</catchphrase>
+<catchphrase >delay</catchphrase>
+<catchphrase >prejudice</catchphrase>
+<catchphrase >prospects of success</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -111,8 +111,8 @@
 <sentence id="s59">In that draft notice, the applicant asserted, inter alia , that the Federal Magistrate failed to consider whether the Tribunal constructively failed to exercise its jurisdiction, and whether the Tribunal afforded the applicant natural justice.</sentence>
 <sentence id="s60">The applicant also claimed that the Tribunal applied an incorrect test of persecution for Convention purposes.</sentence>
 <sentence id="s61">19 In a supporting affidavit filed 5 April 2006, the applicant recounted facts including his failed application for review to the Tribunal, and the fact that he lost his case before Driver FM.</sentence>
-<sentence id="s62">The applicant also noted that his migration agent had not lodged his amended application in the Federal Magistrates Court, although I note from the judgment of Driver FM that his Honour gave leave for a form of amended application to be filed in court ( SZHTW v Minister for Immigration &amp; Anor [2006] FMCA 356 at par 6).</sentence>
-<sentence id="s63">20 The first respondent, in written and oral submissions asserted that: &#8226; the court below did not err in concluding that the protection visa application was valid notwithstanding that the applicant has signed it in a false name and made false claims: citing NAWZ &#8226; the court below never had jurisdiction so its order to dismiss the application with costs was an appropriate order &#8226; alternatively if the court below did have jurisdiction, there was no error in concluding that the protection visa application was valid and as such the application should have been dismissed with costs &#8226; even if the court below had jurisdiction and the protection visa application was invalid, relief should have been refused anyway given that the applicant had knowingly participated in a deception of the minister.</sentence>
+<sentence id="s62">The applicant also noted that his migration agent had not lodged his amended application in the Federal Magistrates Court, although I note from the judgment of Driver FM that his Honour gave leave for a form of amended application to be filed in court ( SZHTW v Minister for Immigration amp; Anor [2006] FMCA 356 at par 6).</sentence>
+<sentence id="s63">20 The first respondent, in written and oral submissions asserted that: #8226; the court below did not err in concluding that the protection visa application was valid notwithstanding that the applicant has signed it in a false name and made false claims: citing NAWZ #8226; the court below never had jurisdiction so its order to dismiss the application with costs was an appropriate order #8226; alternatively if the court below did have jurisdiction, there was no error in concluding that the protection visa application was valid and as such the application should have been dismissed with costs #8226; even if the court below had jurisdiction and the protection visa application was invalid, relief should have been refused anyway given that the applicant had knowingly participated in a deception of the minister.</sentence>
 <sentence id="s64">
  Issues relevant to merit of the substantive application 
  
@@ -204,4 +204,6 @@ Dated: 18 August 2006
  
  </sentence>
 </sentences>
-</case>
+</case>case>sentence>
+</sentences>
+</case>case>

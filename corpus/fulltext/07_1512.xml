@@ -3,11 +3,11 @@
 <name>Silberberg v The Builders Collective of Australia Inc [2007] FCA 1512 (2 October 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1512.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">where messages posted on to an internet discussion forum contained material causing offence and distress to the applicant because of his jewish race and ethnicity</catchphrase>
-<catchphrase "id=c1">the party posting the offensive material did so in breach of pt ii of the racial discrimination act 1975 (cth)</catchphrase>
-<catchphrase "id=c2">whether organisation which controls and manages the internet website also acted unlawfully by publishing or allowing material to be published</catchphrase>
-<catchphrase "id=c3">organisation's failure to remove material was an 'act' reasonably likely to offend the applicant but cannot be shown to be attributable to his race or ethic origin</catchphrase>
-<catchphrase "id=c4">racial discrimination</catchphrase>
+<catchphrase >where messages posted on to an internet discussion forum contained material causing offence and distress to the applicant because of his jewish race and ethnicity</catchphrase>
+<catchphrase >the party posting the offensive material did so in breach of pt ii of the racial discrimination act 1975 (cth)</catchphrase>
+<catchphrase >whether organisation which controls and manages the internet website also acted unlawfully by publishing or allowing material to be published</catchphrase>
+<catchphrase >organisation's failure to remove material was an 'act' reasonably likely to offend the applicant but cannot be shown to be attributable to his race or ethic origin</catchphrase>
+<catchphrase >racial discrimination</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -274,8 +274,8 @@ That was unaffected by the appeal ( Toben v Jones [2003] FCAFC 137 ; (2003) 129 
  "In my judgment the defendants, whenever they transmit and whenever there is transmitted from the storage of their news server a defamatory posting, publish that posting to any subscriber to their ISP who accesses the newsgroup containing that posting.</sentence>
 <sentence id="s124">Thus every time one of the defendants' customers accesses soc.culture.thai and sees that posting defamatory of the plaintiff there is a publication to that customer.</sentence>
 <sentence id="s125">
- The situation is analogous to that of the bookseller who sells a book defamatory of the plaintiff: see Weldon v 'The Times' Book Co. Ltd (1911) 28 TLR 143 (the case about the books on Gounod); to that of the circulating library who provided books to subscribers: see Vizetelly v Mudie's Select Library Ltd [1900] 2 QB 170 (the case about the book on Stanley's search for Emin Pasha in Africa: see in particular the judgment of Romer LJ pages 178---181); and to that of distributors: see Bottomley v FW Woolworth &amp; Co Ltd (1932) 48 TLR 521 (the case about the article in Detective Story Magazine headed 'Swindlers and Scoundrels.</sentence>
-<sentence id="s126">Horatio Bottomley, Editor and Embezzler') and Sun Life Assurance Co of Canada v WH Smith &amp; Son Ltd (1933) 150 LT 211 (the case about newspaper posters announcing 'More grave Sun Life of Canada disclosures').</sentence>
+ The situation is analogous to that of the bookseller who sells a book defamatory of the plaintiff: see Weldon v 'The Times' Book Co. Ltd (1911) 28 TLR 143 (the case about the books on Gounod); to that of the circulating library who provided books to subscribers: see Vizetelly v Mudie's Select Library Ltd [1900] 2 QB 170 (the case about the book on Stanley's search for Emin Pasha in Africa: see in particular the judgment of Romer LJ pages 178---181); and to that of distributors: see Bottomley v FW Woolworth amp; Co Ltd (1932) 48 TLR 521 (the case about the article in Detective Story Magazine headed 'Swindlers and Scoundrels.</sentence>
+<sentence id="s126">Horatio Bottomley, Editor and Embezzler') and Sun Life Assurance Co of Canada v WH Smith amp; Son Ltd (1933) 150 LT 211 (the case about newspaper posters announcing 'More grave Sun Life of Canada disclosures').</sentence>
 <sentence id="s127">I do not accept Mr Barca's argument that the defendants were merely owners of an electronic device through which postings were transmitted.</sentence>
 <sentence id="s128">The defendants chose to store soc.culture.thai postings within their computers.</sentence>
 <sentence id="s129">Such postings could be accessed on that newsgroup.</sentence>
@@ -284,7 +284,7 @@ That was unaffected by the appeal ( Toben v Jones [2003] FCAFC 137 ; (2003) 129 
  
 
 28 Material posted onto an Internet website may be seen to be published by the author when uploaded or posted onto a web server by or on behalf of the author and also by a person when downloaded onto the computer accessed by a person who has used a web browser to pull the material from the web server in comprehensible form.</sentence>
-<sentence id="s132">For the purposes of the law of defamation, publication is regarded as a bilateral, complete at the time of downloading Dow Jones &amp; Company Inc v Gutnick [2002] HCA 56 ; (2002) 210 CLR 575 at [25] ---[27], [40] and [44]).</sentence>
+<sentence id="s132">For the purposes of the law of defamation, publication is regarded as a bilateral, complete at the time of downloading Dow Jones amp; Company Inc v Gutnick [2002] HCA 56 ; (2002) 210 CLR 575 at [25] ---[27], [40] and [44]).</sentence>
 <sentence id="s133">Gleeson CJ, McHugh, Gummow and Hayne JJ said (at [11]):
  
  " 'Publishing' and its cognate words is also a term that gives rise to difficulty.</sentence>
@@ -387,4 +387,6 @@ Dated: 2 October 2007
  
  </sentence>
 </sentences>
-</case>
+</case>se></sentence>
+</sentences>
+</case>se>

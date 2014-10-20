@@ -3,16 +3,16 @@
 <name>Ringrow Pty Limited v BP Australia Pty Limited [2006] FCA 1446 (7 November 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1446.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">legal costs</catchphrase>
-<catchphrase "id=c1">whether successful party in litigation able to recover costs as damages under contractual arrangements</catchphrase>
-<catchphrase "id=c2">effect of curial costs order</catchphrase>
-<catchphrase "id=c3">interpretation of contractual indemnity</catchphrase>
-<catchphrase "id=c4">where issues litigated at trial and on appeal differ</catchphrase>
-<catchphrase "id=c5">general contractual principles</catchphrase>
-<catchphrase "id=c6">construction and interpretation of contracts</catchphrase>
-<catchphrase "id=c7">interpretation of indemnity providing for recovery of costs</catchphrase>
-<catchphrase "id=c8">costs</catchphrase>
-<catchphrase "id=c9">contracts</catchphrase>
+<catchphrase >legal costs</catchphrase>
+<catchphrase >whether successful party in litigation able to recover costs as damages under contractual arrangements</catchphrase>
+<catchphrase >effect of curial costs order</catchphrase>
+<catchphrase >interpretation of contractual indemnity</catchphrase>
+<catchphrase >where issues litigated at trial and on appeal differ</catchphrase>
+<catchphrase >general contractual principles</catchphrase>
+<catchphrase >construction and interpretation of contracts</catchphrase>
+<catchphrase >interpretation of indemnity providing for recovery of costs</catchphrase>
+<catchphrase >costs</catchphrase>
+<catchphrase >contracts</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -96,10 +96,10 @@
 <sentence id="s31">That contract provided that on completion BP and Ringrow would enter into:
  
  
- &#8226; BP and Ringrow would enter into a privately owned site agreement, known by the acronym 'POSA'.</sentence>
+ #8226; BP and Ringrow would enter into a privately owned site agreement, known by the acronym 'POSA'.</sentence>
 <sentence id="s32">Hely J described the POSA as an exclusive supply agreement under which the site operator agreed to purchase all of its petroleum product requirements from BP (203 ALR at 284 [5]).</sentence>
 <sentence id="s33">The term of the POSA was five years.</sentence>
-<sentence id="s34">&#8226; A deed of option in which Ringrow would grant to BP an irrevocable option to purchase the Lansvale site on the terms set out in a draft deed which was annexed to the contract for sale (cl 38); 
+<sentence id="s34">#8226; A deed of option in which Ringrow would grant to BP an irrevocable option to purchase the Lansvale site on the terms set out in a draft deed which was annexed to the contract for sale (cl 38); 
  
 
 10 The contract for sale provided that in consideration of Ringrow entering into the POSA with BP, BP agreed to sell the Lansvale site to Ringrow on the terms set out (cl 40.1).</sentence>
@@ -108,10 +108,10 @@
 <sentence id="s37">Relevantly, it provided that:
  
  
- &#8226; Ringrow had to purchase from BP all of its requirements for motor fuel for retail sale at the Lansvale site and could not sell in that business any motor fuel other than BP's (cl A4.2);
- &#8226; Ringrow was prohibited, as the dealer, from disposing, or allowing any disposal of the freehold of the site (cl A5.10);
- &#8226; the dealer was required not to dispense, under or in association with BP's trademarks, any non BP petroleum products or ones which had been adulterated or mixed with BP products or pass off anything as a BP product when it was not (cl A4.16.1);
- &#8226; BP had a right to terminate the POSA exercisable at any time by giving written notice where the dealer breached the agreement and, where the default was capable of rectification, it was not totally rectified within 30 days after written notice of any such default.</sentence>
+ #8226; Ringrow had to purchase from BP all of its requirements for motor fuel for retail sale at the Lansvale site and could not sell in that business any motor fuel other than BP's (cl A4.2);
+ #8226; Ringrow was prohibited, as the dealer, from disposing, or allowing any disposal of the freehold of the site (cl A5.10);
+ #8226; the dealer was required not to dispense, under or in association with BP's trademarks, any non BP petroleum products or ones which had been adulterated or mixed with BP products or pass off anything as a BP product when it was not (cl A4.16.1);
+ #8226; BP had a right to terminate the POSA exercisable at any time by giving written notice where the dealer breached the agreement and, where the default was capable of rectification, it was not totally rectified within 30 days after written notice of any such default.</sentence>
 <sentence id="s38">In particular, BP had a right to terminate in circumstances where there had been any failure by Ringrow to perform any obligation imposed on it by the agreement; where Ringrow attempted or purported to assign the agreement in breach of it, or where it had breached its obligations in relation to the sale of BP products from the Lansvale site or had attempted to dispose, or allow the disposal, of the site (cl 13.2.1).</sentence>
 <sentence id="s39">
  
@@ -162,10 +162,10 @@
 13 The obligations of the guarantors were set out in Part C of the POSA which provided that:
  
  
- &#8226; Pt C had to be read in conjunction with the rest of the agreement (cl 1.1);
- &#8226; the guarantors requested that BP grant Ringrow the right to operate the retail fuel outlet at the site 'in accordance with this agreement' and requested that BP enter into the POSA with Ringrow and supply BP petroleum products to it 'in accordance with this agreement' (cl C1.2, C1.3);
- &#8226; those requests were the consideration for the guarantors entering into the guarantee and indemnity (cl C2.1).</sentence>
-<sentence id="s41">&#8226; the guarantors unconditionally and irrevocably guaranteed to BP performance by Ringrow of 'the Obligations' (cl C3) which were defined to mean: 
+ #8226; Pt C had to be read in conjunction with the rest of the agreement (cl 1.1);
+ #8226; the guarantors requested that BP grant Ringrow the right to operate the retail fuel outlet at the site 'in accordance with this agreement' and requested that BP enter into the POSA with Ringrow and supply BP petroleum products to it 'in accordance with this agreement' (cl C1.2, C1.3);
+ #8226; those requests were the consideration for the guarantors entering into the guarantee and indemnity (cl C2.1).</sentence>
+<sentence id="s41">#8226; the guarantors unconditionally and irrevocably guaranteed to BP performance by Ringrow of 'the Obligations' (cl C3) which were defined to mean: 
  
  
  
@@ -178,7 +178,7 @@
  
  
  
- &#8226; the guarantors gave an indemnity as a separate and principal obligation (cl C4.2) under which they unconditionally and irrevocably indemnified BP (cl C4.1): 
+ #8226; the guarantors gave an indemnity as a separate and principal obligation (cl C4.2) under which they unconditionally and irrevocably indemnified BP (cl C4.1): 
  
  
  
@@ -191,8 +191,8 @@
  
  
  
- &#8226; the guarantors' obligations under Pt C expressly extended to the performance of acts and payment of monies, costs and expenses of the enforcement of any of BP's rights against Ringrow (cll C6.1, C6.3);
- &#8226; the guarantors were also required to pay or reimburse BP for its reasonable costs and expenses relating to the exercise or attempted exercise or the preservation of any rights of BP under Pt C (cl C13).</sentence>
+ #8226; the guarantors' obligations under Pt C expressly extended to the performance of acts and payment of monies, costs and expenses of the enforcement of any of BP's rights against Ringrow (cll C6.1, C6.3);
+ #8226; the guarantors were also required to pay or reimburse BP for its reasonable costs and expenses relating to the exercise or attempted exercise or the preservation of any rights of BP under Pt C (cl C13).</sentence>
 <sentence id="s44">
  
 
@@ -201,10 +201,10 @@
 <sentence id="s46">Under the special conditions:
  
  
- &#8226; Ringrow acknowledged that it or a related company had acquired from BP, under a separate contract of sale, the freehold of the Lansvale site, equipment and other assets to be used in the ongoing conduct, as an ongoing concern, of the retail fuel outlet at the site (cl SC1.1);
- &#8226; both Ringrow and BP acknowledged that BP had agreed to sell the site and the ongoing business to Ringrow on the basis of the continued operation of that business as a retail fuel outlet operating as a going concern at the Lansvale site under the POSA for a term of five years on the basis that over that term the expected returns to BP under the POSA would be $289,531, which were defined as the 'liquidated damages' (cl SC1.2(a));
- &#8226; if the POSA were terminated prior to the expiry of the term, BP would suffer losses including, as a result, the specific loss of the liquidated damages.</sentence>
-<sentence id="s47">&#8226; ' BP has the right to acquire the site under a separate option agreement between BP and [Ringrow] .... BP also has the right of first refusal to acquire the site under clause A5.11.</sentence>
+ #8226; Ringrow acknowledged that it or a related company had acquired from BP, under a separate contract of sale, the freehold of the Lansvale site, equipment and other assets to be used in the ongoing conduct, as an ongoing concern, of the retail fuel outlet at the site (cl SC1.1);
+ #8226; both Ringrow and BP acknowledged that BP had agreed to sell the site and the ongoing business to Ringrow on the basis of the continued operation of that business as a retail fuel outlet operating as a going concern at the Lansvale site under the POSA for a term of five years on the basis that over that term the expected returns to BP under the POSA would be $289,531, which were defined as the 'liquidated damages' (cl SC1.2(a));
+ #8226; if the POSA were terminated prior to the expiry of the term, BP would suffer losses including, as a result, the specific loss of the liquidated damages.</sentence>
+<sentence id="s47">#8226; ' BP has the right to acquire the site under a separate option agreement between BP and [Ringrow] .... BP also has the right of first refusal to acquire the site under clause A5.11.</sentence>
 <sentence id="s48">If this Agreement is terminated and BP has exercised its rights to acquire the Site under the separate option agreement or under clause A5.11, the Liquidated Damages will not be payable to BP under clause SC1.3 ' (cl SC1.2(e)).</sentence>
 <sentence id="s49">
  
@@ -276,7 +276,7 @@
 <sentence id="s100">Ringrow argued that the same reasoning applied to cl A16.9(a) so that so much of the costs incurred by BP involved in dealing with the validity of the option deed which it now seeks to recover did not arise from a breach of the POSA by Ringrow.</sentence>
 <sentence id="s101">30 Ringrow also argued that the word 'costs' in the chapeau to cl A14.2 was ambiguous and should not be read as referring to legal fees for which the words in parenthesis provided.</sentence>
 <sentence id="s102">There is no basis for this argument.</sentence>
-<sentence id="s103">The expression 'all costs' means what it says: cf Port Jackson Stevedoring Pty Ltd v Salmond &amp; Spraggon (Aust) Pty Ltd [1980] HCA 19 ; (1980) 144 CLR 300 at 306 per Lord Wilberforce.</sentence>
+<sentence id="s103">The expression 'all costs' means what it says: cf Port Jackson Stevedoring Pty Ltd v Salmond amp; Spraggon (Aust) Pty Ltd [1980] HCA 19 ; (1980) 144 CLR 300 at 306 per Lord Wilberforce.</sentence>
 <sentence id="s104">The words in parenthesis extend, rather than limit, the meaning of 'all costs', if they add anything.</sentence>
 <sentence id="s105">31 A more difficult issue arises in respect of the costs which BP incurred in exercising the deed of option and enforcing its exercise.</sentence>
 <sentence id="s106">Ringrow argued that whatever else cll A14.2(f) and A16.9(a) did, they confined BP's remedy to the consequences of a breach of the POSA.</sentence>
@@ -287,8 +287,8 @@
 <sentence id="s111">BP has not segregated the costs it claims into categories so as to identify the discrete costs of enforcing:
  
  
- &#8226; its rights under the option;
- &#8226; the individual proceedings and appeals (and the costs in each referable to the option) .</sentence>
+ #8226; its rights under the option;
+ #8226; the individual proceedings and appeals (and the costs in each referable to the option) .</sentence>
 <sentence id="s112">
  
  BP'S ARGUMENT 
@@ -306,8 +306,8 @@
 <sentence id="s122">BP argues that it can recover this larger measure under either limb of cl A16.9(a), namely that the costs were incurred by BP:
  
  
- &#8226; 'in exercising or enforcing any of BP's powers, rights or remedies under [the POSA]';
- &#8226; 'or otherwise arising from a breach of [the POSA] by [Ringrow]'.</sentence>
+ #8226; 'in exercising or enforcing any of BP's powers, rights or remedies under [the POSA]';
+ #8226; 'or otherwise arising from a breach of [the POSA] by [Ringrow]'.</sentence>
 <sentence id="s123">
  
 
@@ -321,7 +321,7 @@
 <sentence id="s128">The reason why the estoppel arose in that case was because the party who relied upon the contractual right could not obtain a judgment which was inconsistent with the partial recovery allowed under the statutory cause of action in the earlier proceedings.</sentence>
 <sentence id="s129">40 It has never been suggested that a contractual right to costs in mortgages or trust instruments is affected by an estoppel of this kind.</sentence>
 <sentence id="s130">There would be obvious inconvenience were that to be the case.</sentence>
-<sentence id="s131">And, as McLelland J said in Elders Trustees &amp; Executors Co Ltd v Eagle Star Nominees Ltd (1986) 4 BPR 9205 at 9209:
+<sentence id="s131">And, as McLelland J said in Elders Trustees amp; Executors Co Ltd v Eagle Star Nominees Ltd (1986) 4 BPR 9205 at 9209:
  
  'A contractual stipulation as to how costs of future litigation are to be borne as between the parties is not vitiated by an inconsistent order for costs in that litigation.</sentence>
 <sentence id="s132">' 
@@ -493,15 +493,15 @@ This statement was applied in Wilkie v Gordian Runoff Ltd [2005] HCA 17 ; (2005)
 <sentence id="s268">Thus costs which were unjustifiably or vexatiously incurred by the mortgagee so as to impose an unwarrantable burden on the mortgagor would not fall under the clause.</sentence>
 <sentence id="s269">And the taxing officer had a discretion to disallow some costs even though they might be payable by the mortgagees to their own solicitors, but the relevant clauses were to be construed widely (58 WN (NSW) at 136).</sentence>
 <sentence id="s270">80 Again, in Gomba Holdings (UK) Ltd v Minories Finance Ltd (No 2) [1993] Ch 171, the English Court of Appeal gave a wide construction to a clause in a mortgage which entitled the mortgagee to recover costs which would not be allowable on a party and party or solicitor own client taxation by the court: see also In re Adelphi Hotel (Brighton) Ltd; District Bank Ltd v Adelphi Hotel (Brighton) Ltd [1953] 1 WLR 955 per Vaisey J.</sentence>
-<sentence id="s271">81 A Full Court of this Court, in Elders Trustee &amp; Executor Co Ltd v EG Reeves Pty Ltd (1998) 84 ALR 734 (see at 735 cl 5), construed a standard form clause in a mortgage entitling a mortgagee to all its costs and expenses including costs between solicitor and own client incurred by the mortgagee in consequence of or on account of any default on the part of the mortgagor or incurred by the mortgagee for the preservation or in any manner in reference to the security.</sentence>
+<sentence id="s271">81 A Full Court of this Court, in Elders Trustee amp; Executor Co Ltd v EG Reeves Pty Ltd (1998) 84 ALR 734 (see at 735 cl 5), construed a standard form clause in a mortgage entitling a mortgagee to all its costs and expenses including costs between solicitor and own client incurred by the mortgagee in consequence of or on account of any default on the part of the mortgagor or incurred by the mortgagee for the preservation or in any manner in reference to the security.</sentence>
 <sentence id="s272">The Full Court followed what Street J had said (see 84 ALR at 741).</sentence>
 <sentence id="s273">Sheppard and Foster JJ noted that whatever might be the ambit of the rule, the question there was the proper construction of an express clause in the mortgage contract (84 ALR at 742).</sentence>
 <sentence id="s274">82 The costs which BP properly incurred in respect of its position as a party to the POSA ought be recoverable by it.</sentence>
-<sentence id="s275">That includes costs incurred by BP to the extent it acted reasonably in ascertaining or defending its rights under the POSA (cp: National Provincial Bank of England v Games (1886) 31 Ch D 582 at 592 per Cotton LJ applying Lord Cottenham LC in Dryden v Frost (1838) 3 My &amp; Cr 670 at 675 [40 ER 1084 at 1086]).</sentence>
-<sentence id="s276">Thus, as Lord Cottenham LC pointed out in Dryden v Frost (1838) 3 My &amp; Cr 670 at 676 [40 ER 1084 at 1087] if a mortgagee asserts a right to which the Court finds it was not entitled, those costs are not necessarily nor properly incurred in asserting a right which the mortgage gave the mortgagee.</sentence>
+<sentence id="s275">That includes costs incurred by BP to the extent it acted reasonably in ascertaining or defending its rights under the POSA (cp: National Provincial Bank of England v Games (1886) 31 Ch D 582 at 592 per Cotton LJ applying Lord Cottenham LC in Dryden v Frost (1838) 3 My amp; Cr 670 at 675 [40 ER 1084 at 1086]).</sentence>
+<sentence id="s276">Thus, as Lord Cottenham LC pointed out in Dryden v Frost (1838) 3 My amp; Cr 670 at 676 [40 ER 1084 at 1087] if a mortgagee asserts a right to which the Court finds it was not entitled, those costs are not necessarily nor properly incurred in asserting a right which the mortgage gave the mortgagee.</sentence>
 <sentence id="s277">In other words, the mortgagee cannot recover costs arising from a mistake as to its rights or from an attempt to obtain something to which it is not entitled.</sentence>
-<sentence id="s278">Nor can a trustee recover costs incurred in fighting a doubtful case when he or she ought first to have sought the direction of the Court before continuing: Dagnell v Freedman &amp; Co [1993] 1 WLR 388 at 396E-H per Lord Browne-Wilkinson.</sentence>
-<sentence id="s279">And, in determining whether costs have been reasonably and properly incurred, it is relevant to consider whether they bear a reasonable relationship to the value and importance of the subject matter in issue ( Skalkos v T&amp;S Recoveries Pty Ltd [2004] NSWCA 281 ; (2004) 65 NSWLR 151 at 153 [8] per Ipp JA).</sentence>
+<sentence id="s278">Nor can a trustee recover costs incurred in fighting a doubtful case when he or she ought first to have sought the direction of the Court before continuing: Dagnell v Freedman amp; Co [1993] 1 WLR 388 at 396E-H per Lord Browne-Wilkinson.</sentence>
+<sentence id="s279">And, in determining whether costs have been reasonably and properly incurred, it is relevant to consider whether they bear a reasonable relationship to the value and importance of the subject matter in issue ( Skalkos v Tamp;S Recoveries Pty Ltd [2004] NSWCA 281 ; (2004) 65 NSWLR 151 at 153 [8] per Ipp JA).</sentence>
 <sentence id="s280">83 Unlike cl A16.9(a), cl A14.2(f) was expressed as an indemnity in favour of BP.</sentence>
 <sentence id="s281">Indeed, the latter clause required Ringrow to be solely responsible for and to indemnify and hold BP harmless from all costs arising out of any default by Ringrow under the POSA.</sentence>
 <sentence id="s282">But, Ringrow pointed to the exception in cl A14.2 that BP would be liable where the costs '... are caused solely by the negligence of BP ...'.</sentence>
@@ -522,7 +522,7 @@ This statement was applied in Wilkie v Gordian Runoff Ltd [2005] HCA 17 ; (2005)
 <sentence id="s297">
  
 86 Again, cases involving costs under mortgages and trusts provide analogical assistance in characterizing the nature and extent of BP's contractual entitlement to its costs under cll A14.2(f) and 16.9(a) of the POSA.</sentence>
-<sentence id="s298">In Elders Trustees &amp; Executor to Ltd v Eagle Star Nominees Ltd (1986) 4 BPR 9205 at 9208-9209 McLelland J said that '... "properly" means reasonably and in good faith'.</sentence>
+<sentence id="s298">In Elders Trustees amp; Executor to Ltd v Eagle Star Nominees Ltd (1986) 4 BPR 9205 at 9208-9209 McLelland J said that '... "properly" means reasonably and in good faith'.</sentence>
 <sentence id="s299">As he said, the analogy with a trustee cannot be pressed too far.</sentence>
 <sentence id="s300">That is because equity allows a trustee more than party/party costs to exonerate him or her from expenses incurred in administering the estate (cf: Commissioner of Stamp Duties (NSW) v Buckle [1998] HCA 4 ; (1998) 192 CLR 226 at 246 [49] and In re Beddoe; Downes v Cottam [1893] 1 Ch 547 at 555, 558, 562; Gomba Holdings (UK) Ltd v Minories Finance Ltd (No 2) [1993] Ch 171 at 184-185).</sentence>
 <sentence id="s301">87 In other contexts, such as a right of a trustee in bankruptcy to recover costs, the word 'properly' has been held to mean work reasonably and bona fide undertaken for the purpose of administering the estate or performing any public duty imposed by the Bankruptcy Act 1966 (Cth) conformably with the trustee's duty to perform the work with reasonable care and skill and in an efficient and economical way ( Adsett v Berlouis (1992) 37 FCR 201 at 212 per Northrop, Wilcox and Cooper JJ).</sentence>
@@ -593,5 +593,13 @@ Dated: 7 November 2006
  URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/1446.html 
  
  </sentence>
+</sentences>
+</case>entence>
+</sentences>
+</case>html 
+ 
+ </sentence>
+</sentences>
+</case>entence>
 </sentences>
 </case>

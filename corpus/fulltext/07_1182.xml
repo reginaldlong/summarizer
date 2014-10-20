@@ -3,15 +3,15 @@
 <name>Applicant N v Respondent C [2007] FCA 1182 (10 August 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1182.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">child in child care centre</catchphrase>
-<catchphrase "id=c1">alleged failure to apply commonwealth funding to benefit child</catchphrase>
-<catchphrase "id=c2">no case submission</catchphrase>
-<catchphrase "id=c3">appellant's witnesses' evidence supported respondent's case</catchphrase>
-<catchphrase "id=c4">whether respondent should have been put to election</catchphrase>
-<catchphrase "id=c5">whether grounds for making no case submission adequately explained</catchphrase>
-<catchphrase "id=c6">whether appellant denied natural justice by being prevented from relying on respondent's evidence</catchphrase>
-<catchphrase "id=c7">disability discrimination</catchphrase>
-<catchphrase "id=c8">practice and procedure</catchphrase>
+<catchphrase >child in child care centre</catchphrase>
+<catchphrase >alleged failure to apply commonwealth funding to benefit child</catchphrase>
+<catchphrase >no case submission</catchphrase>
+<catchphrase >appellant's witnesses' evidence supported respondent's case</catchphrase>
+<catchphrase >whether respondent should have been put to election</catchphrase>
+<catchphrase >whether grounds for making no case submission adequately explained</catchphrase>
+<catchphrase >whether appellant denied natural justice by being prevented from relying on respondent's evidence</catchphrase>
+<catchphrase >disability discrimination</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -31,9 +31,9 @@
  
 3 The appellant alleges and the respondent admits that
  
- &#8226; the appellant attended the centre in 2002 and 2003 for three days per week and in 2004 to the commencement of the proceeding two days per week
- &#8226; the appellant has a disability for the purposes of the DDA
- &#8226; the disability
+ #8226; the appellant attended the centre in 2002 and 2003 for three days per week and in 2004 to the commencement of the proceeding two days per week
+ #8226; the appellant has a disability for the purposes of the DDA
+ #8226; the disability
  "(a) may be described as right sided hemiplegia, arm worse than leg; 
  
  (b) is such that the Applicant has restricted flexibility and use of the right leg; 
@@ -101,9 +101,9 @@ The respondent denies these allegations.</sentence>
 17 The application for SNSS funding submitted by the respondent to the Commonwealth Department of Family Services and signed by the appellant's mother requires the Centre to be operated in accordance with the SNSS Guidelines.</sentence>
 <sentence id="s31">In the application form the respondent agrees, amongst other things, to
  
- &#8226; use the funding for ongoing additional staffing as appropriate, across the service, rather than on a one-to-one basis;
- &#8226; include the child in the activities of the service, allowing interaction with other children;
- &#8226; provide support from all staff members in the inclusion process.</sentence>
+ #8226; use the funding for ongoing additional staffing as appropriate, across the service, rather than on a one-to-one basis;
+ #8226; include the child in the activities of the service, allowing interaction with other children;
+ #8226; provide support from all staff members in the inclusion process.</sentence>
 <sentence id="s32">
 
 18 Part 4 of the SNSS Conditions of Funding deals with the obligations of the funding recipient.</sentence>
@@ -133,9 +133,9 @@ The respondent denies these allegations.</sentence>
  It would be inappropriate for the workers employed with SNSS funds to: 
  
  
- &#8226; assist the child with ongoing high support needs only, acting as one-to-one support for that child to the exclusion of other children or workers; 
- &#8226; provide specialist assistance (eg medical assistance, physiotherapy etc) ... 
- &#8226; provide support which would otherwise be provided by the local SUPS workers ...." 
+ #8226; assist the child with ongoing high support needs only, acting as one-to-one support for that child to the exclusion of other children or workers; 
+ #8226; provide specialist assistance (eg medical assistance, physiotherapy etc) ... 
+ #8226; provide support which would otherwise be provided by the local SUPS workers ...." 
  
  
  THE DDA 
@@ -255,8 +255,8 @@ The father had said in his evidence in chief that it was open to him to inspect 
 <sentence id="s78">
  
  No that's not the question.</sentence>
-<sentence id="s79">I'm saying it's an inevitable conclusion that the cr&egrave;che provided the appropriate therapy to his right hand.</sentence>
-<sentence id="s80">That's the only way he could have made significant progress?---I can't answer that because I wasn't at the cr&egrave;che.</sentence>
+<sentence id="s79">I'm saying it's an inevitable conclusion that the cregrave;che provided the appropriate therapy to his right hand.</sentence>
+<sentence id="s80">That's the only way he could have made significant progress?---I can't answer that because I wasn't at the cregrave;che.</sentence>
 <sentence id="s81">" 
  
 
@@ -393,9 +393,9 @@ See also Trufloor 232 ALR at [27] to [29].</sentence>
 <sentence id="s157">Accordingly the no-case submission had to succeed.</sentence>
 <sentence id="s158">52 In order to ground the discrimination allegation in par 21 of the statement of claim the appellant had to establish that the respondent
  
- &#8226; was required to apply the SNSS funding wholly or substantially for his benefit, and failed to do so (pars 15 and 18), and
- &#8226; failed to apply the funding consistently with the SNSS guidelines and funding conditions (par 19), and
- &#8226; as a consequence of the respondent's failure to apply the SNSS funding appropriately, the appellant has received little or no benefit from the funding (par 20).</sentence>
+ #8226; was required to apply the SNSS funding wholly or substantially for his benefit, and failed to do so (pars 15 and 18), and
+ #8226; failed to apply the funding consistently with the SNSS guidelines and funding conditions (par 19), and
+ #8226; as a consequence of the respondent's failure to apply the SNSS funding appropriately, the appellant has received little or no benefit from the funding (par 20).</sentence>
 <sentence id="s159">
 
 53 The Magistrate set out these amongst other allegations, and at [44] of his reasons said that the respondent's submission was that the current state of the evidence was against the claims in pars 15 and 18 (wrongly rendered as 16, an allegation that was admitted) and that there was no evidence to support the significant claims in pars 19 and 20.</sentence>
@@ -432,7 +432,7 @@ See also Trufloor 232 ALR at [27] to [29].</sentence>
  (a) the documents shown to her at trial were evidence of planning by the respondent for the environment in which the care of the appellant and other children took place, and that she had not seen them before swearing her affidavit;
  (b) the respondent had behaved appropriately in preparing and sending to the appellant's parents a communication book showing what had been happening to the appellant on the days covered by the book;
  (c) the communications book was an appropriate way to let the parents know that the appellant had some integration with one of the therapists who cared for him;
- (d) this process taking place between the parent, the cr&egrave;che and the therapist was appropriate;
+ (d) this process taking place between the parent, the cregrave;che and the therapist was appropriate;
  (e) the strategies written up in the communications book were appropriate strategies to encourage the appellant to use his right side;
  (f) the respondent's staff notes show that appropriate strategies had been implemented to encourage the appellant to use his right side;
  (g) a portfolio compiled by the staff in the course of a year showed various activities carried out with and by the appellant, and was sent home with him at the end of the year;
@@ -441,7 +441,7 @@ See also Trufloor 232 ALR at [27] to [29].</sentence>
  (j) the plans showed that the appellant from time to time was part of a focused group, and was given tasks particular to his needs in relation to his right hand and more general needs, which plans and tasks were necessary because the appellant was not just a boy with hemiplegia but with a much broader spectrum of needs in the centre;
  (k) she had not had the benefit of examining the plans, communication book, portfolio and other documents she had been shown before giving her evidence in chief;
  (l) having seen the various documents she was satisfied that there had been a continual assessment and reflection on the appellant's needs;
- (m) the various documents show how the appellant has progressed over the course of the period he has been in the cr&egrave;che;
+ (m) the various documents show how the appellant has progressed over the course of the period he has been in the cregrave;che;
  (n) it would be inappropriate for the respondent to apply SNSS funding for the benefit of a specific child; rather it should be applied for the benefit of the child as part of the group he is with in the room, but not as an individual;
  (o) the object of the funding is to enable a child such as the appellant to participate in a program with other children so he can get additional help without the other children being disadvantaged.</sentence>
 <sentence id="s186">
@@ -450,10 +450,10 @@ See also Trufloor 232 ALR at [27] to [29].</sentence>
  
  (a) the appellant needed encouragement to use his right side;
  (b) during the period 2002 to 2005 inclusive the appellant has made significant progress in his right side handskill development, has much improved spontaneous use of his right hand, and his gross grasp grip has become very effective;
- (c) this improvement was due in part to the strategies Mr Hoare had put in place at Monash, but the only way the appellant could make significant progress is if those strategies are implemented on a day to day basis in his cr&egrave;che and home environment;
- (d) the appellant spent a minimal amount of time at Monash, the majority of his time being spent at the cr&egrave;che;
- (e) Mr Hoare had never been to the cr&egrave;che, but the appellant could not have made the significant process that he had over the four years if the cr&egrave;che had not implemented appropriate therapies on his right hand;
- (f) the therapies and activities carried out at the cr&egrave;che (eg completing manual puzzles, grasping a puzzle knob, throwing balls, rolling clay in both hands) were appropriate to encourage the appellant to use his right side.</sentence>
+ (c) this improvement was due in part to the strategies Mr Hoare had put in place at Monash, but the only way the appellant could make significant progress is if those strategies are implemented on a day to day basis in his cregrave;che and home environment;
+ (d) the appellant spent a minimal amount of time at Monash, the majority of his time being spent at the cregrave;che;
+ (e) Mr Hoare had never been to the cregrave;che, but the appellant could not have made the significant process that he had over the four years if the cregrave;che had not implemented appropriate therapies on his right hand;
+ (f) the therapies and activities carried out at the cregrave;che (eg completing manual puzzles, grasping a puzzle knob, throwing balls, rolling clay in both hands) were appropriate to encourage the appellant to use his right side.</sentence>
 <sentence id="s187">
 
 The Magistrate accepted this evidence.</sentence>
@@ -587,9 +587,9 @@ Ms Davison went on to say that "Even without a specific ISP, [the appellant] is 
 <sentence id="s293">79 The appellant then relied on the observation of Tadgell J in Protean [1985] VR at 238-239 that in deciding whether or not the general rule as to election should be followed, the Judge "will sometimes be assisted to know the basis on which the moving party seeks to rest his submission of no case".</sentence>
 <sentence id="s294">His Honour went on to distinguish three situations:
  
- &#8226; where the submission is that there is no evidence at all in support of the applicant's case
- &#8226; where although there is some evidence in support of the case, the Judge should not act on it because it is so unsatisfactory or inherently unreliable or equivocal that he should find that the burden of proof has not been discharged
- &#8226; a combination of the above.</sentence>
+ #8226; where the submission is that there is no evidence at all in support of the applicant's case
+ #8226; where although there is some evidence in support of the case, the Judge should not act on it because it is so unsatisfactory or inherently unreliable or equivocal that he should find that the burden of proof has not been discharged
+ #8226; a combination of the above.</sentence>
 <sentence id="s295">
 
 80 The appellant's contention was that the respondent had not made this "delineation" and accordingly had denied him procedural fairness.</sentence>
@@ -748,5 +748,13 @@ Dated: 10 August 2007
  URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/1182.html 
  
  </sentence>
+</sentences>
+</case>ce>
+</sentences>
+</case>ml 
+ 
+ </sentence>
+</sentences>
+</case>ce>
 </sentences>
 </case>

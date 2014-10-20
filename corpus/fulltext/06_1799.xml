@@ -3,9 +3,9 @@
 <name>Australian Competition and Consumer Commission v Liquorland (Australia) Pty Limited [2006] FCA 1799 (22 December 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1799.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">trade practices</catchphrase>
-<catchphrase "id=c1">penalty</catchphrase>
-<catchphrase "id=c2">trade and commerce</catchphrase>
+<catchphrase >trade practices</catchphrase>
+<catchphrase >penalty</catchphrase>
+<catchphrase >trade and commerce</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -207,7 +207,7 @@ and dealing with the contraventions constituted by the entry into and giving eff
  
 (a) dated 18 August 1997 with Jin Ro Australia Pty Ltd, Deannah Jang and the first respondent; and 
  
-(b) dated 1 March 2000 with Sandra May Hopkins, the Palms Shopping Village Pty Ltd, John Saunders, Malcolm Logan, Thomas Cahill, the first respondent and D &amp; D Haslam Pty Ltd
+(b) dated 1 March 2000 with Sandra May Hopkins, the Palms Shopping Village Pty Ltd, John Saunders, Malcolm Logan, Thomas Cahill, the first respondent and D amp; D Haslam Pty Ltd
  
 and dealing with the contraventions constituted by the entry into and giving effect to each deed separately as to each episode, the second respondent pay to the Commonwealth of Australia a pecuniary penalty in the sum of $1,750,000 in respect of each group of contraventions.</sentence>
 <sentence id="s154">3.</sentence>
@@ -257,4 +257,5 @@ Dated: 22 December 2006
  
  </sentence>
 </sentences>
-</case>
+</case>></sentences>
+</case>>

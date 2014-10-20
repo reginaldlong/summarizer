@@ -3,17 +3,17 @@
 <name>Lamb (Trustee), in the matter of Ariss (Bankrupt) v Ariss [2006] FCA 582 (18 May 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/582.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">mandatory injunction obtained ex parte upon giving of undertaking as to damages</catchphrase>
-<catchphrase "id=c1">injunction discharged for non-disclosure</catchphrase>
-<catchphrase "id=c2">whether discharge interlocutory or final</catchphrase>
-<catchphrase "id=c3">relevance of assessment of damages pursuant to undertaking</catchphrase>
-<catchphrase "id=c4">mandatory injunction obtained ex parte</catchphrase>
-<catchphrase "id=c5">injunction discharged for non-disclosure</catchphrase>
-<catchphrase "id=c6">application for leave to appeal, if leave be required, from discharge and stay pending appeal</catchphrase>
-<catchphrase "id=c7">whether leave should be granted</catchphrase>
-<catchphrase "id=c8">extent of obligation of party seeking order ex parte to make disclosure</catchphrase>
-<catchphrase "id=c9">practice and procedure</catchphrase>
-<catchphrase "id=c10">practice and procedure</catchphrase>
+<catchphrase >mandatory injunction obtained ex parte upon giving of undertaking as to damages</catchphrase>
+<catchphrase >injunction discharged for non-disclosure</catchphrase>
+<catchphrase >whether discharge interlocutory or final</catchphrase>
+<catchphrase >relevance of assessment of damages pursuant to undertaking</catchphrase>
+<catchphrase >mandatory injunction obtained ex parte</catchphrase>
+<catchphrase >injunction discharged for non-disclosure</catchphrase>
+<catchphrase >application for leave to appeal, if leave be required, from discharge and stay pending appeal</catchphrase>
+<catchphrase >whether leave should be granted</catchphrase>
+<catchphrase >extent of obligation of party seeking order ex parte to make disclosure</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -317,8 +317,8 @@ By order of this Court, the orders in sub-paras (b), (d) and (f) have been staye
 <sentence id="s160">17 Notwithstanding that restoration, the real issue between the parties --- namely, who owns the property the subject of the mandatory injunction --- has not been finally determined.</sentence>
 <sentence id="s161">On its own, the discharge of the mandatory injunction does not preclude the applicant from:
  
- &#8226; moving the Federal Magistrates Court (or, indeed, this Court) for another mandatory injunction in the same terms; or
- &#8226; commencing a proceeding in this Court claiming ownership of the property the subject of the mandatory injunction.</sentence>
+ #8226; moving the Federal Magistrates Court (or, indeed, this Court) for another mandatory injunction in the same terms; or
+ #8226; commencing a proceeding in this Court claiming ownership of the property the subject of the mandatory injunction.</sentence>
 <sentence id="s162">
 
 Indeed, the applicant has taken the latter course of action --- though in that proceeding he also claims ownership of additional property not the subject of the mandatory injunction.</sentence>
@@ -341,7 +341,7 @@ Needless to say, the circumstances in this case are quite different to those in 
 <sentence id="s174">SHOULD LEAVE TO APPEAL BE GRANTED?</sentence>
 <sentence id="s175">
  
-20 The question whether leave to appeal should be granted falls to be determined according to the criteria set down by the Full Court in D&eacute;cor Corporation Pty Ltd v Dart Industries Inc (1991) 33 FCR 397.</sentence>
+20 The question whether leave to appeal should be granted falls to be determined according to the criteria set down by the Full Court in Deacute;cor Corporation Pty Ltd v Dart Industries Inc (1991) 33 FCR 397.</sentence>
 <sentence id="s176">First, whether the impugned decision is attended with sufficient doubt to warrant its reconsideration.</sentence>
 <sentence id="s177">Secondly, whether substantial injustice would result if leave were not granted, supposing that the impugned decision was wrong.</sentence>
 <sentence id="s178">21 The applicant, by his submissions, contends that:
@@ -463,8 +463,8 @@ Needless to say, the circumstances in this case are quite different to those in 
 <sentence id="s229">The Magistrate's reference to "all the evidence then known " (emphasis added) shows that the Magistrate was engaging in the comparison.</sentence>
 <sentence id="s230">That is further shown by his statements that the material before him on 23 December 2005 was:
  
- &#8226; "incomplete and ... had the effect of misleading the court in relation to the true state of the evidence which had been given by the bankrupt on the previous day " (para 44); and
- &#8226; "inadequate and misleading ... in relation to the full extent of the evidence given concerning a crucial issue of significance to the court's deliberation , based upon the ... evidence of the previous day's ... examination " (para 48).</sentence>
+ #8226; "incomplete and ... had the effect of misleading the court in relation to the true state of the evidence which had been given by the bankrupt on the previous day " (para 44); and
+ #8226; "inadequate and misleading ... in relation to the full extent of the evidence given concerning a crucial issue of significance to the court's deliberation , based upon the ... evidence of the previous day's ... examination " (para 48).</sentence>
 <sentence id="s231">
 
 (The emphases are mine.</sentence>
@@ -483,9 +483,9 @@ In each of the two paras preceding the one I have just quoted, the Magistrate sa
 <sentence id="s239">I can see no circumstance in this case that makes that proposition of especial significance.</sentence>
 <sentence id="s240">28 The Magistrate's decision is not attended with sufficient doubt to warrant its reconsideration.</sentence>
 <sentence id="s241">I do not think it necessary to go on to consider whether substantial injustice would result if leave were not granted, supposing that the Magistrate's decision was wrong.</sentence>
-<sentence id="s242">The two limbs of the test in D&eacute;cor Corporation cannot be considered in isolation from one another: see D&eacute;cor Corporation at 398-399.</sentence>
+<sentence id="s242">The two limbs of the test in Deacute;cor Corporation cannot be considered in isolation from one another: see Deacute;cor Corporation at 398-399.</sentence>
 <sentence id="s243">The prospect that an appeal, if leave were granted, would be successful is so remote that it would be artificial to suppose that the decision below is wrong.</sentence>
-<sentence id="s244">See Applicant VMAO v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2005] FCA 427 at [22] .</sentence>
+<sentence id="s244">See Applicant VMAO v Minister for Immigration amp; Multicultural amp; Indigenous Affairs [2005] FCA 427 at [22] .</sentence>
 <sentence id="s245">IS THE APPLICANT ENTITLED TO A STAY?</sentence>
 <sentence id="s246">
  
@@ -525,4 +525,10 @@ Dated: 18 May 2006
  
  </sentence>
 </sentences>
+</case>>
+</case>u/au/cases/cth/FCA/2006/582.html 
+ 
+ </sentence>
+</sentences>
+</case>>
 </case>

@@ -3,18 +3,18 @@
 <name>Australian Competition and Consumer Commission v IPM Operation and Maintenance Loy Yang Pty Ltd (No 3) [2007] FCA 144 (9 March 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/144.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">restrictive trade practices</catchphrase>
-<catchphrase "id=c1">prohibition of arrangements affecting the acquisition of goods or services</catchphrase>
-<catchphrase "id=c2">where first respondent entered into and gave effect to an arrangement with second respondent that it would not engage the services of electrical subcontractors which did not have certified industrial agreements with the second respondent</catchphrase>
-<catchphrase "id=c3">pecuniary penalty</catchphrase>
-<catchphrase "id=c4">penalties under s 76 of the trade practices act 1974 (cth) for contraventions of part iv</catchphrase>
-<catchphrase "id=c5">effect of joint submissions from parties proposing particular orders</catchphrase>
-<catchphrase "id=c6">relevant factors in determining level of penalty</catchphrase>
-<catchphrase "id=c7">application of parity principle where penalty already imposed on co-offender</catchphrase>
-<catchphrase "id=c8">object of ensuring compliance with the act by deterrence</catchphrase>
-<catchphrase "id=c9">jointly proposed penalty deemed appropriate</catchphrase>
-<catchphrase "id=c10">trade practices</catchphrase>
-<catchphrase "id=c11">trade practices</catchphrase>
+<catchphrase >restrictive trade practices</catchphrase>
+<catchphrase >prohibition of arrangements affecting the acquisition of goods or services</catchphrase>
+<catchphrase >where first respondent entered into and gave effect to an arrangement with second respondent that it would not engage the services of electrical subcontractors which did not have certified industrial agreements with the second respondent</catchphrase>
+<catchphrase >pecuniary penalty</catchphrase>
+<catchphrase >penalties under s 76 of the trade practices act 1974 (cth) for contraventions of part iv</catchphrase>
+<catchphrase >effect of joint submissions from parties proposing particular orders</catchphrase>
+<catchphrase >relevant factors in determining level of penalty</catchphrase>
+<catchphrase >application of parity principle where penalty already imposed on co-offender</catchphrase>
+<catchphrase >object of ensuring compliance with the act by deterrence</catchphrase>
+<catchphrase >jointly proposed penalty deemed appropriate</catchphrase>
+<catchphrase >trade practices</catchphrase>
+<catchphrase >trade practices</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -233,11 +233,11 @@ See also Minister for Industry, Tourism and Resources v Mobil Oil Australia Pty 
 <sentence id="s105">No issue arises as to Edison's capacity to pay the proposed penalty.</sentence>
 <sentence id="s106">15 I have taken into account, in Edison's favour, the following matters:
  
-&#8226; Edison ceased to enforce its agreement with the CEPU immediately it was advised, by the ACCC, that its conduct may have contravened the Act .</sentence>
-<sentence id="s107">&#8226; Edison's cooperation with the ensuing ACCC enquiry.</sentence>
-<sentence id="s108">&#8226; Edison's readiness to admit the contraventions and the related avoidance of legal costs.</sentence>
-<sentence id="s109">&#8226; The absence of any previous contraventions of the Act which had come to the attention of the ACCC or its predecessor.</sentence>
-<sentence id="s110">&#8226; The introduction by Edison of an extensive ongoing compliance programme with a view to ensuring that its managers and other employees are aware of the provisions of the Act insofar as they impinge on the company's business operations.</sentence>
+#8226; Edison ceased to enforce its agreement with the CEPU immediately it was advised, by the ACCC, that its conduct may have contravened the Act .</sentence>
+<sentence id="s107">#8226; Edison's cooperation with the ensuing ACCC enquiry.</sentence>
+<sentence id="s108">#8226; Edison's readiness to admit the contraventions and the related avoidance of legal costs.</sentence>
+<sentence id="s109">#8226; The absence of any previous contraventions of the Act which had come to the attention of the ACCC or its predecessor.</sentence>
+<sentence id="s110">#8226; The introduction by Edison of an extensive ongoing compliance programme with a view to ensuring that its managers and other employees are aware of the provisions of the Act insofar as they impinge on the company's business operations.</sentence>
 <sentence id="s111">16 In all the circumstances, I considered that the penalty agreed on by the parties fell within the proper range and should be imposed by the Court
  
  
@@ -246,7 +246,7 @@ See also Minister for Industry, Tourism and Resources v Mobil Oil Australia Pty 
 
 Dated: 9 March 2007
 
- Counsel for the Applicant: Mr N O'Bryan SC &amp; Mr P Gray 
+ Counsel for the Applicant: Mr N O'Bryan SC amp; Mr P Gray 
  
  Solicitor for the Applicant: Australian Government Solicitor 
  
@@ -266,4 +266,8 @@ Dated: 9 March 2007
  
  </sentence>
 </sentences>
-</case>
+</case>/case>stlii.edu.au/au/cases/cth/FCA/2007/144.html 
+ 
+ </sentence>
+</sentences>
+</case>/case>

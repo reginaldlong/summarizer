@@ -3,16 +3,16 @@
 <name>Ex Christmas Islanders Association Inc v The Attorney-General for the Commonwealth [2006] FCA 671 (31 May 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/671.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">legal practitioner</catchphrase>
-<catchphrase "id=c1">award of costs against practitioner personally</catchphrase>
-<catchphrase "id=c2">applicable principles</catchphrase>
-<catchphrase "id=c3">incompetent preparation and presentation of application</catchphrase>
-<catchphrase "id=c4">unarguable application</catchphrase>
-<catchphrase "id=c5">failure to consider essential issues of law and fact</catchphrase>
-<catchphrase "id=c6">serious dereliction of duty</catchphrase>
-<catchphrase "id=c7">applicable principles</catchphrase>
-<catchphrase "id=c8">costs award against practitioner</catchphrase>
-<catchphrase "id=c9">costs</catchphrase>
+<catchphrase >legal practitioner</catchphrase>
+<catchphrase >award of costs against practitioner personally</catchphrase>
+<catchphrase >applicable principles</catchphrase>
+<catchphrase >incompetent preparation and presentation of application</catchphrase>
+<catchphrase >unarguable application</catchphrase>
+<catchphrase >failure to consider essential issues of law and fact</catchphrase>
+<catchphrase >serious dereliction of duty</catchphrase>
+<catchphrase >applicable principles</catchphrase>
+<catchphrase >costs award against practitioner</catchphrase>
+<catchphrase >costs</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -129,7 +129,7 @@ The respondent was to file written submissions on the question of costs by 28 Ma
 <sentence id="s52">The latter rule authorises costs against practitioners as a specific application of the discretion to award costs conferred by the Act.</sentence>
 <sentence id="s53">The power is to be exercised with care and in clear cases only in which there has been conduct on the part of the solicitor which amounts to a serious dereliction of duty --- De Sousa v Minister for Immigration, Local Government and Ethnic Affairs (1993) 41 FCR 544 at 548.</sentence>
 <sentence id="s54">Unreasonable conduct in connection with the litigation may be sufficient to justify such an order.</sentence>
-<sentence id="s55">That criterion was described by Goldberg J in White Industries (Qld) Pty Ltd v Flower &amp; Hart (a firm) (1998) 156 ALR 169 at 236 as: 
+<sentence id="s55">That criterion was described by Goldberg J in White Industries (Qld) Pty Ltd v Flower amp; Hart (a firm) (1998) 156 ALR 169 at 236 as: 
  
  '... some deliberate or conscious decision taken by reference to circumstances unrelated to the prospects of success with either a recognition that there is no chance of success but an intention to use the proceeding for an ulterior purpose or with a disregard of any proper consideration of the prospects of success.</sentence>
 <sentence id="s56">' (emphasis added)
@@ -185,7 +185,7 @@ Nevertheless Mansfield J found, in the concurring judgment of Williams JA, a qua
 <sentence id="s81">That power was widened and extended to both solicitors and barristers by the enactment, in 1990, of a new s 51 of the Supreme Court Act 1981 (UK) providing for what are called 'wasted costs' orders.</sentence>
 <sentence id="s82">Some of the case law in this area is based upon rules of court predating that change which are similar in terms to O 62 r 9.</sentence>
 <sentence id="s83">Like rules are to be found in the State Supreme Courts --- see the detailed discussion by McColl JA in Lemoto at 319-320.</sentence>
-<sentence id="s84">17 The power to award costs against a legal practitioner under O 62 r 9 was recently considered by Weinberg J in Tran v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs (No 2) [2006] FCA 199.</sentence>
+<sentence id="s84">17 The power to award costs against a legal practitioner under O 62 r 9 was recently considered by Weinberg J in Tran v Minister for Immigration amp; Multicultural amp; Indigenous Affairs (No 2) [2006] FCA 199.</sentence>
 <sentence id="s85">In that case his Honour delivered judgment refusing an application for an extension of time within which to appeal against a decision of a Federal Magistrate.</sentence>
 <sentence id="s86">The question with which his Honour dealt in his subsequent judgment in the matter was whether the applicant's solicitor should be ordered, under O 62 r 9(1)(c) of the Federal Court Rules , to repay to the applicant some portion of the costs that the applicant had been ordered to pay to the respondent.</sentence>
 <sentence id="s87">18 Weinberg J drew a distinction between the approach taken by the Full Federal Court in Levick and that taken by the Queensland Court of Appeal in Steindl.</sentence>
@@ -338,4 +338,8 @@ Mr JD Allanson Solicitor for the Respondent: Australian Government Solicitor
  
  </sentence>
 </sentences>
-</case>
+</case>se>au/cases/cth/FCA/2006/671.html 
+ 
+ </sentence>
+</sentences>
+</case>se>

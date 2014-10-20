@@ -3,12 +3,12 @@
 <name>Australian Competition and Consumer Commission v Barton Mines (Corrigendum dated 24 November 2006) [2006] FCA 1264 (22 September 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1264.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">restrictive trade practices</catchphrase>
-<catchphrase "id=c1">exclusionary provision</catchphrase>
-<catchphrase "id=c2">penalties under s 76 of the trade practices act (cth) for contraventions of part iv</catchphrase>
-<catchphrase "id=c3">effect of agreement between the parties on joint submissions proposing particular orders</catchphrase>
-<catchphrase "id=c4">object of ensuring compliance with the act by deterrence</catchphrase>
-<catchphrase "id=c5">trade practices</catchphrase>
+<catchphrase >restrictive trade practices</catchphrase>
+<catchphrase >exclusionary provision</catchphrase>
+<catchphrase >penalties under s 76 of the trade practices act (cth) for contraventions of part iv</catchphrase>
+<catchphrase >effect of agreement between the parties on joint submissions proposing particular orders</catchphrase>
+<catchphrase >object of ensuring compliance with the act by deterrence</catchphrase>
+<catchphrase >trade practices</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -57,14 +57,14 @@
 
 12 I have concluded that, in the present proceeding the penalties proposed are appropriate having regard to these principles and to the following considerations which are peculiar to this case, namely:
  
- &#8226; The Respondents admitted the contraventions and cooperated with the Commission in the ensuing enquiry.</sentence>
-<sentence id="s37">&#8226; The Respondents cooperated in the negotiation of a settlement.</sentence>
-<sentence id="s38">&#8226; The Respondents had not previously been involved in any alleged contraventions of Part IV of the Act.</sentence>
-<sentence id="s39">&#8226; The financial position of the Respondents.</sentence>
-<sentence id="s40">&#8226; Although it is admitted that the arrangement was entered into, no allegation has been made that any third party suffered specific loss or damage as a result of the two Respondents giving effect to the policy.</sentence>
-<sentence id="s41">&#8226; Whilst it has been agreed that the parties entered the arrangement consciously and deliberately for commercial purposes, it is not alleged that the First and Second Respondents were conscious that the terms of the arrangements contravened the Act.</sentence>
-<sentence id="s42">&#8226; The principal negotiators for each of the First and Second Respondents were both resident in the United States of America at the time at which the arrangement was entered into.</sentence>
-<sentence id="s43">&#8226; The amount of the penalties, in my view, is, in each case, sufficient to have a deterrent effect on both the First and Second Respondents and other corporations.</sentence>
+ #8226; The Respondents admitted the contraventions and cooperated with the Commission in the ensuing enquiry.</sentence>
+<sentence id="s37">#8226; The Respondents cooperated in the negotiation of a settlement.</sentence>
+<sentence id="s38">#8226; The Respondents had not previously been involved in any alleged contraventions of Part IV of the Act.</sentence>
+<sentence id="s39">#8226; The financial position of the Respondents.</sentence>
+<sentence id="s40">#8226; Although it is admitted that the arrangement was entered into, no allegation has been made that any third party suffered specific loss or damage as a result of the two Respondents giving effect to the policy.</sentence>
+<sentence id="s41">#8226; Whilst it has been agreed that the parties entered the arrangement consciously and deliberately for commercial purposes, it is not alleged that the First and Second Respondents were conscious that the terms of the arrangements contravened the Act.</sentence>
+<sentence id="s42">#8226; The principal negotiators for each of the First and Second Respondents were both resident in the United States of America at the time at which the arrangement was entered into.</sentence>
+<sentence id="s43">#8226; The amount of the penalties, in my view, is, in each case, sufficient to have a deterrent effect on both the First and Second Respondents and other corporations.</sentence>
 <sentence id="s44">
 
 13 For these reasons the proposed Directions and Orders will be made.</sentence>
@@ -311,12 +311,12 @@ In addition, there are similar mining operations in Canada, Chile, the Czech Rep
 62 The Perth Arrangement was entered into on behalf of Barton Mines, BJVC and BLA by Charles Bracken, the Chairman of Barton Mines, and James Nash, President of BLA (subsequently Barton International), both of who reside and are based in the United states of America.</sentence>
 <sentence id="s138">The arrangement was also approved by the board of directors of Barton Mines, the members of which also reside and work in the United States of America.</sentence>
 <sentence id="s139">63 At the time the Perth Arrangement was entered into, the Barton Group had no employees in Australia, and only one full time and three part time employees thereafter.</sentence>
-<sentence id="s140">64 Details of the acquisition and revised distribution arrangements were published shortly after the Perth Agreement was entered into on websites operated by GMA, GMAGE and Jebsen &amp; Jessen (GmbH &amp; Co) KG ( Jebsen &amp; Jessen ) (a company controlled by two of the GIRL directors).</sentence>
+<sentence id="s140">64 Details of the acquisition and revised distribution arrangements were published shortly after the Perth Agreement was entered into on websites operated by GMA, GMAGE and Jebsen amp; Jessen (GmbH amp; Co) KG ( Jebsen amp; Jessen ) (a company controlled by two of the GIRL directors).</sentence>
 <sentence id="s141">The GMA website contained a world map which directed customers to GIRL, GMA or Barton according to the allocated distribution areas.</sentence>
 <sentence id="s142">The GMAGE website stated that GMA Garnet 'will henceforth be distributed by GIRL in Europe, the Middle East, South East Asia and Africa' and that 'The Barton Group will control distribution in North Asia, Eastern Australia as well as North and South America.</sentence>
-<sentence id="s143">' The Jebsen &amp; Jessen website referred to the acquisition and distribution in the following terms:
+<sentence id="s143">' The Jebsen amp; Jessen website referred to the acquisition and distribution in the following terms:
  
- Early this year, the shareholders of Jebsen &amp; Jessen Hamburg together with their partner in GMA Garnet Europe formed a holding company Garnet International Resources Pty Ltd (GIRL) in Perth, Western Australia.</sentence>
+ Early this year, the shareholders of Jebsen amp; Jessen Hamburg together with their partner in GMA Garnet Europe formed a holding company Garnet International Resources Pty Ltd (GIRL) in Perth, Western Australia.</sentence>
 <sentence id="s144">Effective April 1, 2002, GIRL acquired a 50% stake in GMA Garnet Australia, which owns and operates the mine and processing facilities where GMA Garnet is produced.</sentence>
 <sentence id="s145">GMA's facilities are located five hundred kilometres north of Perth.</sentence>
 <sentence id="s146">The Barton Group, a US-based leader in industrial garnet abrasives, holds the remaining 50% of GMA Garnet Australia.</sentence>
@@ -361,4 +361,8 @@ In addition, there are similar mining operations in Canada, Chile, the Czech Rep
  
  </sentence>
 </sentences>
+</case>nces>
+</case>entence>
+</sentences>
+</case>nces>
 </case>

@@ -3,14 +3,14 @@
 <name>Taylor v Telstra Corporation Ltd [2007] FCA 2008 (13 December 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/2008.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">representative proceeding</catchphrase>
-<catchphrase "id=c1">court approval of settlement</catchphrase>
-<catchphrase "id=c2">fairness and reasonableness of terms of settlement</catchphrase>
-<catchphrase "id=c3">objections to settlement</catchphrase>
-<catchphrase "id=c4">alternative outcomes</catchphrase>
-<catchphrase "id=c5">independent assessment of reasonableness of legal fees</catchphrase>
-<catchphrase "id=c6">exclusion of certain group members from settlement</catchphrase>
-<catchphrase "id=c7">practice and procedure</catchphrase>
+<catchphrase >representative proceeding</catchphrase>
+<catchphrase >court approval of settlement</catchphrase>
+<catchphrase >fairness and reasonableness of terms of settlement</catchphrase>
+<catchphrase >objections to settlement</catchphrase>
+<catchphrase >alternative outcomes</catchphrase>
+<catchphrase >independent assessment of reasonableness of legal fees</catchphrase>
+<catchphrase >exclusion of certain group members from settlement</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -22,10 +22,10 @@
 <sentence id="s1">2 In accordance with cl 5 of the Deed of Settlement dated 9 November 2007 between, inter alia, Mr Taylor and Telstra Corporation Ltd ("Telstra"), Telstra consents to the orders sought in the notice of motion.</sentence>
 <sentence id="s2">3 In support of the application for approval of the settlement, Mr Taylor relies upon the following:
  
- &#8226; an open affidavit of Mr Kenneth John Fowlie sworn 9 November 2007;
- &#8226; a confidential affidavit of Mr Kenneth John Fowlie, also sworn 9 November 2007;
- &#8226; an affidavit of Mr Alan Maxwell Thompson sworn 8 November 2007; and
- &#8226; a further open affidavit of Mr Kenneth John Fowlie sworn 10 December 2007.</sentence>
+ #8226; an open affidavit of Mr Kenneth John Fowlie sworn 9 November 2007;
+ #8226; a confidential affidavit of Mr Kenneth John Fowlie, also sworn 9 November 2007;
+ #8226; an affidavit of Mr Alan Maxwell Thompson sworn 8 November 2007; and
+ #8226; a further open affidavit of Mr Kenneth John Fowlie sworn 10 December 2007.</sentence>
 <sentence id="s3">
 
 
@@ -55,10 +55,10 @@
 <sentence id="s23">Further amendments were made to the pleadings in light of the judgment of Gyles J and the result was that the causes of action are now pleaded in the second further amended application and second further amended statement of claim.</sentence>
 <sentence id="s24">13 The group is defined in the statement of claim as those persons who:
  
- &#8226; purchased shares in Telstra between (and including) 11 August 2005 and 6 September 2005;
- &#8226; at the time of purchase in the shares believed that the price paid for shares was not falsely inflated by reason of any non-disclosure to the market by Telstra of material information;
- &#8226; did not, on or before 6 September, resell those shares at a price equal to or greater than the price for which they were purchased; and
- &#8226; suffered a loss.</sentence>
+ #8226; purchased shares in Telstra between (and including) 11 August 2005 and 6 September 2005;
+ #8226; at the time of purchase in the shares believed that the price paid for shares was not falsely inflated by reason of any non-disclosure to the market by Telstra of material information;
+ #8226; did not, on or before 6 September, resell those shares at a price equal to or greater than the price for which they were purchased; and
+ #8226; suffered a loss.</sentence>
 <sentence id="s25">
 
 
@@ -74,7 +74,7 @@
  
 16 The applicant's lay evidence consisted of an affidavit of Mr Taylor attaching copies of documents confirming his share transactions.</sentence>
 <sentence id="s33">That affidavit was served on 26 April 2007.</sentence>
-<sentence id="s34">17 Telstra's lay evidence comprised statements of Mr Solomon Trujillo, who is the Chief Executive Officer of Telstra, Mr John Stanhope, the Chief Financial Officer, Mr Gregory Winn, the Chief Operations Officer, and Mr Andrew Klein, a partner in Bain &amp; Co. Those affidavits were served on 18 June 2007.</sentence>
+<sentence id="s34">17 Telstra's lay evidence comprised statements of Mr Solomon Trujillo, who is the Chief Executive Officer of Telstra, Mr John Stanhope, the Chief Financial Officer, Mr Gregory Winn, the Chief Operations Officer, and Mr Andrew Klein, a partner in Bain amp; Co. Those affidavits were served on 18 June 2007.</sentence>
 <sentence id="s35">Telstra's lay evidence as contained in those statements comprised nine lever arch folders of material.</sentence>
 <sentence id="s36">A supplementary statement from Mr Stanhope comprising one further lever arch folder of material was served on 22 October 2007.</sentence>
 <sentence id="s37">18 The thrust of Telstra's lay evidence is to the effect that the information was conveyed at the meeting at an early stage of an extensive strategic review and thus did not represent a concluded view reached by Mr Trujillo.</sentence>
@@ -124,7 +124,7 @@
 <sentence id="s71">The Proposed Settlement Scheme 
  
 33 The proposed settlement scheme is set out in Mr Fowlie's open affidavit of 9 November 2007 and I will record the terms as set out in Mr Fowlie's affidavit.</sentence>
-<sentence id="s72">34 Mr Taylor on behalf of group members seeks approval for a settlement of the proceeding resulting in Telstra paying a total sum of $5,000,000 into an interest-bearing account to be maintained by Messrs Slater &amp; Gordon who are the solicitors for the applicant.</sentence>
+<sentence id="s72">34 Mr Taylor on behalf of group members seeks approval for a settlement of the proceeding resulting in Telstra paying a total sum of $5,000,000 into an interest-bearing account to be maintained by Messrs Slater amp; Gordon who are the solicitors for the applicant.</sentence>
 <sentence id="s73">35 The settlement sum is essentially divided into three parts.</sentence>
 <sentence id="s74">The first part will be directed to meeting the legal costs and disbursements of the applicant.</sentence>
 <sentence id="s75">The total amount sought is $1.25 million.</sentence>
@@ -143,23 +143,23 @@
 <sentence id="s88">40 I have evidence before me as to the exclusion from the settlement of persons who purchased shares on 11 August or 5 and 6 September 2005 or who purchased shares between 12 August 2005 and 2 September 2005 but who sold those shares before 6 September 2005.</sentence>
 <sentence id="s89">I will refer to that evidence later.</sentence>
 <sentence id="s90">41 Mr Fowlie described the means of participating in the settlement scheme.</sentence>
-<sentence id="s91">A significant part of the strategy is the requirement, as much as is practicable, that persons seeking to make a claim do so by completing a web-based proof of claim form which will be located on a webpage hosted by Slater &amp; Gordon to be found at www.slatergordon.com.au/pages/telstrasettlement.aspx.</sentence>
-<sentence id="s92">If a person is unable to access the webpage, that person will be able to contact Slater &amp; Gordon who will arrange for a proof of claim form to be provided to them.</sentence>
+<sentence id="s91">A significant part of the strategy is the requirement, as much as is practicable, that persons seeking to make a claim do so by completing a web-based proof of claim form which will be located on a webpage hosted by Slater amp; Gordon to be found at www.slatergordon.com.au/pages/telstrasettlement.aspx.</sentence>
+<sentence id="s92">If a person is unable to access the webpage, that person will be able to contact Slater amp; Gordon who will arrange for a proof of claim form to be provided to them.</sentence>
 <sentence id="s93">42 Each person who wishes to participate in the scheme will be obliged within 49 days of approval to provide certain information in the proof of claim form.</sentence>
 <sentence id="s94">It is unnecessary to set out the information but it is basically concerned with the identity of the eligible claimant and bank details to permit electronic funds transfer of the relevant proportions to the bank account.</sentence>
 <sentence id="s95">If a participant does not wish to or is unable to provide such details, provision is made for a payment to be made by a cheque to that person.</sentence>
 <sentence id="s96">43 The participant will be obliged to accept certain conditions of participation.</sentence>
-<sentence id="s97">Essentially, they are that so long as the scheme is administered in accordance with its terms, the decision of Slater &amp; Gordon with respect to eligibility and the amounts of any distribution from the settlement fund is final.</sentence>
+<sentence id="s97">Essentially, they are that so long as the scheme is administered in accordance with its terms, the decision of Slater amp; Gordon with respect to eligibility and the amounts of any distribution from the settlement fund is final.</sentence>
 <sentence id="s98">Further conditions are that a participant is authorised to submit the claim on behalf of the legal owner of the shares, that the information within the proof of claim is correct, and that participant meets the definition of group member and eligible claimant.</sentence>
 <sentence id="s99">44 Link will prepare a schedule listing by shareholder, listing all purchasers of Telstra shares during the eligible period.</sentence>
-<sentence id="s100">The data collected by Slater &amp; Gordon through the proof of claim process will be provided to Link by way of a proof of claim schedule.</sentence>
+<sentence id="s100">The data collected by Slater amp; Gordon through the proof of claim process will be provided to Link by way of a proof of claim schedule.</sentence>
 <sentence id="s101">Link will compare the schedule with the registered transaction schedule and compile a confirmed transaction schedule which will comprise all transactions except for those referrable to persons who are listed as having opted out of the proceedings that appeared on the schedules.</sentence>
 <sentence id="s102">45 There may be some complications due to intra-day purchases by institutions that are not separately recorded by Link.</sentence>
-<sentence id="s103">The scheme provides for Slater &amp; Gordon to review unrecorded transactions and request documents to support them and to determine whether they are eligible to participate.</sentence>
+<sentence id="s103">The scheme provides for Slater amp; Gordon to review unrecorded transactions and request documents to support them and to determine whether they are eligible to participate.</sentence>
 <sentence id="s104">46 There may also be instances of persons incorrectly entering data.</sentence>
-<sentence id="s105">The scheme provides for Slater &amp; Gordon to request supporting documentation and to determine whether the persons are eligible to participate.</sentence>
-<sentence id="s106">47 Under the scheme, Slater &amp; Gordon are authorised to add to the confirmed transaction schedules those unrecorded transactions that the firm satisfies itself to be in respect of purchases of eligible shares.</sentence>
-<sentence id="s107">The scheme also requires Slater &amp; Gordon to communicate by letter with each person who submitted a proof of claim but has been determined to be ineligible.</sentence>
+<sentence id="s105">The scheme provides for Slater amp; Gordon to request supporting documentation and to determine whether the persons are eligible to participate.</sentence>
+<sentence id="s106">47 Under the scheme, Slater amp; Gordon are authorised to add to the confirmed transaction schedules those unrecorded transactions that the firm satisfies itself to be in respect of purchases of eligible shares.</sentence>
+<sentence id="s107">The scheme also requires Slater amp; Gordon to communicate by letter with each person who submitted a proof of claim but has been determined to be ineligible.</sentence>
 <sentence id="s108">48 Participating claimants will be entitled to payment of a sum calculated in accordance with a formula.</sentence>
 <sentence id="s109">The formula is recorded in [53] of Mr Fowlie's open affidavit of 9 November 2007.</sentence>
 <sentence id="s110">That formula is:
@@ -188,7 +188,7 @@
 <sentence id="s124">The second is that the fees payable are too high.</sentence>
 <sentence id="s125">The third is said to be that there is provision in the settlement deed for destruction of certain documents.</sentence>
 <sentence id="s126">The fourth is as to the exclusion of some shareholders as eligible participants in the settlement, notwithstanding that they fell within the definition of the group contained in the statement of claim.</sentence>
-<sentence id="s127">55 Messrs Slater &amp; Gordon represent 223 members of the group.</sentence>
+<sentence id="s127">55 Messrs Slater amp; Gordon represent 223 members of the group.</sentence>
 <sentence id="s128">That is to say 223 clients have retained that firm to represent them in the proceedings.</sentence>
 <sentence id="s129">One of the clients lodged two separate notices of objection.</sentence>
 <sentence id="s130">The reason there are two notices is that there are two separate legal owners of the shares.</sentence>
@@ -259,15 +259,15 @@
 <sentence id="s156">70 As I said previously, the first objection is as to the amount of the settlement.</sentence>
 <sentence id="s157">In my view the matters which point in favour of the fairness and reasonableness of the amount are four-fold: (i) there were arm's length negotiations between the applicant and the respondent; (ii) the evidence establishes that the amount which has been offered was the best amount that could be achieved on a negotiated basis; (iii) the only alternative to accepting the settlement offered by Telstra was for Mr Taylor to run the proceedings with the inherent risks of such a procedure; and (iv) the risks included the possibility of an adverse costs order.</sentence>
 <sentence id="s158">71 As I have said earlier, Jessup J in Darwalla drew attention to the approach which the Court should take, namely that the Court should take the legal advisers as it finds them.</sentence>
-<sentence id="s159">Of course, that is a matter which has bearing in relation to the members of the group who retained Slater &amp; Gordon, but it does seem to me also to be a matter which I ought to take into account in considering the fairness and reasonableness of the settlement proposal.</sentence>
+<sentence id="s159">Of course, that is a matter which has bearing in relation to the members of the group who retained Slater amp; Gordon, but it does seem to me also to be a matter which I ought to take into account in considering the fairness and reasonableness of the settlement proposal.</sentence>
 <sentence id="s160">72 The second objection was as to the fees that are payable.</sentence>
 <sentence id="s161">I have considered the evidence of Mr Thompson who is an independent and accredited costs assessor.</sentence>
 <sentence id="s162">He is the principal of the firm known as Blackstone Legal Costing Pty Ltd.</sentence>
 <sentence id="s163">He has assessed the costs as fair and reasonable.</sentence>
-<sentence id="s164">It should be noted that Mr Thompson points out that the actual professional costs incurred by Messrs Slater &amp; Gordon exceed the amount that has been claimed.</sentence>
-<sentence id="s165">Moreover, although Slater &amp; Gordon have undertaken work in relation to the files of the 223 group members who retained them, the firm will not be charging costs for that work.</sentence>
+<sentence id="s164">It should be noted that Mr Thompson points out that the actual professional costs incurred by Messrs Slater amp; Gordon exceed the amount that has been claimed.</sentence>
+<sentence id="s165">Moreover, although Slater amp; Gordon have undertaken work in relation to the files of the 223 group members who retained them, the firm will not be charging costs for that work.</sentence>
 <sentence id="s166">The estimate of the amount of those costs would be in excess of $100,000.</sentence>
-<sentence id="s167">Slater &amp; Gordon will incur irrecoverable costs in administering the settlement.</sentence>
+<sentence id="s167">Slater amp; Gordon will incur irrecoverable costs in administering the settlement.</sentence>
 <sentence id="s168">They have not charged a success fee or any uplift in their fees nor have they charged for disbursements including overseas calls.</sentence>
 <sentence id="s169">73 Although the amount of the costs looked at in isolation seems to be a large figure, it is necessary to take into account the stage at which the settlement has been reached.</sentence>
 <sentence id="s170">It is evident from the evidence that has been filed and the fact that settlement was reached only about two weeks before the hearing that a substantial amount of work has gone into the preparation of the case.</sentence>
@@ -306,7 +306,7 @@ Dated: 20 December 2007
 
  Counsel for the Applicant: S Gageler SC, with F Kunc SC and N J Beaumont 
  
- Solicitor for the Applicant: Slater &amp; Gordon 
+ Solicitor for the Applicant: Slater amp; Gordon 
  
  Counsel for the Respondent: T Bathurst QC with P Brereton 
  
@@ -325,5 +325,11 @@ Dated: 20 December 2007
  URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/2008.html 
  
  </sentence>
+</sentences>
+</case>ce>
+</sentences>
+</case></sentence>
+</sentences>
+</case>ce>
 </sentences>
 </case>

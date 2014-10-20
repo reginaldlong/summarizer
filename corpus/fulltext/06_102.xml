@@ -3,14 +3,14 @@
 <name>Gidley, in the matter of Aliance Motor Body Pty Limited (Subject to Deed of Company Arrangeme [2006] FCA 102 (16 February 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/102.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">administration</catchphrase>
-<catchphrase "id=c1">administrator and administrator under a deed of company arrangement</catchphrase>
-<catchphrase "id=c2">remuneration of</catchphrase>
-<catchphrase "id=c3">approval of prospective remuneration by reference to a scale of hourly rates, subject to a monetary cap</catchphrase>
-<catchphrase "id=c4">remuneration 'fixed'</catchphrase>
-<catchphrase "id=c5">'fixed'</catchphrase>
-<catchphrase "id=c6">corporations</catchphrase>
-<catchphrase "id=c7">words and phrases</catchphrase>
+<catchphrase >administration</catchphrase>
+<catchphrase >administrator and administrator under a deed of company arrangement</catchphrase>
+<catchphrase >remuneration of</catchphrase>
+<catchphrase >approval of prospective remuneration by reference to a scale of hourly rates, subject to a monetary cap</catchphrase>
+<catchphrase >remuneration 'fixed'</catchphrase>
+<catchphrase >'fixed'</catchphrase>
+<catchphrase >corporations</catchphrase>
+<catchphrase >words and phrases</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -269,7 +269,7 @@
 <sentence id="s81">It is also notable that much of the discussion in Stockford related not so much to the question of whether fees are 'fixed' but whether the fees, if fixed, are reasonable.</sentence>
 <sentence id="s82">ARGUMENTS 
  
-19 The plaintiff submits that the principle to be applied in this case is succinctly extracted by Finkelstein J in the passage highlighted above from the judgment of Dixon J in Fraser Henleins Pty Ltd &amp; Crowther v Cody [1945] HCA 49 ; (1945) 70 CLR 100 at 128.</sentence>
+19 The plaintiff submits that the principle to be applied in this case is succinctly extracted by Finkelstein J in the passage highlighted above from the judgment of Dixon J in Fraser Henleins Pty Ltd amp; Crowther v Cody [1945] HCA 49 ; (1945) 70 CLR 100 at 128.</sentence>
 <sentence id="s83">That passage is consistent with a series of other decisions concerning the wartime regulations, decided at about the same time, including Vardon v Commonwealth [1943] HCA 30 ; (1943) 67 CLR 434; Cann's Pty Ltd v Commonwealth [1946] HCA 5 ; (1946) 71 CLR 210; and King Gee Clothing Co Pty Ltd v The Commonwealth [1945] HCA 23 ; (1945) 71 CLR 184.</sentence>
 <sentence id="s84">20 It is submitted for the plaintiff that the resolutions in the present case do not suffer from the defect which existed in Stockford as there is only one rate fixed for each person who does any work in connection with the administration.</sentence>
 <sentence id="s85">Once the person and his or her category is known, and the time spent is known, the guide can be arithmetically applied to arrive at the result.</sentence>
@@ -381,4 +381,8 @@ Dated: 16 February 2006
  
  </sentence>
 </sentences>
-</case>
+</case>>/FCA/2006/102.html 
+ 
+ </sentence>
+</sentences>
+</case>>

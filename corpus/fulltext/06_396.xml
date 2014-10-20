@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <case>
-<name>Australian Consumer &amp; Competition Commission v Contact Plus Group Pty Ltd (in liq) [2006] FCA 396 (11 April 2006)</name>
+<name>Australian Consumer amp; Competition Commission v Contact Plus Group Pty Ltd (in liq) [2006] FCA 396 (11 April 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/396.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">costs</catchphrase>
-<catchphrase "id=c1">proceeding finalised by making of consent orders</catchphrase>
-<catchphrase "id=c2">whether second respondent should be liable for applicant's costs</catchphrase>
-<catchphrase "id=c3">extent to which applicant successful in obtaining relief sought at commencement of proceedings</catchphrase>
-<catchphrase "id=c4">whether applicant acted reasonably before and during litigation</catchphrase>
-<catchphrase "id=c5">practice and procedure</catchphrase>
+<catchphrase >costs</catchphrase>
+<catchphrase >proceeding finalised by making of consent orders</catchphrase>
+<catchphrase >whether second respondent should be liable for applicant's costs</catchphrase>
+<catchphrase >extent to which applicant successful in obtaining relief sought at commencement of proceedings</catchphrase>
+<catchphrase >whether applicant acted reasonably before and during litigation</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -70,7 +70,7 @@
  
  
  
- (1) Where neither party desires to proceed with litigation the Court should be ready to facilitate the conclusion of the proceedings by making a cost order: Stratford [ J T Stratford &amp; Son Ltd v Lindley (No 2) [1969] 1 WLR 1547] and the SEQEB case [ South East Queensland Electricity Board v Australian Telecommunications Commission (unreported, Federal Court, 10 February 1989, Pincus J)] .</sentence>
+ (1) Where neither party desires to proceed with litigation the Court should be ready to facilitate the conclusion of the proceedings by making a cost order: Stratford [ J T Stratford amp; Son Ltd v Lindley (No 2) [1969] 1 WLR 1547] and the SEQEB case [ South East Queensland Electricity Board v Australian Telecommunications Commission (unreported, Federal Court, 10 February 1989, Pincus J)] .</sentence>
 <sentence id="s47">
  (2) It will rarely, if ever, be appropriate, where there has been no trial on the merits or, for a Court determining how the costs of the proceeding should be borne to endeavour to determine the outcome of a hypothetical trial: Stratford .</sentence>
 <sentence id="s48">This will particularly be the case where a trial on the merits would involve complex factual matters where credit could be an issue.</sentence>
@@ -115,7 +115,7 @@
 <sentence id="s74">Both in pre-litigation correspondence and in the defences filed by the respondents, the ACCC's contentions of fact and law were strongly denied.</sentence>
 <sentence id="s75">It was only after a lengthy interlocutory process, and the filing by the ACCC of affidavits, that Mr Spencer capitulated.</sentence>
 <sentence id="s76">His contention that he might have agreed to the relief subsequently ordered against him, had the ACCC engaged in meaningful negotiations with him at an earlier stage, seems to me, on the evidence, to border on the fanciful.</sentence>
-<sentence id="s77">26 I note that Mr Spencer relies upon a statement made on 19 November 2004 by Mr John Martin, a Commissioner of the ACCC, in an address to a "Franchising Law Master Class" entitled "The ACCC &amp; Franchising --- Recent Developments and Regulatory Directions".</sentence>
+<sentence id="s77">26 I note that Mr Spencer relies upon a statement made on 19 November 2004 by Mr John Martin, a Commissioner of the ACCC, in an address to a "Franchising Law Master Class" entitled "The ACCC amp; Franchising --- Recent Developments and Regulatory Directions".</sentence>
 <sentence id="s78">In that address, Mr Martin said, inter alia:
  
  "The ACCC only pursues legal action when we believe that there are serious issues which must be pursued in a court of law.</sentence>
@@ -161,9 +161,9 @@ Dated: 11 April 2006
  Counsel for the Second Respondent Mr D.L.</sentence>
 <sentence id="s98">Bailey 
  
- Solicitors for the Second Respondent: David Stagg Tonkin &amp; Co 
+ Solicitors for the Second Respondent: David Stagg Tonkin amp; Co 
  
- Date of Written Submissions: 9 &amp; 17 March 2006 and 4 April 2006 
+ Date of Written Submissions: 9 amp; 17 March 2006 and 4 April 2006 
  
  Date of Judgment: 11 April 2006 
 
@@ -175,4 +175,8 @@ Dated: 11 April 2006
  
  </sentence>
 </sentences>
-</case>
+</case>case> 
+ 
+ </sentence>
+</sentences>
+</case>case>

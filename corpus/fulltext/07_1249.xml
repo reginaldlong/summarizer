@@ -3,18 +3,18 @@
 <name>Black v Minister for Immigration and Citizenship [2007] FCA 1249 (17 August 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1249.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for constitutional writs</catchphrase>
-<catchphrase "id=c1">where applicant's visa cancelled under s 501(2) migration act 1958 (cth)</catchphrase>
-<catchphrase "id=c2">where ministerial direction no 21 made under s 499 migration act 1958 (cth)</catchphrase>
-<catchphrase "id=c3">where decision to cancel visa made by minister personally and not by a delegate</catchphrase>
-<catchphrase "id=c4">where applicant had no children</catchphrase>
-<catchphrase "id=c5">where minister gave considerable weight to 'the best interests of the child'</catchphrase>
-<catchphrase "id=c6">whether minister misconstrued direction no 21</catchphrase>
-<catchphrase "id=c7">whether minister bound by direction no 21</catchphrase>
-<catchphrase "id=c8">whether misconstruction of direction no 21 amounted to jurisdictional error</catchphrase>
-<catchphrase "id=c9">whether applicant entitled to expect that 'the best interests of the child' would not be considered</catchphrase>
-<catchphrase "id=c10">whether applicant denied procedural fairness.</catchphrase>
-<catchphrase "id=c11">administrative law</catchphrase>
+<catchphrase >application for constitutional writs</catchphrase>
+<catchphrase >where applicant's visa cancelled under s 501(2) migration act 1958 (cth)</catchphrase>
+<catchphrase >where ministerial direction no 21 made under s 499 migration act 1958 (cth)</catchphrase>
+<catchphrase >where decision to cancel visa made by minister personally and not by a delegate</catchphrase>
+<catchphrase >where applicant had no children</catchphrase>
+<catchphrase >where minister gave considerable weight to 'the best interests of the child'</catchphrase>
+<catchphrase >whether minister misconstrued direction no 21</catchphrase>
+<catchphrase >whether minister bound by direction no 21</catchphrase>
+<catchphrase >whether misconstruction of direction no 21 amounted to jurisdictional error</catchphrase>
+<catchphrase >whether applicant entitled to expect that 'the best interests of the child' would not be considered</catchphrase>
+<catchphrase >whether applicant denied procedural fairness.</catchphrase>
+<catchphrase >administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -331,18 +331,18 @@ At paragraph [14], the respondent then stated:
 <sentence id="s134">You may provide information and comments in relation to:
  
  
- &#61863; whether you fail the character test; and
- &#61863; whether your visa should be cancelled.</sentence>
+ #61863; whether you fail the character test; and
+ #61863; whether your visa should be cancelled.</sentence>
 <sentence id="s135">
  
  
  In making a decision whether to cancel your visa under s 501(2) , the Minister or delegate will take the following information into account already available to the Department:
  
  
- &#61863; Offender History Report (Attachment A) 
- &#61863; Certificate of Record for the sentence of 02/07/2003 (Attachment B) 
- &#61863; Judge's sentencing remarks of 02/07/2003 (Attachment C) 
- &#61863; Report by Community Corrections Officer dated 21/06/2006 (Attachment D) 
+ #61863; Offender History Report (Attachment A) 
+ #61863; Certificate of Record for the sentence of 02/07/2003 (Attachment B) 
+ #61863; Judge's sentencing remarks of 02/07/2003 (Attachment C) 
+ #61863; Report by Community Corrections Officer dated 21/06/2006 (Attachment D) 
  
  
  The Department has also obtained reports from the Parole Board of SA.</sentence>
@@ -368,7 +368,7 @@ At paragraph [14], the respondent then stated:
 <sentence id="s150">You are now advised of the following:
  
  
- &#61863; The department holds a report from the SA Parole Board that provides information in relation to your risk of recidivism, your rehabilitation and your ongoing risk to the community.</sentence>
+ #61863; The department holds a report from the SA Parole Board that provides information in relation to your risk of recidivism, your rehabilitation and your ongoing risk to the community.</sentence>
 <sentence id="s151">This information is non-disclosable, as defined at s 5(1) of the Act, but you are invited to comment on any issues you believe to be relevant to these factors.</sentence>
 <sentence id="s152">" 
  
@@ -428,4 +428,8 @@ Dated: 17 August 2007
  
  </sentence>
 </sentences>
-</case>
+</case></case>lii.edu.au/au/cases/cth/FCA/2007/1249.html 
+ 
+ </sentence>
+</sentences>
+</case></case>

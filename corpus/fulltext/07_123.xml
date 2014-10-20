@@ -3,12 +3,12 @@
 <name>MZXIW v Minister for Immigration and Multicultural Affairs [2007] FCA 123 (14 February 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/123.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application summarily dismissed by federal magistrates court</catchphrase>
-<catchphrase "id=c1">no reasonable cause of action disclosed</catchphrase>
-<catchphrase "id=c2">application frivolous or vexatious</catchphrase>
-<catchphrase "id=c3">whether summary dismissal interlocutory or final in nature</catchphrase>
-<catchphrase "id=c4">whether leave to appeal required</catchphrase>
-<catchphrase "id=c5">migration</catchphrase>
+<catchphrase >application summarily dismissed by federal magistrates court</catchphrase>
+<catchphrase >no reasonable cause of action disclosed</catchphrase>
+<catchphrase >application frivolous or vexatious</catchphrase>
+<catchphrase >whether summary dismissal interlocutory or final in nature</catchphrase>
+<catchphrase >whether leave to appeal required</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -28,15 +28,15 @@
 <sentence id="s10">Both are citizens of Bulgaria who arrived in Australia in October 2005 and shortly thereafter applied for protection visas.</sentence>
 <sentence id="s11">The son claimed to have a well-founded of persecution in Bulgaria as a result of being:
  
- &#8226; a gypsy
- &#8226; a homosexual, and
- &#8226; the great-grandson of a member of the police force of the Communist government.</sentence>
+ #8226; a gypsy
+ #8226; a homosexual, and
+ #8226; the great-grandson of a member of the police force of the Communist government.</sentence>
 <sentence id="s12">
 
 The mother claimed to have a well-found fear of persecution as a result of being:
  
- &#8226; a gypsy, and
- &#8226; the granddaughter of a member of the police force of the Communist government.</sentence>
+ #8226; a gypsy, and
+ #8226; the granddaughter of a member of the police force of the Communist government.</sentence>
 <sentence id="s13">
 
 6 A delegate of the Minister rejected the appellants' applications and they sought review before the Tribunal.</sentence>
@@ -49,7 +49,7 @@ The mother claimed to have a well-found fear of persecution as a result of being
 <sentence id="s20">This brochure appears to have the following passage reproduced in a number of languages, including Bulgarian:
  
  "This letter is important and requires your urgent attention.</sentence>
-<sentence id="s21">If you do not understand this letter please call the Translating &amp; Interpreting Service (TIS) on 131 450 so they can help you to contact the Tribunal.</sentence>
+<sentence id="s21">If you do not understand this letter please call the Translating amp; Interpreting Service (TIS) on 131 450 so they can help you to contact the Tribunal.</sentence>
 <sentence id="s22">" 
  
 
@@ -179,4 +179,8 @@ Dated: 14 February 2007
  
  </sentence>
 </sentences>
-</case>
+</case>/case>
+ 
+ </sentence>
+</sentences>
+</case>/case>

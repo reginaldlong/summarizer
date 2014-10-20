@@ -3,20 +3,20 @@
 <name>Bahonko v Royal Melbourne Institute of Technology [2006] FCA 1325 (11 October 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1325.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application pursuant to human rights and equal opportunity commission act 1986 (cth) s 46po</catchphrase>
-<catchphrase "id=c1">allegation of unlawful discrimination</catchphrase>
-<catchphrase "id=c2">racial discrimination</catchphrase>
-<catchphrase "id=c3">disability discrimination</catchphrase>
-<catchphrase "id=c4">complaint made to human rights and equal opportunity commission</catchphrase>
-<catchphrase "id=c5">complaint terminated as trivial, vexatious, misconceived or lacking in substance</catchphrase>
-<catchphrase "id=c6">whether allegations of religious or political discrimination also before court.</catchphrase>
-<catchphrase "id=c7">application to extend time for filing application</catchphrase>
-<catchphrase "id=c8">discretion of court</catchphrase>
-<catchphrase "id=c9">principles to be applied in exercising discretion</catchphrase>
-<catchphrase "id=c10">whether merits of applicant's claim sufficient to warrant exercise of discretion</catchphrase>
-<catchphrase "id=c11">whether any reasonable prospect of success.</catchphrase>
-<catchphrase "id=c12">discrimination law</catchphrase>
-<catchphrase "id=c13">practice and procedure</catchphrase>
+<catchphrase >application pursuant to human rights and equal opportunity commission act 1986 (cth) s 46po</catchphrase>
+<catchphrase >allegation of unlawful discrimination</catchphrase>
+<catchphrase >racial discrimination</catchphrase>
+<catchphrase >disability discrimination</catchphrase>
+<catchphrase >complaint made to human rights and equal opportunity commission</catchphrase>
+<catchphrase >complaint terminated as trivial, vexatious, misconceived or lacking in substance</catchphrase>
+<catchphrase >whether allegations of religious or political discrimination also before court.</catchphrase>
+<catchphrase >application to extend time for filing application</catchphrase>
+<catchphrase >discretion of court</catchphrase>
+<catchphrase >principles to be applied in exercising discretion</catchphrase>
+<catchphrase >whether merits of applicant's claim sufficient to warrant exercise of discretion</catchphrase>
+<catchphrase >whether any reasonable prospect of success.</catchphrase>
+<catchphrase >discrimination law</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -342,10 +342,10 @@
 <sentence id="s230">In this proceeding, the acts or practices about which Ms Bahonko complains were clearly not done under the auspices of Commonwealth legislation.</sentence>
 <sentence id="s231">63 Part IIB is also irrelevant to complaints regarding religious or political discrimination because "unlawful discrimination" is defined in s 3 as acts, omissions or practices that are unlawful pursuant to specified parts of: 
  
- &#8226; the Age Discrimination Act 2004 (Cth);
- &#8226; the Disability Discrimination Act 1992 (Cth); 
- &#8226; the Racial Discrimination Act 1975 (Cth); or
- &#8226; the Sex Discrimination Act 1984 (Cth).</sentence>
+ #8226; the Age Discrimination Act 2004 (Cth);
+ #8226; the Disability Discrimination Act 1992 (Cth); 
+ #8226; the Racial Discrimination Act 1975 (Cth); or
+ #8226; the Sex Discrimination Act 1984 (Cth).</sentence>
 <sentence id="s232">
 
 Obviously, neither religious discrimination nor political discrimination falls within the scope of any of these Acts.</sentence>
@@ -355,16 +355,16 @@ Obviously, neither religious discrimination nor political discrimination falls w
 <sentence id="s235">65 As Ms Alison O'Brien has pointed out in her submissions, Div 4 of Pt II does not give the Commission the power to make a binding determination of a complainant's rights.</sentence>
 <sentence id="s236">The Commission's powers under that division are limited to either: 
  
- &#8226; giving a notice in writing if, after inquiry, it finds that an act or practice does constitute discrimination (see s 35(2)) ; or
- &#8226; preparing a similar written report if, after inquiry, it finds that the alleged act or practice has not been established, or does not constitute discrimination (see s 35(3)).</sentence>
+ #8226; giving a notice in writing if, after inquiry, it finds that an act or practice does constitute discrimination (see s 35(2)) ; or
+ #8226; preparing a similar written report if, after inquiry, it finds that the alleged act or practice has not been established, or does not constitute discrimination (see s 35(3)).</sentence>
 <sentence id="s237">
  
  66 As noted above, s 32(3)(c)(ii) of the HREOC Act also gives the Commission the power to terminate a Pt II , Div 4 complaint regarding "discrimination" if the complaint is frivolous, vexatious, misconceived or lacking in substance.</sentence>
 <sentence id="s238">The Commission invoked that section when it terminated Ms Bahonko's complaints regarding religious and political discrimination.</sentence>
 <sentence id="s239">67 Division 4 of Pt II is different from Pt IIB because it does not provide any right for an affected person to apply to this Court for relief in relation to: 
  
- &#8226; an inquiry conducted by the Commission; or
- &#8226; a complaint terminated pursuant to s 32(3)(c)(ii).</sentence>
+ #8226; an inquiry conducted by the Commission; or
+ #8226; a complaint terminated pursuant to s 32(3)(c)(ii).</sentence>
 <sentence id="s240">
  
  68 Further, as both Ms Alison O'Brien and Mr Jorgensen submitted, the right of an affected person to apply to this Court for relief under s 46PO is limited to applications in respect of complaints of "unlawful discrimination" made to the Commission under Pt IIB.</sentence>
@@ -481,4 +481,10 @@ Dated: 11 October 2006
  
  </sentence>
 </sentences>
+</case>
+</case>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1325.html 
+ 
+ </sentence>
+</sentences>
+</case>
 </case>

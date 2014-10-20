@@ -3,15 +3,15 @@
 <name>Xat Ky v Australvic Property Management Pty Ltd [2007] FCA 1541 (5 October 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1541.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">insolvency</catchphrase>
-<catchphrase "id=c1">winding up</catchphrase>
-<catchphrase "id=c2">failure to comply with statutory demands</catchphrase>
-<catchphrase "id=c3">presumption of insolvency</catchphrase>
-<catchphrase "id=c4">appointment of liquidator</catchphrase>
-<catchphrase "id=c5">application to have lawyers restrained from acting</catchphrase>
-<catchphrase "id=c6">principles to be applied</catchphrase>
-<catchphrase "id=c7">application to have proceedings re-opened</catchphrase>
-<catchphrase "id=c8">corporation</catchphrase>
+<catchphrase >insolvency</catchphrase>
+<catchphrase >winding up</catchphrase>
+<catchphrase >failure to comply with statutory demands</catchphrase>
+<catchphrase >presumption of insolvency</catchphrase>
+<catchphrase >appointment of liquidator</catchphrase>
+<catchphrase >application to have lawyers restrained from acting</catchphrase>
+<catchphrase >principles to be applied</catchphrase>
+<catchphrase >application to have proceedings re-opened</catchphrase>
+<catchphrase >corporation</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -42,14 +42,14 @@
 <sentence id="s23">APM seeks to establish that it is not insolvent and whether it has discharged the onus of proving that it is not insolvent is the important question before me.</sentence>
 <sentence id="s24">11 At the outset I set out some legal principles I rely upon for determining this proceeding:
  
- &#8226; APM bears the onus of proving its solvency: s 459C ;
- &#8226; In order to discharge that onus the Court should generally be presented with the "fullest and best" evidence of the financial position of APM: Commonwealth Bank of Australia v Begonia (1993) 11 ACLC 1075 at 1081;
- &#8226; Unaudited accounts and unverified claims of ownership or valuation are not ordinarily probative of solvency: Commissioner of Taxation v Simionato Holdings Pty Ltd (1997) 15 ACLC 477; Re Citic Commodity Trading Pty Ltd v JBL Enterprises (WA) Pty Ltd [1998] FCA 232 ; Leslie v Howship Holdings Pty Ltd (1997) 15 ACLC 459 at 463;
- &#8226; The nature of a company's assets, and its ability to convert those assets into cash within a relatively short time, at least to the extent of meeting all its debts as and when they fall due, must be considered in determining solvency: Rees v Bank of New South Wales [1964] HCA 47 ; (1964) 111 CLR 210; Re Tweeds Garages Ltd [1962] Ch 406 at 410; Simionato Holdings Pty Ltd 15 ACLC 477; Melbase Corporation Pty Ltd v Segenhoe Ltd (1995) 13 ACLC 823 at 832; Leslie v Howship Holdings Pty Ltd (1997) 15 ACLC at 465-466;
- &#8226; The appropriate test is the "cash flow test" rather than a "balance sheet test" of insolvency.</sentence>
+ #8226; APM bears the onus of proving its solvency: s 459C ;
+ #8226; In order to discharge that onus the Court should generally be presented with the "fullest and best" evidence of the financial position of APM: Commonwealth Bank of Australia v Begonia (1993) 11 ACLC 1075 at 1081;
+ #8226; Unaudited accounts and unverified claims of ownership or valuation are not ordinarily probative of solvency: Commissioner of Taxation v Simionato Holdings Pty Ltd (1997) 15 ACLC 477; Re Citic Commodity Trading Pty Ltd v JBL Enterprises (WA) Pty Ltd [1998] FCA 232 ; Leslie v Howship Holdings Pty Ltd (1997) 15 ACLC 459 at 463;
+ #8226; The nature of a company's assets, and its ability to convert those assets into cash within a relatively short time, at least to the extent of meeting all its debts as and when they fall due, must be considered in determining solvency: Rees v Bank of New South Wales [1964] HCA 47 ; (1964) 111 CLR 210; Re Tweeds Garages Ltd [1962] Ch 406 at 410; Simionato Holdings Pty Ltd 15 ACLC 477; Melbase Corporation Pty Ltd v Segenhoe Ltd (1995) 13 ACLC 823 at 832; Leslie v Howship Holdings Pty Ltd (1997) 15 ACLC at 465-466;
+ #8226; The appropriate test is the "cash flow test" rather than a "balance sheet test" of insolvency.</sentence>
 <sentence id="s25">The adoption of a cash flow test for solvency does not mean that the extent of the company's assets is irrelevant to the inquiry.</sentence>
 <sentence id="s26">The credit resources available to the company must also be taken into account: Sandell v Porter [1966] HCA 28 ; (1966) 115 CLR 666 at 671 per Barwick CJ (with whom McTiernan and Windeyer JJ agreed); Leslie v Howship Holdings Pty Ltd (1997) 15 ACLC at 466; Taylor v ANZ Banking Group Ltd (1988) 6 ACLC 808 at 812;
- &#8226; The question of solvency must be assessed at the date of the hearing, although relevant future events are not to be ignored: Leslie v Howship Holdings Pty Ltd (1997) 15 ACLC at 466-467.</sentence>
+ #8226; The question of solvency must be assessed at the date of the hearing, although relevant future events are not to be ignored: Leslie v Howship Holdings Pty Ltd (1997) 15 ACLC at 466-467.</sentence>
 <sentence id="s27">
 
 12 The above legal principles (and others) were conveniently set out by Weinberg J in Ace Contractors Staff Pty Ltd v Westgarth Development Ltd (1999) FCA 728 at [44] .</sentence>
@@ -104,7 +104,7 @@
  Adherence to the rule in Browne v Dunn also gives the party calling the witness the chance to adduce supporting evidence which might not otherwise have been led.</sentence>
 <sentence id="s63">
  
- Compliance with the rule requires only that the substance of the contrary version is put to the witness, and not every detail of the challenge: White Industries (Qld) Pty Ltd v Flower &amp; Hart (a firm) (1998) 156 ALR 169 at 217 per Goldberg J.</sentence>
+ Compliance with the rule requires only that the substance of the contrary version is put to the witness, and not every detail of the challenge: White Industries (Qld) Pty Ltd v Flower amp; Hart (a firm) (1998) 156 ALR 169 at 217 per Goldberg J.</sentence>
 <sentence id="s64">
  
  In a civil case the consequences of a failure to observe the rule will vary.</sentence>
@@ -157,7 +157,7 @@
 <sentence id="s96">APM came to Court bearing the onus of proof as to solvency, but in my view has failed to provide the "fullest and best" evidence of its financial position.</sentence>
 <sentence id="s97">29 In addition to what I have concluded above, there are other matters which demonstrate that APM has not discharged the onus of proving solvency:-
  
- (i) APM has failed to comply with the statutory demand of the creditors, and that of a supply creditor, T &amp; G Welding Pty Ltd.
+ (i) APM has failed to comply with the statutory demand of the creditors, and that of a supply creditor, T amp; G Welding Pty Ltd.
  (ii) APM has been in default under mortgages over its property, and has no immediate or foreseeable capacity to service the mortgages.</sentence>
 <sentence id="s98">(iii) The application for winding up was made on 15 March 2007, over six months ago.</sentence>
 <sentence id="s99">On 18 June 2007, in the written submissions of APM, it was stated:
@@ -255,10 +255,10 @@
 <sentence id="s183">I now provide the reasons for those decisions.</sentence>
 <sentence id="s184">50 By notice of motion dated 24 July 2007, APM sought, the following orders:
  
- &#8226; The hearing of the proceeding be aborted and the matter be reheard;
- &#8226; Alternatively, APM have leave to file further evidence and leave to cross-examine Damien Christopher Lilly, Kathleen Murphy, Mark Beck, Giles Bray, Helen Fairhall, Wai Yee Wong, David Dunoon, Noel Ramage, Leonor Ramage, Dennis Meir and Thilani Ghammamphilia.</sentence>
-<sentence id="s185">&#8226; The firm of Saxbys Lawyers ('Saxbys') (which firm acted for supporting creditors) produce their entire files in relation to the proceeding, including all attendance notes, correspondence, court documents, and all trust ledgers, office ledgers, trust receipts and accounts and to produce their entire files in any other matter in which information pertaining to the proceeding has been obtained.</sentence>
-<sentence id="s186">&#8226; The firm of Saxbys be restrained from continuing to act in these proceedings.</sentence>
+ #8226; The hearing of the proceeding be aborted and the matter be reheard;
+ #8226; Alternatively, APM have leave to file further evidence and leave to cross-examine Damien Christopher Lilly, Kathleen Murphy, Mark Beck, Giles Bray, Helen Fairhall, Wai Yee Wong, David Dunoon, Noel Ramage, Leonor Ramage, Dennis Meir and Thilani Ghammamphilia.</sentence>
+<sentence id="s185">#8226; The firm of Saxbys Lawyers ('Saxbys') (which firm acted for supporting creditors) produce their entire files in relation to the proceeding, including all attendance notes, correspondence, court documents, and all trust ledgers, office ledgers, trust receipts and accounts and to produce their entire files in any other matter in which information pertaining to the proceeding has been obtained.</sentence>
+<sentence id="s186">#8226; The firm of Saxbys be restrained from continuing to act in these proceedings.</sentence>
 <sentence id="s187">
 
 51 APM also sought to call upon a number of subpoenas which were directed to the issue of the restraint of Saxbys and the exercise of my discretion as to whether to order a winding up.</sentence>
@@ -364,19 +364,19 @@ Dated: 5 October 2007
 
  Counsel for the Plaintiffs: P Bravender --- Coyle 
  
- Solicitor for the Plaintiffs: Dandanis &amp; Associates 
+ Solicitor for the Plaintiffs: Dandanis amp; Associates 
  
  Counsel for the Defendant: J Levine 
  
- Solicitor for the Defendant: Issac Brott &amp; Co 
+ Solicitor for the Defendant: Issac Brott amp; Co 
  
  Counsel for ASIC (Intervenor): M Scott 
  
- Solicitor for R &amp; A Cab Co Pty Ltd (Supporting Creditor): John Matthies &amp; Co 
+ Solicitor for R amp; A Cab Co Pty Ltd (Supporting Creditor): John Matthies amp; Co 
  
- Counsel for T &amp; G Welding Pty Ltd (Supporting Creditor): C Gobbo 
+ Counsel for T amp; G Welding Pty Ltd (Supporting Creditor): C Gobbo 
  
- Solicitor for T &amp; G Welding Pty Ltd (Supporting Creditor): Saxbys Lawyers 
+ Solicitor for T amp; G Welding Pty Ltd (Supporting Creditor): Saxbys Lawyers 
  
  Solicitor for Caveat Finance Pty Ltd: Frank Sanna 
  
@@ -403,4 +403,10 @@ Dated: 5 October 2007
  
  </sentence>
 </sentences>
+</case>sentences>
+</case>541.html 
+ 
+ </sentence>
+</sentences>
+</case>sentences>
 </case>

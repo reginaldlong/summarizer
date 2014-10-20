@@ -3,13 +3,13 @@
 <name>Shail v Commissioner of Taxation (Corrigendum dated 17 May 2007) [2007] FCA 655 (4 May 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/655.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">validity of notice of assessment</catchphrase>
-<catchphrase "id=c1">whether lack of bona fides</catchphrase>
-<catchphrase "id=c2">whether issued for an improper purpose</catchphrase>
-<catchphrase "id=c3">application of the hickman principle</catchphrase>
-<catchphrase "id=c4">requirements of service under the income tax regulations 1936 (cth) ('the regulations')</catchphrase>
-<catchphrase "id=c5">whether post office box address can constitute a "physical address" as well as a "postal address" for the purposes of the regulations</catchphrase>
-<catchphrase "id=c6">taxation</catchphrase>
+<catchphrase >validity of notice of assessment</catchphrase>
+<catchphrase >whether lack of bona fides</catchphrase>
+<catchphrase >whether issued for an improper purpose</catchphrase>
+<catchphrase >application of the hickman principle</catchphrase>
+<catchphrase >requirements of service under the income tax regulations 1936 (cth) ('the regulations')</catchphrase>
+<catchphrase >whether post office box address can constitute a "physical address" as well as a "postal address" for the purposes of the regulations</catchphrase>
+<catchphrase >taxation</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -119,9 +119,9 @@
  
 23 The applicant relied upon a number of factors in support of her contentions, which can be summarised as follows:
  
- &#8226; The assessment was tentative or provisional;
- &#8226; The respondent did not make any real or genuine attempt to assess the applicant's taxable income, nor embarked upon any process of inquiry to determine the applicant's income; and
- &#8226; The assessment was issued solely for the purpose of issuing the Garnishee Notices.</sentence>
+ #8226; The assessment was tentative or provisional;
+ #8226; The respondent did not make any real or genuine attempt to assess the applicant's taxable income, nor embarked upon any process of inquiry to determine the applicant's income; and
+ #8226; The assessment was issued solely for the purpose of issuing the Garnishee Notices.</sentence>
 <sentence id="s58">
 
 24 The applicant relied upon a number of factual matters in support of her case.</sentence>
@@ -328,4 +328,8 @@ Dated: 4 May 2007
  
  </sentence>
 </sentences>
-</case>
+</case>se>/655.html 
+ 
+ </sentence>
+</sentences>
+</case>se>

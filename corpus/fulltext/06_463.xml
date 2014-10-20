@@ -3,9 +3,9 @@
 <name>Safe Effects Technologies Ltd v London Partners Australia Pty Ltd [2006] FCA 463 (12 April 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/463.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">a pplication for leave to proceed against a company subject to a deed of company arrangement</catchphrase>
-<catchphrase "id=c1">whether applicant a creditor bound by the deed.</catchphrase>
-<catchphrase "id=c2">corporations</catchphrase>
+<catchphrase >a pplication for leave to proceed against a company subject to a deed of company arrangement</catchphrase>
+<catchphrase >whether applicant a creditor bound by the deed.</catchphrase>
+<catchphrase >corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -38,7 +38,7 @@
 <sentence id="s20">The material facts recited in the pleading show that notwithstanding the limited relief sought by SETL against London Partners in this proceeding, it is plainly arguable that SETL may be a person who has a cause of action against London Partners at law or in equity that sounds in damages albeit at this point it may be of uncertain measure.</sentence>
 <sentence id="s21">It may be a claim for equitable compensation or compensation under s 1317H of the Act for involvement in a contravention of s 181 that exists independently of rectification of the register, or it may be a contingent claim that, for example, may arise in the event that it is the fact that London Partners holds the securities on trust for a bona fide purchaser for value without notice and is unable to deliver up the securities.</sentence>
 <sentence id="s22">In either circumstance it would follow that SETL would be a creditor of London Partners in respect of an unliquidated sum.</sentence>
-<sentence id="s23">(See: Re: R L Child &amp; Co Pty Ltd (1986) 10 ACLR 673, per McLelland J at 674; FCT v Simionato Holdings Pty Ltd (1997) 15 ACLC 477 per Mansfield J at 481; Re McLean (1992) 108 ALR 360; Forshaw v Thompson (1992) 35 FCR 329; Petrochemical Industries Ltd v Dempster Nominees Pty Ltd (1994) 15 ACSR 468 per Murray J at 475-476).</sentence>
+<sentence id="s23">(See: Re: R L Child amp; Co Pty Ltd (1986) 10 ACLR 673, per McLelland J at 674; FCT v Simionato Holdings Pty Ltd (1997) 15 ACLC 477 per Mansfield J at 481; Re McLean (1992) 108 ALR 360; Forshaw v Thompson (1992) 35 FCR 329; Petrochemical Industries Ltd v Dempster Nominees Pty Ltd (1994) 15 ACSR 468 per Murray J at 475-476).</sentence>
 <sentence id="s24">15 The fact that at this point SETL does not pursue such a claim in the proceeding does not remove the claim from the scope of the proceeding.</sentence>
 <sentence id="s25">Given that the proceeding may include such a pecuniary claim and is brought against London Partners, or in relation to the property of London Partners, by a creditor bound by the Deed it follows that the proceeding is a proceeding in respect of which SETL must obtain leave to proceed.</sentence>
 <sentence id="s26">16 It is now necessary to consider whether leave should be granted.</sentence>
@@ -89,4 +89,5 @@ Dated: 28 April 2006
  
  </sentence>
 </sentences>
-</case>
+</case>></sentences>
+</case>>

@@ -3,10 +3,10 @@
 <name>SZCHB v Minister for Immigration and Multicultural and Indigenous Affairs [2006] FCA 1543 (17 November 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1543.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">status of findings of fact of the refugee review tribunal</catchphrase>
-<catchphrase "id=c1">impermissible merits review</catchphrase>
-<catchphrase "id=c2">weight given by tribunal to conflicting evidence</catchphrase>
-<catchphrase "id=c3">migration</catchphrase>
+<catchphrase >status of findings of fact of the refugee review tribunal</catchphrase>
+<catchphrase >impermissible merits review</catchphrase>
+<catchphrase >weight given by tribunal to conflicting evidence</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -135,7 +135,7 @@
 <sentence id="s59">
  
 
-21 The first ground, in my opinion, impermissibly seeks merits review: Minister for Immigration &amp; Ethnic Affairs v Wu Shan Liang [1996] HCA 6 ; (1996) 185 CLR 259 at p 272.</sentence>
+21 The first ground, in my opinion, impermissibly seeks merits review: Minister for Immigration amp; Ethnic Affairs v Wu Shan Liang [1996] HCA 6 ; (1996) 185 CLR 259 at p 272.</sentence>
 <sentence id="s60">There the High Court, Brennan CJ, Toohey, McHugh, and Gummow JJ, said:
  
  '... any court reviewing a decision upon refugee status must beware of turning a review of the reasons of the decision-maker upon proper principles into a reconsideration of the merits of the decision.</sentence>
@@ -221,4 +221,6 @@ Dated: 17 November 2006
  
  </sentence>
 </sentences>
-</case>
+</case>>tence>
+</sentences>
+</case>>

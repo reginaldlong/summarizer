@@ -3,11 +3,11 @@
 <name>Y v The University of Western Australia (No 2) [2006] FCA 466 (1 May 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/466.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">suppression orders</catchphrase>
-<catchphrase "id=c1">university inquiry into allegations of serious misconduct</catchphrase>
-<catchphrase "id=c2">allegations of sexual harassment</catchphrase>
-<catchphrase "id=c3">inspection of exhibits to affidavit</catchphrase>
-<catchphrase "id=c4">practice and procedure</catchphrase>
+<catchphrase >suppression orders</catchphrase>
+<catchphrase >university inquiry into allegations of serious misconduct</catchphrase>
+<catchphrase >allegations of sexual harassment</catchphrase>
+<catchphrase >inspection of exhibits to affidavit</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -83,7 +83,7 @@
  
 
 18 These sections give effect to a fundamental democratic principle of open justice which requires that the Court's work is done in public and be subject to the scrutiny of the public.</sentence>
-<sentence id="s55">19 The question of whether damage and embarrassment and considerations of confidentiality and privacy could found the basis for the making of a suppression order was considered recently by the Full Court in the case of Herald &amp; Weekly Times Ltd v Williams [2003] FCAFC 217 ; (2003) 130 FCR 435 ('Williams') 
+<sentence id="s55">19 The question of whether damage and embarrassment and considerations of confidentiality and privacy could found the basis for the making of a suppression order was considered recently by the Full Court in the case of Herald amp; Weekly Times Ltd v Williams [2003] FCAFC 217 ; (2003) 130 FCR 435 ('Williams') 
  
 20 In that case, Mr Williams, who was a well-known football player, commenced proceedings in the Administrative Appeals Tribunal ('the AAT') challenging an amended assessment of his taxation return.</sentence>
 <sentence id="s56">At an interlocutory hearing, the AAT made an order suppressing the publication of Mr Williams' name.</sentence>
@@ -246,4 +246,7 @@ The Australian newspapers: Edwards Wallace
  
  </sentence>
 </sentences>
-</case>
+</case>>
+ </sentence>
+</sentences>
+</case>>

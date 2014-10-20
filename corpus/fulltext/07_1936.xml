@@ -3,11 +3,11 @@
 <name>Helimount Pty Limited (in Liquidation) v Web Wealth Proprietary Limited [2007] FCA 1936 (7 December 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1936.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">whether equitable mortgage granted over land</catchphrase>
-<catchphrase "id=c1">where certificates of title deposited with lender</catchphrase>
-<catchphrase "id=c2">where mortgage not registered</catchphrase>
-<catchphrase "id=c3">whether lender acted in a way that surrendered its security</catchphrase>
-<catchphrase "id=c4">mortgages</catchphrase>
+<catchphrase >whether equitable mortgage granted over land</catchphrase>
+<catchphrase >where certificates of title deposited with lender</catchphrase>
+<catchphrase >where mortgage not registered</catchphrase>
+<catchphrase >whether lender acted in a way that surrendered its security</catchphrase>
+<catchphrase >mortgages</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -77,7 +77,7 @@ The balance of funds held by the liquidator, it is agreed, represents the remain
  
  
  B.</sentence>
-<sentence id="s48">The Lender HAS AGREED TO LOAN the sum of SIX HUNDRED &amp; THIRTY THOUSAND DOLLARS ($630,000) (hereinafter called 'the principal') to the Borrower being the Registered Proprietor of the whole of the land in Certificates of Title REGISTER BOOK VOLUME 9593 FOLIO 463 and VOLUME 9983 FOLIO 505 commonly known as LOT 2 CURETON AVENUE MILDURA and 1/162 EIGHT STREET, MILDURA respectively in the State of Victoria (Australia) over which land the said sum has been secured by way of 1 st Registered Memorandum of Mortgage of even date between the parties hereto and on the terms specified in this Deed and the terms in the said Mortgage.</sentence>
+<sentence id="s48">The Lender HAS AGREED TO LOAN the sum of SIX HUNDRED amp; THIRTY THOUSAND DOLLARS ($630,000) (hereinafter called 'the principal') to the Borrower being the Registered Proprietor of the whole of the land in Certificates of Title REGISTER BOOK VOLUME 9593 FOLIO 463 and VOLUME 9983 FOLIO 505 commonly known as LOT 2 CURETON AVENUE MILDURA and 1/162 EIGHT STREET, MILDURA respectively in the State of Victoria (Australia) over which land the said sum has been secured by way of 1 st Registered Memorandum of Mortgage of even date between the parties hereto and on the terms specified in this Deed and the terms in the said Mortgage.</sentence>
 <sentence id="s49">
  
  
@@ -152,7 +152,7 @@ The Deed was signed by Helimount by Mr Callipari as its sole director and secret
 <sentence id="s65">14 Recital B to the Deed of Loan Agreement refers specifically to Helimount or more accurately "the Borrower" being the registered proprietor of land in Certificates of Title Register Book Volume 9593 Folio 463 and Volume 9953 Folio 505 in Mildura in Victoria.</sentence>
 <sentence id="s66">Helimount was the registered proprietor of that land.</sentence>
 <sentence id="s67">15 There are some handwritten changes to the Deed included in the text set out above.</sentence>
-<sentence id="s68">Recital B inserted after the word 'SIX HUNDRED' the words '&amp; THIRTY' and para 8 was also handwritten.</sentence>
+<sentence id="s68">Recital B inserted after the word 'SIX HUNDRED' the words 'amp; THIRTY' and para 8 was also handwritten.</sentence>
 <sentence id="s69">Those alterations were in the handwriting of Mr Stirn.</sentence>
 <sentence id="s70">Mr Stirn also, in relation to the change to Recital B, noted in his own writing that Mr Callipari was to sign the alteration which he did.</sentence>
 <sentence id="s71">Mr Callipari also signed the bottom of p 1 of that document.</sentence>
@@ -303,7 +303,7 @@ Those observations about Mr Callipari's evidence fortify the impression I had of
 40 I have rejected Mr Callipari's claim that Helimount gave the two certificates of title to Mr Stirn on about 14 January 2005 to be held only as a form of goodwill and to be available as security for the long term loan which was planned to replace and repay the Web Wealth loan to Helimount.</sentence>
 <sentence id="s200">Rather, I have found, Mr Callipari on behalf of Helimount deposited the two titles with Mr Stirn to be held as security for repayment of the Web Wealth loan of $630,000 to Helimount.</sentence>
 <sentence id="s201">41 In Theodore v Mistford Pty Ltd [2005] HCA 45 ; (2005) 221 CLR 612, the High Court (Gleeson CJ, McHugh, Gummow, Callinan and Heydon JJ) recognised and reinforced that an equitable mortgage can be effected by the deposit of title deeds if they were deposited with intent that the land to which they relate be security for payment of a debt.</sentence>
-<sentence id="s202">As in that case (discussed at 621, [24]), this is not a case where I need to consider whether to presume an intention to create a security from the relationship of debtor and creditor and the delivery of title deeds: see Bank of New South Wales v O'Connor (1889) 14 App Cas 273 at 282 --- 283; In re Wallis &amp; Simmonds (Builders) Ltd [1974] 1 WLR 391 at 395.</sentence>
+<sentence id="s202">As in that case (discussed at 621, [24]), this is not a case where I need to consider whether to presume an intention to create a security from the relationship of debtor and creditor and the delivery of title deeds: see Bank of New South Wales v O'Connor (1889) 14 App Cas 273 at 282 --- 283; In re Wallis amp; Simmonds (Builders) Ltd [1974] 1 WLR 391 at 395.</sentence>
 <sentence id="s203">I have found that an intention to create the security existed.</sentence>
 <sentence id="s204">42 I also conclude that, when Mr Stirn was handed the two titles by Mr Callipari, he received them as the agent of Web Wealth.</sentence>
 <sentence id="s205">He was given the title deeds precisely because Mr Stirn, on behalf of Web Wealth, and after the issue was raised by Mr Pappas in his discussion with Mr Stirn, asked what security would be available to support the proposed advance by Web Wealth.</sentence>
@@ -363,4 +363,6 @@ Dated: 6 December 2007
  
  </sentence>
 </sentences>
-</case>
+</case>se></sentence>
+</sentences>
+</case>se>

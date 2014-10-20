@@ -3,10 +3,10 @@
 <name>Jagera People 2 v Queensland [2006] FCA 708 (31 May 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/708.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">discontinuation of application</catchphrase>
-<catchphrase "id=c1">application for costs against discontinuing party</catchphrase>
-<catchphrase "id=c2">whether any unreasonable act or omission caused another party to incur costs</catchphrase>
-<catchphrase "id=c3">practice and procedure</catchphrase>
+<catchphrase >discontinuation of application</catchphrase>
+<catchphrase >application for costs against discontinuing party</catchphrase>
+<catchphrase >whether any unreasonable act or omission caused another party to incur costs</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -58,16 +58,16 @@ Unreasonable conduct
  'In Ward v Western Australia [1999] FCA 580 ; (1999) 93 FCR 305, Lee J made the following points about s 85A: 
  
  
- &#8226; Section 85A(1) is intended to remove any ground for anticipation or expectation that unless cause is shown for another order, costs will follow the event (at [33]).</sentence>
+ #8226; Section 85A(1) is intended to remove any ground for anticipation or expectation that unless cause is shown for another order, costs will follow the event (at [33]).</sentence>
 <sentence id="s18">
- &#8226; Nonetheless, s 85A acknowledges that the Court has an overriding discretion as to costs and does not expressly impose a limit on the scope of the discretion (at [31]-[32]).</sentence>
+ #8226; Nonetheless, s 85A acknowledges that the Court has an overriding discretion as to costs and does not expressly impose a limit on the scope of the discretion (at [31]-[32]).</sentence>
 <sentence id="s19">
- &#8226; There is no requirement that a threshold condition be met before the Court is empowered to make a costs order.</sentence>
+ #8226; There is no requirement that a threshold condition be met before the Court is empowered to make a costs order.</sentence>
 <sentence id="s20">It follows that the exercise of the discretion is not conditional upon a finding of fact or the formation of an opinion as to the occurrence of unreasonable conduct or the existence of special circumstances (at [35]).</sentence>
 <sentence id="s21">
- &#8226; Section 85A(2) of the NT Act puts beyond doubt the extent of the Court&#180;s discretion in cases where a party acts unreasonably, but s 85A(2) does not control or limit the discretion available to the Court under s 85A(1) (at [36]-[37]).</sentence>
+ #8226; Section 85A(2) of the NT Act puts beyond doubt the extent of the Court#180;s discretion in cases where a party acts unreasonably, but s 85A(2) does not control or limit the discretion available to the Court under s 85A(1) (at [36]-[37]).</sentence>
 <sentence id="s22">
- &#8226; The matters to be taken into account in making a costs order are left to the Court&#180;s discretion, which must be exercised judicially.</sentence>
+ #8226; The matters to be taken into account in making a costs order are left to the Court#180;s discretion, which must be exercised judicially.</sentence>
 <sentence id="s23">However, the starting point is that each party will bear their own costs unless the Court determines that it is appropriate in the circumstances to make an order for costs (at [34]) .</sentence>
 <sentence id="s24">' 
  
@@ -159,4 +159,6 @@ Date of Hearing:
  
  </sentence>
 </sentences>
-</case>
+</case></case>
+</sentences>
+</case></case>

@@ -3,21 +3,21 @@
 <name>Aristocrat Technologies Australia Pty Ltd v Vidtech Gaming Services Pty Ltd [2006] FCA 275 (22 March 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/275.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">action for infringement of copyright over artwork and computer programs associated with poker machines</catchphrase>
-<catchphrase "id=c1">extent of infringements</catchphrase>
-<catchphrase "id=c2">whether personal respondents authorised infringements</catchphrase>
-<catchphrase "id=c3">relief</catchphrase>
-<catchphrase "id=c4">having regard to respondents' undertaking, whether injunctive relief should be granted</catchphrase>
-<catchphrase "id=c5">assessment of compensatory damages</catchphrase>
-<catchphrase "id=c6">whether there should be an award of additional damages.</catchphrase>
-<catchphrase "id=c7">whether respondents applied trade marks to counterfeit perspex panels</catchphrase>
-<catchphrase "id=c8">no sales of panels in australia.</catchphrase>
-<catchphrase "id=c9">alleged misleading and deceptive conduct</catchphrase>
-<catchphrase "id=c10">whether a false representation was made</catchphrase>
-<catchphrase "id=c11">consequence of misled persons all being outside australia.</catchphrase>
-<catchphrase "id=c12">copyright</catchphrase>
-<catchphrase "id=c13">trade marks</catchphrase>
-<catchphrase "id=c14">trade practices</catchphrase>
+<catchphrase >action for infringement of copyright over artwork and computer programs associated with poker machines</catchphrase>
+<catchphrase >extent of infringements</catchphrase>
+<catchphrase >whether personal respondents authorised infringements</catchphrase>
+<catchphrase >relief</catchphrase>
+<catchphrase >having regard to respondents' undertaking, whether injunctive relief should be granted</catchphrase>
+<catchphrase >assessment of compensatory damages</catchphrase>
+<catchphrase >whether there should be an award of additional damages.</catchphrase>
+<catchphrase >whether respondents applied trade marks to counterfeit perspex panels</catchphrase>
+<catchphrase >no sales of panels in australia.</catchphrase>
+<catchphrase >alleged misleading and deceptive conduct</catchphrase>
+<catchphrase >whether a false representation was made</catchphrase>
+<catchphrase >consequence of misled persons all being outside australia.</catchphrase>
+<catchphrase >copyright</catchphrase>
+<catchphrase >trade marks</catchphrase>
+<catchphrase >trade practices</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -60,7 +60,7 @@
 8 Until it went into liquidation last June, Vidtech carried on the business of purchasing and reconditioning used EGMs and re-selling them, apparently always outside Australia.</sentence>
 <sentence id="s23">Both the personal respondents actively participated in the conduct of that business.</sentence>
 <sentence id="s24">Two of Vidtech's major customers were Belgian Gaming Technology ('BGT'), a firm based in Ghent, Belgium, and Happy Games, based in Lima, Peru.</sentence>
-<sentence id="s25">9 During the period 2001 to 2004, one or other of the personal respondents, from time to time, commissioned V R Farrow &amp; Co Pty Limited, trading as Capre Classic Graphics ('Capre'), to produce artwork that included substantial parts of the Aristocrat artwork for a particular model EGM.</sentence>
+<sentence id="s25">9 During the period 2001 to 2004, one or other of the personal respondents, from time to time, commissioned V R Farrow amp; Co Pty Limited, trading as Capre Classic Graphics ('Capre'), to produce artwork that included substantial parts of the Aristocrat artwork for a particular model EGM.</sentence>
 <sentence id="s26">The artwork was displayed on perspex panels that were able to be installed in EGMs.</sentence>
 <sentence id="s27">There is a dispute as to the use that was made of this artwork.</sentence>
 <sentence id="s28">10 The evidence refers to two different types of EGMs: 'casino' EGMs and 'lowboy' EGMs.</sentence>
@@ -139,7 +139,7 @@
 <sentence id="s79">That email included the following:
  
  'Johan at Belgian Gaming has phoned me to inform me that Aristocrat raided his factory with a search warrant and confiscated one machine, downloaded all data from his computer hard drive and accused him of infringing Aristocrat copyrights with regards to artwork!!!</sentence>
-<sentence id="s80">This has implicated me as they are now in possession of my correspondence with him ...In future correspondence can you please ensure that you &lt;U&gt;NEVER&lt;/u&gt; refer to the particular model of machine in question ...</sentence>
+<sentence id="s80">This has implicated me as they are now in possession of my correspondence with him ...In future correspondence can you please ensure that you lt;Ugt;NEVERlt;/ugt; refer to the particular model of machine in question ...</sentence>
 <sentence id="s81">I am expecting to be contacted by various organizations in the near future regarding these matters.</sentence>
 <sentence id="s82">Please bear this in mind when we next talk on the phone --- you know the old saying: loose lips sinks ships.</sentence>
 <sentence id="s83">' 
@@ -813,10 +813,10 @@ Once again, the subject concerned the purchase of machines, including 'Cleopatra
  
  'Without admission the second and third respondents and each of them undertake to the Court that neither of them will reproduce or authorise any other person to reproduce copies of any perspex panels containing artwork for the applicant's poker machine games known as; 
  
- &#8226; Queen of the Nile 
- &#8226; Dolphin Treasure 
- &#8226; Penguin Pays 
- &#8226; Chicken 
+ #8226; Queen of the Nile 
+ #8226; Dolphin Treasure 
+ #8226; Penguin Pays 
+ #8226; Chicken 
  
  or any other poker machine games manufactured and sold by either of the applicants.</sentence>
 <sentence id="s459">' 
@@ -1088,7 +1088,7 @@ Dated: 22 March 2006
 
  Counsel for the Applicant: Mr R Cobden SC and Mr N Murray 
  
- Solicitor for the Applicant: Baker &amp; McKenzie 
+ Solicitor for the Applicant: Baker amp; McKenzie 
  
  Counsel for the Second and Third Respondents: 
 Mr J M Ireland QC and Mr D Accoto 
@@ -1108,4 +1108,11 @@ Gollotta Law Practise
  
  </sentence>
 </sentences>
+</case>s>
+</case>
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/275.html 
+ 
+ </sentence>
+</sentences>
+</case>s>
 </case>

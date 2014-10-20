@@ -3,10 +3,10 @@
 <name>Gambro Pty Ltd v Fresenius Medical Care Australia Pty Ltd [2007] FCA 1828 (21 November 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1828.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">admissibility</catchphrase>
-<catchphrase "id=c1">whether witness had relevant specialised knowledge</catchphrase>
-<catchphrase "id=c2">whether opinions based on such specialised knowledge</catchphrase>
-<catchphrase "id=c3">evidence</catchphrase>
+<catchphrase >admissibility</catchphrase>
+<catchphrase >whether witness had relevant specialised knowledge</catchphrase>
+<catchphrase >whether opinions based on such specialised knowledge</catchphrase>
+<catchphrase >evidence</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -61,7 +61,7 @@
  
  
  24.</sentence>
-<sentence id="s39">In my role as Sales &amp; Marketing Manager I was responsible for the sales and marketing of all of Gambro Australia's products and services in the whole of the territory for which Gambro Australia was responsible, namely Australia, New Zealand and Micronesia.</sentence>
+<sentence id="s39">In my role as Sales amp; Marketing Manager I was responsible for the sales and marketing of all of Gambro Australia's products and services in the whole of the territory for which Gambro Australia was responsible, namely Australia, New Zealand and Micronesia.</sentence>
 <sentence id="s40">As Gambro Australia expanded its operations in the early to mid 1980s it opened offices in Melbourne, Queensland and New Zealand, which meant that I had a number of employees in those places reporting to me in a number of sales functions.</sentence>
 <sentence id="s41">
  
@@ -70,7 +70,7 @@
  
  
  25.</sentence>
-<sentence id="s42">In my role as Managing Director I was responsible for all of the operations of Gambro Australia in Australia, New Zealand and Micronesia, which included sales &amp; marketing, manufacturing, clinics, technical service, warehousing &amp; distribution, information technology and administration.</sentence>
+<sentence id="s42">In my role as Managing Director I was responsible for all of the operations of Gambro Australia in Australia, New Zealand and Micronesia, which included sales amp; marketing, manufacturing, clinics, technical service, warehousing amp; distribution, information technology and administration.</sentence>
 <sentence id="s43">I was also responsible for the development of the Gambro Renal Products business division in Australia and New Zealand, and I reported to one of two Senior Vice Presidents of global sales in the Gambro Renal Products division of Gambro Lundia.</sentence>
 <sentence id="s44">I also liaised with the Sweden head office of the Gambro Renal Products and Gambro Healthcare divisions of the Gambro Group on a regular basis and reviewed the strategic plans and business plans of Gambro Renal Products and Gambro Healthcare to fit Australia and New Zealand.</sentence>
 <sentence id="s45">
@@ -101,7 +101,7 @@
  
  
  29.</sentence>
-<sentence id="s53">In the course of my roles with Gambro Australia, first as Technical Sales Representative, then as Sales &amp; Marketing Manager and later as Managing Director, I have made hundreds of visits to hospitals and renal units around Australia and introduced new HD products and practices to them.</sentence>
+<sentence id="s53">In the course of my roles with Gambro Australia, first as Technical Sales Representative, then as Sales amp; Marketing Manager and later as Managing Director, I have made hundreds of visits to hospitals and renal units around Australia and introduced new HD products and practices to them.</sentence>
 <sentence id="s54">In the course of these visits I have observed thousands of HD treatments being performed.</sentence>
 <sentence id="s55">I have also given hundreds of demonstrations of the setting up, priming and use of HD machines and of the application and use of HD Consumables and HD Services.</sentence>
 <sentence id="s56">I have also assisted hospital staff to set up HD Machines and prime them ready for HD treatments on dozens of occasions.</sentence>
@@ -121,7 +121,7 @@
  
  
  31.</sentence>
-<sentence id="s61">In the course of my roles with Gambro Australia, first as Technical Sales Representative, then as Sales &amp; Marketing Manager and later as Managing Director, I have had a very large number of discussions with customers of Gambro Australia, as well as those in the market for HD Machines, HD Consumables, Additional HD Products and HD Services, about the relative advantages and disadvantages of HD Machines, HD Consumables, Additional HD Products and HD Services available in the Australian market.</sentence>
+<sentence id="s61">In the course of my roles with Gambro Australia, first as Technical Sales Representative, then as Sales amp; Marketing Manager and later as Managing Director, I have had a very large number of discussions with customers of Gambro Australia, as well as those in the market for HD Machines, HD Consumables, Additional HD Products and HD Services, about the relative advantages and disadvantages of HD Machines, HD Consumables, Additional HD Products and HD Services available in the Australian market.</sentence>
 <sentence id="s62">I also regularly read articles and abstracts of publications in scientific and medical literature on developments in renal medicine and treatments.</sentence>
 <sentence id="s63">
  
@@ -217,11 +217,11 @@
  21.</sentence>
 <sentence id="s140">The primary judge considered that it was permissible to examine the reports and draw inferences from the form and contents of them.</sentence>
 <sentence id="s141">His Honour considered that it was permissible to take into account: 
- &#8226; the factual context in which a report was produced; 
- &#8226; the description and designation of the person making the report; 
- &#8226; the contents and language of the report and the nature of the assertions made in it; 
- &#8226; the form of the report; 
- &#8226; the expressed qualifications of the person making it as set out in the report.</sentence>
+ #8226; the factual context in which a report was produced; 
+ #8226; the description and designation of the person making the report; 
+ #8226; the contents and language of the report and the nature of the assertions made in it; 
+ #8226; the form of the report; 
+ #8226; the expressed qualifications of the person making it as set out in the report.</sentence>
 <sentence id="s142">
  
  22.</sentence>
@@ -393,4 +393,7 @@ Dated: 15 January 2007
  
  </sentence>
 </sentences>
+</case>s>
+</case>sentences>
+</case>s>
 </case>

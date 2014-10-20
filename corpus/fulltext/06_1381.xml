@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <case>
-<name>Singh v Secretary, Department of Employment &amp; Workplace Relations [2006] FCA 1381 (23 October 2006)</name>
+<name>Singh v Secretary, Department of Employment amp; Workplace Relations [2006] FCA 1381 (23 October 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1381.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from administrative appeals tribunal</catchphrase>
-<catchphrase "id=c1">tribunal dismissed application as frivolous and vexatious</catchphrase>
-<catchphrase "id=c2">tribunal directed that applicant not bring any further application regarding particular social security benefits without leave</catchphrase>
-<catchphrase "id=c3">whether tribunal erred in law</catchphrase>
-<catchphrase "id=c4">whether tribunal entitled to have regard to entire history of proceedings.</catchphrase>
-<catchphrase "id=c5">administrative law</catchphrase>
+<catchphrase >appeal from administrative appeals tribunal</catchphrase>
+<catchphrase >tribunal dismissed application as frivolous and vexatious</catchphrase>
+<catchphrase >tribunal directed that applicant not bring any further application regarding particular social security benefits without leave</catchphrase>
+<catchphrase >whether tribunal erred in law</catchphrase>
+<catchphrase >whether tribunal entitled to have regard to entire history of proceedings.</catchphrase>
+<catchphrase >administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -55,15 +55,15 @@
 <sentence id="s10">When Mr Singh asserts that the Tribunal did not have "jurisdiction" to do either of these things, what he really means is that the Tribunal erred in law in exercising its undoubted powers.</sentence>
 <sentence id="s11">6 The grounds upon which Mr Singh relies are essentially as follows: 
  
- &#8226; his application for review was not frivolous and vexatious;
- &#8226; a breach of the rules of natural justice occurred in connection with the making of the decision; 
- &#8226; the decision involved an error of law; and
- &#8226; the Tribunal either took into account an irrelevant consideration, or failed to take into account a relevant consideration in the exercise of its power.</sentence>
+ #8226; his application for review was not frivolous and vexatious;
+ #8226; a breach of the rules of natural justice occurred in connection with the making of the decision; 
+ #8226; the decision involved an error of law; and
+ #8226; the Tribunal either took into account an irrelevant consideration, or failed to take into account a relevant consideration in the exercise of its power.</sentence>
 <sentence id="s12">
  BACKGROUND 
  
  7 It is necessary to set out something of the background to this matter.</sentence>
-<sentence id="s13">Gray J summarised a large part of that background in his judgment dated 23 December 2004: Singh v Secretary, Department of Family &amp; Community Services [2004] FCA 1685.</sentence>
+<sentence id="s13">Gray J summarised a large part of that background in his judgment dated 23 December 2004: Singh v Secretary, Department of Family amp; Community Services [2004] FCA 1685.</sentence>
 <sentence id="s14">The Tribunal also summarised the history of this matter in its decision dated 3 July 2006.</sentence>
 <sentence id="s15">8 Mr Singh was born in 1950.</sentence>
 <sentence id="s16">He was employed by the Public Transport Corporation from 1983, initially as a tram conductor, and later as a tram driver.</sentence>
@@ -98,7 +98,7 @@
 <sentence id="s45">18 Mr Singh then appealed to the Federal Court.</sentence>
 <sentence id="s46">On 19 December 2000 Finkelstein J made a consent order dismissing that proceeding with no order as to costs.</sentence>
 <sentence id="s47">19 Mr Singh then appealed to the Full Court of the Federal Court seeking to revoke the orders made by consent by Finkelstein J.</sentence>
-<sentence id="s48">That appeal was dismissed by Beaumont, Kiefel and Hely JJ on 21 September 2001: Singh v Secretary, Dept of Family &amp; Community Services [2001] FCA 1281.</sentence>
+<sentence id="s48">That appeal was dismissed by Beaumont, Kiefel and Hely JJ on 21 September 2001: Singh v Secretary, Dept of Family amp; Community Services [2001] FCA 1281.</sentence>
 <sentence id="s49">20 Following further requests from Mr Singh, Centrelink wrote to him on 22 January 2002 stating that it had reviewed his case and decided not to change its decision to recover a compensation debt of $88,633.34.</sentence>
 <sentence id="s50">Mr Singh asked that the matter be referred to an authorised review officer.</sentence>
 <sentence id="s51">On 4 February 2002, an authorised review officer informed Mr Singh that he had no power to review the matter as it had already been reviewed by the SSAT, as well as the Tribunal itself.</sentence>
@@ -233,7 +233,7 @@
 <sentence id="s150">The Full Court also noted that the expression "habitually and persistently" implies more than "frequently", and suggests a degree of stubbornness on the part of the person in question.</sentence>
 <sentence id="s151">The element "without any reasonable ground" is of course to be determined objectively.</sentence>
 <sentence id="s152">It is immaterial that the person may believe in the justice of his or her argument, and may not understand that the argument has been authoritatively rejected.</sentence>
-<sentence id="s153">53 The Full Court referred to the principles laid down in Hunters Hill Municipal Council v Pedler [1976] 1 NSWLR 478; Attorney-General v Wentworth (1988) 14 NSWLR 481; Jones v Skyring [1992] HCA 39 ; (1992) 109 ALR 303; Horvath v Commonwealth Bank of Australia [1999] FCA 504 ; Commonwealth Bank of Australia v Heinrich [2003] FCA 540 ; and Granich &amp; Associates v Yap [2004] FCA 1567.</sentence>
+<sentence id="s153">53 The Full Court referred to the principles laid down in Hunters Hill Municipal Council v Pedler [1976] 1 NSWLR 478; Attorney-General v Wentworth (1988) 14 NSWLR 481; Jones v Skyring [1992] HCA 39 ; (1992) 109 ALR 303; Horvath v Commonwealth Bank of Australia [1999] FCA 504 ; Commonwealth Bank of Australia v Heinrich [2003] FCA 540 ; and Granich amp; Associates v Yap [2004] FCA 1567.</sentence>
 <sentence id="s154">It held that these cases accurately reflected the law on Order 21 r 2.</sentence>
 <sentence id="s155">54 In my view, similar principles are applicable to s 42B(1)(b), and therefore to Mr Singh.</sentence>
 <sentence id="s156">The Tribunal was entitled to have regard to his persistence, over many years, in seeking to have set aside the 4 November 1999 decision.</sentence>
@@ -253,7 +253,7 @@ Dated: 23 October 2006
 
  Counsel for the Applicant: The Applicant appeared in person 
  
- Counsel for the Respondent: Mr Dub&eacute; 
+ Counsel for the Respondent: Mr Dubeacute; 
  
  Solicitor for the Respondent: Sparke Helmore 
  
@@ -272,4 +272,8 @@ Dated: 23 October 2006
  
  </sentence>
 </sentences>
+</case>>
+</case> </sentence>
+</sentences>
+</case>>
 </case>

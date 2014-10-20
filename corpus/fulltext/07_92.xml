@@ -3,11 +3,11 @@
 <name>Palmer and Collis and Terraplanet Limited (in liquidation), in the matter of Terraplanet Limited (in liquidation) [2007] FCA 92 (28 December 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/92.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application by liquidators under s 436b(2) of corporations act 2001 (cth) for leave to appoint themselves as administrators of the company</catchphrase>
-<catchphrase "id=c1">considerations relevant to exercise of discretion</catchphrase>
-<catchphrase "id=c2">main consideration whether liquidators appropriate persons to be appointed</catchphrase>
-<catchphrase "id=c3">whether order should be made under s 447a of act dispensing with holding of first meeting of creditors under s 436e of act in circumstances in which there had been a committee of inspection in the liquidation all the members of which supported the present application</catchphrase>
-<catchphrase "id=c4">corporations</catchphrase>
+<catchphrase >application by liquidators under s 436b(2) of corporations act 2001 (cth) for leave to appoint themselves as administrators of the company</catchphrase>
+<catchphrase >considerations relevant to exercise of discretion</catchphrase>
+<catchphrase >main consideration whether liquidators appropriate persons to be appointed</catchphrase>
+<catchphrase >whether order should be made under s 447a of act dispensing with holding of first meeting of creditors under s 436e of act in circumstances in which there had been a committee of inspection in the liquidation all the members of which supported the present application</catchphrase>
+<catchphrase >corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -43,11 +43,11 @@
 <sentence id="s25">9 Creditors of Terraplanet had previously been advised that there was unlikely to be any distribution to ordinary unsecured creditors unless the proceedings against DCT and Quality resulted in substantial recoveries.</sentence>
 <sentence id="s26">10 The Liquidators have also:
  
- &#8226; pursued recovery of amounts owed to Terraplanet by trade creditors;
- &#8226; processed claims for employee entitlements under the General Employee Entitlements and Redundancy Scheme (GEERS) totalling $337,837;
- &#8226; reconciled and paid outstanding superannuation entitlements; 
- &#8226; carried out a detailed investigation in order to brief an independent expert to prepare a report on solvency; and
- &#8226; attended to other general administrative and compliance issues.</sentence>
+ #8226; pursued recovery of amounts owed to Terraplanet by trade creditors;
+ #8226; processed claims for employee entitlements under the General Employee Entitlements and Redundancy Scheme (GEERS) totalling $337,837;
+ #8226; reconciled and paid outstanding superannuation entitlements; 
+ #8226; carried out a detailed investigation in order to brief an independent expert to prepare a report on solvency; and
+ #8226; attended to other general administrative and compliance issues.</sentence>
 <sentence id="s27">
 
 11 As at 11 December 2007, Terraplanet had cash at bank of $253,196.86, and Press had cash at bank of $40,509.77.</sentence>
@@ -63,8 +63,8 @@
 <sentence id="s35">16 Briefly, under the Proposal, Dalgety will inject $1,800,000 cash into Terraplanet in return for shares representing approximately 92.17% of Terraplanet's issued share capital.</sentence>
 <sentence id="s36">The Proposal is contingent on:
  
- &#8226; the Liquidators again being appointed as administrators of Terraplanet; and
- &#8226; the creditors of Terraplanet resolving under s 439C(a) of the Act, at a meeting convened under s 439A of the Act, that Terraplanet execute a DOCA proposed by Dalgety.</sentence>
+ #8226; the Liquidators again being appointed as administrators of Terraplanet; and
+ #8226; the creditors of Terraplanet resolving under s 439C(a) of the Act, at a meeting convened under s 439A of the Act, that Terraplanet execute a DOCA proposed by Dalgety.</sentence>
 <sentence id="s37">
 
 17 Immediately following shareholder approval of the Proposal, Dalgety is to advance $450,000 to the Liquidators (by then again administrators) for the purpose of their settling all secured and unsecured creditor claims.</sentence>
@@ -90,7 +90,7 @@
 22 The present application does not call for a detailed discussion of the principles that govern the exercise of the Court's discretion under s 436B(2) of the Act.</sentence>
 <sentence id="s50">The reason is that, in my view, on any approach, the discretion should be exercised in favour of the granting of leave for the Liquidators to appoint themselves as administrators.</sentence>
 <sentence id="s51">The main question under s436B(2) of the Act is whether the Court is satisfied that the liquidator is an appropriate person to be appointed as administrator.</sentence>
-<sentence id="s52">After all, a liquidator is at liberty under s 436B(1) of the Act to appoint another person as administrator without the necessity of leave: see Deputy Commissioner of Taxation v Foodcorp Pty Ltd (1994) 13 ACSR 796 ( Foodcorp) ; Re Cobar Mines Pty Ltd (rec and mgr apptd) (in liq) (1998) 30 ACSR 125; John R Turk &amp; Sons (Artarmon) Pty Ltd v Newmont Television Pty Ltd [1999] NSWSC 622 ; Nardell Coal Corporation Pty Ltd (recs and mgrs apptd) (in liq) (2003) 47 ACSR 122.</sentence>
+<sentence id="s52">After all, a liquidator is at liberty under s 436B(1) of the Act to appoint another person as administrator without the necessity of leave: see Deputy Commissioner of Taxation v Foodcorp Pty Ltd (1994) 13 ACSR 796 ( Foodcorp) ; Re Cobar Mines Pty Ltd (rec and mgr apptd) (in liq) (1998) 30 ACSR 125; John R Turk amp; Sons (Artarmon) Pty Ltd v Newmont Television Pty Ltd [1999] NSWSC 622 ; Nardell Coal Corporation Pty Ltd (recs and mgrs apptd) (in liq) (2003) 47 ACSR 122.</sentence>
 <sentence id="s53">It has been suggested, however, that the Court should also have in mind considerations of commercial morality: see Re Data Homes Pty Ltd (in liq) [1972] 2 NSWLR 22; Re Depsun Pty Ltd (1994) 13 ACSR 644; Foodcorp at 798-9.</sentence>
 <sentence id="s54">23 I am satisfied that the Liquidators are appropriate persons to become administrators.</sentence>
 <sentence id="s55">They are familiar with the history of Terraplanet.</sentence>
@@ -101,7 +101,7 @@
 <sentence id="s60">Section 436E of the Act provides for an administrator of a company under administration to convene a meeting of the company's creditors so that they can, amongst other things, determine whether to appoint a committee of creditors and, if so, who are to be its members.</sentence>
 <sentence id="s61">26 It would be wasteful to put the Liquidators to that effort and expense, having regard to the fact that the members of the committee of inspection in the liquidation have unanimously supported the Proposal, in general, and, in particular, the re-appointment of the Liquidators as administrators for the purpose of advancing it.</sentence>
 <sentence id="s62">For this reason I made the order sought under s 447A of the Act.</sentence>
-<sentence id="s63">I note that such an order has been made in somewhat similar circumstances in Re Cobar Mines Pty Ltd (rec and mgr apptd) (in liq) (1998) 30 ACSR 125; John R Turk &amp; Sons (Artarmon) Pty Ltd v Newmont Television Pty Ltd [1999] NSWSC 622 and Re Nardell Coal Corporation Pty Ltd (rec and mgr apptd) (in liq) (2003) 47 ACSR 122.</sentence>
+<sentence id="s63">I note that such an order has been made in somewhat similar circumstances in Re Cobar Mines Pty Ltd (rec and mgr apptd) (in liq) (1998) 30 ACSR 125; John R Turk amp; Sons (Artarmon) Pty Ltd v Newmont Television Pty Ltd [1999] NSWSC 622 and Re Nardell Coal Corporation Pty Ltd (rec and mgr apptd) (in liq) (2003) 47 ACSR 122.</sentence>
 <sentence id="s64">CONCLUSION 
  
 27 For the above reasons, I granted leave under s 436B(2) of the Act and dispensed with the requirement under s 436E of the Act for the convening of a first meeting of creditors.</sentence>
@@ -114,7 +114,7 @@ Dated: 28 December 2007
 
  Counsel for the First and Second Plaintiffs: Mr S Golledge 
  
- Solicitors for the First and Second Plaintiffs: John Walsh &amp; Partners 
+ Solicitors for the First and Second Plaintiffs: John Walsh amp; Partners 
  
  Date of Hearing: 21 December 2007 
  
@@ -130,4 +130,8 @@ Dated: 28 December 2007
  
  </sentence>
 </sentences>
+</case>s>
+</case>nce>
+</sentences>
+</case>s>
 </case>

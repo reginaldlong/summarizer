@@ -3,11 +3,11 @@
 <name>Comandate Marine Corp v Pan Australia Shipping Pty Ltd [2006] FCA 1246 (1 September 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1246.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">stay of proceedings</catchphrase>
-<catchphrase "id=c1">application for leave to appeal against decisions granting anti-anti-suit injunction and finding foreign arbitral proceedings abandoned</catchphrase>
-<catchphrase "id=c2">conditions on grant of leave to appeal</catchphrase>
-<catchphrase "id=c3">whether court should impose a condition requiring the discharge of restraining orders granted by foreign courts in support of foreign arbitral proceedings</catchphrase>
-<catchphrase "id=c4">practice and procedure</catchphrase>
+<catchphrase >stay of proceedings</catchphrase>
+<catchphrase >application for leave to appeal against decisions granting anti-anti-suit injunction and finding foreign arbitral proceedings abandoned</catchphrase>
+<catchphrase >conditions on grant of leave to appeal</catchphrase>
+<catchphrase >whether court should impose a condition requiring the discharge of restraining orders granted by foreign courts in support of foreign arbitral proceedings</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -61,7 +61,7 @@
  12 So in that sense, it is common ground between the parties, and commonsense in my view, that the principles that govern the grant of leave in the ordinary case have been satisfied.</sentence>
 <sentence id="s29">But, because the application for leave to appeal is against an interlocutory decision, albeit having in practical terms final characteristics, the Court retains a discretion as to how to preserve and balance the respective rights of the parties in the proceedings.</sentence>
 <sentence id="s30">In effect, Comandate Marine wishes not only to have its proceedings on appeal brought on and heard urgently, and is prepared to submit to an order that it take no further steps in the arbitration, but it wishes to keep the benefit of orders that it has sought and obtained from the United States and English courts that are solely intended to benefit it in the arbitration.</sentence>
-<sentence id="s31">13 On 28 August 2006, Norton White, Comandate Marine's Australian solicitors wrote to Ebsworth &amp; Ebsworth, Pan's Australian solicitors, saying that the English freezing order and the United States attachment order were both obtained 'in support of the London arbitration'.</sentence>
+<sentence id="s31">13 On 28 August 2006, Norton White, Comandate Marine's Australian solicitors wrote to Ebsworth amp; Ebsworth, Pan's Australian solicitors, saying that the English freezing order and the United States attachment order were both obtained 'in support of the London arbitration'.</sentence>
 <sentence id="s32">14 When the matter returned to Court this morning, there was debate over whether or not the contested condition should be imposed.</sentence>
 <sentence id="s33">The matter was stood down until this afternoon and, at that time, Comandate Marine applied to have, in the alternative to, or in supplementation of, its application for leave to appeal, a stay of my order, in effect dismissing its application for relief under the International Arbitration Act 1974 (Cth) staying the proceedings that Pan had brought.</sentence>
 <sentence id="s34">I have been taken to no evidence in the application today, although I invited Comandate Marine's counsel to do so, which suggests that Comandate Marine would not suffer any prejudice of a tangible nature, other than the loss of the benefit of the two sets of orders by the United States and English courts.</sentence>
@@ -83,7 +83,7 @@
 <sentence id="s47">Because the appeal should be allowed to be instituted, each side will be in a position of some uncertainty as to the precise legal rights that they have, notwithstanding that there has been some, albeit still then contested, judicial determination along the way.</sentence>
 <sentence id="s48">18 I am of opinion that there is the power in the Court to impose conditions on a grant of leave to appeal in circumstances where, like the present, the appeal is interlocutory but there are other proceedings on foot, the benefit of which the unsuccessful party seeks to maintain while at the same time seeking to challenge the result which would have the effect of negating the factual substratum underlying those other proceedings.</sentence>
 <sentence id="s49">Such a power seems to me to fall within the inherent power of a superior court of record to condition orders that it makes inter partes to accord with the requirements of the demands of justice, just as the power to grant a stay is not confined to closed categories of cases of which vexatious suits is one illustration.</sentence>
-<sentence id="s50">It is a power which is exercisable in any situation where the requirements of justice demand it: Tringali v Stewardson Stubbs &amp; Collett Pty Limited (1966) 66 SR NSW 335 at 344.</sentence>
+<sentence id="s50">It is a power which is exercisable in any situation where the requirements of justice demand it: Tringali v Stewardson Stubbs amp; Collett Pty Limited (1966) 66 SR NSW 335 at 344.</sentence>
 <sentence id="s51">The power to impose conditions should be similarly approached.</sentence>
 <sentence id="s52">19 In Walton v Gardiner [1992] HCA 12 ; (1993) 177 CLR 378 at 393 Mason CJ and Deane and Dawson JJ discussed the inherent jurisdiction of a superior court to stay proceedings on the grounds of abuse of process and said that that power extended to all those categories of cases in which the processes and procedures of the court which exist to administer justice with fairness and impartiality may be converted into instruments of injustice or unfairness.</sentence>
 <sentence id="s53">They relied on what Lord Diplock had said in Hunter v Chief Constable of the West Midlands Police [1982] AC 529 at 536, that the inherent power which any court of justice must possess is to prevent misuse of its procedure in a way which, although not inconsistent with the literal application of its procedural rules, would nevertheless be manifestly unfair to a party to litigation before it or would otherwise bring the administration of justice into disrepute among right-thinking people.</sentence>
@@ -162,7 +162,7 @@ Dated: 19 September 2006
  
  Counsel for the Respondent: Dr A Bell 
  
- Solicitors for the Respondent: Ebsworth &amp; Ebsworth 
+ Solicitors for the Respondent: Ebsworth amp; Ebsworth 
  
  Date of Hearing: 1 September 2006 
  
@@ -178,4 +178,6 @@ Dated: 19 September 2006
  
  </sentence>
 </sentences>
-</case>
+</case>se></sentence>
+</sentences>
+</case>se>

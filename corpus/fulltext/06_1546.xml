@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <case>
-<name>SZCHA v Minister for Immigration &amp; Multicultural Affairs [2006] FCA 1546 (17 November 2006)</name>
+<name>SZCHA v Minister for Immigration amp; Multicultural Affairs [2006] FCA 1546 (17 November 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1546.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">status of findings of fact of the refugee review tribunal</catchphrase>
-<catchphrase "id=c1">use of country information</catchphrase>
-<catchphrase "id=c2">migration</catchphrase>
+<catchphrase >status of findings of fact of the refugee review tribunal</catchphrase>
+<catchphrase >use of country information</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -47,7 +47,7 @@
 <sentence id="s22">' 
  
  7 On 7 March 2006, at the hearing before the Federal Magistrate, the appellant obtained leave to file a Further Amended Application containing four grounds of appeal.</sentence>
-<sentence id="s23">The Federal Magistrate considered and rejected each of the grounds of appeal, and said at par 54 of her reasons, being SZCHA v Minister for Immigration and Multicultural Affairs &amp; Anor [2006] FCMA 347:
+<sentence id="s23">The Federal Magistrate considered and rejected each of the grounds of appeal, and said at par 54 of her reasons, being SZCHA v Minister for Immigration and Multicultural Affairs amp; Anor [2006] FCMA 347:
  'There has been no jurisdictional error, the Tribunal's decision is a privative clause decision and, pursuant to s.474 of the Act, this Court has no jurisdiction to interfere.</sentence>
 <sentence id="s24">' 
  
@@ -367,4 +367,5 @@ Dated: 17 November 2006
  
  </sentence>
 </sentences>
-</case>
+</case>e>/sentences>
+</case>e>

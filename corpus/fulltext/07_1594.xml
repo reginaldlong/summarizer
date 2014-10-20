@@ -3,9 +3,9 @@
 <name>Salfinger v Niugini Mining (Australia) Pty Ltd (No 4) [2007] FCA 1594 (18 October 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1594.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">indemnity costs</catchphrase>
-<catchphrase "id=c1">unrepresented litigant</catchphrase>
-<catchphrase "id=c2">costs</catchphrase>
+<catchphrase >indemnity costs</catchphrase>
+<catchphrase >unrepresented litigant</catchphrase>
+<catchphrase >costs</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -28,7 +28,7 @@
 <sentence id="s15">A lack of knowledge of the law, unfamiliarity with court practice and a lack of objectivity are common traits of unrepresented litigants.</sentence>
 <sentence id="s16">A person's ability to get redress should not depend on lawyerly skills or an ability to pay for legal representation.</sentence>
 <sentence id="s17">However, the Court owes a duty to all parties to ensure that the trial is conducted in a fair and timely fashion (at [28]) and without significant difficulties and unnecessary expense for the parties against whom an unrepresented litigant proceeds.</sentence>
-<sentence id="s18">see Bhagat v Royal &amp; Sun Alliance Life Assurance Australia Ltd [2000] NSWSC 159 at [13] per Hodgson CJ.</sentence>
+<sentence id="s18">see Bhagat v Royal amp; Sun Alliance Life Assurance Australia Ltd [2000] NSWSC 159 at [13] per Hodgson CJ.</sentence>
 <sentence id="s19">In this instance the expense, delay and difficulties caused by the applicant's fraudulent and unreasonable behaviour overshadow any limitations that arose from his status as self-represented.</sentence>
 <sentence id="s20">8 The applicant applied for a stay in respect of costs because he intended to appeal.</sentence>
 <sentence id="s21">I decline to order a stay.</sentence>
@@ -65,4 +65,5 @@ Respondent: Blake Dawson Waldron
  
  </sentence>
 </sentences>
-</case>
+</case>></sentences>
+</case>>

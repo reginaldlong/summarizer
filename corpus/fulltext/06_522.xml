@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <case>
-<name>Shek v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2006] FCA 522 (8 May 2006)</name>
+<name>Shek v Minister for Immigration amp; Multicultural amp; Indigenous Affairs [2006] FCA 522 (8 May 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/522.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">student visa</catchphrase>
-<catchphrase "id=c1">breach of condition 8202</catchphrase>
-<catchphrase "id=c2">whether assessment of attendance record to be made from the date of commencement of visa</catchphrase>
-<catchphrase "id=c3">futility</catchphrase>
-<catchphrase "id=c4">relief refused</catchphrase>
-<catchphrase "id=c5">migration</catchphrase>
+<catchphrase >student visa</catchphrase>
+<catchphrase >breach of condition 8202</catchphrase>
+<catchphrase >whether assessment of attendance record to be made from the date of commencement of visa</catchphrase>
+<catchphrase >futility</catchphrase>
+<catchphrase >relief refused</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -110,7 +110,7 @@
 <sentence id="s26">' 
  
 
-11 The s 20 Notice also stated that the applicant's student visa would be cancelled on the 28 th day after the date of the notice unless he attended at the office of the Department of Immigration &amp; Multicultural &amp; Indigenous Affairs ('the Department') in Perth to explain the breach of the condition.</sentence>
+11 The s 20 Notice also stated that the applicant's student visa would be cancelled on the 28 th day after the date of the notice unless he attended at the office of the Department of Immigration amp; Multicultural amp; Indigenous Affairs ('the Department') in Perth to explain the breach of the condition.</sentence>
 <sentence id="s27">12 On 15 December 2003, the College issued a Certificate of Attendance certifying that the applicant's attendance between 7 October 2003 and 28 November 2003 was 52 per cent and was characterised as 'unsatisfactory'.</sentence>
 <sentence id="s28">13 The applicant reported to the Department's office in Perth on 5 January 2004 and he was given a Notice of Intention to Consider Cancellation of his student visa.</sentence>
 <sentence id="s29">The notice identified the possible grounds for cancellation as:
@@ -188,7 +188,7 @@
  'You are invited to comment, in writing, on the following attached information: 
  
  
- &#8226; A fax transmitted to the Tribunal on 31 May 2004, which records your attendance at the Alexander Institute of Technology between 29 October 2003 and 17 November 2003 was 43%, and that you failed 4 out of the 5 subjects in your Diploma of Business; 
+ #8226; A fax transmitted to the Tribunal on 31 May 2004, which records your attendance at the Alexander Institute of Technology between 29 October 2003 and 17 November 2003 was 43%, and that you failed 4 out of the 5 subjects in your Diploma of Business; 
  
  
  ...' 
@@ -320,7 +320,7 @@
 <sentence id="s143">This was because the notice represented that the applicant would have an opportunity to explain her breach of Condition 8202 to the respondent's compliance officer, whereas, in fact, the officer was obliged to cancel the visa once a breach was demonstrated.</sentence>
 <sentence id="s144">The Federal Magistrate went on to find that the s 20 Notice was an invalid notice and that the invalid notice had a vitiating effect on the resultant decision made under s 116 of the Act to cancel the visa.</sentence>
 <sentence id="s145">43 The appeal in Zhou is still pending.</sentence>
-<sentence id="s146">However, the first respondent has drawn my attention to Humayun v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2006] FCAFC 35 ('Humayun') --- a decision of the Full Court which was delivered on 22 March 2006.</sentence>
+<sentence id="s146">However, the first respondent has drawn my attention to Humayun v Minister for Immigration amp; Multicultural amp; Indigenous Affairs [2006] FCAFC 35 ('Humayun') --- a decision of the Full Court which was delivered on 22 March 2006.</sentence>
 <sentence id="s147">Wilcox J (with whom Conti and Stone JJ agreed) said:
  
  'Mr Catterns argued the s 20 notice, issued to Mr Humayun on 7 February 2003, was defective for the reasons enunciated by Mr McInnis FM in Zhou v Minister for Immigration and Multicultural and Indigenous Affairs (No 1) [2005] FMCA 1826.</sentence>
@@ -363,4 +363,7 @@ Dated: 8 May 2006
  
  </sentence>
 </sentences>
-</case>
+</case></case> 
+ </sentence>
+</sentences>
+</case></case>

@@ -3,28 +3,28 @@
 <name>IEL Finance Limited v Commissioner of Taxation [2006] FCA 267 (21 March 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/267.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">large corporate group</catchphrase>
-<catchphrase "id=c1">inter-group transactions undertaken over six consecutive fiscal years</catchphrase>
-<catchphrase "id=c2">transactions involving inter-group interest bearing borrowings principally by one group member and transfers of tax losses arising out of those borrowings to other group members</catchphrase>
-<catchphrase "id=c3">prior primary and appellate claims by proceedings in federal court made by borrowing member against the commissioner for interest deductibility in respect of one fiscal year</catchphrase>
-<catchphrase "id=c4">decision at first instance and on appeal in relation to that fiscal year adverse to that single group member</catchphrase>
-<catchphrase "id=c5">findings made in context of those proceedings as to assessability to tax of that group member in respect of some transactions for differing fiscal years</catchphrase>
-<catchphrase "id=c6">after conclusion of single fiscal year further proceedings commenced by the same corporate group member together with other corporate group members in respect of transactions involving borrowings and transfers of tax losses in respect of antecedent as well as subsequent fiscal years to that resolved by federal court in favour of commissioner</catchphrase>
-<catchphrase "id=c7">whether issue estoppel, anshun estoppel and/or abuse of process should operate in favour of commissioner in respect of deductions for losses of antecedent and subsequent fiscal years</catchphrase>
-<catchphrase "id=c8">meaning of privies</catchphrase>
-<catchphrase "id=c9">authority in australian courts of earlier decisions of privy council and house of lords</catchphrase>
-<catchphrase "id=c10">summary judgment application of commissioner granted</catchphrase>
-<catchphrase "id=c11">income tax</catchphrase>
+<catchphrase >large corporate group</catchphrase>
+<catchphrase >inter-group transactions undertaken over six consecutive fiscal years</catchphrase>
+<catchphrase >transactions involving inter-group interest bearing borrowings principally by one group member and transfers of tax losses arising out of those borrowings to other group members</catchphrase>
+<catchphrase >prior primary and appellate claims by proceedings in federal court made by borrowing member against the commissioner for interest deductibility in respect of one fiscal year</catchphrase>
+<catchphrase >decision at first instance and on appeal in relation to that fiscal year adverse to that single group member</catchphrase>
+<catchphrase >findings made in context of those proceedings as to assessability to tax of that group member in respect of some transactions for differing fiscal years</catchphrase>
+<catchphrase >after conclusion of single fiscal year further proceedings commenced by the same corporate group member together with other corporate group members in respect of transactions involving borrowings and transfers of tax losses in respect of antecedent as well as subsequent fiscal years to that resolved by federal court in favour of commissioner</catchphrase>
+<catchphrase >whether issue estoppel, anshun estoppel and/or abuse of process should operate in favour of commissioner in respect of deductions for losses of antecedent and subsequent fiscal years</catchphrase>
+<catchphrase >meaning of privies</catchphrase>
+<catchphrase >authority in australian courts of earlier decisions of privy council and house of lords</catchphrase>
+<catchphrase >summary judgment application of commissioner granted</catchphrase>
+<catchphrase >income tax</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
  Outline of the context to the principal proceedings and to the Commissioner's application for summary judgment 
  
 1 There is pending before the Court in its original jurisdiction four principal proceedings brought variously by the taxpayer applicants pursuant to Part IVC of the Taxation Administration Act 1953 (Cth) ('the Administration Act'), whereby there is sought to be set aside determinations by the respondent Commissioner of Taxation ('the Commissioner') of objections lodged by the taxpayer applicants against assessments to income tax for the years of income ended 30 June 1991, 1993 and 1994, being questions said by the taxpayer applicants as 'never previously... in issue'.</sentence>
-<sentence id="s1">The taxpayer applicants are respectively identified in these reasons as 'IEF' (for IEL Finance Limited), 'QTH' (for Queensland Trading &amp; Holding Company Limited) and 'Spassked' (for Spassked Pty Limited).</sentence>
+<sentence id="s1">The taxpayer applicants are respectively identified in these reasons as 'IEF' (for IEL Finance Limited), 'QTH' (for Queensland Trading amp; Holding Company Limited) and 'Spassked' (for Spassked Pty Limited).</sentence>
 <sentence id="s2">What was described by the taxpayer applicants as 'the underlying issue now in contest' was the deductibility of the interest expense incurred by Spassked under s 51(1) of the Income Tax Assessment Act 1936 (as amended) ('the Tax Act') in respect of the 1991, 1993 and 1994 fiscal years, being issues which they said 'could not previously have been decided'.</sentence>
 <sentence id="s3">I have referred to QTH, IEF and Spassked in these reasons together as 'taxpayer applicants' to avoid confusion, given that the Commissioner is the applicant in the present interlocutory proceedings for summary judgment.</sentence>
-<sentence id="s4">Each of QTH, IEF and Spassked was at all material times a wholly owned subsidiary of Industrial Equity Limited ('IEL'), a public company, and IEL in turn traced upwards corporately to the well known Adsteam, David Jones and Tooth &amp; Co public companies.</sentence>
+<sentence id="s4">Each of QTH, IEF and Spassked was at all material times a wholly owned subsidiary of Industrial Equity Limited ('IEL'), a public company, and IEL in turn traced upwards corporately to the well known Adsteam, David Jones and Tooth amp; Co public companies.</sentence>
 <sentence id="s5">2 The context to that so-called underlying issue was that between 1 December 1987 and 28 June 1990, Spassked borrowed funds from IEF at interest, and claimed that as a result of the interest incurred on those loans during the 1988 to 1994 years of income inclusively, it made losses for income tax purposes during those years of income.</sentence>
 <sentence id="s6">The losses so claimed were progressively transferred by Spassked under s 80G of the Tax Act to other members of the IEL group up to and including the 1998 fiscal year.</sentence>
 <sentence id="s7">The Commissioner issued assessments against Spassked and the transferees of the tax losses which disallowed the deductions for the interest originally claimed to have been incurred by it on those borrowings, and consequently reduced the amount of those losses to nil.</sentence>
@@ -74,7 +74,7 @@ the facts and matters asserted and the contentions advanced in specified paragra
  
  
  
- &#8226; first, Spassked incurred a loss available under s 79E of the Tax Act for the 1993 year of income of $465,626,785; &#8226; secondly, Spassked incurred a loss of $545,943,416 for the 1994 year of income; 
+ #8226; first, Spassked incurred a loss available under s 79E of the Tax Act for the 1993 year of income of $465,626,785; #8226; secondly, Spassked incurred a loss of $545,943,416 for the 1994 year of income; 
  
  
  (those findings sought by QTH and IEF turn on the issue as to whether Spassked was entitled to deductions pursuant to s 51(1) of the Tax Act for the interest it incurred on the IEF loans in prior years of income, including 1991, 1992, 1993 and 1994);
@@ -423,7 +423,7 @@ The juridical notion of 'privies', or more perhaps precisely, privity in interes
 <sentence id="s155">As another Full Court said in Coffey v Secretary, Department of Social Security [1999] FCA 375 ; (1999) 86 FCR 434 (at 443): "An attempt to litigate in the Court a dispute or issue which has been resolved in earlier litigation in another court or tribunal may constitute an abuse of process even though the earlier proceeding did not give rise to a res judicata or issue estoppel ..." 
  
  67 The considerations of public policy which underline res judicata and issue estoppel help to define the scope of abuse of process by relitigation generally.</sentence>
-<sentence id="s156">As Lord Hoffman said in Arthur JS Hall &amp; Co v Simons [2000] UKHL 38 ; [2000] 3 WLR 543 at 572, the underlying policies are that a defendant should not be troubled twice for the same reason and that there is "a general public interest in the same issue not being litigated over again".</sentence>
+<sentence id="s156">As Lord Hoffman said in Arthur JS Hall amp; Co v Simons [2000] UKHL 38 ; [2000] 3 WLR 543 at 572, the underlying policies are that a defendant should not be troubled twice for the same reason and that there is "a general public interest in the same issue not being litigated over again".</sentence>
 <sentence id="s157">Lord Hoffman observed that the second rationale could be used to justify the extension of the rules of issue estoppel to cases in which the parties are not the same but the circumstances are such as to bring the parties within the spirit of the rule... 
  
  ... 
@@ -584,7 +584,7 @@ At 283 in Rogers , McHugh J observed that issue estoppel relates to 'an ultimate
 <sentence id="s216">Furthermore the principle enunciated in Henderson was expressed in terms of res judicata , upon which doctrine the Commissioner has however withheld from reliance in the context of the present strike-out proceedings, though in that regard, the doctrine of res judicata is more broadly conceived and has received a broader application in United Kingdom contexts.</sentence>
 <sentence id="s217">Moreover in income tax contexts, traditional pleadings are not usually implemented; in that regard in Murphy v Abi-Saab (1995) 37 NSWLR 280 at 287, it was observed by Gleeson CJ (with whose reasons for judgment Kirby P and Rolfe AJA agreed) that '... an issue of fact or law may be easier to decide where there are pleadings than where... there was simply a summons' .</sentence>
 <sentence id="s218">In any event, I think that in substance and in reality, IEL as the intermediate and in the present context the effectively controlling parent company did cause its subsidiary Spassked to bring forward the 'whole case' of IEL's relevant subsidiaries (ie Spassked, IEF and QTH).</sentence>
-<sentence id="s219">46 More recently in Johnson v Gore Wood &amp; Co [2000] UKHL 65 ; [2002] 2 AC 1 at 31, Lord Bingham described in Henderson v Henderson abuse of process as having 'much in common' with cause of action estoppel and issue estoppel situations as follows: 
+<sentence id="s219">46 More recently in Johnson v Gore Wood amp; Co [2000] UKHL 65 ; [2002] 2 AC 1 at 31, Lord Bingham described in Henderson v Henderson abuse of process as having 'much in common' with cause of action estoppel and issue estoppel situations as follows: 
  
  'The underlying public interest is the same: that there should be finality in litigation and that a party should not be twice vexed in the same matter.</sentence>
 <sentence id="s220">This public interest is reinforced by the current emphasis on efficiency and economy in the conduct of litigation, in the interests of the parties and the public as a whole.</sentence>
@@ -626,7 +626,7 @@ Given the Commissioner's case as to the wider context in which the earlier concl
 
 I should add that the Commissioner also addressed in chief, in anticipation of the contrary view of the taxpayer applicants, that IEF and QTH were privies of Spassked for the purpose of the operation of the doctrines of issue estoppel and Anshun estoppel, since each acquired income tax losses from Spassked in their capacity as wholly owned subsidiaries of IEL, as was also Spassked.</sentence>
 <sentence id="s234">It is appropriate that I address that less relatively complex issue for the most part in my final segment of conclusions to these reasons for judgment.</sentence>
-<sentence id="s235">The response in more detail of the taxpayer applicants IEL Finance Limited, Queensland Trading &amp; Holding Limited and Spassked Pty Limited to the Commissioner's application for summary judgment --- the asserted prevalence of English authority as to the operation of estoppels in fiscal contexts 
+<sentence id="s235">The response in more detail of the taxpayer applicants IEL Finance Limited, Queensland Trading amp; Holding Limited and Spassked Pty Limited to the Commissioner's application for summary judgment --- the asserted prevalence of English authority as to the operation of estoppels in fiscal contexts 
  
 50 The response of the taxpayer applicants' case to the Commissioner's application for summary judgment was very comprehensive and well researched.</sentence>
 <sentence id="s236">I will identify at least the majority of the submissions of the taxpayer applicants in the present segment of my reasons for judgment, but will not do so exhaustively, since certain of the submissions of the taxpayer applicants are conveniently addressed in the course of my lengthy segment of conclusions.</sentence>
@@ -1095,7 +1095,7 @@ The taxpayer applicants for their part also cited at 135 (per Mason J as he then
 
 91 I think that there is something to be said for the view that in the present context to the present proceedings, for the taxpayer applicants to be permitted to contest the issues the subject of the critical findings of the primary judge and the members of the Full Court, to which I have earlier referred as to Spassked's circumstances relevantly from 1988 to 1994, would bring the administration of justice into dispute, given the nature and extent of those findings which the Commissioner would presently invoke as the basis for the Commissioner's contention as to abuse of process, as well as for issue estoppel and Anshun estoppel.</sentence>
 <sentence id="s521">The particular context involved in Saffron was of course distant to that involved in the earlier concluded Spassked proceedings and presently involved, but nevertheless not to the extent of entirely excluding a useful illustration as to the operation of the doctrine of abuse of process here invoked by the Commissioner.</sentence>
-<sentence id="s522">92 The taxpayer applicants drew further attention, in the present context of discussion, to the following opinions of Lord Hobhouse in Arthur S Hall &amp; Co v Simons [2000] UKHL 38 ; [2002] 1 AC 615 at 743 as to the operation of the principle of abuse of process:
+<sentence id="s522">92 The taxpayer applicants drew further attention, in the present context of discussion, to the following opinions of Lord Hobhouse in Arthur S Hall amp; Co v Simons [2000] UKHL 38 ; [2002] 1 AC 615 at 743 as to the operation of the principle of abuse of process:
  
  'The "collateral attack" point is a species (or "sub-set ") of abuse of process.</sentence>
 <sentence id="s523">There is no general rule preventing a party inviting a court to arrive at a decision inconsistent with that arrived at in another case.</sentence>
@@ -1358,4 +1358,10 @@ Dated: 21 March 2006
  
  </sentence>
 </sentences>
+</case>
+</case>lii.edu.au/au/cases/cth/FCA/2006/267.html 
+ 
+ </sentence>
+</sentences>
+</case>
 </case>

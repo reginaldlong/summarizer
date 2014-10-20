@@ -3,18 +3,18 @@
 <name>Repatriation Commission v Dunn [2006] FCA 1703 (8 December 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1703.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application by way of appeal</catchphrase>
-<catchphrase "id=c1">war widow's pension</catchphrase>
-<catchphrase "id=c2">malignant neoplasm of prostate</catchphrase>
-<catchphrase "id=c3">war-caused death</catchphrase>
-<catchphrase "id=c4">tribunal finding of liability based on evidence of deceased and rejection of evidence of expert</catchphrase>
-<catchphrase "id=c5">whether tribunal in error in finding reasonable hypothesis raised</catchphrase>
-<catchphrase "id=c6">agreement on first three deledio factors at tribunal hearing</catchphrase>
-<catchphrase "id=c7">whether appropriate for contentions concerning third factor to arise for argument on appeal</catchphrase>
-<catchphrase "id=c8">whether material raising or pointing to connection of condition and death to operational service</catchphrase>
-<catchphrase "id=c9">whether material to satisfy elements of relevant statement of principle</catchphrase>
-<catchphrase "id=c10">whether failure to accord procedural fairness in relation to evidence of expert</catchphrase>
-<catchphrase "id=c11">veterans' affairs</catchphrase>
+<catchphrase >application by way of appeal</catchphrase>
+<catchphrase >war widow's pension</catchphrase>
+<catchphrase >malignant neoplasm of prostate</catchphrase>
+<catchphrase >war-caused death</catchphrase>
+<catchphrase >tribunal finding of liability based on evidence of deceased and rejection of evidence of expert</catchphrase>
+<catchphrase >whether tribunal in error in finding reasonable hypothesis raised</catchphrase>
+<catchphrase >agreement on first three deledio factors at tribunal hearing</catchphrase>
+<catchphrase >whether appropriate for contentions concerning third factor to arise for argument on appeal</catchphrase>
+<catchphrase >whether material raising or pointing to connection of condition and death to operational service</catchphrase>
+<catchphrase >whether material to satisfy elements of relevant statement of principle</catchphrase>
+<catchphrase >whether failure to accord procedural fairness in relation to evidence of expert</catchphrase>
+<catchphrase >veterans' affairs</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -293,15 +293,15 @@ With regard to the reference to 'factors ...related to service' in (d), referenc
  
  'In estimating the late Mr Dunn's energy requirements in the pre-service period, Dr English has used the following facts and assumptions ... 
  
- &#8226; Age before service (within the range of 16 --- 18 years); 
+ #8226; Age before service (within the range of 16 --- 18 years); 
  
  
- &#8226; Pre-service weight 66.4 kg (calculated from weight of 147 lb on enlistment; 
- &#8226; Schofield Equation for males 16 --- 18 (assumed a constant value for the regression coefficient of 0.074) i.e.</sentence>
+ #8226; Pre-service weight 66.4 kg (calculated from weight of 147 lb on enlistment; 
+ #8226; Schofield Equation for males 16 --- 18 (assumed a constant value for the regression coefficient of 0.074) i.e.</sentence>
 <sentence id="s78">( Mr Dunn's weight x 0.074) + 2.754 = BMR ; 
- &#8226; Activity level (the indicators of lifestyle description as a "labourer" --- the late veteran was employed as a "cabinet maker") as " heavy " and with a factor of " 2.1 " applied to the estimate of BMR.</sentence>
+ #8226; Activity level (the indicators of lifestyle description as a "labourer" --- the late veteran was employed as a "cabinet maker") as " heavy " and with a factor of " 2.1 " applied to the estimate of BMR.</sentence>
 <sentence id="s79">
- &#8226; The recommended energy requirement for growth at age 16 --- 18 years of age (2 kJ/kg body weight) was included.</sentence>
+ #8226; The recommended energy requirement for growth at age 16 --- 18 years of age (2 kJ/kg body weight) was included.</sentence>
 <sentence id="s80">
  
  
@@ -317,7 +317,7 @@ With regard to the reference to 'factors ...related to service' in (d), referenc
  ...</sentence>
 <sentence id="s82">Equation 1 
  
- &#8226; This equation calculated the pre-service BMR as 7,668 kJ/day 
+ #8226; This equation calculated the pre-service BMR as 7,668 kJ/day 
  
  
  
@@ -327,7 +327,7 @@ With regard to the reference to 'factors ...related to service' in (d), referenc
  ...</sentence>
 <sentence id="s83">Equation 2 
  
- &#8226; This equation calculated the energy requirement as 16,236 kJ/day' 
+ #8226; This equation calculated the energy requirement as 16,236 kJ/day' 
 
 The Tribunal said at [79] the effect of these was that:
  
@@ -581,7 +581,7 @@ It therefore found it was satisfied the Mr Dunn's condition of malignant neoplas
 <sentence id="s281">Consequently, it is contended, the Commission has not been prejudiced or disadvantaged in any way.</sentence>
 <sentence id="s282">It is said the reference by the Tribunal to the prisoners of war in Japanese camps is to be seen as being by way of notation and reference and not as having played any part in the Tribunal's formulation of its reasons.</sentence>
 <sentence id="s283">75 It is well established that not every departure from the rules of natural justice will entitle the aggrieved party to a new trial: Stead v State Government Insurance Commission [1986] HCA 54 ; (1986) 161 CLR 141 at 145-6; Re Refugee Tribunal; Ex parte Aala [2000] HCA 57 ; (2000) 204 CLR 82 at 88, 109, 116-7, 122, 131 and 153-4.</sentence>
-<sentence id="s284">The question is whether the Court is satisfied that the breach could have had no bearing on the outcome: Tuncok v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2003] FCA 1069 per Hely J relying on Stead and Aala .</sentence>
+<sentence id="s284">The question is whether the Court is satisfied that the breach could have had no bearing on the outcome: Tuncok v Minister for Immigration amp; Multicultural amp; Indigenous Affairs [2003] FCA 1069 per Hely J relying on Stead and Aala .</sentence>
 <sentence id="s285">I rely upon the reasoning of Weinberg J in Applicants M1015/2003 v Minister for Immigration and Multicultural and Indigenous Affairs [2004] FCA 1309 for the continuing authority of these authorities, none of which were examined in the course of argument in this application.</sentence>
 <sentence id="s286">76 I agree that the reference to the evidence from Japanese war camps was treated by the Tribunal as a supplementary note and failure to give notice of it could not be said to have given rise to any practical injustice.</sentence>
 <sentence id="s287">77 The issue of the predictions of BMR being only to within about 10% in the case of most individuals arose from the paper by Warwick (1990) cited in [85] of the Tribunal's reasons.</sentence>
@@ -621,4 +621,10 @@ Dated: 8 December 2006
  
  </sentence>
 </sentences>
+</case>>
+</case>i.edu.au/au/cases/cth/FCA/2006/1703.html 
+ 
+ </sentence>
+</sentences>
+</case>>
 </case>

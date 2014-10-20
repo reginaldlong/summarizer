@@ -3,15 +3,15 @@
 <name>SZFWB v Minister for Immigration and Citizenship [2007] FCA 167 (20 April 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/167.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for protection visa</catchphrase>
-<catchphrase "id=c1">appeal from federal magistrate</catchphrase>
-<catchphrase "id=c2">'no evidence' ground</catchphrase>
-<catchphrase "id=c3">whether tribunal gave appellants sufficient time</catchphrase>
-<catchphrase "id=c4">whether open to tribunal to make credibility findings</catchphrase>
-<catchphrase "id=c5">whether tribunal made wrong assumptions</catchphrase>
-<catchphrase "id=c6">whether fourth appellant denied a hearing</catchphrase>
-<catchphrase "id=c7">whether tribunal failed to take into account evidence of first appellant's medical condition</catchphrase>
-<catchphrase "id=c8">migration</catchphrase>
+<catchphrase >application for protection visa</catchphrase>
+<catchphrase >appeal from federal magistrate</catchphrase>
+<catchphrase >'no evidence' ground</catchphrase>
+<catchphrase >whether tribunal gave appellants sufficient time</catchphrase>
+<catchphrase >whether open to tribunal to make credibility findings</catchphrase>
+<catchphrase >whether tribunal made wrong assumptions</catchphrase>
+<catchphrase >whether fourth appellant denied a hearing</catchphrase>
+<catchphrase >whether tribunal failed to take into account evidence of first appellant's medical condition</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -195,14 +195,14 @@ Further, when the first appellant was asked why he did not attend his daughter's
 20 The appellants filed written submissions in support of these grounds.</sentence>
 <sentence id="s98">In particular, they contended that:
  
-&#8226; The Tribunal's statement that the first appellant did not suffer from any condition that adversely affected his ability to give evidence was one that the Tribunal was not qualified to make.</sentence>
+#8226; The Tribunal's statement that the first appellant did not suffer from any condition that adversely affected his ability to give evidence was one that the Tribunal was not qualified to make.</sentence>
 <sentence id="s99">The Tribunal did not give the first appellant sufficient time to present medical evidence to show that his brain condition adversely affected his ability to give evidence.</sentence>
 <sentence id="s100">This constituted a denial of natural justice and amounted to an excess of jurisdiction.</sentence>
-<sentence id="s101">&#8226; The Tribunal wrongly assumed that the Jatiya Party was formed in January 1986.</sentence>
-<sentence id="s102">&#8226; The Tribunal should have asked the second appellant how she was harassed and intimidated by political opponents and, because it did not, it failed to ask material questions as it was required to do by the Act .</sentence>
-<sentence id="s103">&#8226; The Tribunal failed to arrange a separate hearing for the fourth appellant as it was required to do.</sentence>
+<sentence id="s101">#8226; The Tribunal wrongly assumed that the Jatiya Party was formed in January 1986.</sentence>
+<sentence id="s102">#8226; The Tribunal should have asked the second appellant how she was harassed and intimidated by political opponents and, because it did not, it failed to ask material questions as it was required to do by the Act .</sentence>
+<sentence id="s103">#8226; The Tribunal failed to arrange a separate hearing for the fourth appellant as it was required to do.</sentence>
 <sentence id="s104">The fourth appellant was, therefore, denied natural justice.</sentence>
-<sentence id="s105">&#8226; The appellant's persecution was genuine and continuing and "if forced to return to Bangladesh our political opponent will kill us as our previous experience indicated the same".</sentence>
+<sentence id="s105">#8226; The appellant's persecution was genuine and continuing and "if forced to return to Bangladesh our political opponent will kill us as our previous experience indicated the same".</sentence>
 <sentence id="s106">The first respondent filed detailed submissions in opposition.</sentence>
 <sentence id="s107">21 The appeal was listed for hearing in Sydney on 22 February 2007.</sentence>
 <sentence id="s108">On this occasion, the first appellant made three additional submissions: first, that the appellants did not receive the letter from the Tribunal notifying them of the 16 December 2004 hearing date for the fourth appellant until that date had passed; secondly, that the Tribunal had failed to take into account documents that he had provided to the Tribunal regarding his medical condition; and, thirdly, that the letter sent to them by the Tribunal granting an extension of time to provide medical specialist reports was not received until 17 December 2004.</sentence>
@@ -426,4 +426,8 @@ Dated: 20 April 2007
  
  </sentence>
 </sentences>
-</case>
+</case>case>cth/FCA/2007/167.html 
+ 
+ </sentence>
+</sentences>
+</case>case>

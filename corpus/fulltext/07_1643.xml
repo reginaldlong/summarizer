@@ -3,13 +3,13 @@
 <name>In the matter of Bruton Holdings Pty Limited (in liquidation) v Commissioner of Taxation [2007] FCA 1643 (2 November 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1643.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">corporations</catchphrase>
-<catchphrase "id=c1">notices under s 260- 5 of the taxation administration act 1953 (cth) issued to solicitors of a company that was a trustee of a purpose trust after the company was wound up</catchphrase>
-<catchphrase "id=c2">relevant notice void</catchphrase>
-<catchphrase "id=c3">consideration of the position of the parties</catchphrase>
-<catchphrase "id=c4">costs of solicitors of the company subject of a lien</catchphrase>
-<catchphrase "id=c5">income tax</catchphrase>
-<catchphrase "id=c6">solicitor's lien</catchphrase>
+<catchphrase >corporations</catchphrase>
+<catchphrase >notices under s 260- 5 of the taxation administration act 1953 (cth) issued to solicitors of a company that was a trustee of a purpose trust after the company was wound up</catchphrase>
+<catchphrase >relevant notice void</catchphrase>
+<catchphrase >consideration of the position of the parties</catchphrase>
+<catchphrase >costs of solicitors of the company subject of a lien</catchphrase>
+<catchphrase >income tax</catchphrase>
+<catchphrase >solicitor's lien</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -363,7 +363,7 @@ I agree.</sentence>
 <sentence id="s170">Clause 13 of the trust deed provided for Bruton's right of exoneration.</sentence>
 <sentence id="s171">) White J also said, by reference to a number of authorities at [43] and [49]: 
  
- ...Other authorities make it clear that the liquidator is only entitled to recover remuneration from trust assets where the work done was in administration of the trust (Grime Carter &amp; Co Pty Ltd v Whytes Furniture (Dubbo) Pty Ltd [1983] 1 NSWLR 158; In re Berkeley Applegate (Investment Consultants) Ltd (in liq); Harris v Conway [1989] 1 Ch 32 at 50-51; Re Eastern Capital Futures Ltd (in liq) [1989] BCLC 371 at 375; Re GB Nathan &amp; Co Pty Ltd (in liq) (1991) 24 NSWLR 674 at 686-687; 13 Coromandel Place Pty Ltd v C L Custodians Pty Ltd (in liq) (1999) 30 ACSR 377 at 385; 17 ACLC 500 at 509; Re Sutherland; French Caledonia Travel Service Pty Ltd (in liq) at [213], [217]).</sentence>
+ ...Other authorities make it clear that the liquidator is only entitled to recover remuneration from trust assets where the work done was in administration of the trust (Grime Carter amp; Co Pty Ltd v Whytes Furniture (Dubbo) Pty Ltd [1983] 1 NSWLR 158; In re Berkeley Applegate (Investment Consultants) Ltd (in liq); Harris v Conway [1989] 1 Ch 32 at 50-51; Re Eastern Capital Futures Ltd (in liq) [1989] BCLC 371 at 375; Re GB Nathan amp; Co Pty Ltd (in liq) (1991) 24 NSWLR 674 at 686-687; 13 Coromandel Place Pty Ltd v C L Custodians Pty Ltd (in liq) (1999) 30 ACSR 377 at 385; 17 ACLC 500 at 509; Re Sutherland; French Caledonia Travel Service Pty Ltd (in liq) at [213], [217]).</sentence>
 <sentence id="s172">
  
  It follows that the only claim which the liquidator has for which the company is liable, and against which the company is entitled to be exonerated from the funds in court, is for remuneration and expenses in connection with the administration of the trust.</sentence>
@@ -504,4 +504,8 @@ Dated: 2 November 2007
  
  </sentence>
 </sentences>
-</case>
+</case>e>/1643.html 
+ 
+ </sentence>
+</sentences>
+</case>e>

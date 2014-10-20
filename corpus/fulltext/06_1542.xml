@@ -3,10 +3,10 @@
 <name>Oxford Funding Pty Ltd v Oxford Asia Pacific Investments Pty Ltd (No 2) [2006] FCA 1542 (17 November 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1542.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">dispute over use of name "oxford"</catchphrase>
-<catchphrase "id=c1">application for interlocutory injunction dismissed</catchphrase>
-<catchphrase "id=c2">subsequent settlement, except for costs</catchphrase>
-<catchphrase "id=c3">costs</catchphrase>
+<catchphrase >dispute over use of name "oxford"</catchphrase>
+<catchphrase >application for interlocutory injunction dismissed</catchphrase>
+<catchphrase >subsequent settlement, except for costs</catchphrase>
+<catchphrase >costs</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -45,9 +45,9 @@
  9 In the letter the solicitors required the following undertakings by 5.00 pm on Tuesday 4 October: 
  
  
- &#8226; that OAPI will change its name to a name that does not include the word "Oxford" if it intends to continue offering the OAPI services and/or the other services set out in the OAPI website; 
- &#8226; that OAPI, its directors etc will cease and refrain from marketing etc, any services by references to the OAPI name or any name which is substantially identical with or deceptively similar to any of the applicant's trade marks if it intends to continue offering the OAPI services and/or the other services set out in the OAPI website;
- &#8226; that OAPI will within the same time frame provide a statutory declaration that all documents including letterhead and stationery bearing reproductions of the OAPI name have been destroyed.</sentence>
+ #8226; that OAPI will change its name to a name that does not include the word "Oxford" if it intends to continue offering the OAPI services and/or the other services set out in the OAPI website; 
+ #8226; that OAPI, its directors etc will cease and refrain from marketing etc, any services by references to the OAPI name or any name which is substantially identical with or deceptively similar to any of the applicant's trade marks if it intends to continue offering the OAPI services and/or the other services set out in the OAPI website;
+ #8226; that OAPI will within the same time frame provide a statutory declaration that all documents including letterhead and stationery bearing reproductions of the OAPI name have been destroyed.</sentence>
 <sentence id="s26">
  
  
@@ -233,4 +233,6 @@ Dated: 17 November 2006
  
  </sentence>
 </sentences>
-</case>
+</case>se>nce>
+</sentences>
+</case>se>

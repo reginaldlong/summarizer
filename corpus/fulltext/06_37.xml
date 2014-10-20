@@ -3,9 +3,9 @@
 <name>Vasiliou v Marchesi [2006] FCA 37 (3 February 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/37.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application to extend time for filing appeal</catchphrase>
-<catchphrase "id=c1">where no realistic prospect of success</catchphrase>
-<catchphrase "id=c2">appeal</catchphrase>
+<catchphrase >application to extend time for filing appeal</catchphrase>
+<catchphrase >where no realistic prospect of success</catchphrase>
+<catchphrase >appeal</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -15,7 +15,7 @@
 <sentence id="s2">3 The applicant, who was self represented, did not file a notice of appeal within the required time.</sentence>
 <sentence id="s3">Rather, on 28 November 2005 he applied for leave to appeal out of time.</sentence>
 <sentence id="s4">Under O 52 r 15(2) the Court or a Judge 'for special reasons' may give leave to file and serve a notice of appeal out of time.</sentence>
-<sentence id="s5">4 In Gallo v Dawson [1990] HCA 30 ; (1990) 93 ALR 479 at 480, McHugh J, citing Hughes v National Trustees Executors &amp; Agency Co of Australia Ltd [1978] VR 257 at 262 observed that the discretion to extend time for an appeal was for 'the sole purpose of enabling the court [or a judge] to do justice between the parties' and stated, in that context, it is always necessary to consider the prospects of success.</sentence>
+<sentence id="s5">4 In Gallo v Dawson [1990] HCA 30 ; (1990) 93 ALR 479 at 480, McHugh J, citing Hughes v National Trustees Executors amp; Agency Co of Australia Ltd [1978] VR 257 at 262 observed that the discretion to extend time for an appeal was for 'the sole purpose of enabling the court [or a judge] to do justice between the parties' and stated, in that context, it is always necessary to consider the prospects of success.</sentence>
 <sentence id="s6">In that case, his Honour decided that the proposed appeal in the matter before him had no prospect of success with the consequence that leave to appeal out of time was refused.</sentence>
 <sentence id="s7">5 The grounds of appeal in the draft notice of appeal were expressed as follows:
  
@@ -93,4 +93,5 @@ Dated: 9 February 2006
  
  </sentence>
 </sentences>
-</case>
+</case>></sentences>
+</case>>

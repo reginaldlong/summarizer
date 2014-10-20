@@ -3,10 +3,10 @@
 <name>United Collieries Pty Ltd v Construction, Forestry, Mining and Energy Union [2006] FCA 904 (14 July 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/904.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">industrial action during bargaining period approved by a protected action ballot of employees</catchphrase>
-<catchphrase "id=c1">where proposed industrial action is a series of actions</catchphrase>
-<catchphrase "id=c2">whether action commenced is during the 30 day period beginning on the date of the declaration of the result of the ballot if first of the series occurs within the 30 day period</catchphrase>
-<catchphrase "id=c3">industrial law</catchphrase>
+<catchphrase >industrial action during bargaining period approved by a protected action ballot of employees</catchphrase>
+<catchphrase >where proposed industrial action is a series of actions</catchphrase>
+<catchphrase >whether action commenced is during the 30 day period beginning on the date of the declaration of the result of the ballot if first of the series occurs within the 30 day period</catchphrase>
+<catchphrase >industrial law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -36,11 +36,11 @@
 <sentence id="s13">Each question attracted 102 votes with one informal vote recorded for question 3.</sentence>
 <sentence id="s14">The number of negative results recorded for each question was: 
  
- &#8226; Two in relation to question 1 on 24 hour work stoppages;
- &#8226; Three in relation to question 2 on bans on working non-rostered overtime;
- &#8226; Nine in relation to question 3 on seven day work stoppages;
- &#8226; Four in relation to question 4 on two hour stop work meetings;
- &#8226; Three in relation to question 5 on shift length work stoppages.</sentence>
+ #8226; Two in relation to question 1 on 24 hour work stoppages;
+ #8226; Three in relation to question 2 on bans on working non-rostered overtime;
+ #8226; Nine in relation to question 3 on seven day work stoppages;
+ #8226; Four in relation to question 4 on two hour stop work meetings;
+ #8226; Three in relation to question 5 on shift length work stoppages.</sentence>
 <sentence id="s15">
 
 Thus, the 30 day period specified in s 478(1)(d) began on 15 May 2006 and finished on 13 June 2006.</sentence>
@@ -48,11 +48,11 @@ Thus, the 30 day period specified in s 478(1)(d) began on 15 May 2006 and finish
 <sentence id="s17">That stoppage occurred on that date.</sentence>
 <sentence id="s18">5 Following similar notices pursuant to s 441 , further industrial action was taken within the 30 day bargaining period as follows:
  
-&#8226; Bans on non-rostered overtime commenced on Monday 22 May 2006 and continued until Monday 12 June 2006.</sentence>
-<sentence id="s19">&#8226; A shift stoppage of work commenced at 2.30 pm on Wednesday 24 May 2006.</sentence>
-<sentence id="s20">&#8226; A shift stoppage of work commenced at 10.30 pm on Wednesday 24 May 2006.</sentence>
-<sentence id="s21">&#8226; A shift stoppage of work commenced at 6.30 am on Friday 26 May 2006.</sentence>
-<sentence id="s22">&#8226; A seven day stoppage of work commenced at 6.30 am on Thursday 1 June 2006.</sentence>
+#8226; Bans on non-rostered overtime commenced on Monday 22 May 2006 and continued until Monday 12 June 2006.</sentence>
+<sentence id="s19">#8226; A shift stoppage of work commenced at 2.30 pm on Wednesday 24 May 2006.</sentence>
+<sentence id="s20">#8226; A shift stoppage of work commenced at 10.30 pm on Wednesday 24 May 2006.</sentence>
+<sentence id="s21">#8226; A shift stoppage of work commenced at 6.30 am on Friday 26 May 2006.</sentence>
+<sentence id="s22">#8226; A seven day stoppage of work commenced at 6.30 am on Thursday 1 June 2006.</sentence>
 <sentence id="s23">6 The Union gave a further notice dated 2 June 2006 in which a 24 hour stoppage was proposed commencing on 15 June 2006, a date that falls outside the 30 day period.</sentence>
 <sentence id="s24">United Collieries contended that the industrial action threatened in that notice was not protected action as it was outside the 30 day period.</sentence>
 <sentence id="s25">The Union did not agree, hence this proceeding brought by United Collieries.</sentence>
@@ -247,4 +247,7 @@ Dated: 14 July 2006
  
  </sentence>
 </sentences>
+</case>s>
+</case>sentences>
+</case>s>
 </case>

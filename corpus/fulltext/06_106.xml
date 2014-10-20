@@ -3,11 +3,11 @@
 <name>A2 v Australian Crime Commission [2006] FCA 106 (16 February 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/106.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">validity of warrants</catchphrase>
-<catchphrase "id=c1">warrants for purpose of australian crime commission special investigation</catchphrase>
-<catchphrase "id=c2">whether power to issue and execute warrants limited</catchphrase>
-<catchphrase "id=c3">whether for use in criminal prosecution process</catchphrase>
-<catchphrase "id=c4">administrative law</catchphrase>
+<catchphrase >validity of warrants</catchphrase>
+<catchphrase >warrants for purpose of australian crime commission special investigation</catchphrase>
+<catchphrase >whether power to issue and execute warrants limited</catchphrase>
+<catchphrase >whether for use in criminal prosecution process</catchphrase>
+<catchphrase >administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -306,7 +306,7 @@ I consider that his Honour's reasoning is compelling.</sentence>
 <sentence id="s171">Bearing in mind that the power to issue a search warrant is in aid of a criminal investigation, a thing may afford evidence as to the commission of an offence, even though it may not be admissible in evidence at a trial: George v Rockett [1990] HCA 26 ; (1990) 170 CLR 104 at 119.</sentence>
 <sentence id="s172">A thing will afford evidence of the commission of an offence if it assists, directly or indirectly, in disclosing that an offence has been committed, or in establishing or revealing the details of the offence, the circumstances in which it was committed, the identity of the person or persons who committed it or any other information material to the investigation of those matters: George v Rockett (supra) at 120.</sentence>
 <sentence id="s173">The expression 'will afford evidence' does not import a requirement that the documents must necessarily be sufficient to achieve a conviction; it is sufficient that they have relevance to or probative connection with, an issue arising upon an allegation of the offence alleged: Parker v Churchill (1985) 9 FCR 316 at 326.</sentence>
-<sentence id="s174">That includes things which are adjectivally relevant as well as things which are of substantive relevance: Ozzy Tyre &amp; Tube Pty Ltd v Chief Executive Officer of Customs [2000] FCA 891 at [30] - [31] .</sentence>
+<sentence id="s174">That includes things which are adjectivally relevant as well as things which are of substantive relevance: Ozzy Tyre amp; Tube Pty Ltd v Chief Executive Officer of Customs [2000] FCA 891 at [30] - [31] .</sentence>
 <sentence id="s175">" 
  
 
@@ -432,4 +432,7 @@ Dated: 16 February 2006
  
  </sentence>
 </sentences>
-</case>
+</case>>
+ </sentence>
+</sentences>
+</case>>

@@ -3,11 +3,11 @@
 <name>Peek v CEO, Australian Government Solicitor (No. 5) [2007] FCA 222 (1 March 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/222.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">judicial review of administrative decision making</catchphrase>
-<catchphrase "id=c1">decision pursuant to s 36(3) of the safety rehabilitation and compensation act 1988 (cth)</catchphrase>
-<catchphrase "id=c2">discretion of court under s 10(2)(b) of the administrative decisions (judicial review) act 1977 (cth) where review in another tribunal is being pursued</catchphrase>
-<catchphrase "id=c3">decision pursuant to s 41a of the safety rehabilitation and compensation act 1988 (cth)</catchphrase>
-<catchphrase "id=c4">administrative law</catchphrase>
+<catchphrase >judicial review of administrative decision making</catchphrase>
+<catchphrase >decision pursuant to s 36(3) of the safety rehabilitation and compensation act 1988 (cth)</catchphrase>
+<catchphrase >discretion of court under s 10(2)(b) of the administrative decisions (judicial review) act 1977 (cth) where review in another tribunal is being pursued</catchphrase>
+<catchphrase >decision pursuant to s 41a of the safety rehabilitation and compensation act 1988 (cth)</catchphrase>
+<catchphrase >administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -628,7 +628,7 @@
  
  
  
- Subsection 10(2) should also be read with s 16 of the AD(JR) Act which makes it clear that the grant of relief pursuant to the AD(JR) Act is discretionary: Australian Broadcasting Tribunal v Bond [1990] HCA 33 ; (1990) 170 CLR 321 per Mason CJ at 338; and Wyeth Australia Pty Ltd v Minister for Health &amp; Aged Care (2000) 61 ALD 372; [2000] FCA 330.</sentence>
+ Subsection 10(2) should also be read with s 16 of the AD(JR) Act which makes it clear that the grant of relief pursuant to the AD(JR) Act is discretionary: Australian Broadcasting Tribunal v Bond [1990] HCA 33 ; (1990) 170 CLR 321 per Mason CJ at 338; and Wyeth Australia Pty Ltd v Minister for Health amp; Aged Care (2000) 61 ALD 372; [2000] FCA 330.</sentence>
 <sentence id="s181">I am of the view that the applicant's application to review the decision made and/or conduct engaged in by the second respondent as detailed in [A4] of the proposed amended application should be refused on discretionary grounds namely, that adequate provision is made by a law other than the AD(JR) Act under which the applicant is entitled to seek review by the AAT of that decision made and/or conduct engaged in and the applicant has, indeed, sought that alternative review.</sentence>
 <sentence id="s182">
  PARAGRAPH A6 OF THE ORIGINAL APPLICATION 
@@ -683,7 +683,7 @@ Dated: 1 March 2007
  
  Counsel for the Respondents: Ms K Eastman 
  
- Solicitor for the Respondents: Carroll &amp; O'Dea 
+ Solicitor for the Respondents: Carroll amp; O'Dea 
 
  Date of Hearing: 30 August 2006 
  
@@ -701,4 +701,6 @@ Dated: 1 March 2007
  
  </sentence>
 </sentences>
-</case>
+</case>e> </sentence>
+</sentences>
+</case>e>

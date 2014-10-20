@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <case>
-<name>Military Rehabilitation &amp; Compensation Commission v Roberts (Corrigendum dated 19 February 2007) [2007] FCA 1 (8 January 2007)</name>
+<name>Military Rehabilitation amp; Compensation Commission v Roberts (Corrigendum dated 19 February 2007) [2007] FCA 1 (8 January 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">commonwealth employees' entitlement to compensation</catchphrase>
-<catchphrase "id=c1">employment related injury, disability or disease</catchphrase>
-<catchphrase "id=c2">arising out of employment</catchphrase>
-<catchphrase "id=c3">meaning of s 6(1)(a) of safety, rehabilitation and compensation act 1988 (cth)</catchphrase>
-<catchphrase "id=c4">defence forces</catchphrase>
-<catchphrase "id=c5">compensation for injuries and other civil actions</catchphrase>
-<catchphrase "id=c6">workers' compensation</catchphrase>
-<catchphrase "id=c7">defence and war</catchphrase>
+<catchphrase >commonwealth employees' entitlement to compensation</catchphrase>
+<catchphrase >employment related injury, disability or disease</catchphrase>
+<catchphrase >arising out of employment</catchphrase>
+<catchphrase >meaning of s 6(1)(a) of safety, rehabilitation and compensation act 1988 (cth)</catchphrase>
+<catchphrase >defence forces</catchphrase>
+<catchphrase >compensation for injuries and other civil actions</catchphrase>
+<catchphrase >workers' compensation</catchphrase>
+<catchphrase >defence and war</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -207,10 +207,10 @@
 <sentence id="s70">They were:
  
  
- &#8226; the injury occurred at the RAAF Fairbairn site; 
- &#8226; at the relevant time the respondent was living with the permission of her employer, which had been given pursuant to a policy issued by that employer; 
- &#8226; in living at the base, the respondent was taking advantage of a financial benefit of her employment offered by her employer; and 
- &#8226; the injury was occasioned by another RAAF employee living at RAAF Fairbairn at that time.</sentence>
+ #8226; the injury occurred at the RAAF Fairbairn site; 
+ #8226; at the relevant time the respondent was living with the permission of her employer, which had been given pursuant to a policy issued by that employer; 
+ #8226; in living at the base, the respondent was taking advantage of a financial benefit of her employment offered by her employer; and 
+ #8226; the injury was occasioned by another RAAF employee living at RAAF Fairbairn at that time.</sentence>
 <sentence id="s71">
  
 
@@ -310,10 +310,10 @@ I note that the question in Migge was one of whether an injured worker who decid
 <sentence id="s122">So much could be seen from the following :
  
  
- &#8226; the High Court emphasised that to satisfy the 'arising out of the ... employment' test connection between employment and injury must be a causal one;
- &#8226; in context, the Court used the word 'temporal' of or denoting time or time and space'; 
- &#8226; the Court had really considered that it was open to conclude that Mr Roncevich's injury 'arose out of or was attributable' to defence service because such service materially increased the risk of injury by entailing that Mr Roncevich had to iron his uniform for the next day; and 
- &#8226; Roncevich is consistent with the causal factors being confined to work-related factors which increased the risk of injury.</sentence>
+ #8226; the High Court emphasised that to satisfy the 'arising out of the ... employment' test connection between employment and injury must be a causal one;
+ #8226; in context, the Court used the word 'temporal' of or denoting time or time and space'; 
+ #8226; the Court had really considered that it was open to conclude that Mr Roncevich's injury 'arose out of or was attributable' to defence service because such service materially increased the risk of injury by entailing that Mr Roncevich had to iron his uniform for the next day; and 
+ #8226; Roncevich is consistent with the causal factors being confined to work-related factors which increased the risk of injury.</sentence>
 <sentence id="s123">
  
 
@@ -323,7 +323,7 @@ I note that the question in Migge was one of whether an injured worker who decid
 <sentence id="s126">Furthermore, it was submitted that the Tribunal also failed to provide any reasoning in support of its finding that the 'but for' test contained in subsection 6(1)(a) of the Act was satisfied.</sentence>
 <sentence id="s127">32 The respondent's reliance upon cases such as Hatzimanolis v ANI Corporation Ltd [1992] HCA 21 ; (1992) 173 CLR 473, Danvers v Commissioner for Railways (NSW) [1969] HCA 64 ; (1969) 122 CLR 529 and Military Rehabilitation and Compensation Commission v Clark [2006] FCA 306 was said to be misconceived because those cases dealt with 'in the course of employment' rather than 'arising out of employment', and in any case, were concerned with injuries which occurred in an interval or interlude within an overall period of work, rather than in intervals between such periods, as here.</sentence>
 <sentence id="s128">The respondent's reliance upon Repatriation Commission v Tuite (1993) 39 FCR 540 and Military Rehabilitation and Compensation Commission v Wall (2006) 88 ALD 1 was said to be misplaced as those cases concerned factors/incidents which occurred in the course of employment and which were held to have actually influenced the self-harming behaviour (smoking) which led, in turn, to injury.</sentence>
-<sentence id="s129">Furthermore, the respondent's reliance on Darling Island Stevedoring &amp; Lighterage Co Ltd v Hankinson [1967] HCA 10 ; (1967) 117 CLR 19 was also said to be misplaced because it deals with 'a different problem in causation'.</sentence>
+<sentence id="s129">Furthermore, the respondent's reliance on Darling Island Stevedoring amp; Lighterage Co Ltd v Hankinson [1967] HCA 10 ; (1967) 117 CLR 19 was also said to be misplaced because it deals with 'a different problem in causation'.</sentence>
 <sentence id="s130">Finally, the decision in Federal Broom Co Pty Ltd v Semlitch [1964] HCA 34 ; (1964) 110 CLR 626 was said to support the applicant's, rather than the respondent's, case.</sentence>
 <sentence id="s131">
  
@@ -475,7 +475,7 @@ Dated: 8 January 2007
  
  Counsel for the Respondent: A Anforth 
  
- Solicitor for the Respondent: Lander &amp; Co 
+ Solicitor for the Respondent: Lander amp; Co 
  
  Date of Hearing: 26 May 2006 
  
@@ -489,4 +489,10 @@ Dated: 8 January 2007
  
  </sentence>
 </sentences>
+</case>es>
+</case>7/1.html 
+ 
+ </sentence>
+</sentences>
+</case>es>
 </case>

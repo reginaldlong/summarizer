@@ -3,8 +3,8 @@
 <name>Seven Network Limited v News Limited (No 12) [2006] FCA 348 (3 April 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/348.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">whether discovery of a document recording conclusion stated in legal advice waives privilege in the advice</catchphrase>
-<catchphrase "id=c1">practice and procedure</catchphrase>
+<catchphrase >whether discovery of a document recording conclusion stated in legal advice waives privilege in the advice</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -62,9 +62,9 @@ The applicants' notice to produce seeks production of any documents recording th
 <sentence id="s27">10 Optus accepts that its disclosure of the Alchemy Paper in unmasked form to the applicants waived any client legal privilege that otherwise would have existed in respect of the communication contained in the Alchemy Paper itself.</sentence>
 <sentence id="s28">However, Optus says that:
  
-&#8226; the waiver is limited to that particular communication and does not extend to the legal advice referred to in the Alchemy Paper, in respect of which privilege has been specifically claimed;
+#8226; the waiver is limited to that particular communication and does not extend to the legal advice referred to in the Alchemy Paper, in respect of which privilege has been specifically claimed;
  
-&#8226; the test to apply in determining whether privilege in the legal advice has been waived is that stated in Mann v Carnell [1999] HCA 66 ; (1999) 201 CLR 1, at [29], as follows:
+#8226; the test to apply in determining whether privilege in the legal advice has been waived is that stated in Mann v Carnell [1999] HCA 66 ; (1999) 201 CLR 1, at [29], as follows:
  
  
  
@@ -72,9 +72,9 @@ The applicants' notice to produce seeks production of any documents recording th
  
  
 
-&#8226; the fact that the 'gist' of the legal advice was disclosed to the applicants (as Mr Bannon SC, on behalf of Optus, concedes) is not determinative of the question of waiver, because considerations of fairness need to be taken into account; and 
+#8226; the fact that the 'gist' of the legal advice was disclosed to the applicants (as Mr Bannon SC, on behalf of Optus, concedes) is not determinative of the question of waiver, because considerations of fairness need to be taken into account; and 
  
-&#8226; since Optus has not sought to rely upon the legal advice in the proceedings in any way, there is no unfairness in seeking to maintain privilege in that advice.</sentence>
+#8226; since Optus has not sought to rely upon the legal advice in the proceedings in any way, there is no unfairness in seeking to maintain privilege in that advice.</sentence>
 <sentence id="s29">11 Mr Bannon argued energetically that the common law test of waiver applies in the circumstances of this case, notwithstanding the provisions of s 122 of the Evidence Act 1995 (Cth).</sentence>
 <sentence id="s30">I am content to deal with the application to set aside the notice to produce on the basis that, as Optus contends, common law principles apply.</sentence>
 <sentence id="s31">12 On that basis, however, it seems to me that Optus has waived privilege in the legal advice referred to in the Alchemy Paper.</sentence>
@@ -163,4 +163,5 @@ Dated: 3 April 2006
  
  </sentence>
 </sentences>
-</case>
+</case>ase>s>
+</case>ase>

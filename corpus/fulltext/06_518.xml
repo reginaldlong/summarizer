@@ -3,9 +3,9 @@
 <name>Natural Floor Covering Centre Pty Ltd v Monamy (No 1) [2006] FCA 518 (12 April 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/518.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">whether respondent in breach of orders of the court</catchphrase>
-<catchphrase "id=c1">respondent found guilty of contempt of court</catchphrase>
-<catchphrase "id=c2">contempt of court</catchphrase>
+<catchphrase >whether respondent in breach of orders of the court</catchphrase>
+<catchphrase >respondent found guilty of contempt of court</catchphrase>
+<catchphrase >contempt of court</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -149,7 +149,7 @@
 <sentence id="s68">He said that a HTML meta tag was an instruction for the computer's browser to interpret, but did not provide the text to be displayed to a person viewing the website.</sentence>
 <sentence id="s69">He said:
  
- '...any text written within "&lt;meta ...&gt;" does NOT appear on the screen being viewed by the user.</sentence>
+ '...any text written within "lt;meta ...gt;" does NOT appear on the screen being viewed by the user.</sentence>
 <sentence id="s70">The only way to view the 'disclaimer' is to access the menu bar and select the "View" and "View Source" options in order to view the HTML code.</sentence>
 <sentence id="s71">An average user viewing the website will not (unless they are a programmer and want to see the code behind the page) view the source code and hence will not be notified of the content of the 'disclaimer'.</sentence>
 <sentence id="s72">' 
@@ -245,7 +245,7 @@
 <sentence id="s134">What was required by order 5 was that there be published a disclaimer, that is it, be put forward in a form which actually communicated it.</sentence>
 <sentence id="s135">The act of publication in a bilateral act of someone putting forward a message and another person being able to read it and actually reading it.</sentence>
 <sentence id="s136">In this context it was clear beyond reasonable doubt that the order required that that the publication, in the sense of something which the person accessing the page would see and be able to read then and there, would occur whenever the page was opened.</sentence>
-<sentence id="s137">See Dow Jones &amp; Company Inc v Gutnick [2002] HCA 56 ; (2002) 210 CLR 575 at 600-601 [26] - [28] .</sentence>
+<sentence id="s137">See Dow Jones amp; Company Inc v Gutnick [2002] HCA 56 ; (2002) 210 CLR 575 at 600-601 [26] - [28] .</sentence>
 <sentence id="s138">44 The order in my view, beyond reasonable doubt, should be construed as requiring the disclaimer referred to appear in a way which is immediately apparent on the website in words that can be read in the English language by anyone who opens the webpage.</sentence>
 <sentence id="s139">An ordinary and natural reading of the order dictates that construction.</sentence>
 <sentence id="s140">45 I did raise with Mr Freeman the possibility that order 5 was or contained an ambiguity in the sense that the words 'above the fold' were to my mind, and I think on the evidence, meaningless without expert evidence or other evidence as to what they conveyed.</sentence>
@@ -285,4 +285,5 @@ Dated: 9 May 2006
  
  </sentence>
 </sentences>
-</case>
+</case>se>sentences>
+</case>se>

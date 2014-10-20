@@ -3,9 +3,9 @@
 <name>Shop Distributive and Allied Employees' Association v Karellas Investments Pty Ltd (No. 2) [2007] FCA 1425 (12 September 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1425.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">what constitutes a failure by an employer to give all of the persons employed at the time whose employment will be subject to an employee collective agreement a reasonable opportunity to decide whether they want to approve the agreement</catchphrase>
-<catchphrase "id=c1">circumstances in which an order declaring a workplace agreement void may be made</catchphrase>
-<catchphrase "id=c2">workplace relations</catchphrase>
+<catchphrase >what constitutes a failure by an employer to give all of the persons employed at the time whose employment will be subject to an employee collective agreement a reasonable opportunity to decide whether they want to approve the agreement</catchphrase>
+<catchphrase >circumstances in which an order declaring a workplace agreement void may be made</catchphrase>
+<catchphrase >workplace relations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -834,7 +834,7 @@ Those representations which were identified by the applicant as numbers 3 and 11
  
  
  
- &#8226; Casual loading of 24.58% is retained.</sentence>
+ #8226; Casual loading of 24.58% is retained.</sentence>
 <sentence id="s202">
  
  
@@ -845,12 +845,12 @@ Those representations which were identified by the applicant as numbers 3 and 11
  
  
  
- &#8226; You are entitled to ALL gazetted public holidays in the State of NSW.</sentence>
+ #8226; You are entitled to ALL gazetted public holidays in the State of NSW.</sentence>
 <sentence id="s203">This includes Easter Saturday, Queens Birthday and Labour Day in accordance with clause 13 of the Agreement.</sentence>
 <sentence id="s204">
- &#8226; You are still entitled to penalties at clause 9 under the proposed Agreement --- there are no reductions to your weekend penalties.</sentence>
+ #8226; You are still entitled to penalties at clause 9 under the proposed Agreement --- there are no reductions to your weekend penalties.</sentence>
 <sentence id="s205">
- &#8226; The Agreement does not provide for redundancy or severance payments.</sentence>
+ #8226; The Agreement does not provide for redundancy or severance payments.</sentence>
 <sentence id="s206">However, this is still protected under common law termination obligations including redundancy.</sentence>
 <sentence id="s207">
  
@@ -1188,7 +1188,7 @@ In Briginshaw , Dixon J also said at 362:
  
  
  
- &#8226; remedy all or part of any loss or damage resulting from the contravention of the civil remedy provision mentioned in proposed section 105E (paragraph 105I(2)(a)); or 
+ #8226; remedy all or part of any loss or damage resulting from the contravention of the civil remedy provision mentioned in proposed section 105E (paragraph 105I(2)(a)); or 
  
  
  
@@ -1198,7 +1198,7 @@ In Briginshaw , Dixon J also said at 362:
  
  
  
- &#8226; prevent or reduce all of (sic) part of that loss or damage (paragraph 105I(2)(b)).</sentence>
+ #8226; prevent or reduce all of (sic) part of that loss or damage (paragraph 105I(2)(b)).</sentence>
 <sentence id="s338">' 
  
  
@@ -1394,4 +1394,5 @@ Dated: 12 September 2007
  
  </sentence>
 </sentences>
-</case>
+</case>/case>tences>
+</case>/case>

@@ -3,11 +3,11 @@
 <name>Day v Commissioner of Taxation [2006] FCA 655 (30 May 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/655.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from objection decision</catchphrase>
-<catchphrase "id=c1">taxpayer involved in various legal proceedings concerning his employment status</catchphrase>
-<catchphrase "id=c2">whether legal fees incurred were allowable deductions</catchphrase>
-<catchphrase "id=c3">whether legal fees were incurred in gaining or producing the taxpayer's assessable income</catchphrase>
-<catchphrase "id=c4">taxation</catchphrase>
+<catchphrase >appeal from objection decision</catchphrase>
+<catchphrase >taxpayer involved in various legal proceedings concerning his employment status</catchphrase>
+<catchphrase >whether legal fees incurred were allowable deductions</catchphrase>
+<catchphrase >whether legal fees were incurred in gaining or producing the taxpayer's assessable income</catchphrase>
+<catchphrase >taxation</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -149,7 +149,7 @@ The First Charge was that, on 21 September 1998, the Taxpayer breached the stand
 <sentence id="s105">25 This proceeding was commenced on 17 June 2005, by way of appeal under s 14ZZ(a)(ii) of the Taxation Administration Act 1953 (Cth) ('the Administration Act') against the Commissioner's objection decision of 19 April 2005.</sentence>
 <sentence id="s106">The Taxpayer claims he should be allowed a deduction in the sum of $37,077 for legal fees made up as follows:
  
- &#8226; Mr Paul Roberts SC (First Charges) $7,903 &#8226; Mr Andrew Bell (Second Charges) $220 &#8226; Mr Paul Roberts SC (Third Charges) $23,014 &#8226; Mr Stephen Gageler SC (Third Charges) $5,940 
+ #8226; Mr Paul Roberts SC (First Charges) $7,903 #8226; Mr Andrew Bell (Second Charges) $220 #8226; Mr Paul Roberts SC (Third Charges) $23,014 #8226; Mr Stephen Gageler SC (Third Charges) $5,940 
  THE CONTENTIONS 
  
 26 Under s 8-1(1)(a) of the Assessment Act, a taxpayer can deduct from the taxpayer's assessable income any loss or outgoing to the extent that it is incurred in gaining or producing the taxpayer's assessable income.</sentence>
@@ -157,9 +157,9 @@ The First Charge was that, on 21 September 1998, the Taxpayer breached the stand
 <sentence id="s108">Further, under s 8-1(2)(b), a taxpayer cannot deduct a loss or outgoing to the extent that it is a loss or outgoing of a private nature.</sentence>
 <sentence id="s109">27 The Commissioner contends that the legal expenses in question are not deductible because:
  
- &#8226; they were not incurred in gaining or producing assessable income,
- &#8226; they were outgoings of capital,
- &#8226; they were outgoings of a private nature.</sentence>
+ #8226; they were not incurred in gaining or producing assessable income,
+ #8226; they were outgoings of capital,
+ #8226; they were outgoings of a private nature.</sentence>
 <sentence id="s110">
 
 28 The Taxpayer, on the other hand, asserts that the outgoings were incurred in gaining or producing his assessable income.</sentence>
@@ -167,11 +167,11 @@ The First Charge was that, on 21 September 1998, the Taxpayer breached the stand
 <sentence id="s112">The Taxpayer says that, in the proceedings in the Federal Court in relation to the First Charge, he sought to defend himself against reviewable errors by the Disciplinary Appeal Committee.</sentence>
 <sentence id="s113">He contends that his position in relation to all of the charges was analogous to that of a person charged with committing an offence in the course of his employment or in the course of an income earning business and that the legal expenses served the objective purpose of defending the Taxpayer against:
  
- &#8226; the demotion and salary reductions directed by the inquiry officer;
- &#8226; suspension without pay;
- &#8226; the varied transfer and salary reduction determined by the Disciplinary Appeal Committee on 24 February 1999;
- &#8226; a range of demotions, deductions from salary, transfers, reductions of salary, admonitions and possible dismissal that could have been directed under s 62(6);
- &#8226; harm to the Taxpayer's reputation and standing as an employee.</sentence>
+ #8226; the demotion and salary reductions directed by the inquiry officer;
+ #8226; suspension without pay;
+ #8226; the varied transfer and salary reduction determined by the Disciplinary Appeal Committee on 24 February 1999;
+ #8226; a range of demotions, deductions from salary, transfers, reductions of salary, admonitions and possible dismissal that could have been directed under s 62(6);
+ #8226; harm to the Taxpayer's reputation and standing as an employee.</sentence>
 <sentence id="s114">
 
 29 The Taxpayer says that those objective purposes constituted a sufficient basis for concluding that the legal expenses were incurred in gaining or producing the Taxpayer's assessable income.</sentence>
@@ -256,8 +256,8 @@ The First Charge was that, on 21 September 1998, the Taxpayer breached the stand
 <sentence id="s183">Section 67 permits an officer of an agency, such as the Australian Federal Police, to communicate lawfully obtained information to another person for a permitted purpose in relation to that agency.</sentence>
 <sentence id="s184">' Permitted Purpose ' in relation to an agency is defined in s 5 of the Interception Act and, in relation to the Australian Federal Police, it includes, relevantly, a purpose connected with:
  
- &#8226; the making by an authority, body or person of a decision whether or not to begin a relevant proceeding in relation to the agency or eligible authority;
- &#8226; an investigation of, or an inquiry into, alleged misbehaviour or alleged improper conduct of an officer of the Commonwealth, being an investigation or inquiry under a law of the Commonwealth or by a person in the person's capacity as an officer of the Commonwealth.</sentence>
+ #8226; the making by an authority, body or person of a decision whether or not to begin a relevant proceeding in relation to the agency or eligible authority;
+ #8226; an investigation of, or an inquiry into, alleged misbehaviour or alleged improper conduct of an officer of the Commonwealth, being an investigation or inquiry under a law of the Commonwealth or by a person in the person's capacity as an officer of the Commonwealth.</sentence>
 <sentence id="s185">
 
 46 Einfeld J formulated the fundamental question raised by the proceeding as whether the Australian Federal Police were entitled to release information lawfully intercepted under the Interception Act, to Customs in general and Ms Williams and the relevant inquiry officer in particular, for their use in disciplinary proceedings against the Taxpayer under the Public Service Act.</sentence>
@@ -496,4 +496,8 @@ Dated: 30 May 2006
  
  </sentence>
 </sentences>
+</case>ences>
+</case>
+</sentences>
+</case>ences>
 </case>

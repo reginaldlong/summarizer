@@ -3,15 +3,15 @@
 <name>Pfizer Corp v Commissioner of Patents [2006] FCA 164 (1 March 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/164.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">joinder of parties / party to be joined</catchphrase>
-<catchphrase "id=c1">appeal from decision of commissioner to rectify register of patents</catchphrase>
-<catchphrase "id=c2">party to be joined has no present cause of action</catchphrase>
-<catchphrase "id=c3">proceedings by party seeking to be joined for rectification in the event that the appeal is successful</catchphrase>
-<catchphrase "id=c4">no prejudice to applicant</catchphrase>
-<catchphrase "id=c5">application for joinder supported by commissioner</catchphrase>
-<catchphrase "id=c6">matters of law can adequately be dealt with by commissioner</catchphrase>
-<catchphrase "id=c7">matters of fact not able to be challenged by commissioner and can be addressed by party seeking to be joined</catchphrase>
-<catchphrase "id=c8">practice and procedure</catchphrase>
+<catchphrase >joinder of parties / party to be joined</catchphrase>
+<catchphrase >appeal from decision of commissioner to rectify register of patents</catchphrase>
+<catchphrase >party to be joined has no present cause of action</catchphrase>
+<catchphrase >proceedings by party seeking to be joined for rectification in the event that the appeal is successful</catchphrase>
+<catchphrase >no prejudice to applicant</catchphrase>
+<catchphrase >application for joinder supported by commissioner</catchphrase>
+<catchphrase >matters of law can adequately be dealt with by commissioner</catchphrase>
+<catchphrase >matters of fact not able to be challenged by commissioner and can be addressed by party seeking to be joined</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -63,10 +63,10 @@
 
 6 Relevantly, a person may be joined as a respondent:
  
- &#8226; where, if separate proceedings were brought against the person some common question of law or fact would arise in all the proceedings and all rights to relief claimed in the proceeding are in respect of the same transaction (O 6 r 2(a));
- &#8226; where a person ought to have been joined as a party (O 6 r 8(1)(a));
- &#8226; where joinder of that person is necessary to ensure that all matters in dispute in the proceeding may be effectually and completely determined and adjudicated upon (O 6 r 8(1)(b));
- &#8226; where the Court gives leave so to do (O 6 r 2(b)).</sentence>
+ #8226; where, if separate proceedings were brought against the person some common question of law or fact would arise in all the proceedings and all rights to relief claimed in the proceeding are in respect of the same transaction (O 6 r 2(a));
+ #8226; where a person ought to have been joined as a party (O 6 r 8(1)(a));
+ #8226; where joinder of that person is necessary to ensure that all matters in dispute in the proceeding may be effectually and completely determined and adjudicated upon (O 6 r 8(1)(b));
+ #8226; where the Court gives leave so to do (O 6 r 2(b)).</sentence>
 <sentence id="s13">
 
 
@@ -148,7 +148,7 @@
 <sentence id="s77">Pfizer has not acceded to that suggested condition.</sentence>
 <sentence id="s78">Consideration 
  
-28 As a general rule, the Commissioner does not seek to present a substantive argument to support her decision ( Merck &amp; Co Inc v Sankyo Co Ltd (1992) 23 IPR 415 at 417; R v Australian Broadcasting Tribunal; ex parte Hardiman [1980] HCA 13 ; (1980) 144 CLR 13 at 35-36).</sentence>
+28 As a general rule, the Commissioner does not seek to present a substantive argument to support her decision ( Merck amp; Co Inc v Sankyo Co Ltd (1992) 23 IPR 415 at 417; R v Australian Broadcasting Tribunal; ex parte Hardiman [1980] HCA 13 ; (1980) 144 CLR 13 at 35-36).</sentence>
 <sentence id="s79">In Merck at 418 Lockhart J considered the role of the Commissioner in an appeal from her decision.</sentence>
 <sentence id="s80">In normal circumstances, the Commissioner should be heard fully on questions concerning her powers and procedures but her role should be limited when there are parties in the proceeding pursuing active roles.</sentence>
 <sentence id="s81">Where there is no party in opposition to the applicant on the appeal, the Commissioner is deemed a party with the full rights of a party.</sentence>
@@ -171,7 +171,7 @@
 <sentence id="s98">I do not need to decide that question for the purpose of this application and where the Commissioner has determined that the shorter term of the patent is correct.</sentence>
 <sentence id="s99">34 In H Lundbeck A/S v Commissioner of Patents [2005] FCA 1718 Lindgren J considered an application by Alphapharm Pty Ltd ('Alphapharm') for joinder in an appeal from a decision of the Commissioner to rectify the Register.</sentence>
 <sentence id="s100">Lindgren J considered that O 6 r 2(b) was the governing rule, not O 6 r 2(a) or O 6 r 8 and said at [24] that the only issue was whether the Commissioner would be an adequate contradictor.</sentence>
-<sentence id="s101">35 In Merck &amp; Co Inc v Arrow Pharmaceuticals Limited [2002] APO 13 (17 April 2002) a decision of the Commissioner by her delegate the Deputy Commissioner, recorded at [25] that there was disagreement between the parties about what constituted the ARTG.</sentence>
+<sentence id="s101">35 In Merck amp; Co Inc v Arrow Pharmaceuticals Limited [2002] APO 13 (17 April 2002) a decision of the Commissioner by her delegate the Deputy Commissioner, recorded at [25] that there was disagreement between the parties about what constituted the ARTG.</sentence>
 <sentence id="s102">The Deputy Commissioner made his own enquiries, by consent, in that case and took the results of those inquiries into account.</sentence>
 <sentence id="s103">This specific question may not arise in the present case but it does highlight factual matters that may arise in considering entries in the ARTG, which may necessitate or make advisable evidence from more than one party.</sentence>
 <sentence id="s104">36 Pfizer submits that Spirit should not be permitted to achieve a de facto opposition by virtue of seeking to be joined as a party in the present proceedings.</sentence>
@@ -207,7 +207,7 @@
 Dated: 1 March 2006.</sentence>
 <sentence id="s128">Counsel for the First, Second, Third and Fourth Applicants: R J Webb SC, K Howard 
  
- Solicitor for the First, Second, Third and Fourth Applicants: Spruson &amp; Ferguson 
+ Solicitor for the First, Second, Third and Fourth Applicants: Spruson amp; Ferguson 
  
  Solicitor for the Respondent: M Bezzi, Australian Government Solicitor 
  
@@ -228,4 +228,8 @@ Dated: 1 March 2006.</sentence>
  
  </sentence>
 </sentences>
-</case>
+</case></case>h/FCA/2006/164.html 
+ 
+ </sentence>
+</sentences>
+</case></case>

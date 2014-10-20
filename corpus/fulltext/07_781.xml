@@ -3,10 +3,10 @@
 <name>Caldar v Carlsund [2007] FCA 781 (15 May 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/781.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">federal court</catchphrase>
-<catchphrase "id=c1">procedure and evidence</catchphrase>
-<catchphrase "id=c2">summary disposal and stay of proceedings</catchphrase>
-<catchphrase "id=c3">high court and federal court</catchphrase>
+<catchphrase >federal court</catchphrase>
+<catchphrase >procedure and evidence</catchphrase>
+<catchphrase >summary disposal and stay of proceedings</catchphrase>
+<catchphrase >high court and federal court</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -60,11 +60,11 @@
 
  
  
- &#8226; seeking to roll three separate decisions of three individual justices of the Supreme Court of New South Wales into one application;
- &#8226; seeking to do so without first exhausting his appeal rights within the Supreme Court of New South Wales;
- &#8226; seeking to do so out of time without applying for an extension of time;
- &#8226; seeking to file an application for special leave to appeal without filing the supporting documents from the Court below required by the rules; and
- &#8226; seeking to file the application with a statutory declaration to be made by himself in substitution for the documents required to be filed by the rules.</sentence>
+ #8226; seeking to roll three separate decisions of three individual justices of the Supreme Court of New South Wales into one application;
+ #8226; seeking to do so without first exhausting his appeal rights within the Supreme Court of New South Wales;
+ #8226; seeking to do so out of time without applying for an extension of time;
+ #8226; seeking to file an application for special leave to appeal without filing the supporting documents from the Court below required by the rules; and
+ #8226; seeking to file the application with a statutory declaration to be made by himself in substitution for the documents required to be filed by the rules.</sentence>
 <sentence id="s36">
  
 
@@ -106,4 +106,6 @@ Dated: 22 May 2007
  
  </sentence>
 </sentences>
-</case>
+</case>case>e>
+</sentences>
+</case>case>

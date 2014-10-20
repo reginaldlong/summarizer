@@ -3,11 +3,11 @@
 <name>CK Nominees Australia Pty Ltd v Official Receiver (WA) [2006] FCA 967 (31 July 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/967.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">whether notice invalidly issued</catchphrase>
-<catchphrase "id=c1">whether notice demonstrated that it was issued within power</catchphrase>
-<catchphrase "id=c2">whether notice was oppressive</catchphrase>
-<catchphrase "id=c3">whether the official receiver was entitled to require evidence on affidavit</catchphrase>
-<catchphrase "id=c4">bankruptcy</catchphrase>
+<catchphrase >whether notice invalidly issued</catchphrase>
+<catchphrase >whether notice demonstrated that it was issued within power</catchphrase>
+<catchphrase >whether notice was oppressive</catchphrase>
+<catchphrase >whether the official receiver was entitled to require evidence on affidavit</catchphrase>
+<catchphrase >bankruptcy</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -307,10 +307,10 @@
 <sentence id="s79">
  
  
- &#8226; The power given by s 77C of the Act is one of far reaching consequences and must be approached responsibly by applicants for summonses and controlled carefully by the Court.</sentence>
+ #8226; The power given by s 77C of the Act is one of far reaching consequences and must be approached responsibly by applicants for summonses and controlled carefully by the Court.</sentence>
 <sentence id="s80">
  
- &#8226; Because the power is exercised in the interests of creditors the Court should not take an unduly technical or restrictive approach to the use of the power.</sentence>
+ #8226; Because the power is exercised in the interests of creditors the Court should not take an unduly technical or restrictive approach to the use of the power.</sentence>
 <sentence id="s81">The power is basically designed to establish what assets the bankrupt has, what has happened to them and whether action should be begun or continued to recover them.</sentence>
 <sentence id="s82">' 
  
@@ -530,4 +530,6 @@ Dated: 31 July 2006
  
  </sentence>
 </sentences>
-</case>
+</case>e> </sentence>
+</sentences>
+</case>e>

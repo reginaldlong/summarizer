@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <case>
-<name>Australian Securities &amp; Investments Commission v Lee [2007] FCA 918 (15 June 2007)</name>
+<name>Australian Securities amp; Investments Commission v Lee [2007] FCA 918 (15 June 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/918.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">asic investigation</catchphrase>
-<catchphrase "id=c1">fraudulent trading scheme</catchphrase>
-<catchphrase "id=c2">stolen money deposited in defendant's account</catchphrase>
-<catchphrase "id=c3">defendant refuses to provide explanation</catchphrase>
-<catchphrase "id=c4">account frozen</catchphrase>
-<catchphrase "id=c5">corporations</catchphrase>
+<catchphrase >asic investigation</catchphrase>
+<catchphrase >fraudulent trading scheme</catchphrase>
+<catchphrase >stolen money deposited in defendant's account</catchphrase>
+<catchphrase >defendant refuses to provide explanation</catchphrase>
+<catchphrase >account frozen</catchphrase>
+<catchphrase >corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -103,4 +103,8 @@ Dated: 15 June 2007
  
  </sentence>
 </sentences>
-</case>
+</case>>html 
+ 
+ </sentence>
+</sentences>
+</case>>

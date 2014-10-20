@@ -3,12 +3,12 @@
 <name>Wang v Minister for Immigration and Citizenship [2007] FCA 1188 (8 August 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1188.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from decision of federal magistrate affirming decision of migration review tribunal</catchphrase>
-<catchphrase "id=c1">breach of condition 8202</catchphrase>
-<catchphrase "id=c2">student visa cancelled on ground of failure to be enrolled in a registered course</catchphrase>
-<catchphrase "id=c3">application for leave to argue grounds not before federal magistrate</catchphrase>
-<catchphrase "id=c4">whether futile to grant such leave</catchphrase>
-<catchphrase "id=c5">migration law</catchphrase>
+<catchphrase >appeal from decision of federal magistrate affirming decision of migration review tribunal</catchphrase>
+<catchphrase >breach of condition 8202</catchphrase>
+<catchphrase >student visa cancelled on ground of failure to be enrolled in a registered course</catchphrase>
+<catchphrase >application for leave to argue grounds not before federal magistrate</catchphrase>
+<catchphrase >whether futile to grant such leave</catchphrase>
+<catchphrase >migration law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -94,10 +94,10 @@
 <sentence id="s49">16 The appellant's amended notice of appeal identifies four grounds of appeal.</sentence>
 <sentence id="s50">In substance he contends that the Federal Magistrate erred in failing to find that: 
  
- &#8226; the MRT had breached the requirements of s 359A by failing to ensure that the appellant understood the relevance of the information to which the MRT had referred;
- &#8226; the s 359A letter was misleading;
- &#8226; the appellant had been misled by the s 359A letter; and
- &#8226; the MRT had taken into account irrelevant considerations.</sentence>
+ #8226; the MRT had breached the requirements of s 359A by failing to ensure that the appellant understood the relevance of the information to which the MRT had referred;
+ #8226; the s 359A letter was misleading;
+ #8226; the appellant had been misled by the s 359A letter; and
+ #8226; the MRT had taken into account irrelevant considerations.</sentence>
 <sentence id="s51">
 
 Detailed particulars of each of these grounds were provided.</sentence>
@@ -117,7 +117,7 @@ Detailed particulars of each of these grounds were provided.</sentence>
 <sentence id="s65">Condition 8202(1) requires the visa holder to comply with sub-clause (2).</sentence>
 <sentence id="s66">In order to meet the requirements of sub-clause (2) the visa holder must be enrolled in a registered course: see condition 8202(2)(a).</sentence>
 <sentence id="s67">That requirement, as with the other requirements in condition 8202, concerns a continuing state of affairs.</sentence>
-<sentence id="s68">In effect, the visa holder is not permitted to cease to be enrolled in such a course: Liu v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2003] FCA 1170 at [19] ---[20].</sentence>
+<sentence id="s68">In effect, the visa holder is not permitted to cease to be enrolled in such a course: Liu v Minister for Immigration amp; Multicultural amp; Indigenous Affairs [2003] FCA 1170 at [19] ---[20].</sentence>
 <sentence id="s69">21 There is an inexorable and somewhat remorseless logic to this sequence of statutory requirements.</sentence>
 <sentence id="s70">The Minister has no discretion in the matter.</sentence>
 <sentence id="s71">The Regulations as they stood prior to 8 October 2005 plainly had the potential to operate unfairly.</sentence>
@@ -168,4 +168,8 @@ Dated: 8 August 2007
  
  </sentence>
 </sentences>
-</case>
+</case>/case>
+ 
+ </sentence>
+</sentences>
+</case>/case>

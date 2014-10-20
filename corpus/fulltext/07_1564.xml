@@ -3,14 +3,14 @@
 <name>Coe v Comcare [2007] FCA 1564 (11 October 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1564.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">review of decision of administrative appeals tribunal not to grant compensation for psychiatric injury</catchphrase>
-<catchphrase "id=c1">review of adequacy of tribunal's reasons</catchphrase>
-<catchphrase "id=c2">absence of clear finding on particular diagnosis</catchphrase>
-<catchphrase "id=c3">tribunal entitled to find causation not proved</catchphrase>
-<catchphrase "id=c4">causation</catchphrase>
-<catchphrase "id=c5">meaning of "contributing factor"</catchphrase>
-<catchphrase "id=c6">administrative law</catchphrase>
-<catchphrase "id=c7">damages</catchphrase>
+<catchphrase >review of decision of administrative appeals tribunal not to grant compensation for psychiatric injury</catchphrase>
+<catchphrase >review of adequacy of tribunal's reasons</catchphrase>
+<catchphrase >absence of clear finding on particular diagnosis</catchphrase>
+<catchphrase >tribunal entitled to find causation not proved</catchphrase>
+<catchphrase >causation</catchphrase>
+<catchphrase >meaning of "contributing factor"</catchphrase>
+<catchphrase >administrative law</catchphrase>
+<catchphrase >damages</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -98,10 +98,10 @@
 <sentence id="s52">It went on to identify at [4] the following subsidiary issues:
  
  
- &#8226; the appropriate diagnosis of Ms Coe's psychiatric condition;
- &#8226; the date of onset
- &#8226; the date of onset of incapacity or periods of incapacity;
- &#8226; her need for medical treatment.</sentence>
+ #8226; the appropriate diagnosis of Ms Coe's psychiatric condition;
+ #8226; the date of onset
+ #8226; the date of onset of incapacity or periods of incapacity;
+ #8226; her need for medical treatment.</sentence>
 <sentence id="s53">
  
 
@@ -257,7 +257,7 @@ Coe, now relies.</sentence>
 49 For compensation to be payable to Ms Coe under the Compensation Act , the Tribunal was required to determine whether her employment by the Commonwealth was a contributing factor to the contraction of the disease, or to its aggravation, acceleration or recurrence (see [14] above).</sentence>
 <sentence id="s135">50 Departure from the language of the statute under consideration carried with it the risk of falling into error: see eg Minister for Immigration and Ethnic Affairs v Guo [1997] HCA 22 ; (1997) 191 CLR 559 at 572.</sentence>
 <sentence id="s136">51 It has been held that the requirement that a person's employment be "a contributing factor" to an injury is not as stringent as a requirement that it be "the real, the effective or the proximate cause of the injury": see Favelle Mort Limited v Murray [1976] HCA 13 ; (1975-76) 133 CLR 580 at 598.</sentence>
-<sentence id="s137">52 That case was decided before the High Court rejected the "but for" test as the sole or determinative test of causation and adopted the approach that in civil cases causation is to be determined by applying a common sense test: March v E &amp; M H Stramare Pty Limited [1991] HCA 12 ; (1991) 171 CLR 506.</sentence>
+<sentence id="s137">52 That case was decided before the High Court rejected the "but for" test as the sole or determinative test of causation and adopted the approach that in civil cases causation is to be determined by applying a common sense test: March v E amp; M H Stramare Pty Limited [1991] HCA 12 ; (1991) 171 CLR 506.</sentence>
 <sentence id="s138">53 It may follow that there is little practical difference between asking whether Ms Coe's employment caused her disorder or whether it was a contributing factor.</sentence>
 <sentence id="s139">As Mason CJ said in March v Stramare at 514, it is for the plaintiff to establish that his or her injuries are caused or materially contributed to by the defendant's conduct: see also Chappel v Hart [1998] HCA 55 ; (1998) 195 CLR 232 at [27] per McHugh J.</sentence>
 <sentence id="s140">54 It seems to me that, reading the Tribunal's reasons fairly and sensibly, it approached its task in accordance with the statutory mandate.</sentence>
@@ -336,4 +336,8 @@ Dated: 11 October 2007
  
  </sentence>
 </sentences>
-</case>
+</case>case>2007/1564.html 
+ 
+ </sentence>
+</sentences>
+</case>case>

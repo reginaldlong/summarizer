@@ -3,18 +3,18 @@
 <name>Village Building Co Limited v Airservices Australia [2007] FCA 1242 (15 August 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1242.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">airports</catchphrase>
-<catchphrase "id=c1">draft australian noise exposure forecast (anef) submitted by airport operator to airservices australia for endorsement</catchphrase>
-<catchphrase "id=c2">whether airservices in performing its obligations under s 9(2) of the air services act 1995 (cth) must examine all the underlying assumptions on which a draft anef is based</catchphrase>
-<catchphrase "id=c3">whether examination for technical accuracy sufficient</catchphrase>
-<catchphrase "id=c4">effect of the airports act 1996 (cth) on airservices' power or function to endorse an anef</catchphrase>
-<catchphrase "id=c5">whether an anef can be made for a period in excess of the 20 year planning period provided by s 72 of the airports act</catchphrase>
-<catchphrase "id=c6">whether an endorsement given under the air services act in the exercise of a function directed by the minister to be performed is an endorsement in the manner approved by the minister for the purposes of a later enactment, the airports act</catchphrase>
-<catchphrase "id=c7">'ensure'</catchphrase>
-<catchphrase "id=c8">'as far as is practicable'</catchphrase>
-<catchphrase "id=c9">'endorsed in the manner approved by the minister'</catchphrase>
-<catchphrase "id=c10">administrative law</catchphrase>
-<catchphrase "id=c11">words and phrases</catchphrase>
+<catchphrase >airports</catchphrase>
+<catchphrase >draft australian noise exposure forecast (anef) submitted by airport operator to airservices australia for endorsement</catchphrase>
+<catchphrase >whether airservices in performing its obligations under s 9(2) of the air services act 1995 (cth) must examine all the underlying assumptions on which a draft anef is based</catchphrase>
+<catchphrase >whether examination for technical accuracy sufficient</catchphrase>
+<catchphrase >effect of the airports act 1996 (cth) on airservices' power or function to endorse an anef</catchphrase>
+<catchphrase >whether an anef can be made for a period in excess of the 20 year planning period provided by s 72 of the airports act</catchphrase>
+<catchphrase >whether an endorsement given under the air services act in the exercise of a function directed by the minister to be performed is an endorsement in the manner approved by the minister for the purposes of a later enactment, the airports act</catchphrase>
+<catchphrase >'ensure'</catchphrase>
+<catchphrase >'as far as is practicable'</catchphrase>
+<catchphrase >'endorsed in the manner approved by the minister'</catchphrase>
+<catchphrase >administrative law</catchphrase>
+<catchphrase >words and phrases</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -112,18 +112,18 @@
 <sentence id="s74">Airservices' functions are contained in s 8 of the Air Services Act .</sentence>
 <sentence id="s75">They include:
  
-&#8226; providing services and facilities for purposes relating to the safety, regularity or efficiency of air navigation, whether in or outside Australia (s 8(1)(a)(iii)) ;
+#8226; providing services and facilities for purposes relating to the safety, regularity or efficiency of air navigation, whether in or outside Australia (s 8(1)(a)(iii)) ;
  
-&#8226; promoting and fostering civil aviation, whether in or outside Australia (s 8(1)(b)) ;
+#8226; promoting and fostering civil aviation, whether in or outside Australia (s 8(1)(b)) ;
  
-&#8226; carrying out activities to protect the environment from the effects of, and the effects associated with aircraft operated in the course of trade or commerce with other countries or among the States, in a Territory, between Territories or between a Territory and a State, or, in the course of or for the purposes of the provision of services by a trading corporation or foreign corporation (s 8(1)(d)(i)) and see the definition of 'Commonwealth jurisdiction aircraft' in s 3).</sentence>
+#8226; carrying out activities to protect the environment from the effects of, and the effects associated with aircraft operated in the course of trade or commerce with other countries or among the States, in a Territory, between Territories or between a Territory and a State, or, in the course of or for the purposes of the provision of services by a trading corporation or foreign corporation (s 8(1)(d)(i)) and see the definition of 'Commonwealth jurisdiction aircraft' in s 3).</sentence>
 <sentence id="s76">
  
- &#8226; any functions conferred on Airservices under the Air Navigation Act 1920 (Cth) or the Aviation Transport Security Act 2004 (Cth) (s 8(1)(f)) ;
- &#8226; any other functions prescribed by the regulations, being functions relating to any of the matters referred to in s 8(1) (s (8)(1)(g));
- &#8226; providing consultancy services and management services relating to any of the matters referred to in s 8(1) (s (8)(1)(h));
- &#8226; any functions incidental to any of the other functions in s 8(1) (s (8)(1)(i));
- &#8226; providing services and facilities, whether or not related to aviation, for other purposes than mentioned in s 8(1)(a) -(i) which are within the executive or legislative powers of the Commonwealth, utilise Airservices' air capacity and maintain or improve the technical skills of Airservices' employees while not impeding its capacity to perform its other functions (s 8(1)(j)).</sentence>
+ #8226; any functions conferred on Airservices under the Air Navigation Act 1920 (Cth) or the Aviation Transport Security Act 2004 (Cth) (s 8(1)(f)) ;
+ #8226; any other functions prescribed by the regulations, being functions relating to any of the matters referred to in s 8(1) (s (8)(1)(g));
+ #8226; providing consultancy services and management services relating to any of the matters referred to in s 8(1) (s (8)(1)(h));
+ #8226; any functions incidental to any of the other functions in s 8(1) (s (8)(1)(i));
+ #8226; providing services and facilities, whether or not related to aviation, for other purposes than mentioned in s 8(1)(a) -(i) which are within the executive or legislative powers of the Commonwealth, utilise Airservices' air capacity and maintain or improve the technical skills of Airservices' employees while not impeding its capacity to perform its other functions (s 8(1)(j)).</sentence>
 <sentence id="s77">
  
 
@@ -279,20 +279,20 @@ What is 'practicable' includes consideration of Airservices' available means to 
 <sentence id="s166">Nor does he undertake an audit of the business plan of the airport operator which stands behind the assumptions used in a draft ANEF application.</sentence>
 <sentence id="s167">In exercising the function of endorsement Mr Owen, and Airservices, check that:
  
- &#8226; the appropriate aircraft types have been selected for use as input data;
- &#8226; the runway used in flight path data is operationally suitable; 
+ #8226; the appropriate aircraft types have been selected for use as input data;
+ #8226; the runway used in flight path data is operationally suitable; 
  
  
- &#8226; the forecast numbers of aircraft operations are no greater than the anticipated physical capacity of the airport;
- &#8226; the assumed data have been correctly entered into the ANEF model which has been submitted for endorsement; 
+ #8226; the forecast numbers of aircraft operations are no greater than the anticipated physical capacity of the airport;
+ #8226; the assumed data have been correctly entered into the ANEF model which has been submitted for endorsement; 
  
  
- &#8226; the correct version of the software has been used; 
+ #8226; the correct version of the software has been used; 
  
  
- &#8226; the shape and size of the draft ANEF contours appear to be consistent with the input data;
- &#8226; the chart and data presented in the draft ANEF format contain all the items required;
- &#8226; the sources of data submitted with the draft ANEF can be identified.</sentence>
+ #8226; the shape and size of the draft ANEF contours appear to be consistent with the input data;
+ #8226; the chart and data presented in the draft ANEF format contain all the items required;
+ #8226; the sources of data submitted with the draft ANEF can be identified.</sentence>
 <sentence id="s168">
  
 
@@ -512,7 +512,7 @@ Dated: 15 August 2007
 
  Counsel for the Applicant: AS Martin SC and PA Walker 
  
- Solicitor for the Applicant: JS O'Connor Harris &amp; Co 
+ Solicitor for the Applicant: JS O'Connor Harris amp; Co 
  
  Counsel for the First Respondent: NC Hutley SC and EC Muston 
  
@@ -534,4 +534,10 @@ Dated: 15 August 2007
  
  </sentence>
 </sentences>
+</case>entences>
+</case>/au/cases/cth/FCA/2007/1242.html 
+ 
+ </sentence>
+</sentences>
+</case>entences>
 </case>

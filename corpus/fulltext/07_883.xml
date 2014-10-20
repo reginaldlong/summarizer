@@ -3,13 +3,13 @@
 <name>Rahman v Ashpole [2007] FCA 883 (20 June 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/883.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">national privacy principles</catchphrase>
-<catchphrase "id=c1">provision of information to centrelink</catchphrase>
-<catchphrase "id=c2">preliminary inquiry by privacy commissioner</catchphrase>
-<catchphrase "id=c3">no reasonable prospects of success</catchphrase>
-<catchphrase "id=c4">indemnity costs awarded</catchphrase>
-<catchphrase "id=c5">summary judgment</catchphrase>
-<catchphrase "id=c6">costs</catchphrase>
+<catchphrase >national privacy principles</catchphrase>
+<catchphrase >provision of information to centrelink</catchphrase>
+<catchphrase >preliminary inquiry by privacy commissioner</catchphrase>
+<catchphrase >no reasonable prospects of success</catchphrase>
+<catchphrase >indemnity costs awarded</catchphrase>
+<catchphrase >summary judgment</catchphrase>
+<catchphrase >costs</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -79,7 +79,7 @@
  
  
  
- &#8226; Statements showing the outstanding balance for the loan account 253350500 of Mr Mohammad Rahman of 15 Troopers Mews, Holsworthy NSW from 1 August 2005 onwards.</sentence>
+ #8226; Statements showing the outstanding balance for the loan account 253350500 of Mr Mohammad Rahman of 15 Troopers Mews, Holsworthy NSW from 1 August 2005 onwards.</sentence>
 <sentence id="s20">
  
  
@@ -356,4 +356,8 @@ Dated: 20 June 2007
  
  </sentence>
 </sentences>
-</case>
+</case>>07/883.html 
+ 
+ </sentence>
+</sentences>
+</case>>

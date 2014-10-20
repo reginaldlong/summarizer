@@ -3,17 +3,17 @@
 <name>Alfio Peter Bulic v Commonwealth Bank of Australia Limited [2007] FCA 307 (21 June 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/307.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for annulment of bankruptcy</catchphrase>
-<catchphrase "id=c1">where sequestration order made against the estate of applicant</catchphrase>
-<catchphrase "id=c2">whether sequestration order "ought not have been made"</catchphrase>
-<catchphrase "id=c3">whether at time sequestration order made applicant was indebted to the respondent</catchphrase>
-<catchphrase "id=c4">discretion to make annulment order</catchphrase>
-<catchphrase "id=c5">application to reopen proceeding</catchphrase>
-<catchphrase "id=c6">whether availability of fresh evidence warrants reopening</catchphrase>
-<catchphrase "id=c7">nothing in discovered documents that supports application for annulment of bankruptcy</catchphrase>
-<catchphrase "id=c8">application to reopen proceeding refused</catchphrase>
-<catchphrase "id=c9">bankruptcy</catchphrase>
-<catchphrase "id=c10">practice and procedure</catchphrase>
+<catchphrase >application for annulment of bankruptcy</catchphrase>
+<catchphrase >where sequestration order made against the estate of applicant</catchphrase>
+<catchphrase >whether sequestration order "ought not have been made"</catchphrase>
+<catchphrase >whether at time sequestration order made applicant was indebted to the respondent</catchphrase>
+<catchphrase >discretion to make annulment order</catchphrase>
+<catchphrase >application to reopen proceeding</catchphrase>
+<catchphrase >whether availability of fresh evidence warrants reopening</catchphrase>
+<catchphrase >nothing in discovered documents that supports application for annulment of bankruptcy</catchphrase>
+<catchphrase >application to reopen proceeding refused</catchphrase>
+<catchphrase >bankruptcy</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -172,8 +172,8 @@ In the present proceeding he has given evidence that the true position was that 
 <sentence id="s134">22 Mr Bulic submits that the documents would establish a number of negative propositions.</sentence>
 <sentence id="s135">They are that:
  
- &#8226; There are no documents held by the respondent which contain any direct proof of Mr Bulic's indebtedness in the sum alleged.</sentence>
-<sentence id="s136">&#8226; The files appear to have been "culled" and are incomplete.</sentence>
+ #8226; There are no documents held by the respondent which contain any direct proof of Mr Bulic's indebtedness in the sum alleged.</sentence>
+<sentence id="s136">#8226; The files appear to have been "culled" and are incomplete.</sentence>
 <sentence id="s137">
 
 It is also suggested that the documents appear, in some instances, to be confusing and self contradictory.</sentence>
@@ -255,4 +255,8 @@ Dated: 21 June 2007
  
  </sentence>
 </sentences>
-</case>
+</case>e>i.edu.au/au/cases/cth/FCA/2007/307.html 
+ 
+ </sentence>
+</sentences>
+</case>e>

@@ -3,12 +3,12 @@
 <name>Soh v Commonwealth of Australia [2006] FCA 575 (17 May 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/575.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">costs</catchphrase>
-<catchphrase "id=c1">security for costs</catchphrase>
-<catchphrase "id=c2">impecunious applicant resident out of jurisdiction</catchphrase>
-<catchphrase "id=c3">whether public interest aspects involved in substantive proceedings outweigh prima facie case for security for costs</catchphrase>
-<catchphrase "id=c4">inadequacy of material to enable fair assessment of possible additional costs occasioned by absence from australia .</catchphrase>
-<catchphrase "id=c5">procedure</catchphrase>
+<catchphrase >costs</catchphrase>
+<catchphrase >security for costs</catchphrase>
+<catchphrase >impecunious applicant resident out of jurisdiction</catchphrase>
+<catchphrase >whether public interest aspects involved in substantive proceedings outweigh prima facie case for security for costs</catchphrase>
+<catchphrase >inadequacy of material to enable fair assessment of possible additional costs occasioned by absence from australia .</catchphrase>
+<catchphrase >procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -31,7 +31,7 @@ Australia and the proceedings were remitted to this Court.</sentence>
 <sentence id="s12">In addition, according to the Commonwealth, the applicant's claim against the respondents is futile in light of the Commonwealth's intention to file a cross-claim against him for a sum greater than he can expect to be awarded if his claim is successful.</sentence>
 <sentence id="s13">Mr Soh says that if an order for security is made for a sum greater than $1000, he will not be able to continue his claim.</sentence>
 <sentence id="s14">He asserts that it is in the public interest that his case be heard and determined.</sentence>
-<sentence id="s15">4 An order for security for costs is an exercise of discretion by the court in which the court must weigh all of the circumstances of the case: P S Chellaram &amp; Co Ltd v China Ocean Shipping Co [1991] HCA 36 ; (1991) 102 ALR 321 per McHugh J at 323 ( 'Chellaram' ).</sentence>
+<sentence id="s15">4 An order for security for costs is an exercise of discretion by the court in which the court must weigh all of the circumstances of the case: P S Chellaram amp; Co Ltd v China Ocean Shipping Co [1991] HCA 36 ; (1991) 102 ALR 321 per McHugh J at 323 ( 'Chellaram' ).</sentence>
 <sentence id="s16">However, as McHugh J said (at 323): '[F]or many years the practice has been to order [a non-resident] party to provide security for costs unless that party can point to other circumstances which overcome the weight of the circumstance that that person is resident out of and has no assets within the jurisdiction'.</sentence>
 <sentence id="s17">5 In CBS Records Australia Ltd v Telmak Teleproducts (Aust) Pty Limited (1987) 72 ALR 270 (' CBS Records '), Bowen CJ said at 284-5: 
  
@@ -164,7 +164,7 @@ could, when the place of residence does not affect the impecuniosity.</sentence>
 <sentence id="s106">I decline simply to speculate and therefore will not make the order asked.</sentence>
 <sentence id="s107">In any case, my best guess is that any such amount would be quite modest.</sentence>
 <sentence id="s108">The likely relatively modest amount that might in any case be awarded also tells in favour of the course I propose.</sentence>
-<sentence id="s109">A somewhat similar approach was adopted by Cole J in Swain Investments Limited v Danumet Pty Limited &amp; Anor (unreported, Supreme Court of New South Wales, Cole J, 5 May 1989).</sentence>
+<sentence id="s109">A somewhat similar approach was adopted by Cole J in Swain Investments Limited v Danumet Pty Limited amp; Anor (unreported, Supreme Court of New South Wales, Cole J, 5 May 1989).</sentence>
 <sentence id="s110">His Honour concluded that (at 7-9):
  
  '...if an order for security for costs is to be made, an appropriate order would be that the plaintiff provide security sufficient to cover the cost of registration in New Zealand of any judgment obtained by the defendant against the plaintiff in this Court.</sentence>
@@ -211,4 +211,8 @@ Dated: 17 May 2006
  
  </sentence>
 </sentences>
-</case>
+</case>e>tml 
+ 
+ </sentence>
+</sentences>
+</case>e>

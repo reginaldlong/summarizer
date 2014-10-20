@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <case>
-<name>SZCVC v Minister for Immigration &amp; Multicultural Affairs [2006] FCA 1535 (21 November 2006)</name>
+<name>SZCVC v Minister for Immigration amp; Multicultural Affairs [2006] FCA 1535 (21 November 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1535.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from federal magistrate</catchphrase>
-<catchphrase "id=c1">refusal to grant protection visa</catchphrase>
-<catchphrase "id=c2">where appellant a citizen of nepal</catchphrase>
-<catchphrase "id=c3">whether a well-founded fear of persecution exists</catchphrase>
-<catchphrase "id=c4">whether mere demands would satisfy the definition of "serious harm" pursuant to s 91r of the migration act 1958 (cth)</catchphrase>
-<catchphrase "id=c5">whether federal magistrate erred in finding that the refugee review tribunal was not obliged to consider relocation where it was held there was no well-founded fear of persecution</catchphrase>
-<catchphrase "id=c6">migration</catchphrase>
+<catchphrase >appeal from federal magistrate</catchphrase>
+<catchphrase >refusal to grant protection visa</catchphrase>
+<catchphrase >where appellant a citizen of nepal</catchphrase>
+<catchphrase >whether a well-founded fear of persecution exists</catchphrase>
+<catchphrase >whether mere demands would satisfy the definition of "serious harm" pursuant to s 91r of the migration act 1958 (cth)</catchphrase>
+<catchphrase >whether federal magistrate erred in finding that the refugee review tribunal was not obliged to consider relocation where it was held there was no well-founded fear of persecution</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -179,9 +179,9 @@
 18 The appellant appeals against that conclusion.</sentence>
 <sentence id="s108">His submissions tacitly pose three questions, namely:
  
-&#8226; What was the ambit of his claimed fear of persecution?</sentence>
-<sentence id="s109">&#8226; Did the Tribunal understand the full ambit of that claim?</sentence>
-<sentence id="s110">&#8226; Did the Tribunal deal with all aspects of that claim?</sentence>
+#8226; What was the ambit of his claimed fear of persecution?</sentence>
+<sentence id="s109">#8226; Did the Tribunal understand the full ambit of that claim?</sentence>
+<sentence id="s110">#8226; Did the Tribunal deal with all aspects of that claim?</sentence>
 <sentence id="s111">19 I will consider each question in turn.</sentence>
 <sentence id="s112">Ambit of the appellant's claim 
  
@@ -310,7 +310,7 @@ Dated: 21 November 2006
 
  Counsel for the Appellant: Mr J R Young 
  
- Solicitor for the Appellant: Simon Diab &amp; Associates 
+ Solicitor for the Appellant: Simon Diab amp; Associates 
  
  Counsel for the Respondents: Ms M Allans 
  
@@ -328,4 +328,8 @@ Dated: 21 November 2006
  
  </sentence>
 </sentences>
-</case>
+</case>case>35.html 
+ 
+ </sentence>
+</sentences>
+</case>case>
