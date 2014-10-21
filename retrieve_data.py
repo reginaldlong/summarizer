@@ -39,7 +39,4 @@ def parseFiles(allSentences, allCatchphrases):
         if catchphrases and catchphrases[0] != None:
             allCatchphrases.append(catchphrases)
         #Do stuff	
-sentences = []
-catchphrases = []
-parseFiles(sentences, catchphrases)
 
