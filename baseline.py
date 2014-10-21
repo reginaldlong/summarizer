@@ -15,7 +15,7 @@ def learnPredictor(trainExamples, testExamples, featureExtractor):
     def loss(w, phi, y):
         return max(1 - util.dotProduct(w, phi) * y, 0)
     eta = 0.1  
-    numIters = 30 
+    numIters = 1 
     def sgradLoss(w, phi, y):
         if loss(w, phi, y) == 0:
             return collections.Counter()
@@ -34,6 +34,7 @@ def learnPredictor(trainExamples, testExamples, featureExtractor):
             util.increment(weights, -1 * eta, sgradLoss(weights, 
                 featureExtractor(input), output))
         print util.evaluatePredictor(trainExamples, predictor) 
+        print util.evaluatePredictor(testExamples, predictor)
     return weights
 
 sentences = []
@@ -41,6 +42,6 @@ catchphrases = []
 retrieve_data.parseFiles(sentences, catchphrases)
 totalFiles = len(catchphrases)
 numLearnFiles = totalFiles / 2
-trainExamples = data_format.format(sentences, catchphrases)
-w = learnPredictor(trainExamples, None, extractWordFeatures)
-print w
+examples = data_format.format(sentences, catchphrases)
+w = learnPredictor(examples[0:200], examples[200:], extractWordFeatures)
+#print w

@@ -8,7 +8,7 @@
 def format(sentences, catchphrases):
     examples = []
     # change this later to len(sentences)
-    for i in xrange(1000):
+    for i in xrange(400):
         currentFileSentences = sentences[i]
         currentFileCatchphrases = catchphrases[i]
         for sentence in currentFileSentences:
