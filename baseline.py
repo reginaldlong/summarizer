@@ -15,7 +15,7 @@ def learnPredictor(trainExamples, testExamples, featureExtractor):
     def loss(w, phi, y):
         return max(1 - util.dotProduct(w, phi) * y, 0)
     eta = 0.1  
-    numIters = 1 
+    numIters = 3 
     def sgradLoss(w, phi, y):
         if loss(w, phi, y) == 0:
             return collections.Counter()
@@ -25,7 +25,13 @@ def learnPredictor(trainExamples, testExamples, featureExtractor):
     def predictor(x):
         if x == None:
             return -1
-        return (1 if util.dotProduct(featureExtractor(x), weights) > 0 else -1)
+        if util.dotProduct(featureExtractor(x), weights) > 0:
+            print '-' * 50
+            print x
+            print '-' * 50
+            return 1
+        else:
+            return -1
 
     for iteration in xrange(numIters):
         for input, output in trainExamples:
