@@ -4,16 +4,22 @@ import re
 
 stopWords = []
 def initStopWords():
+    del stopWords[:]
     with open("stopwords.txt") as f:
         for line in f:
-            stopWords.append(line)
+            stopWords.append(line[0:len(line) - 1])
 
 def removeStopWords(sentence):
+    sentence = sentence.lower()
     ret = ""
     for stopWord in stopWords:
-        ret = re.sub(stopWord, "", sentence)
+        if ret == "":
+            ret = re.sub("(?<!\S)" + stopWord + " ", "", sentence)
+        else: 
+            ret = re.sub("(?<!\S)" + stopWord + " ", "", ret)
+        print ret
     return ret
-
+    
 # Sentences is a list of lists of sentences
 # Catchphrases is a list of lists of catchphrases
 # Each element represents the list of sentences/catchphrases
@@ -32,6 +38,7 @@ def format(sentences, catchphrases):
             if sentence == None:
                 continue
             formattedSentence = removeStopWords(sentence)
+            print formattedSentence
             value = 0
             for catchphrase in currentFileCatchphrases:
                 formattedCatchphrase = removeStopWords(catchphrase)
