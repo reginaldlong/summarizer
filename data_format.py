@@ -3,22 +3,19 @@ from nltk.stem import PorterStemmer
 # Given list of all sentences and catchphrases, return (x, y) pairs 
 
 
-stopWords = []
+stopWords = {}
 def initStopWords():
-    del stopWords[:]
     with open("stopwords.txt") as f:
         for line in f:
-            stopWords.append(line[0:len(line) - 1])
+            stopWords[line.strip()] = 1
 
 def removeStopWords(sentence):
-    sentence = sentence.lower()
-    ret = ""
-    for stopWord in stopWords:
-        if ret == "":
-            ret = re.sub("(?<!\S)" + stopWord + " ", "", sentence)
-        else: 
-            ret = re.sub("(?<!\S)" + stopWord + " ", "", ret)
-    return ret
+    wordList = sentence.lower().split(" ")   
+    retList = []
+    for word in wordList:
+       if stopWords.get(word, -1) != 1:
+            retList.append(word)
+    return retList
     
 # Sentences is a list of lists of sentences
 # Catchphrases is a list of lists of catchphrases
@@ -37,14 +34,14 @@ def format(sentences, catchphrases):
         for sentence in currentFileSentences:
             if sentence == None:
                 continue
-            formattedSentence = removeStopWords(sentence)
+            formattedSentenceList = removeStopWords(sentence)
             formattedSentence = " ".join([stemmer.stem(kw) for kw in \
-                    formattedSentence.split(" ")])
+                    formattedSentenceList])
             value = 0
             for catchphrase in currentFileCatchphrases:
-                formattedCatchphrase = removeStopWords(catchphrase)
+                formattedCatchphraseList = removeStopWords(catchphrase)
                 formattedCatchphrase = " ".join([stemmer.stem(kw) for kw \
-                        in formattedCatchphrase.split(" ")])
+                        in formattedCatchphraseList])
                 if formattedCatchphrase in formattedSentence:
                     value = 1
             examples.append((formattedSentence, value))
