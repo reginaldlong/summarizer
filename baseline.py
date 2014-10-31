@@ -2,6 +2,7 @@ import retrieve_data
 import collections
 import util
 import data_format
+import pickle
 
 #Turns printing on and off
 DEBUG = False
@@ -60,7 +61,10 @@ retrieve_data.parseFiles(sentences, catchphrases)
 totalFiles = len(catchphrases)
 numLearnFiles = totalFiles / 2
 examples = data_format.format(sentences, catchphrases)
-print examples
 w = learnPredictor(examples[0:200], examples[200:], extractWordFeatures)
+output = open("weights.pkl", "wb")
+pickle.dump(w, output, -1)
+output.close()
+
 if DEBUG:
     print w
