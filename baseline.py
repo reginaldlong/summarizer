@@ -3,6 +3,7 @@ import collections
 import util
 import data_format
 import pickle
+import gzip
 
 #Turns printing on and off
 DEBUG = False
@@ -62,12 +63,24 @@ totalFiles = len(catchphrases)
 numLearnFiles = totalFiles / 2
 examples = data_format.format(sentences, catchphrases)
 
-with open("sentences.pkl", "wb") as output:
+outfilename = 'sentences.pklz'
+output = gzip.open(outfilename, 'wb')
+try:
     pickle.dump(sentences, output, -1)
-with open("catchphrases.pkl", "wb") as output:
+finally:
+    output.close()
+outfilename = 'catchphrases.pklz'
+output = gzip.open(outfilename, 'wb')
+try:
     pickle.dump(catchphrases, output, -1)
-with open("examples.pkl", "wb") as output:
+finally:
+    output.close()
+outfilename = 'examples.pklz'
+output = gzip.open(outfilename, 'wb')
+try:
     pickle.dump(examples, output, -1)
+finally:
+    output.close()
 
 w = learnPredictor(examples[0:200], examples[200:], extractWordFeatures)
 output = open("weights.pkl", "wb")

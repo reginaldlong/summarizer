@@ -22,6 +22,7 @@ from sklearn import metrics
 
 import numpy as np
 from sklearn import svm 
+import gzip
 
 def formatExamples(examples):
 	formattedExamples = []
@@ -34,12 +35,24 @@ def formatExamples(examples):
 
 	return formattedExamples, ytrainList
 
-with open("sentences.pkl", "rb") as f:
-		sentences = pickle.load(f)
-with open("catchphrases.pkl", "rb") as f:
-	catchphrases = pickle.load(f)
-with open("examples.pkl", "rb") as f:
-	examples = pickle.load(f)
+infilename = 'sentences.pklz'
+f = gzip.open(infilename, 'rb')
+try:
+    sentences = pickle.load(f)
+finally:
+    f.close()
+infilename = 'catchphrases.pklz'
+f = gzip.open(infilename, 'rb')
+try:
+    catchphrases = pickle.load(f)
+finally:
+    f.close()
+infilename = 'examples.pklz'
+f = gzip.open(infilename, 'rb')
+try:
+    examples = pickle.load(f)
+finally:
+    f.close()
 
 #Globals
 totalExampleCount = len(examples)
@@ -125,37 +138,47 @@ def benchmark(classifier, X_train, y_train, X_test, y_test):
 
 
 def format():
-	with open("sentences.pkl", "rb") as f:
-		sentences = pickle.load(f)
-	with open("catchphrases.pkl", "rb") as f:
-		catchphrases = pickle.load(f)
-	with open("examples.pkl", "rb") as f:
-		examples = pickle.load(f)
+	infilename = 'sentences.pklz'
+	f = gzip.open(infilename, 'rb')
+	try:
+	    sentences = pickle.load(f)
+	finally:
+	    f.close()
+	infilename = 'catchphrases.pklz'
+	f = gzip.open(infilename, 'rb')
+	try:
+	    catchphrases = pickle.load(f)
+	finally:
+	    f.close()
+	infilename = 'examples.pklz'
+	f = gzip.open(infilename, 'rb')
+	try:
+	    examples = pickle.load(f)
+	finally:
+	    f.close()
 
+	#Globals
 	totalExampleCount = len(examples)
-	trainExamples, testExamples = resample(examples, 70)
 
 	allDict, yList = formatExamples(examples)
 	vectorizer = DictVectorizer(sparse = True)
 	vectorizer.fit_transform(allDict)
 
-	trainDict, trainTargetList = formatExamples(trainExamples)
-	X_train = vectorizer.transform(trainDict)
-	y_train = np.asarray(trainTargetList)
+	X = vectorizer.transform(allDict)
+	y = np.asarray(yList)
 
 	#map from indices to feature names
 	feature_names = np.asarray(vectorizer.get_feature_names())
-
-	testDict, testTargetList = formatExamples(testExamples)
-	X_test = vectorizer.transform(testDict)
-	y_test = np.asarray(testTargetList)
 
 def runTests():
 	#This is run globally
 	#X_train, y_train, X_test, y_test = format()
 
 	results = []
+
+	#10-fold cross validation - TODO: average the models learned in each fold together
 	kf = cross_validation.KFold(totalExampleCount, n_folds=10)	
+
 	for train_index, test_index in kf:
 		X_train, X_test = X[train_index], X[test_index]
 		y_train, y_test = y[train_index], y[test_index]
