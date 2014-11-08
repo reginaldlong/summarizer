@@ -61,6 +61,14 @@ retrieve_data.parseFiles(sentences, catchphrases)
 totalFiles = len(catchphrases)
 numLearnFiles = totalFiles / 2
 examples = data_format.format(sentences, catchphrases)
+
+with open("sentences.pkl", "wb") as output:
+    pickle.dump(sentences, output, -1)
+with open("catchphrases.pkl", "wb") as output:
+    pickle.dump(catchphrases, output, -1)
+with open("examples.pkl", "wb") as output:
+    pickle.dump(examples, output, -1)
+
 w = learnPredictor(examples[0:200], examples[200:], extractWordFeatures)
 output = open("weights.pkl", "wb")
 pickle.dump(w, output, -1)
