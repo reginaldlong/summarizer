@@ -200,6 +200,7 @@ def runTests():
 		results.append(benchmark(classifier, X_train, y_train, X_test, y_test))
 
 		#Train using Nearest Centroid classifier (Rocchio Classifier)
-		
+		classifier = NearestCentroid()
+		results.append(benchmark(classifier, X_train, y_train, X_test, y_test))
 
 runTests()
