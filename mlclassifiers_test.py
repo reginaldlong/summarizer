@@ -6,17 +6,17 @@ import pickle
 from collections import Counter
 import random
 
-from optparse import OptionParser
+#from optparse import OptionParser
 import sys
 from time import time
-import matplotlib.pyplot as plt
 from sklearn.svm import LinearSVC
 from sklearn import cross_validation
 from sklearn.naive_bayes import BernoulliNB, MultinomialNB
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.feature_extraction.text import HashingVectorizer
+from sklearn.feature_extraction.text import TfidfTransformer
+#from sklearn.feature_extraction.text import HashingVectorizer
 from sklearn.feature_extraction import DictVectorizer
-from sklearn.feature_selection import SelectKBest, chi2
+#from sklearn.feature_selection import SelectKBest, chi2
+from sklearn.neighbors import NearestCentroid
 from sklearn.utils.extmath import density
 from sklearn import metrics
 
@@ -59,23 +59,17 @@ totalExampleCount = len(examples)
 
 allDict, yList = formatExamples(examples)
 vectorizer = DictVectorizer(sparse = True)
-vectorizer.fit_transform(allDict)
+vectorizer.fit(allDict)
 
 X = vectorizer.transform(allDict)
 y = np.asarray(yList)
 
+#Tfidf
+tfidfTransformer = TfidfTransformer()
+X = tfidfTransformer.fit_transform(X, y)
 #map from indices to feature names
 feature_names = np.asarray(vectorizer.get_feature_names())
 
-#trainExamples, testExamples = resample(examples, 70)
-
-#trainDict, trainTargetList = formatExamples(trainExamples)
-#X_train = vectorizer.transform(trainDict)
-#y_train = np.asarray(trainTargetList)
-
-#testDict, testTargetList = formatExamples(testExamples)
-#X_test = vectorizer.transform(testDict)
-#y_test = np.asarray(testTargetList)
 
 categories = [
 		'not important',
@@ -162,10 +156,13 @@ def format():
 
 	allDict, yList = formatExamples(examples)
 	vectorizer = DictVectorizer(sparse = True)
-	vectorizer.fit_transform(allDict)
+	vectorizer.fit(allDict)
 
 	X = vectorizer.transform(allDict)
 	y = np.asarray(yList)
+
+	tfidfTransformer = TfidfTransformer()
+	X = tfidfTransformer.fit_transform(X, y)
 
 	#map from indices to feature names
 	feature_names = np.asarray(vectorizer.get_feature_names())
@@ -200,6 +197,10 @@ def runTests():
 		classifier = MultinomialNB(alpha=.01)
 		results.append(benchmark(classifier, X_train, y_train, X_test, y_test))
 		classifier = BernoulliNB(alpha=.01)
+		results.append(benchmark(classifier, X_train, y_train, X_test, y_test))
+
+		#Train using Nearest Centroid classifier (Rocchio Classifier)
+		classifier = NearestCentroid()
 		results.append(benchmark(classifier, X_train, y_train, X_test, y_test))
 
 runTests()
