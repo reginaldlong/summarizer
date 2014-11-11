@@ -112,9 +112,9 @@ def benchmark(classifier, X_train, y_train, X_test, y_test):
 	    
 	    #Number of correct positives, false pos, false neg, correct neg
 	    print("confusion matrix:")
-	    print(metrics.confusion_matrix(y, pred))
-
-	    return score
+	    confusion_matrix =  metrics.confusion_matrix(y, pred)
+	    print(confusion_matrix)
+	    return confusion_matrix
 
 	print('_' * 80)
 	print("Training: ")
@@ -125,10 +125,10 @@ def benchmark(classifier, X_train, y_train, X_test, y_test):
 	print("Testing on Training Set: ")
 	testOnSet(X_train, y_train)
 	print("Testing on Test Set: ")	
-	score = testOnSet(X_test, y_test)
+	confusion_matrix = testOnSet(X_test, y_test)
 
 	classifier_descr = str(classifier).split('(')[0]
-	return classifier_descr, score
+	return classifier_descr, confusion_matrix
 
 
 def format():
@@ -202,5 +202,20 @@ def runTests():
 		#Train using Nearest Centroid classifier (Rocchio Classifier)
 		classifier = NearestCentroid()
 		results.append(benchmark(classifier, X_train, y_train, X_test, y_test))
+
+	print('='*80)
+	print 'Aggregate'
+	aggregate_results = {}
+	for classifier_descr, confusion_matrix in results:
+		accumulated = aggregate_results.get(classifier_descr, np.array([[0,0],[0,0]]))
+		aggregate_results[classifier_descr] = np.add(accumulated, confusion_matrix)
+	
+	for classifier_descr, confusion_matrix in aggregate_results.iteritems():
+		print('-'*40)
+		print classifier_descr
+		print confusion_matrix
+		recall = confusion_matrix[1,1] / float(confusion_matrix[1,1] + confusion_matrix[1,0])
+		precision = confusion_matrix[1,1] / float(confusion_matrix[1,1] + confusion_matrix[0,1])
+		print "Precision: ", precision, " Recall: ", recall
 
 runTests()
