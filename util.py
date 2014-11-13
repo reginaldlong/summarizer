@@ -41,10 +41,26 @@ def evaluatePredictor(examples, predictor):
     of misclassiied examples.
     '''
     error = 0
+    falseNeg = 0
+    falsePos = 0
+    trueNeg = 0
+    truePos = 0
     for x, y in examples:
-        if predictor(x) != y:
+        yhat = predictor(x)
+        if yhat != y:
             error += 1
-    return 1.0 * error / len(examples)
+        if yhat == 0 and y == 1:
+            falseNeg += 1
+        if yhat == 1 and y == 0:
+            falsePos += 1
+        if yhat == y and yhat == 1:
+            truePos += 1
+        if yhat == y and yhat == 0:
+            trueNeg += 1
+
+    return (1.0 * error / len(examples), str(len(examples)) + " examples", "False Neg " + str(falseNeg), 
+            "False Pos " + str(falsePos), "True Neg " + str(trueNeg),
+            "True Pos " + str(truePos))
 
 def outputWeights(weights, path):
     print "%d weights" % len(weights)
