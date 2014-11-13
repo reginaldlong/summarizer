@@ -6,7 +6,7 @@ import pickle
 import gzip
 
 #Turns printing on and off
-DEBUG = False
+DEBUG = True
 
 def extractWordFeatures(x):
     vec = collections.Counter()
@@ -35,13 +35,12 @@ def learnPredictor(trainExamples, testExamples, featureExtractor):
         if util.dotProduct(featureExtractor(x), weights) > 0:
             
             if DEBUG:
-                print '-' * 50
                 print x
                 print '-' * 50
             
             return 1
         else:
-            return -1
+            return 0 
 
     for iteration in xrange(numIters):
         for input, output in trainExamples:
@@ -59,9 +58,8 @@ def learnPredictor(trainExamples, testExamples, featureExtractor):
 sentences = []
 catchphrases = []
 retrieve_data.parseFiles(sentences, catchphrases)
-totalFiles = len(catchphrases)
-numLearnFiles = totalFiles / 2
 examples = data_format.format(sentences, catchphrases)
+numExamples = len(examples)
 
 outfilename = 'sentences.pklz'
 output = gzip.open(outfilename, 'wb')
@@ -82,10 +80,7 @@ try:
 finally:
     output.close()
 
-w = learnPredictor(examples[0:200], examples[200:], extractWordFeatures)
+w = learnPredictor(examples[0:numExamples / 2], examples[numExamples / 2:], extractWordFeatures)
 output = open("weights.pkl", "wb")
 pickle.dump(w, output, -1)
 output.close()
-
-if DEBUG:
-    print w
