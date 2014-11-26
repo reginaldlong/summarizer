@@ -28,7 +28,7 @@ def format(sentences, catchphrases):
     initStopWords()
 
     # change this later to len(sentences)
-    for i in xrange(1):
+    for i in xrange(len(sentences)):
         currentFileSentences = sentences[i]
         currentFileCatchphrases = catchphrases[i]
         for sentence in currentFileSentences:

@@ -21,7 +21,7 @@ def learnPredictor(trainExamples, testExamples, featureExtractor):
         return max(1 - util.dotProduct(w, phi) * y, 0)
     
     eta = 0.1  
-    numIters = 10 
+    numIters = 3 
     def sgradLoss(w, phi, y):
         if loss(w, phi, y) == 0:
             return collections.Counter()
@@ -45,8 +45,8 @@ def learnPredictor(trainExamples, testExamples, featureExtractor):
                 featureExtractor(input), output))
         
         if DEBUG:
-            #print util.evaluatePredictor(trainExamples, predictor) 
-            print util.evaluatePredictor(testExamples, predictor)
+            print util.evaluatePredictor(trainExamples, predictor) 
+            #print util.evaluatePredictor(testExamples, predictor)
     
     return weights
 
@@ -54,7 +54,8 @@ sentences = []
 catchphrases = []
 retrieve_data.parseFiles(sentences, catchphrases)
 examples = data_format.format(sentences, catchphrases)
-numExamples = len(examples)
+numExamples = len(examples) * 1/2
+firstPart = numExamples * 9 /10
 
 outfilename = 'sentences.pklz'
 output = gzip.open(outfilename, 'wb')
@@ -75,7 +76,7 @@ try:
 finally:
     output.close()
 
-w = learnPredictor(examples[0:numExamples / 2], examples[numExamples / 2:], extractWordFeatures)
+w = learnPredictor(examples[0:firstPart], examples[firstPart:], extractWordFeatures)
 output = open("weights.pkl", "wb")
 pickle.dump(w, output, -1)
 output.close()
