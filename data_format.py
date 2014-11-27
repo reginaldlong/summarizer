@@ -31,20 +31,21 @@ def format(sentences, catchphrases):
     for i in xrange(len(sentences)):
         currentFileSentences = sentences[i]
         currentFileCatchphrases = catchphrases[i]
+        associatedSentences = []
+        associatedCatchphrases = []
         for sentence in currentFileSentences:
             if sentence == None:
                 continue
             formattedSentenceList = removeStopWords(sentence)
             formattedSentence = " ".join([stemmer.stem(kw) for kw in \
                     formattedSentenceList])
-            value = 0
-            for catchphrase in currentFileCatchphrases:
-                formattedCatchphraseList = removeStopWords(catchphrase)
-                formattedCatchphrase = " ".join([stemmer.stem(kw) for kw \
-                        in formattedCatchphraseList])
-                if formattedCatchphrase in formattedSentence:
-                    value = 1
-            examples.append((formattedSentence, value))
+            associatedSentences.append(formattedSentence)
+        for catchphrase in currentFileCatchphrases:
+            formattedCatchphraseList = removeStopWords(catchphrase)
+            formattedCatchphrase = " ".join([stemmer.stem(kw) for kw \
+                in formattedCatchphraseList])
+            associatedCatchphrases.append(formattedCatchphrase)
+        examples.append((associatedSentences, associatedCatchphrases))
     return examples
 
 
