@@ -57,7 +57,7 @@ examples = data_format.format(sentences, catchphrases)
 numExamples = len(examples) * 1/2
 firstPart = numExamples * 9 /10
 
-outfilename = 'sentences.pklz'
+'''outfilename = 'sentences.pklz'
 output = gzip.open(outfilename, 'wb')
 try:
     pickle.dump(sentences, output, -1)
@@ -68,15 +68,15 @@ output = gzip.open(outfilename, 'wb')
 try:
     pickle.dump(catchphrases, output, -1)
 finally:
-    output.close()
-outfilename = 'examples.pklz'
+    output.close()'''
+outfilename = 'new_examples.pklz'
 output = gzip.open(outfilename, 'wb')
 try:
     pickle.dump(examples, output, -1)
 finally:
     output.close()
 
-w = learnPredictor(examples[0:firstPart], examples[firstPart:], extractWordFeatures)
-output = open("weights.pkl", "wb")
-pickle.dump(w, output, -1)
-output.close()
+#w = learnPredictor(examples[0:firstPart], examples[firstPart:], extractWordFeatures)
+#output = open("weights.pkl", "wb")
+#pickle.dump(w, output, -1)
+#output.close()

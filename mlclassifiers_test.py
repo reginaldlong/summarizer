@@ -19,23 +19,67 @@ from sklearn.feature_extraction import DictVectorizer
 from sklearn.neighbors import NearestCentroid
 from sklearn.utils.extmath import density
 from sklearn import metrics
+import scipy.sparse as sp
 
 import numpy as np
 from sklearn import svm 
 import gzip
 
+numCatchphrasesByDoc = []
 def formatExamples(examples):
 	formattedExamples = []
 	ytrainList = []
-	for sentence, value in examples:
-		wordList = sentence.split(' ')
-		count = dict(Counter(wordList))
-		formattedExamples.append(count)
-		ytrainList.append(value)
+	counter = 1
+	for sentences, catchphrases in examples:
+		print "Document ", counter
+		counter += 1
+		numSentences = len(sentences)
+		numCatchphrases = len(catchphrases)
+		
+		numSentencesPerDecile = numSentences / 10;
+		numImpt = 0
+		for i, sentence in enumerate(sentences):
+			imptSentence = 0
+			for c in catchphrases:
+				if c in sentence:
+					imptSentence = 1
+					numImpt += 1
+
+			wordList = sentence.split(' ');
+			count = dict(Counter(wordList))
+
+			#Extract new document related features: 
+			count['numSentencesFeature'] = numSentences
+			count['numCatchphrasesFeature'] = numCatchphrases
+			count['firstSentenceFeature'] = 50 * (i==0)
+			count['lastSentenceFeature'] = 50 * (i==(numSentences-1))
+
+			if numSentencesPerDecile != 0:
+				for decile in xrange(10):
+					featureName = "decile" + str(i + 1);
+					count[featureName] = (i / numSentencesPerDecile == decile)
+
+			formattedExamples.append(count)
+			ytrainList.append(imptSentence)
+		numCatchphrasesByDoc.append(numImpt)
 
 	return formattedExamples, ytrainList
 
-infilename = 'sentences.pklz'
+def getObjFromPklz(infilename):
+	f = gzip.open(infilename, 'rb')
+	try:
+	    return pickle.load(f)
+	finally:
+	    f.close()
+
+def writeToPklz(outfilename, obj):
+	output = gzip.open(outfilename, 'wb')
+	try:
+	    pickle.dump(obj, output, -1)
+	finally:
+	    output.close()
+
+'''infilename = 'sentences.pklz'
 f = gzip.open(infilename, 'rb')
 try:
     sentences = pickle.load(f)
@@ -46,18 +90,22 @@ f = gzip.open(infilename, 'rb')
 try:
     catchphrases = pickle.load(f)
 finally:
-    f.close()
-infilename = 'examples.pklz'
-f = gzip.open(infilename, 'rb')
-try:
-    examples = pickle.load(f)
-finally:
-    f.close()
+    f.close()'''
 
+print "Loading examples..."
+#Each element is Doc and its catchphrases
+
+examples = getObjFromPklz('new_examples.pklz')
 #Globals
 totalExampleCount = len(examples)
+print totalExampleCount, " examples loaded."
 
 allDict, yList = formatExamples(examples)
+
+#writeToPklz('features.pklz', allDict)
+#writeToPklz('valueList.pklz', yList)
+#allDict = getObjFromPklz('features.pklz')
+#yList = getObjFromPklz('valueList.pklz')
 vectorizer = DictVectorizer(sparse = True)
 vectorizer.fit(allDict)
 
@@ -71,12 +119,26 @@ X = tfidfTransformer.fit_transform(X, y)
 feature_names = np.asarray(vectorizer.get_feature_names())
 
 
+numCatchphrasesFeatureIndex = vectorizer.vocabulary_.get('numCatchphrasesFeature')
+firstSentenceFeatureIndex = vectorizer.vocabulary_.get('firstSentenceFeature')
+lastSentenceFeatureIndex = vectorizer.vocabulary_.get('lastSentenceFeature')
+
+#Split the numpy arrays into documents
+examplesByDoc = []
+yListsByDoc = []
+
+firstSentenceIndex = 0
+for i in xrange(X.shape[0]):
+	if X[i, lastSentenceFeatureIndex] != 0:
+		examplesByDoc.append(X[firstSentenceIndex:i + 1, :])
+		yListsByDoc.append(y[firstSentenceIndex:(i + 1)])
+		firstSentenceIndex = i + 1
+
 categories = [
 		'not important',
 		'important'
     ]
-
-
+print "Done constructing design matrix."
 
 def predict(classifier, X):
 	return classifier.predict(X)
@@ -84,37 +146,43 @@ def predict(classifier, X):
 def train(classifer, X, y):
 	classifier.fit(X, y)
 
-def benchmark(classifier, X_train, y_train, X_test, y_test):
-	def testOnSet(X, y):
+def benchmark(classifier, X_train, y_train, testTuples):
+	classifier_descr = str(classifier).split('(')[0]
+	def testOnSet(X, y, kBest=-1):
 		#Prediction
-	    pred = predict(classifier, X)
+		pred = predict(classifier, X)
+
+		if classifier_descr == "LinearSVC":
+			predicted_test_scores= classifier.decision_function(X) 
+
+			if kBest != -1:
+				kBest = y.tolist().count(1)
+				best_ind_array = np.argsort(-predicted_test_scores)[:kBest]
+				pred = np.zeros(pred.size, dtype = int)
+				for bestIndex in best_ind_array:
+					pred[bestIndex] = 1
+		elif classifier_descr != "NearestCentroid":
+			if kBest != -1:
+				kBest = y.tolist().count(1)
+				predicted_test_scores = classifier.predict_proba(X)
+				best_ind_array = np.argsort(-predicted_test_scores[:,1])[:kBest]
+				pred = np.zeros(pred.size, dtype = int)
+				for bestIndex in best_ind_array:
+					pred[bestIndex] = 1
 
 
-	    score = metrics.f1_score(y, pred)
-	    print("f1-score:   %0.3f" % score)
+		score = metrics.f1_score(y, pred)
+		print("f1-score:   %0.3f" % score)
 
-	    if hasattr(classifier, 'coef_'):
-	    	#TODO: Not working yet
+		#Precision, recall for each class
+		print("classification report:")
+		print(metrics.classification_report(y, pred, target_names=categories))
 
-	        #print("dimensionality: %d" % classifier.coef_.shape[1])
-	        #print("density: %f" % density(classifier.coef_))
-
-	        #if feature_names is not None:
-	        #    print("top 10 keywords per class:")
-	        #    for i, category in enumerate(categories):
-	        #        top10 = np.argsort(classifier.coef_[i])[-10:]
-	        #        print("%s: %s" % (category, " ".join(feature_names[top10])))
-	        print()
-
-	    #Precision, recall for each class
-	    print("classification report:")
-	    print(metrics.classification_report(y, pred, target_names=categories))
-	    
-	    #Number of correct positives, false pos, false neg, correct neg
-	    print("confusion matrix:")
-	    confusion_matrix =  metrics.confusion_matrix(y, pred)
-	    print(confusion_matrix)
-	    return confusion_matrix
+		#Number of correct positives, false pos, false neg, correct neg
+		print("confusion matrix:")
+		confusion_matrix =  metrics.confusion_matrix(y, pred)
+		print(confusion_matrix)
+		return confusion_matrix
 
 	print('_' * 80)
 	print("Training: ")
@@ -125,10 +193,14 @@ def benchmark(classifier, X_train, y_train, X_test, y_test):
 	print("Testing on Training Set: ")
 	testOnSet(X_train, y_train)
 	print("Testing on Test Set: ")	
-	confusion_matrix = testOnSet(X_test, y_test)
 
-	classifier_descr = str(classifier).split('(')[0]
-	return classifier_descr, confusion_matrix
+	accumulated = np.array([[0,0],[0,0]])
+
+	for X_test, y_test, docIndex in testTuples:
+		confusion_matrix = testOnSet(X_test, y_test, kBest=numCatchphrasesByDoc[docIndex])
+		accumulated = np.add(accumulated, confusion_matrix)
+
+	return classifier_descr, accumulated
 
 
 def format():
@@ -144,7 +216,7 @@ def format():
 	    catchphrases = pickle.load(f)
 	finally:
 	    f.close()
-	infilename = 'examples.pklz'
+	infilename = 'new_examples.pklz'
 	f = gzip.open(infilename, 'rb')
 	try:
 	    examples = pickle.load(f)
@@ -167,41 +239,53 @@ def format():
 	#map from indices to feature names
 	feature_names = np.asarray(vectorizer.get_feature_names())
 
+
+
 def runTests():
 	#This is run globally
 	#X_train, y_train, X_test, y_test = format()
 
+	print "Running Tests..."
 	results = []
 
-	#10-fold cross validation - TODO: average the models learned in each fold together
-	kf = cross_validation.KFold(totalExampleCount, n_folds=10)	
+	#10-fold cross validation
+	kf = cross_validation.KFold(len(examplesByDoc), n_folds=10)	
 
 	for train_index, test_index in kf:
-		X_train, X_test = X[train_index], X[test_index]
-		y_train, y_test = y[train_index], y[test_index]
+
+		#We pick 90% of documents to train on, 10% to test on each fold 
+
+		#build k-fold partitions by documents
+		testTuples = []
+		for i in test_index:
+			testTuples.append((examplesByDoc[i], yListsByDoc[i], i))
+
+		first = True
+		for i in train_index:
+
+			if first:
+				X_train = examplesByDoc[i]
+				y_train = yListsByDoc[i]
+				first = False
+			else:
+				X_train = sp.vstack((X_train, examplesByDoc[i]), format='csr')
+				y_train = np.concatenate((y_train, yListsByDoc[i]))
 
 		# Train Liblinear model with L1, L2 regularization
-		for penalty in ["l2", "l1"]:
+		for penalty in ["l2"]:
 		    print('=' * 80)
 		    print("%s regularization" % penalty.upper())
-		    classifier = LinearSVC(loss='l2', penalty=penalty, dual=False, C = 1000)
-		    results.append(benchmark(classifier, X_train, y_train, X_test, y_test))
+		    classifier = LinearSVC(loss='l2', penalty=penalty, dual=False, C = 1, class_weight='auto')
+		    results.append(benchmark(classifier, X_train, y_train, testTuples))
 
-		# get the separating hyperplane using weighted classes
-		classifier = svm.SVC(kernel='linear', class_weight={1: 10000})
-		results.append(benchmark(classifier, X_train, y_train, X_test, y_test))
 
 		# Train sparse Naive Bayes classifiers
 		print('=' * 80)
 		print("Naive Bayes")
 		classifier = MultinomialNB(alpha=.01)
-		results.append(benchmark(classifier, X_train, y_train, X_test, y_test))
+		results.append(benchmark(classifier, X_train, y_train, testTuples))
 		classifier = BernoulliNB(alpha=.01)
-		results.append(benchmark(classifier, X_train, y_train, X_test, y_test))
-
-		#Train using Nearest Centroid classifier (Rocchio Classifier)
-		classifier = NearestCentroid()
-		results.append(benchmark(classifier, X_train, y_train, X_test, y_test))
+		results.append(benchmark(classifier, X_train, y_train, testTuples))
 
 	print('='*80)
 	print 'Aggregate'
