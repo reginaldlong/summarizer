@@ -1,5 +1,5 @@
 import re
-from nltk.stem import PorterStemmer
+from nltk.stem.wordnet import WordNetLemmatizer
 # Given list of all sentences and catchphrases, return (x, y) pairs 
 
 
@@ -23,7 +23,7 @@ def removeStopWords(sentence):
 # from one file.
 def format(sentences, catchphrases):
     examples = []
-    stemmer = PorterStemmer()
+    lemmatizer = WordNetLemmatizer()
     #read stop words from file
     initStopWords()
 
@@ -37,12 +37,12 @@ def format(sentences, catchphrases):
             if sentence == None:
                 continue
             formattedSentenceList = removeStopWords(sentence)
-            formattedSentence = " ".join([stemmer.stem(kw) for kw in \
+            formattedSentence = " ".join([lemmatizer.lemmatize(kw) for kw in \
                     formattedSentenceList])
             associatedSentences.append(formattedSentence)
         for catchphrase in currentFileCatchphrases:
             formattedCatchphraseList = removeStopWords(catchphrase)
-            formattedCatchphrase = " ".join([stemmer.stem(kw) for kw \
+            formattedCatchphrase = " ".join([lemmatizer.lemmatize(kw) for kw \
                 in formattedCatchphraseList])
             associatedCatchphrases.append(formattedCatchphrase)
         examples.append((associatedSentences, associatedCatchphrases))
