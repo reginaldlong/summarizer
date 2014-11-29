@@ -3,9 +3,9 @@
 <name>Golden Hill Vineyard Pty Ltd v Bayer Australia Ltd [2006] FCA 112 (16 February 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/112.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">discovery</catchphrase>
-<catchphrase "id=c1">application of principles to categories</catchphrase>
-<catchphrase "id=c2">procedure</catchphrase>
+<catchphrase >discovery</catchphrase>
+<catchphrase >application of principles to categories</catchphrase>
+<catchphrase >procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -28,7 +28,7 @@
  '[2] ... the court will remember that O 15, r 3 evinces a policy of the rules that discovery should only be ordered to the extent that is necessary for the attainment of the ends of justice.</sentence>
 <sentence id="s10">This policy is also expressed in Practice Note No 14 .</sentence>
 <sentence id="s11">
- [3] The framework within which discovery may be ordered is fixed by the pleadings: Temmler v Knoll Laboratories (Australia) Pty Ltd (1969) 43 ALJR 363, per Windeyer J; Intalite International NV v Cellular Ceilings Ltd (No 1) [1987] RPC 532 at 535; Avery Ld v Ashworth, Son &amp; Co Ld (1915) 32 RPC 463 at 469-70, per Eve J.</sentence>
+ [3] The framework within which discovery may be ordered is fixed by the pleadings: Temmler v Knoll Laboratories (Australia) Pty Ltd (1969) 43 ALJR 363, per Windeyer J; Intalite International NV v Cellular Ceilings Ltd (No 1) [1987] RPC 532 at 535; Avery Ld v Ashworth, Son amp; Co Ld (1915) 32 RPC 463 at 469-70, per Eve J.</sentence>
 <sentence id="s12">They determine the issues, and from the issues may be identified the categories of documents the court should consider when deciding what orders to make in respect of discovery.</sentence>
 <sentence id="s13">' 
  
@@ -269,4 +269,5 @@ Dated: 16 February 2006
  
  </sentence>
 </sentences>
-</case>
+</case>></sentences>
+</case>>

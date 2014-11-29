@@ -3,10 +3,10 @@
 <name>IRG Technical Services Pty Ltd v Deputy Commissioner of Taxation [2007] FCA 1867 (5 December 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1867.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">income tax</catchphrase>
-<catchphrase "id=c1">alienation of personal services income</catchphrase>
-<catchphrase "id=c2">the results test</catchphrase>
-<catchphrase "id=c3">taxation</catchphrase>
+<catchphrase >income tax</catchphrase>
+<catchphrase >alienation of personal services income</catchphrase>
+<catchphrase >the results test</catchphrase>
+<catchphrase >taxation</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -280,7 +280,7 @@ unless the applicants had PSB determinations.</sentence>
 <sentence id="s79">Such inconvenience or improbability of result may assist the Court to reach an available alternative construction reasonably open and more clearly conforming with the legislative intent otherwise discovered.</sentence>
 <sentence id="s80">No initial textual or other ambiguity need be divined before context is examined.</sentence>
 <sentence id="s81">Fundamental to the task is the giving of close attention to the text and structure of the relevant provisions as the words used by Parliament.</sentence>
-<sentence id="s82">This approach, expressed substantially in these terms by the Full Court in Braverus Maritime Inc v Port Kembla Coal Terminal Ltd [2005] FCAFC 256 ; (2005) 148 FCR 68 at 81 [36] , was extracted from the decisions of the High Court such as K &amp; S Lake City Freighters Pty Limited v Gordon &amp; Gotch Ltd [1985] HCA 48 ; (1985) 157 CLR 309 at 312, 315 and 321; Bropho v Western Australia [1990] HCA 24 ; (1990) 171 CLR 1 at 20, citing, specifically, McHugh JA in Kingston v Keprose Pty Ltd (1987) 11 NSWLR 404 at 421-424; CIC Insurance Ltd v Bankstown Football Club Ltd [1997] HCA 2 ; (1997) 187 CLR 384 at 408; Project Blue Sky Inc v Australian Broadcasting Authority [1998] HCA 28 ; (1998) 194 CLR 355 at 381-382 [69] - [70] and 384 [78]; Eastman v Director of Public Prosecutions (ACT) [2003] HCA 28 ; (2003) 214 CLR 318 at 368 ftnt 99, agreed in by the whole Court: [1], [32]-[36]; Network Ten Pty Ltd v TCN Channel Nine Pty Limed [2004] HCA 14 ; (2004) 218 CLR 273 at 280-281 [10] - [12] ; and Stevens v Kabushiki Kaisha Sony Computers Entertainment (2005) 224 CLR 193 at 206-208 [30]-[34] and 230-231 [124]-[125].</sentence>
+<sentence id="s82">This approach, expressed substantially in these terms by the Full Court in Braverus Maritime Inc v Port Kembla Coal Terminal Ltd [2005] FCAFC 256 ; (2005) 148 FCR 68 at 81 [36] , was extracted from the decisions of the High Court such as K amp; S Lake City Freighters Pty Limited v Gordon amp; Gotch Ltd [1985] HCA 48 ; (1985) 157 CLR 309 at 312, 315 and 321; Bropho v Western Australia [1990] HCA 24 ; (1990) 171 CLR 1 at 20, citing, specifically, McHugh JA in Kingston v Keprose Pty Ltd (1987) 11 NSWLR 404 at 421-424; CIC Insurance Ltd v Bankstown Football Club Ltd [1997] HCA 2 ; (1997) 187 CLR 384 at 408; Project Blue Sky Inc v Australian Broadcasting Authority [1998] HCA 28 ; (1998) 194 CLR 355 at 381-382 [69] - [70] and 384 [78]; Eastman v Director of Public Prosecutions (ACT) [2003] HCA 28 ; (2003) 214 CLR 318 at 368 ftnt 99, agreed in by the whole Court: [1], [32]-[36]; Network Ten Pty Ltd v TCN Channel Nine Pty Limed [2004] HCA 14 ; (2004) 218 CLR 273 at 280-281 [10] - [12] ; and Stevens v Kabushiki Kaisha Sony Computers Entertainment (2005) 224 CLR 193 at 206-208 [30]-[34] and 230-231 [124]-[125].</sentence>
 <sentence id="s83">22 For the use of this approach in respect of respect of revenue statutes, see Jeffrey James Prebble Pty Limited v Commissioner of Taxation [2003] FCAFC 165 ; (2003) 131 FCR 130 at 137-144 [24] - [51] ]; HP Mercantile Pty Limited v Commissioner of Taxation [2005] FCAFC 126 ; (2005) 143 FCR 553 at 564-568 [44] - [63] ; and Cameron Brae Pty Limited v Commission of Taxation [2007] FCAFC 135 at [3] .</sentence>
 <sentence id="s84">23 The extent to which secondary material is to be considered in the ascertainment of context in "its widest sense": CIC Insurance 187 CLR at 408, may be seen to be affected by the Acts Interpretation Act 1901 (Cth), s 15AB(3): Stevens v Kabushiki Kaisha Sony Computers Entertainment 224 CLR at 230-231 [124]-[125].</sentence>
 <sentence id="s85">24 The issue of the alienation of income from personal exertion was addressed in chapter 7 of the Review of Business Tax: A Tax System Redesigned, July 1999 (the "Ralph Report").</sentence>
@@ -316,13 +316,13 @@ unless the applicants had PSB determinations.</sentence>
 <sentence id="s99">
  These criteria include: 
  
- &#8226; the manner in which the services are being carried out having regard to the level of control exercised by the service requirer in relation to matters such as the time of work and actual hours of work required and where the services are to be performed; 
- &#8226; whether the same services are also contracted to the public at large in the year of income; 
- &#8226; the use by the interposed entity of substantial income producing assets as the predominant source of earning income, with the provision of personal services being incidental; 
- &#8226; whether incidental services are provided in conjunction with the sale of trading stock; 
- &#8226; the extent of the infrastructure provided by the interposed entity; 
- &#8226; whether more than one person is contracted to, and actually provides the services to the service requirer; and 
- &#8226; the degree of any entrepreneurial risk in the way that services are provided.</sentence>
+ #8226; the manner in which the services are being carried out having regard to the level of control exercised by the service requirer in relation to matters such as the time of work and actual hours of work required and where the services are to be performed; 
+ #8226; whether the same services are also contracted to the public at large in the year of income; 
+ #8226; the use by the interposed entity of substantial income producing assets as the predominant source of earning income, with the provision of personal services being incidental; 
+ #8226; whether incidental services are provided in conjunction with the sale of trading stock; 
+ #8226; the extent of the infrastructure provided by the interposed entity; 
+ #8226; whether more than one person is contracted to, and actually provides the services to the service requirer; and 
+ #8226; the degree of any entrepreneurial risk in the way that services are provided.</sentence>
 <sentence id="s100">
  
  
@@ -363,8 +363,8 @@ unless the applicants had PSB determinations.</sentence>
  
  The measure will not: 
  
- &#8226; apply where an individual or interposed entity is conducting a personal services business; and 
- &#8226; affect the legal status of an interposed entity or deem an individual to be an employee for the purposes of an Australian law or instrument.</sentence>
+ #8226; apply where an individual or interposed entity is conducting a personal services business; and 
+ #8226; affect the legal status of an interposed entity or deem an individual to be an employee for the purposes of an Australian law or instrument.</sentence>
 <sentence id="s118">
  
  
@@ -374,8 +374,8 @@ unless the applicants had PSB determinations.</sentence>
  These improvements will be achieved by: 
  
  
- &#8226; limiting and clarifying the deductions available against personal services income at both the individual and interposed entity level; and 
- &#8226; ensuring that, after allowing deductions to the interposed entity, any income remaining is attributed to the individual.</sentence>
+ #8226; limiting and clarifying the deductions available against personal services income at both the individual and interposed entity level; and 
+ #8226; ensuring that, after allowing deductions to the interposed entity, any income remaining is attributed to the individual.</sentence>
 <sentence id="s120">Schedule 1 to the Taxation Administration Act 1953 is being amended to provide a collection mechanism for tax payable on any income so attributed.</sentence>
 <sentence id="s121">
  
@@ -466,9 +466,9 @@ unless the applicants had PSB determinations.</sentence>
 <sentence id="s149">The 3 conditions are: 
  
  
- &#8226; the individual's personal services income is for producing a result (whether or not it is received by a personal services entity); 
- &#8226; the individual or personal services entity is required to supply the plant and equipment, or tools of trade, needed to perform the work from which the individual or personal services identity produces the result; and 
- &#8226; the individual or personal services entity is, or would be, liable for the cost of rectifying any defect in the work performed.</sentence>
+ #8226; the individual's personal services income is for producing a result (whether or not it is received by a personal services entity); 
+ #8226; the individual or personal services entity is required to supply the plant and equipment, or tools of trade, needed to perform the work from which the individual or personal services identity produces the result; and 
+ #8226; the individual or personal services entity is, or would be, liable for the cost of rectifying any defect in the work performed.</sentence>
 <sentence id="s150">
  
  
@@ -574,10 +574,10 @@ unless the applicants had PSB determinations.</sentence>
 <sentence id="s228">Apparently, the LNG 4 plant project needed a lead instrument engineer.</sentence>
 <sentence id="s229">Mr Green met with Mr Blake and they discussed work associated with the role of a lead instrument engineer for part of the development called the Trunkline Onshore Terminal ("TOT").</sentence>
 <sentence id="s230">57 There was much emphasis in the case about the so-called "deliverables" in the project, being the results for which the income was said to be received.</sentence>
-<sentence id="s231">By the time this meeting took place, there had been completed for the TOT a basis of design ("BOD"), a front end engineering design ("FEED") and documents called process and instrument diagrams ("P&amp;IDs").</sentence>
+<sentence id="s231">By the time this meeting took place, there had been completed for the TOT a basis of design ("BOD"), a front end engineering design ("FEED") and documents called process and instrument diagrams ("Pamp;IDs").</sentence>
 <sentence id="s232">These are documents which display an increasing level of design detail.</sentence>
-<sentence id="s233">From the P&amp;IDs, engineers from the various disciplines developed detailed designs, wrote specifications, oversaw purchasing and prepared as-built drawings.</sentence>
-<sentence id="s234">58 At the meeting with Mr Blake, the job was explained to Mr Green by showing him the P&amp;IDs of the project and, in particular, the TOT.</sentence>
+<sentence id="s233">From the Pamp;IDs, engineers from the various disciplines developed detailed designs, wrote specifications, oversaw purchasing and prepared as-built drawings.</sentence>
+<sentence id="s234">58 At the meeting with Mr Blake, the job was explained to Mr Green by showing him the Pamp;IDs of the project and, in particular, the TOT.</sentence>
 <sentence id="s235">Mr Blake said " This is what we are looking for you to do".</sentence>
 <sentence id="s236">When Mr Green asked the extent of the work for him, Mr Blake said " The Trunkline On-shore Terminal, when can you start, we need someone urgently.</sentence>
 <sentence id="s237">" In this conversation, Mr Blake told Mr Green that his role would be to determine the number and sorts of deliverables required by engineers working on the TOT and that management and quality assurance and control would be part of his role.</sentence>
@@ -607,16 +607,16 @@ Documentation, including certificates of insurance for workers compensation and 
  Please note the following: 
  
  
- &#8226; Payments will be made to you on a fortnightly basis via direct funds transfer.</sentence>
+ #8226; Payments will be made to you on a fortnightly basis via direct funds transfer.</sentence>
 <sentence id="s251">
- &#8226; Your first pay period finishes on Friday, 17 August 2001.</sentence>
+ #8226; Your first pay period finishes on Friday, 17 August 2001.</sentence>
 <sentence id="s252">
- &#8226; We ask that you provide a Tax Invoice to HR CONNECT PTY LTD by the following Monday (of each pay period).</sentence>
+ #8226; We ask that you provide a Tax Invoice to HR CONNECT PTY LTD by the following Monday (of each pay period).</sentence>
 <sentence id="s253">To assist you with this process I have enclosed a sample invoice and a summary of invoice due dates.</sentence>
 <sentence id="s254">
- &#8226; Your first invoice will be due on Monday, 20 August 2001.</sentence>
+ #8226; Your first invoice will be due on Monday, 20 August 2001.</sentence>
 <sentence id="s255">
- &#8226; We also require an approved weekly timesheet.</sentence>
+ #8226; We also require an approved weekly timesheet.</sentence>
 <sentence id="s256">Could you please fax or email these to our office each Friday or no later than noon the following Monday.</sentence>
 <sentence id="s257">
  
@@ -866,7 +866,7 @@ Item 7 entitled "Plant and Equipment and Tools" was also standard.</sentence>
  
 
 82 Dare would then use its resources and contacts to identify possible personnel.</sentence>
-<sentence id="s345">Possibly suitable individuals would be asked to send their r&eacute;sum&eacute;s to the KJV.</sentence>
+<sentence id="s345">Possibly suitable individuals would be asked to send their reacute;sumeacute;s to the KJV.</sentence>
 <sentence id="s346">A request for interview by the KJV would be made through Dare.</sentence>
 <sentence id="s347">The KJV would then conduct the interview and inform Dare of acceptance.</sentence>
 <sentence id="s348">A service or purchase order would then be issued.</sentence>
@@ -901,7 +901,7 @@ This opaque definitional mechanism can be perhaps translated as an obligation on
 <sentence id="s360">Mr Green's work was performed for, and overseen by, the KJV.</sentence>
 <sentence id="s361">89 The detail of the work undertaken by Mr Green was uncontroversial.</sentence>
 <sentence id="s362">Mr Green described, first of all, what he did as an instrument engineer: designing control systems which incorporate control values and shut down valves for oil and gas engineering projects.</sentence>
-<sentence id="s363">The description by Mr Green of the work of an instrument engineer, which I accept, was as follows: the consideration of P&amp;IDs to determine what instruments were required; in respect of valves, the calculation of specifications for control and shut down valves; the incorporation of specifications and designs into a tender document that could be released for tender by a company in the position of the KJV; the evaluation of tenders received from vendors who would provide the valves and like machinery pursuant to the tenders; this process of consideration required an engineer in Mr Green's position to consider the price and QA/QC procedures that the vendors had in place, their management structure and their manufacturing schedule; and the making of a recommendation to the client based on the tender evaluation conducted by someone in Mr Green's position.</sentence>
+<sentence id="s363">The description by Mr Green of the work of an instrument engineer, which I accept, was as follows: the consideration of Pamp;IDs to determine what instruments were required; in respect of valves, the calculation of specifications for control and shut down valves; the incorporation of specifications and designs into a tender document that could be released for tender by a company in the position of the KJV; the evaluation of tenders received from vendors who would provide the valves and like machinery pursuant to the tenders; this process of consideration required an engineer in Mr Green's position to consider the price and QA/QC procedures that the vendors had in place, their management structure and their manufacturing schedule; and the making of a recommendation to the client based on the tender evaluation conducted by someone in Mr Green's position.</sentence>
 <sentence id="s364">90 In various places in his evidence, Mr Green described his work on the TOT.</sentence>
 <sentence id="s365">He was responsible for managing the instrument design on the TOT.</sentence>
 <sentence id="s366">He was involved in the whole design process, the QA/QC procedures and ultimately was responsible for the delivery of the instrument design for the TOT by the required date.</sentence>
@@ -913,26 +913,26 @@ This opaque definitional mechanism can be perhaps translated as an obligation on
 <sentence id="s372">It can be accepted that it is a legitimate use of the English language to describe these as the production of "deliverables".</sentence>
 <sentence id="s373">However, in reality, what Mr Green was doing was working as a skilled engineer for the KJV in the KJV's professional business on a particular project in careful consultation with his peers and with his supervisors to create all necessary documents for the satisfactory design and construction of a complex engineering plant.</sentence>
 <sentence id="s374">91 The first piece of work that he was asked to complete was an estimate for costing for the TOT, which was part of the BOD. His estimates were provided to the estimator on the LNG 4 project, who was responsible for producing overall estimates.</sentence>
-<sentence id="s375">92 Mr Green then prepared a list of deliverables based on the P&amp;ID document.</sentence>
+<sentence id="s375">92 Mr Green then prepared a list of deliverables based on the Pamp;ID document.</sentence>
 <sentence id="s376">Deliverables were described by Mr Green as a term used in the oil and gas industry to refer to the outputs in a physical form for certain stages of the project.</sentence>
 <sentence id="s377">This can be accepted, and I do.</sentence>
 <sentence id="s378">It is a word helpful to describe the results of work done as an engineer in this kind of project.</sentence>
 <sentence id="s379">93 Mr Green produced a manpower curve used to hire people and related to the instrumentation for the TOT.</sentence>
 <sentence id="s380">94 Mr Green stated that he carried out other work on the project, describing that other work as comprising deliverables as follows:
  
-&#8226; reports for management on the progress of the instrumentation of the TOT, required for weekly minuted meetings which he attended
+#8226; reports for management on the progress of the instrumentation of the TOT, required for weekly minuted meetings which he attended
  
-&#8226; deviations being changes to the scope of the project
+#8226; deviations being changes to the scope of the project
  
-&#8226; data sheets describing equipment
+#8226; data sheets describing equipment
  
-&#8226; specifications for valves and instruments
+#8226; specifications for valves and instruments
  
-&#8226; schedule updates and design changes
+#8226; schedule updates and design changes
  
-&#8226; wiring diagrams and layout drawings
+#8226; wiring diagrams and layout drawings
  
-&#8226; a cause and effects matrix
+#8226; a cause and effects matrix
  
 95 Mr Green stated that cross-disciplinary communication with other engineers was vital to his work.</sentence>
 <sentence id="s381">He was in constant consultation with other engineers.</sentence>
@@ -1111,8 +1111,8 @@ Under that, in his handwriting describing the "deliverables", was the following:
  Deliverables: Requisition specifications 
  Evaluation/recommendation reports 
  Instrument flowmeter datasheets 
- Flowmeter selection &amp; calculations 
- Technical clarifications &amp; reports 
+ Flowmeter selection amp; calculations 
+ Technical clarifications amp; reports 
  
 
 Both these descriptions, in terms, found their way into item 9 of the schedule under the heading "Assignment".</sentence>
@@ -1263,5 +1263,11 @@ Dated: 5 December 2007
  URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/1867.html 
  
  </sentence>
+</sentences>
+</case> 
+ 
+ </sentence>
+</sentences>
+</case>ntence>
 </sentences>
 </case>

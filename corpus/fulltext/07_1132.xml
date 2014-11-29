@@ -3,12 +3,12 @@
 <name>Comcare v Administrative Appeals Tribunal [2007] FCA 1132 (24 July 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1132.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">judicial review</catchphrase>
-<catchphrase "id=c1">grounds of review</catchphrase>
-<catchphrase "id=c2">whether administrative appeals tribunal had jurisdiction to consider reformulated claim as to employment injury</catchphrase>
-<catchphrase "id=c3">whether claim for psychosomatic injury could be investigated following initial claim for organic injury</catchphrase>
-<catchphrase "id=c4">no practical advantage to applicant from relief sought</catchphrase>
-<catchphrase "id=c5">administrative law</catchphrase>
+<catchphrase >judicial review</catchphrase>
+<catchphrase >grounds of review</catchphrase>
+<catchphrase >whether administrative appeals tribunal had jurisdiction to consider reformulated claim as to employment injury</catchphrase>
+<catchphrase >whether claim for psychosomatic injury could be investigated following initial claim for organic injury</catchphrase>
+<catchphrase >no practical advantage to applicant from relief sought</catchphrase>
+<catchphrase >administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -29,7 +29,7 @@
  
 3 It seems that before October 2004, Dr Kose had made a claim for anxiety disorder, which Comcare had accepted and, at all relevant times, it was paying her weekly payments for incapacity for work.</sentence>
 <sentence id="s8">4 At the time she made the claim referring to "ganglion", Dr Kose's medical advice was that she had a ganglion on the right wrist, that it should be excised, surgically, and that it was related to her work, which included a deal of typing on a computer.</sentence>
-<sentence id="s9">Comcare initially accepted her claim, but suffered itself to be asked to undertake a review of its decision by the employer authority, which Comcare treated as being an "affected" Commonwealth authority within the meaning of s 62(2) of the Safety Rehabilitation &amp; Compensation Act 1988 (Cth).</sentence>
+<sentence id="s9">Comcare initially accepted her claim, but suffered itself to be asked to undertake a review of its decision by the employer authority, which Comcare treated as being an "affected" Commonwealth authority within the meaning of s 62(2) of the Safety Rehabilitation amp; Compensation Act 1988 (Cth).</sentence>
 <sentence id="s10">It has not been argued before me that ACT Health was not relevantly so affected.</sentence>
 <sentence id="s11">Comcare accordingly, at the request of ACT Health, arranged one of its reviewing officers to review the decision to compensate Dr Kose in respect of the ganglion on right wrist claim.</sentence>
 <sentence id="s12">5 Comcare made available to Dr Kose an argumentative letter from ACT Health, in response to which she put in certain material.</sentence>
@@ -157,7 +157,7 @@ By "the accepted mental illness" counsel was referring to anxiety disorder.</sen
 Dated: 1 August 2007
 
 
- Counsel for the Applicant: Mr B Dub&eacute; 
+ Counsel for the Applicant: Mr B Dubeacute; 
  
  Solicitor for the Applicant: DLA Phillips Fox 
  
@@ -180,4 +180,8 @@ Dated: 1 August 2007
  
  </sentence>
 </sentences>
-</case>
+</case>e>tml 
+ 
+ </sentence>
+</sentences>
+</case>e>

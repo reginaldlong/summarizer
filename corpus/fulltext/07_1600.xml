@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <case>
-<name>Australian Securities &amp; Investments Commission, in the matter of GDK Financial Solutions Pty Ltd (in liq) v GDK Financial Solutions Pty Ltd (in liq) [2007] FCA 1600 (19 October 2007)</name>
+<name>Australian Securities amp; Investments Commission, in the matter of GDK Financial Solutions Pty Ltd (in liq) v GDK Financial Solutions Pty Ltd (in liq) [2007] FCA 1600 (19 October 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1600.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">unregistered managed investment scheme</catchphrase>
-<catchphrase "id=c1">promoter</catchphrase>
-<catchphrase "id=c2">winding up</catchphrase>
-<catchphrase "id=c3">just and equitable</catchphrase>
-<catchphrase "id=c4">corporations</catchphrase>
+<catchphrase >unregistered managed investment scheme</catchphrase>
+<catchphrase >promoter</catchphrase>
+<catchphrase >winding up</catchphrase>
+<catchphrase >just and equitable</catchphrase>
+<catchphrase >corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -18,7 +18,7 @@
 <sentence id="s3">So also were several companies involved in the scheme, including The Mews Village Nominees Pty Ltd (The Mews Village Nominees) (which had purchased the Mews land as nominee for those who had invested in the scheme) and GDK Financial Solutions Pty Ltd (GDK) (which had acted as manager for a series of partnerships in which the investors had organised themselves).</sentence>
 <sentence id="s4">ASIC now seeks an order that Western Retirement Village Management Pty Ltd (WRVM), another company involved in the scheme, also be wound up.</sentence>
 <sentence id="s5">2 The starting point is to explain WRVM's role in the scheme.</sentence>
-<sentence id="s6">The general background is set out in my judgment in Australian Securities &amp; Investments Commission v GDK Financial Solutions Pty Ltd (2006) 60 ACSR 447.</sentence>
+<sentence id="s6">The general background is set out in my judgment in Australian Securities amp; Investments Commission v GDK Financial Solutions Pty Ltd (2006) 60 ACSR 447.</sentence>
 <sentence id="s7">The individuals who played a key role in setting up the scheme were Mr Brereton, a solicitor, and Mr McLeod who, through GDK, had established several retirement villages.</sentence>
 <sentence id="s8">Mr Brereton and Mr McLeod decided to set up a retirement village in Western Australia.</sentence>
 <sentence id="s9">They found the Mews land.</sentence>
@@ -119,15 +119,15 @@ Dated: 19 October 2007
  Counsel for the Plaintiff: Ms F McLeod SC
 Mr A Pound 
  
- Solicitor for the Plaintiff: Australian Securities &amp; Investments
+ Solicitor for the Plaintiff: Australian Securities amp; Investments
 Commission 
  
  Counsel for the 3 rd Defendant: Mr N Moshinsky QC
 Ms L Kinda 
  
- Solicitor for the 3 rd Defendant: Michael Brereton &amp; Co 
+ Solicitor for the 3 rd Defendant: Michael Brereton amp; Co 
  
- Date of Hearing: 25, 26 &amp; 27 September 2007 
+ Date of Hearing: 25, 26 amp; 27 September 2007 
  
  Date of Judgment: 19 October 2007 SCHEDULE OF PARTIES 
 
@@ -201,4 +201,6 @@ Ms L Kinda
  
  </sentence>
 </sentences>
-</case>
+</case>case>sentence>
+</sentences>
+</case>case>

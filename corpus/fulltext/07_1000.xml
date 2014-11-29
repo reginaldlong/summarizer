@@ -3,15 +3,15 @@
 <name>Elbe Shipping SA v Giant Marine Shipping SA(Corrigendum dated 7 August 2007) [2007] FCA 1000 (5 July 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1000.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">judicial power</catchphrase>
-<catchphrase "id=c1">whether legislation infringes or usurps judicial power of commonwealth</catchphrase>
-<catchphrase "id=c2">whether legislation invalid</catchphrase>
-<catchphrase "id=c3">motion to set aside subpoena to produce documents</catchphrase>
-<catchphrase "id=c4">production of documents to court prohibited under s 60 of transport safety investigation act 2003 (cth)</catchphrase>
-<catchphrase "id=c5">whether the power of the court to order the production of documents by subpoena is properly characterised as practice and procedure</catchphrase>
-<catchphrase "id=c6">subpoena set aside</catchphrase>
-<catchphrase "id=c7">constitutional law</catchphrase>
-<catchphrase "id=c8">procedure</catchphrase>
+<catchphrase >judicial power</catchphrase>
+<catchphrase >whether legislation infringes or usurps judicial power of commonwealth</catchphrase>
+<catchphrase >whether legislation invalid</catchphrase>
+<catchphrase >motion to set aside subpoena to produce documents</catchphrase>
+<catchphrase >production of documents to court prohibited under s 60 of transport safety investigation act 2003 (cth)</catchphrase>
+<catchphrase >whether the power of the court to order the production of documents by subpoena is properly characterised as practice and procedure</catchphrase>
+<catchphrase >subpoena set aside</catchphrase>
+<catchphrase >constitutional law</catchphrase>
+<catchphrase >procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -131,11 +131,11 @@
  
 5 On 2 November 2006 a Deputy Director of the Bureau notified the Registrar that:
  
- &#8226; it held documents which were responsive to the subpoena;
- &#8226; such documents were 'restricted information' as defined in s 3 of the Act; 
- &#8226; such documents were held by 'staff members' as there defined; 
- &#8226; the Executive Director had not issued a certificate pursuant to s 60(5) of the Act; and
- &#8226; in those circumstances the documents could not be disclosed by staff members to the Court.</sentence>
+ #8226; it held documents which were responsive to the subpoena;
+ #8226; such documents were 'restricted information' as defined in s 3 of the Act; 
+ #8226; such documents were held by 'staff members' as there defined; 
+ #8226; the Executive Director had not issued a certificate pursuant to s 60(5) of the Act; and
+ #8226; in those circumstances the documents could not be disclosed by staff members to the Court.</sentence>
 <sentence id="s40">
 
 6 As I have said the Proper Officer has applied to set aside the subpoena.</sentence>
@@ -860,11 +860,11 @@ Note: Settlement and entry of orders is dealt with in Order 36 of the Federal Co
  
 3 On 2 November 2006 a Deputy Director of the Bureau notified the Registrar that:
  
- &#8226; it held documents which were responsive to the subpoena;
- &#8226; such documents were 'restricted information' as defined in s 3 of the Act; 
- &#8226; such documents were held by 'staff members' as there defined; 
- &#8226; the Executive Director had not issued a certificate pursuant to s 60(5) of the Act; and
- &#8226; in those circumstances the documents could not be disclosed by staff members to the Court.</sentence>
+ #8226; it held documents which were responsive to the subpoena;
+ #8226; such documents were 'restricted information' as defined in s 3 of the Act; 
+ #8226; such documents were held by 'staff members' as there defined; 
+ #8226; the Executive Director had not issued a certificate pursuant to s 60(5) of the Act; and
+ #8226; in those circumstances the documents could not be disclosed by staff members to the Court.</sentence>
 <sentence id="s284">
 
 3 As I have said the Proper Officer has applied to set aside the subpoena.</sentence>
@@ -1347,4 +1347,10 @@ Ms Mitchelmore
  
  </sentence>
 </sentences>
+</case>s>
+</case>A/2007/1000.html 
+ 
+ </sentence>
+</sentences>
+</case>s>
 </case>

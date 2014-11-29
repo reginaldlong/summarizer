@@ -3,11 +3,11 @@
 <name>Jovicic v Minister for Immigration and Multicultural Affairs [2006] FCA 1758 (15 December 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1758.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">cancellation of visa on character grounds</catchphrase>
-<catchphrase "id=c1">s 501(2) of the migration act 1958 (cth)</catchphrase>
-<catchphrase "id=c2">where direction made under s 499 of migration act 1958 (cth) referred to international instruments</catchphrase>
-<catchphrase "id=c3">whether applicant had made claims requiring assessment in relation to international obligations under the international covenant on civil and political rights or the convention relating to the status of stateless persons</catchphrase>
-<catchphrase "id=c4">migration</catchphrase>
+<catchphrase >cancellation of visa on character grounds</catchphrase>
+<catchphrase >s 501(2) of the migration act 1958 (cth)</catchphrase>
+<catchphrase >where direction made under s 499 of migration act 1958 (cth) referred to international instruments</catchphrase>
+<catchphrase >whether applicant had made claims requiring assessment in relation to international obligations under the international covenant on civil and political rights or the convention relating to the status of stateless persons</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -87,7 +87,7 @@ and at [67], and [69]-[70]:
 <sentence id="s52">Because the Minister proceeded on this error, his approach was not obviously open on the known material and the applicant could not reasonably have been expected to be aware of it.</sentence>
 <sentence id="s53">13 The applicant submitted that the intention to proceed on the basis that no claims had been made out which might be affected by the implicit non-refoulement obligation was inconsistent with the legitimate expectation that the Minister would act in conformity with the ICCPR.</sentence>
 <sentence id="s54">There was an expectation that if the Minister proposed to act in a manner which was not consistent with Australia's obligations under the ICCPR, that he would be afforded procedural fairness in relation to this intention and given the opportunity to argue against that course.</sentence>
-<sentence id="s55">Reference was made to Minogue v Human Rights &amp; Equal Opportunity Commission [1999] FCA 85 ; (1999) 84 FCR 438 at [37] .</sentence>
+<sentence id="s55">Reference was made to Minogue v Human Rights amp; Equal Opportunity Commission [1999] FCA 85 ; (1999) 84 FCR 438 at [37] .</sentence>
 <sentence id="s56">14 The Minister submitted that the applicant had not in fact made claims that required assessment in relation to international obligations.</sentence>
 <sentence id="s57">The Minister submitted that the applicant's claims did not show or reasonably show that he would suffer subjection to torture or cruel, inhuman or degrading treatment or punishment by someone in Serbia.</sentence>
 <sentence id="s58">15 Article 7 of the ICCPR provides:
@@ -198,4 +198,7 @@ Dated: 15 December 2006
  
  </sentence>
 </sentences>
-</case>
+</case>>
+ </sentence>
+</sentences>
+</case>>

@@ -3,20 +3,20 @@
 <name>Meadow Springs Fairway Resort Ltd (In Liq) (ACN 084 358 592) v Balanced Securities Ltd (ACN 083 514 685) [2007] FCA 1443 (13 September 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1443.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">insolvency</catchphrase>
-<catchphrase "id=c1">voluntary winding up</catchphrase>
-<catchphrase "id=c2">dispute between creditors about entitlement to proceeds of settlement of litigation</catchphrase>
-<catchphrase "id=c3">liquidator's application for questions to be determined</catchphrase>
-<catchphrase "id=c4">parties affected by questions</catchphrase>
-<catchphrase "id=c5">competing claims and priorities to funds</catchphrase>
-<catchphrase "id=c6">need for expedition in determination of application</catchphrase>
-<catchphrase "id=c7">need for resolution of disputes between parties</catchphrase>
-<catchphrase "id=c8">whether substantive relief can be claimed in liquidator's application</catchphrase>
-<catchphrase "id=c9">whether appropriate</catchphrase>
-<catchphrase "id=c10">desirability of procedural flexibility</catchphrase>
-<catchphrase "id=c11">directions for filing of cross-claims in liquidator's application naming liquidator and other relevant parties as defendants</catchphrase>
-<catchphrase "id=c12">trial to be on agreed documents and facts so far as possible and limited oral evidence</catchphrase>
-<catchphrase "id=c13">corporations</catchphrase>
+<catchphrase >insolvency</catchphrase>
+<catchphrase >voluntary winding up</catchphrase>
+<catchphrase >dispute between creditors about entitlement to proceeds of settlement of litigation</catchphrase>
+<catchphrase >liquidator's application for questions to be determined</catchphrase>
+<catchphrase >parties affected by questions</catchphrase>
+<catchphrase >competing claims and priorities to funds</catchphrase>
+<catchphrase >need for expedition in determination of application</catchphrase>
+<catchphrase >need for resolution of disputes between parties</catchphrase>
+<catchphrase >whether substantive relief can be claimed in liquidator's application</catchphrase>
+<catchphrase >whether appropriate</catchphrase>
+<catchphrase >desirability of procedural flexibility</catchphrase>
+<catchphrase >directions for filing of cross-claims in liquidator's application naming liquidator and other relevant parties as defendants</catchphrase>
+<catchphrase >trial to be on agreed documents and facts so far as possible and limited oral evidence</catchphrase>
+<catchphrase >corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -33,7 +33,7 @@
 2 The nature of the questions raised by the liquidator are best explained by reference to the proposed statement of claim.</sentence>
 <sentence id="s6">The plaintiff is Meadow Springs.</sentence>
 <sentence id="s7">It names as defendants companies with an interest in the questions posed.</sentence>
-<sentence id="s8">The first defendant (Balanced Securities Ltd) was formerly known as HG &amp; R Finance Ltd (HG &amp; R).</sentence>
+<sentence id="s8">The first defendant (Balanced Securities Ltd) was formerly known as HG amp; R Finance Ltd (HG amp; R).</sentence>
 <sentence id="s9">Three companies in liquidation are named as the second defendant.</sentence>
 <sentence id="s10">They are Westralian Capital Holdings Pty Ltd (In Liq) (WCH), Knightsbridge Managed Funds Limited (In Liq) (KMF) and Knightsbridge Finance Pty Ltd (KFP) (collectively referred to in the proposed statement of claim as "the Knightsbridge Parties").</sentence>
 <sentence id="s11">The third defendants are Hurly Investments Pty Ltd (Hurly Investments) and Timothy Joseph Casey (Casey).</sentence>
@@ -49,7 +49,7 @@
 <sentence id="s21">5 Hurly Investments and Casey agreed to advance $1,000,000 under a loan agreement dated 24 September 1999.</sentence>
 <sentence id="s22">That was secured by a second registered mortgage over the property in their favour and a fixed and floating charge over the assets and undertakings of Meadow Springs.</sentence>
 <sentence id="s23">The priorities as between WCH, Hurly Investments and Casey were regulated by a deed of priority dated 24 September 1999 (the First Deed of Priority).</sentence>
-<sentence id="s24">It is said that both the equity and debt funding were obtained following and by reason of valuations of the proposed development by Colliers International Consultancy &amp; Valuation Pty Ltd (Colliers).</sentence>
+<sentence id="s24">It is said that both the equity and debt funding were obtained following and by reason of valuations of the proposed development by Colliers International Consultancy amp; Valuation Pty Ltd (Colliers).</sentence>
 <sentence id="s25">Construction of the development began in or about August 1999.</sentence>
 <sentence id="s26">Meadow Springs expended all of the equity and debt funding acquiring the property and constructing the proposed development.</sentence>
 <sentence id="s27">6 Hurly Investments and Casey advanced their $1,000,000 to Meadow Springs on 1 October 1999.</sentence>
@@ -75,7 +75,7 @@
 <sentence id="s47">A Second Declaration of Trust was made on 15 August 2000 for the benefit of the investors in the KFM Scheme.</sentence>
 <sentence id="s48">On 24 August 2000, Penlas transferred its interest in the WCH mortgage to KMF.</sentence>
 <sentence id="s49">On 4 September 2000 a Third Declaration of Trust was made on behalf of KFM Scheme investors.</sentence>
-<sentence id="s50">11 The statement of claim then turns to advances by HG &amp; R, now known as Balanced Securities.</sentence>
+<sentence id="s50">11 The statement of claim then turns to advances by HG amp; R, now known as Balanced Securities.</sentence>
 <sentence id="s51">It will be referred to as Balanced Securities hereafter.</sentence>
 <sentence id="s52">On or about 24 May 2000 Balanced Securities agreed to advance to Meadow Securities $3,000,000 of the $6,350,000 previously agreed to be advanced to Meadow Springs under the WCH loan agreement.</sentence>
 <sentence id="s53">KMF agreed to advance a further $125,000.</sentence>
@@ -179,7 +179,7 @@
  
  62.2 further or alternatively, whether IMF's Fees and its share of the Resolution Sum are costs of the liquidation totalling $2,314,750 ("IMF's alleged entitlement") and as such are to be paid by McMaster to IMF out of the Claim Proceeds in priority to all of the other Interested Parties; 
  
- 62.3 further or alternatively, whether IMF funded McMaster or continued to fund McMaster with the implied and/or inferred agreement of HG &amp; R and the Knightsbridge Parties, and the express or implied and/or inferred agreement of Hurly Investments and Casey, that IMF's alleged entitlement would not be subject to either the WCH charge, the HG &amp; R charge or the Hurly Investments and Casey charge and is to be paid by McMaster to IMF out of the Claim Proceeds in priority to all of the other Interested Parties; and 
+ 62.3 further or alternatively, whether IMF funded McMaster or continued to fund McMaster with the implied and/or inferred agreement of HG amp; R and the Knightsbridge Parties, and the express or implied and/or inferred agreement of Hurly Investments and Casey, that IMF's alleged entitlement would not be subject to either the WCH charge, the HG amp; R charge or the Hurly Investments and Casey charge and is to be paid by McMaster to IMF out of the Claim Proceeds in priority to all of the other Interested Parties; and 
  
  62.4 further or alternatively, whether IMF's alleged entitlement is to be paid by McMaster to IMF in priority to Hurly Investments and Casey only.</sentence>
 <sentence id="s137">
@@ -187,27 +187,27 @@
 
 
 
- Questions relating to Balanced Securities (referred to in the body of the statement of claim as HG &amp; R): 
+ Questions relating to Balanced Securities (referred to in the body of the statement of claim as HG amp; R): 
  
-33 The questions asked in respect of Balanced Securities (referring to it as HG &amp; R) are as follows: 
- 
- 
- 66.1 whether s 26 of the Stamp Act 1921 (WA) has been contravened by having the HG &amp; R transaction documents stamped collateral to the WCH loan agreement, and if so: 
- 
- 66.1.1 whether HG &amp; R was a party to that contravention; and 
+33 The questions asked in respect of Balanced Securities (referring to it as HG amp; R) are as follows: 
  
  
+ 66.1 whether s 26 of the Stamp Act 1921 (WA) has been contravened by having the HG amp; R transaction documents stamped collateral to the WCH loan agreement, and if so: 
  
- 
- 66.1.2 whether the HG &amp; R facility agreement is contrary to public policy and void because entered into to achieve an illegal purpose; 
+ 66.1.1 whether HG amp; R was a party to that contravention; and 
  
  
  
  
+ 66.1.2 whether the HG amp; R facility agreement is contrary to public policy and void because entered into to achieve an illegal purpose; 
  
- 66.2 whether HG &amp; R has a priority over or is subordinated to IMF for all or any of the amount owing by Meadow Springs to HG &amp; R by reason of the matters referred to in paragraph 62; 
  
- 66.3 in relation to the amount (if any) owing by Meadow Springs to HG &amp; R: 
+ 
+ 
+ 
+ 66.2 whether HG amp; R has a priority over or is subordinated to IMF for all or any of the amount owing by Meadow Springs to HG amp; R by reason of the matters referred to in paragraph 62; 
+ 
+ 66.3 in relation to the amount (if any) owing by Meadow Springs to HG amp; R: 
  
  
  
@@ -215,22 +215,22 @@
  
  ....
  
- 66.3.5 if applicable, whether the Late Payment Penalty is owing under the HG &amp; R facility agreement; 
- 66.3.6 whether all or any of HG &amp; R's legal costs are amounts owing under the WCH loan agreement and/or the HG &amp; R facility agreement; 
- 66.3.7 the amount, if any, owing by Meadow Springs to HG &amp; R; 
+ 66.3.5 if applicable, whether the Late Payment Penalty is owing under the HG amp; R facility agreement; 
+ 66.3.6 whether all or any of HG amp; R's legal costs are amounts owing under the WCH loan agreement and/or the HG amp; R facility agreement; 
+ 66.3.7 the amount, if any, owing by Meadow Springs to HG amp; R; 
  
  
  
  
  
- 66.4 whether all or any of the amount, if any, owing by Meadow Springs to HG &amp; R under the WCH loan agreement and/or the HG &amp; R facility agreement is secured by the HG &amp; R charge and whether all or any of that amount is unsecured; 
+ 66.4 whether all or any of the amount, if any, owing by Meadow Springs to HG amp; R under the WCH loan agreement and/or the HG amp; R facility agreement is secured by the HG amp; R charge and whether all or any of that amount is unsecured; 
  
  
 
 There are particulars under the question in 66.4 which it is not necessary to reproduce here.</sentence>
 <sentence id="s138">
  
- 66.5 whether HG &amp; R is required to share any amount it receives from Meadow Springs with the Knightsbridge Parties and/or the KFM Scheme Investors pursuant to the Second Deed of Priority or vice versa; 
+ 66.5 whether HG amp; R is required to share any amount it receives from Meadow Springs with the Knightsbridge Parties and/or the KFM Scheme Investors pursuant to the Second Deed of Priority or vice versa; 
  
  
  
@@ -275,7 +275,7 @@ There are particulars under the question in 66.5 which it is not necessary to re
  
  
  
- 68.6 whether the Knightsbridge Parties and/or the KFM Scheme Investors are required to share any amount they receive from Meadow Springs with HG &amp; R pursuant to the Second Deed of Priority.</sentence>
+ 68.6 whether the Knightsbridge Parties and/or the KFM Scheme Investors are required to share any amount they receive from Meadow Springs with HG amp; R pursuant to the Second Deed of Priority.</sentence>
 <sentence id="s140">Particulars
  
  
@@ -374,7 +374,7 @@ The reasons advanced in those and other cases for the conferral of express power
 <sentence id="s169">
 
 47 The facilities provided by ss 479(3) and 511 have a long ancestry.</sentence>
-<sentence id="s170">Section 479(3) of the former Corporations Law was considered by McLelland J in Re GB Nathan &amp; Co Pty Ltd (In liq) (1991) 24 NSWLR 674.</sentence>
+<sentence id="s170">Section 479(3) of the former Corporations Law was considered by McLelland J in Re GB Nathan amp; Co Pty Ltd (In liq) (1991) 24 NSWLR 674.</sentence>
 <sentence id="s171">He traced its origins back to the Joint Stock Companies Winding Up Act 1848 (UK) which allowed an official manager to apply for directions from the Master from time to time.</sentence>
 <sentence id="s172">A similar facility has long existed for trustees, administrators and executors.</sentence>
 <sentence id="s173">As McLelland J said (at 677):
@@ -385,14 +385,14 @@ The reasons advanced in those and other cases for the conferral of express power
 
 48 A direction given or a question determined under s 479(3) or s 511, as the case may be, will protect the liquidator who acts in accordance with the direction or determination.</sentence>
 <sentence id="s176">In relation to a determination under s 511 it may be an open question whether it establishes a res judicata between the liquidator and any parties affected by it who are named as defendants in the application but neither direction nor determination gives rise to a res judicata as between parties who may have competing interests affected by it: Equity Funds of Australia (In Liq) (1977-78) CLC 40-303 at 29,253-29,254 (Bowen CJ (in Eq)).</sentence>
-<sentence id="s177">McLelland J said in GB Nathan &amp; Co 24 NSWLR 674 (at 677): 
+<sentence id="s177">McLelland J said in GB Nathan amp; Co 24 NSWLR 674 (at 677): 
  
  The protection of the official administrator, acting under a direction of the court, from personal liability would not however affect the rights of creditors and beneficiaries as between themselves.</sentence>
 <sentence id="s178">
 
 So far as s 479(3) is concerned, McLelland J was of the view that it does not enable the court to make binding orders in the nature of judgments and that the function of an application for directions under that section is to give the liquidator advice about the proper course of action in the liquidation and not to determine rights and liabilities arising from pre-liquidation transactions (at 679).</sentence>
 <sentence id="s179">See also Re JW Murphy and PC Allen (1996) 19 ACSR 569 at 570 (McLelland CJ).</sentence>
-<sentence id="s180">49 On the other hand there is sufficient flexibility in the procedures of the Court to enable proceedings begun as an application for directions to be converted into proceedings for the determination of substantive rights: Re GB Nathan &amp; Co 24 NSWLR 674 at 680.</sentence>
+<sentence id="s180">49 On the other hand there is sufficient flexibility in the procedures of the Court to enable proceedings begun as an application for directions to be converted into proceedings for the determination of substantive rights: Re GB Nathan amp; Co 24 NSWLR 674 at 680.</sentence>
 <sentence id="s181">In Melbourne Asset Management Nominees 49 FCR 334, Northrop J said (at 352): 
  
  It has been accepted that Courts have power to make final orders in preference claims on an application by a liquidator under sections similar to s 479(3) of the Corporations Law .</sentence>
@@ -477,7 +477,7 @@ Christensen Vaughan
 Mr D Stone
 
 
-Williams &amp; Hughes 
+Williams amp; Hughes 
  
  Date of Hearing: 6 September 2007 
  
@@ -490,5 +490,13 @@ Williams &amp; Hughes
  URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/1443.html 
  
  </sentence>
+</sentences>
+</case>tence>
+</sentences>
+</case>edu.au/au/cases/cth/FCA/2007/1443.html 
+ 
+ </sentence>
+</sentences>
+</case>tence>
 </sentences>
 </case>

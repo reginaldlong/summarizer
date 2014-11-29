@@ -3,10 +3,10 @@
 <name>Furlong v Maxim Electrical Services (Aust) Pty Ltd (No 2) (with Corrigendum dated 16 June 2006) [2006] FCA 740 (14 June 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/740.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">payments in relation to periods of industrial action</catchphrase>
-<catchphrase "id=c1">breach admitted</catchphrase>
-<catchphrase "id=c2">penalty imposed in accordance with the agreement of the parties operating at arms length</catchphrase>
-<catchphrase "id=c3">industrial law</catchphrase>
+<catchphrase >payments in relation to periods of industrial action</catchphrase>
+<catchphrase >breach admitted</catchphrase>
+<catchphrase >penalty imposed in accordance with the agreement of the parties operating at arms length</catchphrase>
+<catchphrase >industrial law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -46,11 +46,11 @@
 <sentence id="s17">8 Mr Birkett, of Maxim (Vic), authorised the relevant payments because he did not then believe that the relevant employees had undertaken industrial action.</sentence>
 <sentence id="s18">9 Since August 2003 Maxim (Vic) has taken the following steps concerning payment for periods of industrial action:
  
- &#8226; it has a policy of no payment for stoppages; &#8226; work stoppages are noted in site diaries and reviewed before payments are made; 
+ #8226; it has a policy of no payment for stoppages; #8226; work stoppages are noted in site diaries and reviewed before payments are made; 
  
- &#8226; no decision on payment is made until all information is available concerning the background circumstances and until after a report from site supervisors;
- &#8226; if site supervisors report facts and circumstances consistent with industrial action, Maxim (Vic) refuses to pay for the period of the stoppage and the dispute resolution procedure set out in the Maxim Electrical Services Pty Ltd Enterprise Agreement 2000 - 2003 is followed; and
- &#8226; if a stoppage results from a bonafide occupational health and safety issue, and the dispute resolution procedure in the agreement is followed, payment will be made in respect of the period of the stoppage.</sentence>
+ #8226; no decision on payment is made until all information is available concerning the background circumstances and until after a report from site supervisors;
+ #8226; if site supervisors report facts and circumstances consistent with industrial action, Maxim (Vic) refuses to pay for the period of the stoppage and the dispute resolution procedure set out in the Maxim Electrical Services Pty Ltd Enterprise Agreement 2000 - 2003 is followed; and
+ #8226; if a stoppage results from a bonafide occupational health and safety issue, and the dispute resolution procedure in the agreement is followed, payment will be made in respect of the period of the stoppage.</sentence>
 <sentence id="s19">
 
 10 Maxim (Vic) admits that it did not, on 5 and 6 August 2003, completely follow the steps contained in the dispute resolution clause in the certified agreement.</sentence>
@@ -91,4 +91,6 @@ Dated: 14 June 2006
  
  </sentence>
 </sentences>
-</case>
+</case>case>e>
+</sentences>
+</case>case>

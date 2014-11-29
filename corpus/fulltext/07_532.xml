@@ -3,12 +3,12 @@
 <name>Boensch v Pascoe [2007] FCA 532 (16 April 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/532.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">privilege</catchphrase>
-<catchphrase "id=c1">legal professional privilege</catchphrase>
-<catchphrase "id=c2">production of documents by solicitor in response to s 77a bankruptcy notice</catchphrase>
-<catchphrase "id=c3">inadvertent tender of documents by counsel</catchphrase>
-<catchphrase "id=c4">whether waiver of privilege</catchphrase>
-<catchphrase "id=c5">practice and procedure</catchphrase>
+<catchphrase >privilege</catchphrase>
+<catchphrase >legal professional privilege</catchphrase>
+<catchphrase >production of documents by solicitor in response to s 77a bankruptcy notice</catchphrase>
+<catchphrase >inadvertent tender of documents by counsel</catchphrase>
+<catchphrase >whether waiver of privilege</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -233,7 +233,7 @@ Dated: 16 April 2007
  
  Counsel for the Respondent: JT Johnson 
  
- Solicitor for the Respondent: McLean &amp; Associates 
+ Solicitor for the Respondent: McLean amp; Associates 
  
  Date of Hearing: 6 February 2007 
  
@@ -247,4 +247,8 @@ Dated: 16 April 2007
  
  </sentence>
 </sentences>
-</case>
+</case>>html 
+ 
+ </sentence>
+</sentences>
+</case>>

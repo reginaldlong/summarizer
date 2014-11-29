@@ -3,15 +3,15 @@
 <name>GenRx Pty Limited v Les Laboratoires Servier [2007] FCA 442 (26 March 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/442.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">misleading and deceptive conduct</catchphrase>
-<catchphrase "id=c1">interlocutory injunction</catchphrase>
-<catchphrase "id=c2">advertisement and stamp with statement that brand substitution not permitted</catchphrase>
-<catchphrase "id=c3">serious question to be tried as to whether representation in advertisement of "improved stability" is misleading</catchphrase>
-<catchphrase "id=c4">serious question to be tried as to whether a stamp specifying no substitution of a specific product is misleading</catchphrase>
-<catchphrase "id=c5">burden of recalling stamps outweighs potential damage to the applicant</catchphrase>
-<catchphrase "id=c6">advertisement restrained</catchphrase>
-<catchphrase "id=c7">no order as to recall</catchphrase>
-<catchphrase "id=c8">trade practices</catchphrase>
+<catchphrase >misleading and deceptive conduct</catchphrase>
+<catchphrase >interlocutory injunction</catchphrase>
+<catchphrase >advertisement and stamp with statement that brand substitution not permitted</catchphrase>
+<catchphrase >serious question to be tried as to whether representation in advertisement of "improved stability" is misleading</catchphrase>
+<catchphrase >serious question to be tried as to whether a stamp specifying no substitution of a specific product is misleading</catchphrase>
+<catchphrase >burden of recalling stamps outweighs potential damage to the applicant</catchphrase>
+<catchphrase >advertisement restrained</catchphrase>
+<catchphrase >no order as to recall</catchphrase>
+<catchphrase >trade practices</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -74,16 +74,16 @@
 11 The advertisement is reproduced in Annexure A to these reasons.</sentence>
 <sentence id="s42">12 The following should be noted:
  
- &#8226; The advertisement is only placed in publications directed to doctors.</sentence>
-<sentence id="s43">&#8226; Doctors are routinely the subject of advertising from pharmaceutical firms.</sentence>
-<sentence id="s44">&#8226; Coversyl is one of the most prescribed drugs in Australia.</sentence>
-<sentence id="s45">&#8226; Coversyl had been on the Australian market for about 14 years.</sentence>
-<sentence id="s46">&#8226; The green colour of the advertisement is in the same colour as the Coversyl packaging.</sentence>
-<sentence id="s47">&#8226; The advertisement refers to the trade name Coversyl and the fact that the name is registered as a trade mark.</sentence>
-<sentence id="s48">&#8226; Three of the four matters referred to under the heading "there is no substitute for" are matters not directly associated with Coversyl but with the company that sells Coversyl.</sentence>
-<sentence id="s49">&#8226; The fourth matter, "improved stability" with the elucidator '[c] ompared to perindopril erbumine ' is directly associated with Coversyl.</sentence>
-<sentence id="s50">&#8226; The reader is exhorted to "tick the box" for "brand substitution not permitted".</sentence>
-<sentence id="s51">&#8226; There is a reference to Servier Laboratories (Australia) Pty Ltd, the second respondent, but it is questionable whether it would be noticed by the casual observer.</sentence>
+ #8226; The advertisement is only placed in publications directed to doctors.</sentence>
+<sentence id="s43">#8226; Doctors are routinely the subject of advertising from pharmaceutical firms.</sentence>
+<sentence id="s44">#8226; Coversyl is one of the most prescribed drugs in Australia.</sentence>
+<sentence id="s45">#8226; Coversyl had been on the Australian market for about 14 years.</sentence>
+<sentence id="s46">#8226; The green colour of the advertisement is in the same colour as the Coversyl packaging.</sentence>
+<sentence id="s47">#8226; The advertisement refers to the trade name Coversyl and the fact that the name is registered as a trade mark.</sentence>
+<sentence id="s48">#8226; Three of the four matters referred to under the heading "there is no substitute for" are matters not directly associated with Coversyl but with the company that sells Coversyl.</sentence>
+<sentence id="s49">#8226; The fourth matter, "improved stability" with the elucidator '[c] ompared to perindopril erbumine ' is directly associated with Coversyl.</sentence>
+<sentence id="s50">#8226; The reader is exhorted to "tick the box" for "brand substitution not permitted".</sentence>
+<sentence id="s51">#8226; There is a reference to Servier Laboratories (Australia) Pty Ltd, the second respondent, but it is questionable whether it would be noticed by the casual observer.</sentence>
 <sentence id="s52">
 
 13 It is not presently in dispute that a doctor reading the advertisement would be familiar with the fact that successful pharmaceuticals are frequently sold in a generic form if they are no longer the subject of patent protection and the generic company can establish bioequivalence.</sentence>
@@ -228,4 +228,10 @@ ANNEXURE B
  
  </sentence>
 </sentences>
+</case>s>
+</case>CA/2007/442.html 
+ 
+ </sentence>
+</sentences>
+</case>s>
 </case>

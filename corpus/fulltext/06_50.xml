@@ -3,10 +3,10 @@
 <name>United Salvage Pty Ltd v Louis Dreyfus Armateurs SNC [2006] FCA 50 (8 February 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/50.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">notice to produce</catchphrase>
-<catchphrase "id=c1">application to set aside</catchphrase>
-<catchphrase "id=c2">requests too broad</catchphrase>
-<catchphrase "id=c3">practice and procedure</catchphrase>
+<catchphrase >notice to produce</catchphrase>
+<catchphrase >application to set aside</catchphrase>
+<catchphrase >requests too broad</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -32,7 +32,7 @@
 <sentence id="s18">5 The foregoing indicates that there may be an issue to be ventilated as to beneficial ownership.</sentence>
 <sentence id="s19">6 I now turn to the specific paragraphs under challenge.</sentence>
 <sentence id="s20">7 In considering the Notice to Produce, it is necessary to bear in mind that it differs from a subpoena in that it is addressed to a party who will generally have a greater awareness of the issues, details and history of the matter than a stranger to the proceedings: see Trade Practices Commission v Australian Feather Mills Pty Ltd (1990) 26 FCR 555 at 557-8.</sentence>
-<sentence id="s21">By O 33 r 12 of the Federal Court Rules ("FCR"), a Notice to Produce has the same coercive effect as a subpoena issued under O 27 of the FCR: see Potts v Dennis James &amp; Co Pty Ltd (1995) 17 ACSR 770 at 779.</sentence>
+<sentence id="s21">By O 33 r 12 of the Federal Court Rules ("FCR"), a Notice to Produce has the same coercive effect as a subpoena issued under O 27 of the FCR: see Potts v Dennis James amp; Co Pty Ltd (1995) 17 ACSR 770 at 779.</sentence>
 <sentence id="s22">Under O 27 r 3(4)(a), a subpoena must identify the document to be produced.</sentence>
 <sentence id="s23">The Notice to Produce also has the effect that in the event of non-production, secondary evidence can be given of the contents.</sentence>
 <sentence id="s24">PARAGRAPH 3 
@@ -102,7 +102,7 @@ Dated: 8 February 2006
  
  Counsel for the Defendant: J E Sexton SC 
  
- Solicitor for the Defendant: Thynne &amp; Macartney 
+ Solicitor for the Defendant: Thynne amp; Macartney 
  
  Last Written Submission 12 December 2005 
  
@@ -116,4 +116,6 @@ Dated: 8 February 2006
  
  </sentence>
 </sentences>
-</case>
+</case>e>ence>
+</sentences>
+</case>e>

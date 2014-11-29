@@ -3,9 +3,9 @@
 <name>AB v Registrar of Births, Deaths and Marriages [2006] FCA 1071 (16 August 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1071.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">applicant, a married person who had undergone sex affirmation surgery, applied for alteration of birth register</catchphrase>
-<catchphrase "id=c1">registrar refused registration on ground that pt 4a of births, deaths and marriages registration act 1996 (vic) did not allow such alteration in respect of married persons</catchphrase>
-<catchphrase "id=c2">discrimination</catchphrase>
+<catchphrase >applicant, a married person who had undergone sex affirmation surgery, applied for alteration of birth register</catchphrase>
+<catchphrase >registrar refused registration on ground that pt 4a of births, deaths and marriages registration act 1996 (vic) did not allow such alteration in respect of married persons</catchphrase>
+<catchphrase >discrimination</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -369,7 +369,7 @@ Dated: 16 August 2006
  
  Counsel for the Sex Discrimination Commissioner C Lenehan 
  
- Solicitors for the Sex Discrimination Commissioner Human Rights &amp; Equal Opportunity Commission 
+ Solicitors for the Sex Discrimination Commissioner Human Rights amp; Equal Opportunity Commission 
  
  Date of Hearing: 3 August 2006 
  
@@ -389,4 +389,5 @@ Dated: 16 August 2006
  
  </sentence>
 </sentences>
-</case>
+</case>></sentences>
+</case>>

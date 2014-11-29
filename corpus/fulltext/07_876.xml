@@ -3,10 +3,10 @@
 <name>Secretary, Department of Employment and Workplace Relations v Vanderpluym [2007] FCA 876 (7 June 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/876.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">social welfare and services</catchphrase>
-<catchphrase "id=c1">consideration of the construction to be adopted in relation to the term 'homeowner' for the purposes of the social security act 1991 (cth) and related provisions</catchphrase>
-<catchphrase "id=c2">consideration of the extent to which particular 'rights' or 'interests' satisfies s 11(4)(b) and s 1118(1)(b) of the act.</catchphrase>
-<catchphrase "id=c3">administrative law</catchphrase>
+<catchphrase >social welfare and services</catchphrase>
+<catchphrase >consideration of the construction to be adopted in relation to the term 'homeowner' for the purposes of the social security act 1991 (cth) and related provisions</catchphrase>
+<catchphrase >consideration of the extent to which particular 'rights' or 'interests' satisfies s 11(4)(b) and s 1118(1)(b) of the act.</catchphrase>
+<catchphrase >administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -275,7 +275,7 @@
 <sentence id="s173">Of course, vesting property (land and a residence) in a company or, for example, a corporate trustee of a discretionary trust coupled with a tenancy agreement conferring occupation in favour of a pension applicant related to the shareholders or directors of the entity has the apparent structural advantage of placing ownership of the home at arms-length yet retaining security of tenure in the home so as to enable a pension applicant to say that he or she is not, in orthodox terms, a homeowner and therefore entitled to a higher assets value limit for the calculation of the relevant pension entitlement.</sentence>
 <sentence id="s174">The social policy of the Social Security Act is to adopt a broad notion of 'homeowner' by s 11(4)(b) so as to ensure that those applicants (or their partners) who have a right or interest in a residence which gives reasonable security of tenure in the home are to be treated as homeowners for the purposes of calculating assets value limits and thus pension entitlements.</sentence>
 <sentence id="s175">59 In this case, Mr and Mrs Vanderpluym enjoyed exclusive occupation or exclusive possession of the residence and in that sense occupied the premises under a lease ( Radaich v Smith [1959] HCA 45 ; (1959) 101 CLR 209; Street v Mountford [1985] UKHL 4 ; [1985] AC 809; Harris v Northern Sandblasting Pty Ltd [1995] Aust Torts Rep 81-365 per McPherson JA).</sentence>
-<sentence id="s176">The weekly tenancy arrangement coupled with occupation and payment of rent gave rise to an equitable interest in the sense that the tenant could secure an order for an equitable remedy in support of a tenancy at common law ( Chan &amp; Anor v Cresdon Proprietary Limited [1989] HCA 63 ; (1989) 168 CLR 242).</sentence>
+<sentence id="s176">The weekly tenancy arrangement coupled with occupation and payment of rent gave rise to an equitable interest in the sense that the tenant could secure an order for an equitable remedy in support of a tenancy at common law ( Chan amp; Anor v Cresdon Proprietary Limited [1989] HCA 63 ; (1989) 168 CLR 242).</sentence>
 <sentence id="s177">60 Section 11(4)(b) of the Social Security Act contemplates an 'interest' which is either a legal or an equitable interest.</sentence>
 <sentence id="s178">However, the reference to the term 'right' also contemplates a class or species of 'right' which may not necessarily involve a legal or equitable interest in the residence.</sentence>
 <sentence id="s179">Although it might be difficult to identify a right of occupation of a residence which fails to give rise to a remedial entitlement in equity in respect of a breach of an obligation on the part of the landlord (either by injunction or a right to specific performance subject to discretionary factors), a contract which gives rise to bare 'rights' in a person in respect of a residence which is a principal home of a person who is an applicant for a parenting pension, creates rights (that is, personal rights) for the purposes of the section.</sentence>
@@ -321,7 +321,7 @@
 <sentence id="s219">69 An equitable lien is a right against property, real or personal, arising by implication of an 'equitable doctrine' applicable to the circumstances of the case.</sentence>
 <sentence id="s220">The right, although called a lien, is a form of equitable charge over the particular property enforceable in the same way as any other equitable charge such as the appointment of a receiver for the sale of the asset pursuant to court order.</sentence>
 <sentence id="s221">The lien automatically arising by operation of law secures the discharge of an actual or potential indebtedness.</sentence>
-<sentence id="s222">Although the best known examples of an equitable lien arise in circumstances where parties are in a contractual or quasi-contractual relationship such as a lien in favour of a vendor to secure payment of the balance purchase price or a lien in favour of a purchaser to secure repayments of instalments of a purchase price repayable when the contract has failed, an equitable lien arises more broadly in support of an obligation recognised in equity ( Hewett &amp; Ors v Court &amp; Anor [1983] HCA 7 ; (1983) 149 CLR 639 per Deane J at p 663 and per Gibbs CJ at pp 645, 646).</sentence>
+<sentence id="s222">Although the best known examples of an equitable lien arise in circumstances where parties are in a contractual or quasi-contractual relationship such as a lien in favour of a vendor to secure payment of the balance purchase price or a lien in favour of a purchaser to secure repayments of instalments of a purchase price repayable when the contract has failed, an equitable lien arises more broadly in support of an obligation recognised in equity ( Hewett amp; Ors v Court amp; Anor [1983] HCA 7 ; (1983) 149 CLR 639 per Deane J at p 663 and per Gibbs CJ at pp 645, 646).</sentence>
 <sentence id="s223">An equitable lien is properly understood as a positive right to obtain a remedial order for the sale of the subject property or for actual payment from a subject fund rather than a negative right of retention of a legal or equitable interest in the subject property ( Hewett v Court per Deane J at p 664).</sentence>
 <sentence id="s224">70 In this case, I accept that the circumstances of the transaction for the transfer of the land by Mr and Mrs Vanderpluym to MMPL gave rise to a resulting trust and an equitable lien arises by implication of that equitable doctrine to secure the discharge of the obligation upon MMPL to account to the transferor for the value of the land at the date of transfer.</sentence>
 <sentence id="s225">However, having regard to the findings of fact by the AAT, Mr Vanderpluym chose to make advances to MMPL and entered into a debtor/creditor relationship.</sentence>
@@ -378,4 +378,6 @@ Dated: 7 June 2007
  
  </sentence>
 </sentences>
-</case>
+</case>se>nce>
+</sentences>
+</case>se>

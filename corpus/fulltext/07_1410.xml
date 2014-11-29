@@ -3,10 +3,10 @@
 <name>KGL Health Pty Limited v Mechtler [2007] FCA 1410 (12 September 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1410.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">asset preservation order</catchphrase>
-<catchphrase "id=c1">sufficient evidence required to establish prima facie cause of action</catchphrase>
-<catchphrase "id=c2">solicitor's certification of claim's reasonable prospects of success not evidence of prima facie case</catchphrase>
-<catchphrase "id=c3">practice and procedure</catchphrase>
+<catchphrase >asset preservation order</catchphrase>
+<catchphrase >sufficient evidence required to establish prima facie cause of action</catchphrase>
+<catchphrase >solicitor's certification of claim's reasonable prospects of success not evidence of prima facie case</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -177,7 +177,7 @@
 <sentence id="s54">PRIMA FACIE CASE 
  
 9 In order to make out a prima facie case an applicant must establish that there is evidence which is sufficient to support its allegations and which will stand and lead to judgment in its favour unless there is evidence which rebuts the allegations.</sentence>
-<sentence id="s55">If the party on whom the burden of proof rests fails to make out a prima facie case, the other party will be able to submit that there is no case to answer and the case will be dismissed: see Rutherford L and Bone S (eds), Osborn's Concise Law Dictionary (8th ed, Sweet &amp; Maxwell, 1993) p 259.</sentence>
+<sentence id="s55">If the party on whom the burden of proof rests fails to make out a prima facie case, the other party will be able to submit that there is no case to answer and the case will be dismissed: see Rutherford L and Bone S (eds), Osborn's Concise Law Dictionary (8th ed, Sweet amp; Maxwell, 1993) p 259.</sentence>
 <sentence id="s56">The precise level of proof required to raise a "good arguable" or "prima facie" case cannot be defined and will depend on the circumstances of a given case.</sentence>
 <sentence id="s57">Although for present purposes there is no need to draw a distinction between a "prima facie" and a "good arguable" case, it is clear that there must be some evidence , as opposed to an assertion or allegation, which shows that such a case exists.</sentence>
 <sentence id="s58">10 The need for evidence to make out a prima facie case is illustrated by Patterson (1989) 18 NSWLR 319.</sentence>
@@ -225,7 +225,7 @@ Dated: 12 September 2007
  
  Counsel for the Respondents: S Climpson 
  
- Solicitor for the Respondents: Bull Son &amp; Schmidt 
+ Solicitor for the Respondents: Bull Son amp; Schmidt 
  
  Date of Hearing: 4 September 2007 
  
@@ -239,4 +239,6 @@ Dated: 12 September 2007
  
  </sentence>
 </sentences>
-</case>
+</case>e>ence>
+</sentences>
+</case>e>

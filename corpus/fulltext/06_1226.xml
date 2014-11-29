@@ -3,11 +3,11 @@
 <name>Zentai v Republic of Hungary [2006] FCA 1226 (12 September 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1226.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">whether s 19 and s 46 of extradition act 1988 (cth) are invalid</catchphrase>
-<catchphrase "id=c1">whether state legislation is necessary to authorise the performance by a state magistrate of functions under s 19 of the extradition act 1988 (cth)</catchphrase>
-<catchphrase "id=c2">whether performance by a state magistrate of functions under s 19 of the extradition act 1988 (cth) infringes the judicial incompatibility principle</catchphrase>
-<catchphrase "id=c3">whether the magistrates court act 2004 (wa) authorises the performance of s 19 functions by a state magistrate</catchphrase>
-<catchphrase "id=c4">constitutional law</catchphrase>
+<catchphrase >whether s 19 and s 46 of extradition act 1988 (cth) are invalid</catchphrase>
+<catchphrase >whether state legislation is necessary to authorise the performance by a state magistrate of functions under s 19 of the extradition act 1988 (cth)</catchphrase>
+<catchphrase >whether performance by a state magistrate of functions under s 19 of the extradition act 1988 (cth) infringes the judicial incompatibility principle</catchphrase>
+<catchphrase >whether the magistrates court act 2004 (wa) authorises the performance of s 19 functions by a state magistrate</catchphrase>
+<catchphrase >constitutional law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -202,7 +202,7 @@ term 'magistrate' is defined in s 5 of the Act to mean :
  it is unnecessary to investigate the matter here, it may well be, of course, that precisely the same comments could be made, mutatis mutandis, in relation to an attempt by a Commonwealth Act to confer federal duties upon a State-constituted non-judicial tribunal, which was not expressly or impliedly authorized to exercise them by State law.</sentence>
 <sentence id="s45">' 
  
- The latter observations were made in relation to the following observations of Brennan J in Reg v Duncan; Ex parte Australian Iron &amp; Steel Pty Ltd [1983] HCA 29 ; (1983) 158 CLR 535 at 579: 
+ The latter observations were made in relation to the following observations of Brennan J in Reg v Duncan; Ex parte Australian Iron amp; Steel Pty Ltd [1983] HCA 29 ; (1983) 158 CLR 535 at 579: 
  
  the [Commonwealth] Act had merely constituted or authorized the constitution of a tribunal and had vested federal powers of conciliation and arbitration in it without reference to State powers, an attempt by a State Act to vest similar State powers in the same tribunal would fail - not because of a constitutional incapacity in a Commonwealth tribunal to have and to exercise State power, but because the Commonwealth Act would be construed as requiring the tribunal to have and to exercise only such powers as the Commonwealth Parliament had chosen to vest in it.</sentence>
 <sentence id="s46">' 
@@ -406,9 +406,9 @@ Dated: 12 September 2006
 
  Counsel for the Applicants: Mr S C Churches, Mr P W Johnston, Ms V M Priskich 
  
- Solicitor for the Applicant in WAD 31 of 2006: Cannon Bowden &amp; Co 
+ Solicitor for the Applicant in WAD 31 of 2006: Cannon Bowden amp; Co 
  
- Solicitor for the Applicant in WAD 332 of 2005: Gibson &amp; Gibson 
+ Solicitor for the Applicant in WAD 332 of 2005: Gibson amp; Gibson 
  
  Counsel for the First and Third Respondents: Ms M M Gordon SC, Mr G A Hill 
  
@@ -426,4 +426,6 @@ Dated: 12 September 2006
  
  </sentence>
 </sentences>
-</case>
+</case>se></sentence>
+</sentences>
+</case>se>

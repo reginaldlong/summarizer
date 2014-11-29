@@ -3,13 +3,13 @@
 <name>SZEXZ v Minister for Immigration, Multicultural and Indigenous Affairs [2006] FCA 449 (27 April 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/449.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">invitation by refugee review tribunal to give additional information</catchphrase>
-<catchphrase "id=c1">'prescribed period' in which information to be supplied</catchphrase>
-<catchphrase "id=c2">whether breach constitutes jurisdictional error</catchphrase>
-<catchphrase "id=c3">s424b(2) migration regulations 1994 (cth)</catchphrase>
-<catchphrase "id=c4">reg 4.35(3)</catchphrase>
-<catchphrase "id=c5">migration</catchphrase>
-<catchphrase "id=c6">migration act 1958 (cth)</catchphrase>
+<catchphrase >invitation by refugee review tribunal to give additional information</catchphrase>
+<catchphrase >'prescribed period' in which information to be supplied</catchphrase>
+<catchphrase >whether breach constitutes jurisdictional error</catchphrase>
+<catchphrase >s424b(2) migration regulations 1994 (cth)</catchphrase>
+<catchphrase >reg 4.35(3)</catchphrase>
+<catchphrase >migration</catchphrase>
+<catchphrase >migration act 1958 (cth)</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -158,7 +158,7 @@
 26 The appellant relied on 15 grounds of review, all of which were said to raise jurisdictional error by the RRT.</sentence>
 <sentence id="s58">27 The learned Federal Magistrate carefully considered and ultimately rejected each of the grounds.</sentence>
 <sentence id="s59">The only ground he considered to be of any substance was the possible failure to comply with s 424B(2).</sentence>
-<sentence id="s60">28 Federal Magistrate Lloyd-Jones considered at some length the effect of the decision of the High Court in SAAP v Minister for Immigration and Multicultural &amp; Indigenous Affairs [2005] HCA 24 ; (2005) 215 ALR 162 (" SAAP ").</sentence>
+<sentence id="s60">28 Federal Magistrate Lloyd-Jones considered at some length the effect of the decision of the High Court in SAAP v Minister for Immigration and Multicultural amp; Indigenous Affairs [2005] HCA 24 ; (2005) 215 ALR 162 (" SAAP ").</sentence>
 <sentence id="s61">His Honour came to the view that the purpose and legislative context of s 424B was to be contrasted with that of s 424A , such that the legislative intention was not to be that a breach of the time provision in s 424B(2) would lead to the invalidation of a decision made following a breach of the section.</sentence>
 <sentence id="s62">Discussion 
  
@@ -194,14 +194,14 @@
 <sentence id="s91">It seems to me that what Sackville J said in SZDQL as to the object of s 424B(3)(b) applies equally to s 424B(2).</sentence>
 <sentence id="s92">42 However, it seems to me that there is a further aspect of the statutory purpose of those subsections which must be borne in mind when answering the question of whether a breach is jurisdictional in nature.</sentence>
 <sentence id="s93">This appears from a consideration of the part which those subsections play in the codified regime of procedural fairness contained in Div 4 of Part 7 of the Act .</sentence>
-<sentence id="s94">43 A failure to give the additional information requested under s 424 , or to give the comments pursuant to an invitation given under s 424A , before the time specified, or any extended period, authorises the RRT to make a decision on the review without taking any further action; see s 424C and s 425(2)(C) ; see also NACI v Minister for Immigration and Multicultural &amp; Indigenous Affairs [2002] FCAFC 154.</sentence>
+<sentence id="s94">43 A failure to give the additional information requested under s 424 , or to give the comments pursuant to an invitation given under s 424A , before the time specified, or any extended period, authorises the RRT to make a decision on the review without taking any further action; see s 424C and s 425(2)(C) ; see also NACI v Minister for Immigration and Multicultural amp; Indigenous Affairs [2002] FCAFC 154.</sentence>
 <sentence id="s95">44 Moreover, a failure to give the information or the comments before the specified time relieves the RRT of its obligation to invite an applicant to give evidence and present arguments at an oral hearing; see s 425(2)(c).</sentence>
 <sentence id="s96">Indeed, failure to give the information or to provide the comments removes any entitlement of an applicant to appear before the RRT; see s 425(3).</sentence>
 <sentence id="s97">45 It might be thought therefore that the time limits fixed by the Act and the Regulations must be adhered to strictly.</sentence>
-<sentence id="s98">Further support for this view is to be found in the observation of Sackville J in NAWR v Minister for Immigration and Multicultural &amp; Indigenous Affairs [2003] FCA 1520 at [33] and [35], that no period other than the period of 14 days for the initial prescribed period or 28 days for the further prescribed period can be specified.</sentence>
+<sentence id="s98">Further support for this view is to be found in the observation of Sackville J in NAWR v Minister for Immigration and Multicultural amp; Indigenous Affairs [2003] FCA 1520 at [33] and [35], that no period other than the period of 14 days for the initial prescribed period or 28 days for the further prescribed period can be specified.</sentence>
 <sentence id="s99">46 Against this, s 424B(2) and s 424B(3)(b) each provide that where no period is prescribed, the information or comments are to be given within a reasonable period.</sentence>
 <sentence id="s100">Mr Potts drew attention to the power of the RRT to extend the period to respond to an invitation contained in s 424B(4).</sentence>
-<sentence id="s101">It may well be that this power can be exercised after the initial prescribed period has expired; see Minister for Immigration and Multicultural &amp; Indigenous Affairs v Sun [2005] FCAFC 201 at [51] .</sentence>
+<sentence id="s101">It may well be that this power can be exercised after the initial prescribed period has expired; see Minister for Immigration and Multicultural amp; Indigenous Affairs v Sun [2005] FCAFC 201 at [51] .</sentence>
 <sentence id="s102">
  
 47 A difficult question of construction and reconciliation of the provisions of Div 4 of Part 7 with the privative clause in s 474 of the Act would arise if the RRT were to specify in its s 424 or 424A invitation a period of 13 days to respond, and, in the absence of a response within that period, the RRT proceeded to make a decision on the review without further action, as apparently authorised by s 424C and s 425(2)(c).</sentence>
@@ -245,4 +245,8 @@ Dated: 27 April 2006
  
  </sentence>
 </sentences>
-</case>
+</case>ase>449.html 
+ 
+ </sentence>
+</sentences>
+</case>ase>

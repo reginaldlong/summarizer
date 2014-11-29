@@ -3,10 +3,10 @@
 <name>Goo v Minister for Immigration and Citizenship [2007] FCA 391 (9 March 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/391.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">the operation of s 359a of the migration act 1958 (cth)</catchphrase>
-<catchphrase "id=c1">circumstances under which notice must be given to an applicant for review of the particulars of any information that the tribunal considers would be the reason, or a part of the reason, for affirming the decision that is under review</catchphrase>
-<catchphrase "id=c2">what constitutes 'the reason' or 'a part of the reason' for the tribunal's decision</catchphrase>
-<catchphrase "id=c3">migration</catchphrase>
+<catchphrase >the operation of s 359a of the migration act 1958 (cth)</catchphrase>
+<catchphrase >circumstances under which notice must be given to an applicant for review of the particulars of any information that the tribunal considers would be the reason, or a part of the reason, for affirming the decision that is under review</catchphrase>
+<catchphrase >what constitutes 'the reason' or 'a part of the reason' for the tribunal's decision</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -111,8 +111,8 @@
 11 Mr Goo argues that the tribunal should have given a notice in writing under s 359A(1) to him, having regard to the decision of the High Court in SAAP v Minister for Immigration and Multicultural and Indigenous Affairs [2005] HCA 24 ; (2005) 215 ALR 162 in respect of the following two documents:
  
  
- &#8226; The printout of the website of DSP which was before the delegate referred to in the tribunal's reasons as describing Mr Goo as 'production manager' for DSP.</sentence>
-<sentence id="s42">&#8226; The sole agency agreement dated 10 April 2002.</sentence>
+ #8226; The printout of the website of DSP which was before the delegate referred to in the tribunal's reasons as describing Mr Goo as 'production manager' for DSP.</sentence>
+<sentence id="s42">#8226; The sole agency agreement dated 10 April 2002.</sentence>
 <sentence id="s43">
  
 
@@ -153,8 +153,8 @@
  
  
  
- &#8226; the business takes orders in Australia; products from Korea are shipped to DSP and DSP does further work or tests on them in a factory and then sells them to the Australian business;
- &#8226; Mr Goo's income is derived from DSP; 
+ #8226; the business takes orders in Australia; products from Korea are shipped to DSP and DSP does further work or tests on them in a factory and then sells them to the Australian business;
+ #8226; Mr Goo's income is derived from DSP; 
  
  
  
@@ -225,4 +225,6 @@
  
  </sentence>
 </sentences>
-</case>
+</case>ase>ce>
+</sentences>
+</case>ase>

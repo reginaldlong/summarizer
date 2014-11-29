@@ -3,11 +3,11 @@
 <name>Minister for Immigration and Multicultural and Indigenous Affairs v WALU [2006] FCA 657 (30 May 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/657.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">protection visas</catchphrase>
-<catchphrase "id=c1">well-founded fear of persecution claimed to be based on conscientious objection on religious grounds to compulsory military service</catchphrase>
-<catchphrase "id=c2">requirement for conscientious objector to serve 12 months of civil service instead of eight months in the military</catchphrase>
-<catchphrase "id=c3">findings of tribunal that additional four months was in effect forced labour amounting to persecution involving serious harm</catchphrase>
-<catchphrase "id=c4">migration</catchphrase>
+<catchphrase >protection visas</catchphrase>
+<catchphrase >well-founded fear of persecution claimed to be based on conscientious objection on religious grounds to compulsory military service</catchphrase>
+<catchphrase >requirement for conscientious objector to serve 12 months of civil service instead of eight months in the military</catchphrase>
+<catchphrase >findings of tribunal that additional four months was in effect forced labour amounting to persecution involving serious harm</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -189,7 +189,7 @@ However at [36], Kenny J did not consider that the Tribunal's error in this rega
  
  ''When it is alleged that the enforcement or manner of enforcement of a generally applicable law is discriminatory by reference to political opinion, a complex inquiry may need to be engaged in.</sentence>
 <sentence id="s105">Where such a law is, or is said to be, one having the purpose of protecting a State or its institutions (i.e.</sentence>
-<sentence id="s106">it has a "political" purpose), the nature and reach of the law itself and the actual manner of its application will require consideration for the reason that its reach or use in suppressing political opinion may go beyond, or be inconsistent with, what is appropriate to achieve a legitimate government object according to the standards of civil societies: cf WAEZ of 2002 v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2002] FCAFC 341 at [32] .</sentence>
+<sentence id="s106">it has a "political" purpose), the nature and reach of the law itself and the actual manner of its application will require consideration for the reason that its reach or use in suppressing political opinion may go beyond, or be inconsistent with, what is appropriate to achieve a legitimate government object according to the standards of civil societies: cf WAEZ of 2002 v Minister for Immigration amp; Multicultural amp; Indigenous Affairs [2002] FCAFC 341 at [32] .</sentence>
 <sentence id="s107">It is not unheard of, for example, for a State to utilise sedition-like and public security offences to silence its opponents.</sentence>
 <sentence id="s108">
  
@@ -260,4 +260,6 @@ Dated: 30 May 2006
  
  </sentence>
 </sentences>
-</case>
+</case>e> </sentence>
+</sentences>
+</case>e>

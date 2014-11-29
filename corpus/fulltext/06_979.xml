@@ -3,16 +3,16 @@
 <name>Thirteenth Corp Pty Ltd v State (with Addendum dated 2 August) [2006] FCA 979 (2 August 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/979.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">abuse of process</catchphrase>
-<catchphrase "id=c1">multiple proceedings</catchphrase>
-<catchphrase "id=c2">previous proceedings in state court</catchphrase>
-<catchphrase "id=c3">same subject matter</catchphrase>
-<catchphrase "id=c4">previous proceedings terminated by default order</catchphrase>
-<catchphrase "id=c5">whether abuse of process to commence proceedings in federal court</catchphrase>
-<catchphrase "id=c6">costs</catchphrase>
-<catchphrase "id=c7">security for costs</catchphrase>
-<catchphrase "id=c8">practice and procedure</catchphrase>
-<catchphrase "id=c9">practice and procedure</catchphrase>
+<catchphrase >abuse of process</catchphrase>
+<catchphrase >multiple proceedings</catchphrase>
+<catchphrase >previous proceedings in state court</catchphrase>
+<catchphrase >same subject matter</catchphrase>
+<catchphrase >previous proceedings terminated by default order</catchphrase>
+<catchphrase >whether abuse of process to commence proceedings in federal court</catchphrase>
+<catchphrase >costs</catchphrase>
+<catchphrase >security for costs</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -207,10 +207,10 @@ stated neither here nor anywhere else why a separate proceeding of any kind, in 
 <sentence id="s141">Anshun does not stand as authority for the proposition that it is an abuse of process to make a claim in a later proceeding that could have been made in an earlier proceeding, where the earlier proceeding has been stayed or dismissed without adjudication.</sentence>
 <sentence id="s142">32 There is, of course, no shortage of authority for the proposition that it is an abuse of process for a party to seek to contest, in later proceedings, a point which it has lost, or substantially lost, in earlier proceedings, even where there may not be complete overlap between all facts, parties, and causes of action: see eg Hunter v Chief Constable of the West Midlands Police [1982] AC 529; Haines v Australian Broadcasting Corporation (1995) 43 NSWLR 404; Wilson v Commonwealth of Australia [1999] FCA 1308 ; Rippon v Chilcotin Pty Ltd [2001] NSWCA 142 ; (2001) 53 NSWLR 198; However, these authorities, like Anshun , speak only of situations in which the earlier point was actually decided by the court concerned.</sentence>
 <sentence id="s143">33 By contrast, there is no res judicata nor, as I understand the law, Anshun estoppel, when the earlier proceedings have been discontinued.</sentence>
-<sentence id="s144">In relation to res judicata at least, the same conclusion applies when the earlier proceedings have been dismissed on account of default in compliance with orders for discovery ( Baines v State Bank of NSW (1985) 2 NSWLR 729), on account of default in the provision of particulars ( Samuels v Linzi Dresses Ltd [1981] QB 115) or for want of prosecution ( Hart v Hall &amp; Pickles Ltd [1969] 3 All ER 291; Pople v Evans [1969] 2 Ch 255).</sentence>
+<sentence id="s144">In relation to res judicata at least, the same conclusion applies when the earlier proceedings have been dismissed on account of default in compliance with orders for discovery ( Baines v State Bank of NSW (1985) 2 NSWLR 729), on account of default in the provision of particulars ( Samuels v Linzi Dresses Ltd [1981] QB 115) or for want of prosecution ( Hart v Hall amp; Pickles Ltd [1969] 3 All ER 291; Pople v Evans [1969] 2 Ch 255).</sentence>
 <sentence id="s145">The question with which these cases do not deal, however, is whether, notwithstanding that there would be no res judicata , it might nonetheless be regarded as vexatious, and in that sense as an abuse of process, for a moving party, by his or her own default, to allow proceedings to be terminated, without adjudication, to his or her disadvantage, and then to bring new proceedings seeking the same remedy on closely related grounds.</sentence>
 <sentence id="s146">34 I think the answer to that question is: not necessarily.</sentence>
-<sentence id="s147">In Deangrove Pty Ltd (Rec &amp; Mgrs Aptd) v Commonwealth Bank of Australia [2001] FCA 173 ; (2001) 108 FCR 77, one of a number of points which Sackville J had to decide arose from the circumstance that the applicants had, in a previous proceeding, several times failed to comply with an order that they file a Statement of Claim, in consequence of which that proceeding was dismissed.</sentence>
+<sentence id="s147">In Deangrove Pty Ltd (Rec amp; Mgrs Aptd) v Commonwealth Bank of Australia [2001] FCA 173 ; (2001) 108 FCR 77, one of a number of points which Sackville J had to decide arose from the circumstance that the applicants had, in a previous proceeding, several times failed to comply with an order that they file a Statement of Claim, in consequence of which that proceeding was dismissed.</sentence>
 <sentence id="s148">A few months later, the instant proceeding was commenced by the same applicants against the same respondent as had been parties to the earlier proceeding.</sentence>
 <sentence id="s149">Identical relief was claimed.</sentence>
 <sentence id="s150">Sackville J dealt with the argument that the later proceeding amounted to an abuse of process as follows (108 FCR at 82-83):
@@ -314,13 +314,13 @@ His Honour held that the commencement and continuation of the action in the High
 <sentence id="s196">38 Turning to the motion before the Court, it is necessary to examine the applicant's respective causes of action in the Victorian proceeding, and here.</sentence>
 <sentence id="s197">In the Victorian proceeding, aside from the defences that the respondents raised, the applicant would have been required to establish that ---
  
- &#8226; the respondents were directors of Mactec at the time it incurred the debt to the applicant; &#8226; Mactec was insolvent at that time, or became insolvent by incurring the debt; &#8226; there were reasonable grounds for suspecting that Mactec was insolvent, or would become insolvent by incurring the debt; &#8226; the respondents were aware, or a reasonable person in a like position in a company in Mactec's circumstances would have been aware, that there were reasonable grounds for so suspecting; &#8226; the respondents failed to prevent Mactec from incurring the debt; &#8226; because of Mactec's insolvency, the applicant suffered loss or damage; &#8226; the debt was wholly or partly unsecured; and &#8226; Mactec was being wound up.</sentence>
+ #8226; the respondents were directors of Mactec at the time it incurred the debt to the applicant; #8226; Mactec was insolvent at that time, or became insolvent by incurring the debt; #8226; there were reasonable grounds for suspecting that Mactec was insolvent, or would become insolvent by incurring the debt; #8226; the respondents were aware, or a reasonable person in a like position in a company in Mactec's circumstances would have been aware, that there were reasonable grounds for so suspecting; #8226; the respondents failed to prevent Mactec from incurring the debt; #8226; because of Mactec's insolvency, the applicant suffered loss or damage; #8226; the debt was wholly or partly unsecured; and #8226; Mactec was being wound up.</sentence>
 <sentence id="s198">
 
 
 In the present proceeding (as pleaded by the applicant, and again putting aside any defences that might be raised), the applicant would be required to establish that ---
  
- &#8226; Mactec was a trading corporation; &#8226; Mactec represented to the applicant, at or prior to entering into the loan agreement, that the waste supply agreement was executed and in place and/or that Mactec could repay the $500,000 loan before 23 May 2000; &#8226; the representations were misleading or deceptive either in fact (ie, as the case requires, that the waste supply agreement was not executed or in place or that Mactec could not repay the $500,000 loan before 23 May 2000) or in the statutory sense that, when made, its maker or makers had no reasonable grounds for believing that Mactec could repay the loan, on account of Mactec's insolvency; &#8226; the applicant relied on the representations in advancing the amount of the loan to Mactec; &#8226; the respondents were involved in the making of the representations within the meaning of s 75B of the Trade Practices Act ; and &#8226; the applicant suffered loss or damage.</sentence>
+ #8226; Mactec was a trading corporation; #8226; Mactec represented to the applicant, at or prior to entering into the loan agreement, that the waste supply agreement was executed and in place and/or that Mactec could repay the $500,000 loan before 23 May 2000; #8226; the representations were misleading or deceptive either in fact (ie, as the case requires, that the waste supply agreement was not executed or in place or that Mactec could not repay the $500,000 loan before 23 May 2000) or in the statutory sense that, when made, its maker or makers had no reasonable grounds for believing that Mactec could repay the loan, on account of Mactec's insolvency; #8226; the applicant relied on the representations in advancing the amount of the loan to Mactec; #8226; the respondents were involved in the making of the representations within the meaning of s 75B of the Trade Practices Act ; and #8226; the applicant suffered loss or damage.</sentence>
 <sentence id="s199">
 
 
@@ -441,4 +441,10 @@ Dated: 2 August 2006
  
  </sentence>
 </sentences>
+</case>ntences>
+</case>FCA/2006/979.html 
+ 
+ </sentence>
+</sentences>
+</case>ntences>
 </case>

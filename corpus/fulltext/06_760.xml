@@ -3,14 +3,14 @@
 <name>Sampi v Western Australia (No 4) [2006] FCA 760 (19 June 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/760.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">native title determination application</catchphrase>
-<catchphrase "id=c1">freehold areas excluded from original determination application</catchphrase>
-<catchphrase "id=c2">including freehold areas held for an aboriginal mission and by an aboriginal land corporation</catchphrase>
-<catchphrase "id=c3">ss 47a and 47b relied upon</catchphrase>
-<catchphrase "id=c4">areas not covered by application</catchphrase>
-<catchphrase "id=c5">inability to extend application to cover areas</catchphrase>
-<catchphrase "id=c6">new application necessary in respect of excluded areas</catchphrase>
-<catchphrase "id=c7">native title</catchphrase>
+<catchphrase >native title determination application</catchphrase>
+<catchphrase >freehold areas excluded from original determination application</catchphrase>
+<catchphrase >including freehold areas held for an aboriginal mission and by an aboriginal land corporation</catchphrase>
+<catchphrase >ss 47a and 47b relied upon</catchphrase>
+<catchphrase >areas not covered by application</catchphrase>
+<catchphrase >inability to extend application to cover areas</catchphrase>
+<catchphrase >new application necessary in respect of excluded areas</catchphrase>
+<catchphrase >native title</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -202,7 +202,7 @@ The actual amendments effected to the application in 1998 changed the exclusion 
 
 The original application as amended attached a map marked 'LW2' which showed both the Lombadina adjourned area and the Kooljaman adjourned area as excluded from the claim.</sentence>
 <sentence id="s52">18 Form 1, as amended by the second amendment, attaches a map as Attachment C which is said to be Native Title Application as at 02/08/1999.</sentence>
-<sentence id="s53">This is said to be a map created from data sourced from the Land Claims Mapping Unit, WALIS and the Kimberley Land Council by Geospatial Analysis &amp; Mapping Branch, National Native Title Tribunal.</sentence>
+<sentence id="s53">This is said to be a map created from data sourced from the Land Claims Mapping Unit, WALIS and the Kimberley Land Council by Geospatial Analysis amp; Mapping Branch, National Native Title Tribunal.</sentence>
 <sentence id="s54">According to its legend, that map shows the area of the Bardi Jawi application as shaded, but shows the Lombadina adjourned area and the Kooljaman adjourned area, together with other areas, as not shaded.</sentence>
 <sentence id="s55">19 Schedule L of the application as amended in 1999 states, inter alia: 
  
@@ -314,4 +314,8 @@ Australian Government Solicitor
  
  </sentence>
 </sentences>
-</case>
+</case>>/FCA/2006/760.html 
+ 
+ </sentence>
+</sentences>
+</case>>

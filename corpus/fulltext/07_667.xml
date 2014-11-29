@@ -3,13 +3,13 @@
 <name>MZXIH v Minister for Immigration and Citizenship (Corrigendum dated 19 June 2007) [2007] FCA 667 (15 June 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/667.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from federal magistrate affirming decision of refugee review tribunal</catchphrase>
-<catchphrase "id=c1">claim made in original application not repeated before tribunal</catchphrase>
-<catchphrase "id=c2">whether tribunal complied with its obligations under s 424a of the migration act when it failed to provide the appellants with written particulars of information claimed in original application</catchphrase>
-<catchphrase "id=c3">authenticity of police reports claiming appellant's child a victim of an attempted kidnapping</catchphrase>
-<catchphrase "id=c4">whether tribunal's failure to exercise its powers of enquiry in relation to the police reports constitutes jurisdictional error</catchphrase>
-<catchphrase "id=c5">no appellable error made out</catchphrase>
-<catchphrase "id=c6">migration</catchphrase>
+<catchphrase >appeal from federal magistrate affirming decision of refugee review tribunal</catchphrase>
+<catchphrase >claim made in original application not repeated before tribunal</catchphrase>
+<catchphrase >whether tribunal complied with its obligations under s 424a of the migration act when it failed to provide the appellants with written particulars of information claimed in original application</catchphrase>
+<catchphrase >authenticity of police reports claiming appellant's child a victim of an attempted kidnapping</catchphrase>
+<catchphrase >whether tribunal's failure to exercise its powers of enquiry in relation to the police reports constitutes jurisdictional error</catchphrase>
+<catchphrase >no appellable error made out</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -90,18 +90,18 @@
 10 At the hearing of the appeal counsel for the appellants identified two issues raised by these grounds.</sentence>
 <sentence id="s53">They were:
  
- &#8226; Whether the Tribunal had failed to comply with s 424A(1) of the Act by failing to give the appellants written particulars "of the information that they had claimed in their application [for protection visas]... that a politician in Sri Lanka had interfered with a police investigation into an attempted kidnap of the first appellant's child" which claim was not reiterated at the hearing.</sentence>
-<sentence id="s54">&#8226; Did the Tribunal fall into jurisdictional error by making findings which were not open on the evidence or by failing to exercise its powers of enquiry in relation to the extracts from Sri Lankan police records?</sentence>
+ #8226; Whether the Tribunal had failed to comply with s 424A(1) of the Act by failing to give the appellants written particulars "of the information that they had claimed in their application [for protection visas]... that a politician in Sri Lanka had interfered with a police investigation into an attempted kidnap of the first appellant's child" which claim was not reiterated at the hearing.</sentence>
+<sentence id="s54">#8226; Did the Tribunal fall into jurisdictional error by making findings which were not open on the evidence or by failing to exercise its powers of enquiry in relation to the extracts from Sri Lankan police records?</sentence>
 <sentence id="s55">
 
 11 The appellants contend that the Tribunal was obliged to provide them with notice that the claim of interference, by a politician, with the police investigation had been made in support of the original protection visa applications and that the failure to reiterate the claim at the hearing before the Tribunal might undermine, in the Tribunal's mind, the veracity of the claim.</sentence>
 <sentence id="s56">12 The respondent contends that the Tribunal was not obliged to comply with the requirements of s 424A(1) in respect of this "information" because:
  
- &#8226; The appellants' failure to reiterate the claim did not form "part of the reason" for the Tribunal's decision.</sentence>
+ #8226; The appellants' failure to reiterate the claim did not form "part of the reason" for the Tribunal's decision.</sentence>
 <sentence id="s57">This was because the Tribunal had found as a fact that "there was no attempt to kidnap the [appellant's] son.</sentence>
 <sentence id="s58">" If there was no kidnapping there was no report to the police and no police investigation to be interfered with.</sentence>
-<sentence id="s59">&#8226; A failure to reiterate a claim cannot constitute "information" within the meaning of s 424A.</sentence>
-<sentence id="s60">&#8226; If the original claim was "information" which formed part of the reason for the Tribunal's decision that information was given by the appellant to the Tribunal for the purposes of its review and, therefore, it was information comprehended by the exemption provided for in s 424A(3)(b).</sentence>
+<sentence id="s59">#8226; A failure to reiterate a claim cannot constitute "information" within the meaning of s 424A.</sentence>
+<sentence id="s60">#8226; If the original claim was "information" which formed part of the reason for the Tribunal's decision that information was given by the appellant to the Tribunal for the purposes of its review and, therefore, it was information comprehended by the exemption provided for in s 424A(3)(b).</sentence>
 <sentence id="s61">
 
 13 I am prepared to assume, in the appellant's favour, that the fact that the claim of political interference with the police investigation was made in support of the original applications but not reiterated at the hearing before the Tribunal constitutes "information" for the purposes of s 424A(1) of the Act .</sentence>
@@ -205,7 +205,7 @@ Dated: 15 June 2007
 
  Counsel for the Appellants: Mr A Krohn 
  
- Solicitor for the Appellants: Clothier Anderson &amp; Associates 
+ Solicitor for the Appellants: Clothier Anderson amp; Associates 
  
  Counsel for the Respondent: Mr C Horan 
  
@@ -226,4 +226,8 @@ Dated: 15 June 2007
  
  </sentence>
 </sentences>
-</case>
+</case>/case>7.html 
+ 
+ </sentence>
+</sentences>
+</case>/case>

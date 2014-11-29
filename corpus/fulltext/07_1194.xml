@@ -3,11 +3,11 @@
 <name>Westpac Banking Corporation v Victor Warren Ollis [2007] FCA 1194 (8 August 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1194.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">leave to continue proceedings in the supreme court of new south wales instituted prior to sequestration order</catchphrase>
-<catchphrase "id=c1">meaning of ' in respect of a provable debt'</catchphrase>
-<catchphrase "id=c2">effect of order staying proceedings under a sequestration order</catchphrase>
-<catchphrase "id=c3">effect of orders restraining dealings with property of the debtor.</catchphrase>
-<catchphrase "id=c4">bankruptcy</catchphrase>
+<catchphrase >leave to continue proceedings in the supreme court of new south wales instituted prior to sequestration order</catchphrase>
+<catchphrase >meaning of ' in respect of a provable debt'</catchphrase>
+<catchphrase >effect of order staying proceedings under a sequestration order</catchphrase>
+<catchphrase >effect of orders restraining dealings with property of the debtor.</catchphrase>
+<catchphrase >bankruptcy</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -63,7 +63,7 @@
  
 
 13 On the available evidence, the Court is satisfied that the alleged debts or liabilities of Mr Ollis to Westpac fall within the purview of s 82 and thus constitute provable debts within the meaning and purpose of the Act.</sentence>
-<sentence id="s28">14 The term 'in respect of' as it appears in s 58(3)(b) of the Act has been considered in Re McMaster; Ex parte McMaster (1991) 33 FCR 70 at 72 and in Trustees Executors &amp; Agency Co Ltd v Reilly [1941] VLR 110 at 111.</sentence>
+<sentence id="s28">14 The term 'in respect of' as it appears in s 58(3)(b) of the Act has been considered in Re McMaster; Ex parte McMaster (1991) 33 FCR 70 at 72 and in Trustees Executors amp; Agency Co Ltd v Reilly [1941] VLR 110 at 111.</sentence>
 <sentence id="s29">Each of those authorities referred to the wide construction which is to be given to such words ' in respect of' as contained in s 58(3)(b) of the Act.</sentence>
 <sentence id="s30">15 In Re McMaster 33 FCR 72-73, Heerey J referred to the considerations which must be addressed by the Court when considering such an application.</sentence>
 <sentence id="s31">He stated:
@@ -110,7 +110,7 @@ Dated: 8 August 2007
  
  Counsel for the Respondent: C J Dibb 
  
- Solicitor for Trustee of Respondent: Gordon &amp; Johnstone 
+ Solicitor for Trustee of Respondent: Gordon amp; Johnstone 
  
  Date of Hearing: 8 August 2007 
  
@@ -124,4 +124,6 @@ Dated: 8 August 2007
  
  </sentence>
 </sentences>
-</case>
+</case>e> </sentence>
+</sentences>
+</case>e>

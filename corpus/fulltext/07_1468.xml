@@ -3,12 +3,12 @@
 <name>Shrimp v Landmark Operations Limited [2007] FCA 1468 (19 September 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1468.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for separate trials</catchphrase>
-<catchphrase "id=c1">where defendant on originating process filed cross-claim against third party</catchphrase>
-<catchphrase "id=c2">where third party filed several subsequent cross-claims</catchphrase>
-<catchphrase "id=c3">whether various cross-respondents are concurrent wrongdoers within the meaning of part via trade practices act 1974 (cth) and proportionate liability act 1990 (nt) irrespective of their legal liability to the applicant</catchphrase>
-<catchphrase "id=c4">whether common issues of fact between the claims weigh sufficiently against ordering separation of trials.</catchphrase>
-<catchphrase "id=c5">practice and procedure</catchphrase>
+<catchphrase >application for separate trials</catchphrase>
+<catchphrase >where defendant on originating process filed cross-claim against third party</catchphrase>
+<catchphrase >where third party filed several subsequent cross-claims</catchphrase>
+<catchphrase >whether various cross-respondents are concurrent wrongdoers within the meaning of part via trade practices act 1974 (cth) and proportionate liability act 1990 (nt) irrespective of their legal liability to the applicant</catchphrase>
+<catchphrase >whether common issues of fact between the claims weigh sufficiently against ordering separation of trials.</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -467,8 +467,8 @@
  4.130 
  ... 
  
- &#61863; Second, procedural rules associated with proportionate liability for economic loss are designed to provide the appropriate balance between the interests of plaintiffs and defendants.</sentence>
-<sentence id="s221">&#61863; It operates so that, in applying proportionate liability to a claim, a court should have regard to the responsibility of any potential defendant who is not a party to the proceedings.</sentence>
+ #61863; Second, procedural rules associated with proportionate liability for economic loss are designed to provide the appropriate balance between the interests of plaintiffs and defendants.</sentence>
+<sentence id="s221">#61863; It operates so that, in applying proportionate liability to a claim, a court should have regard to the responsibility of any potential defendant who is not a party to the proceedings.</sentence>
 <sentence id="s222">Further, it requires defendants to notify a plaintiff in writing of the identity and alleged role of any other potential defendants of whom they are aware would also provide protection to plaintiffs.</sentence>
 <sentence id="s223">Defendants who fail to co-operate would risk being ordered to pay costs.</sentence>
 <sentence id="s224">
@@ -485,8 +485,8 @@
  5.352 
  ... 
  
- &#61863; in applying proportionate liability to a claim, a Court will be able to have regard to the comparative responsibility of any wrongdoer who is not a party to the proceedings;
- &#61863; a defendant to a claim to which proportionate liability can apply, will be obliged to notify the plaintiff in writing, at the earliest possible time, of the identity and alleged role of any other person(s) of whom the defendant is aware, who could be held liable for the plaintiff's loss or any part of it.</sentence>
+ #61863; in applying proportionate liability to a claim, a Court will be able to have regard to the comparative responsibility of any wrongdoer who is not a party to the proceedings;
+ #61863; a defendant to a claim to which proportionate liability can apply, will be obliged to notify the plaintiff in writing, at the earliest possible time, of the identity and alleged role of any other person(s) of whom the defendant is aware, who could be held liable for the plaintiff's loss or any part of it.</sentence>
 <sentence id="s228">" 
  
  
@@ -721,7 +721,7 @@ Yeldham Lloyd Associates (10 August)
  Counsel for the 1 st Cross-Respondent/ 2 nd Cross-Claimant: Mr A Lazarevich (18 January, 13 July, 10 August)
 The 1 st Cross-Respondent did not appear 19 January 
  
- Solicitor for the 1 st Cross- Respondent/ 2 nd Cross-Claimant: Moray &amp; Agnew (18 January, 13 July, 10 August) 
+ Solicitor for the 1 st Cross- Respondent/ 2 nd Cross-Claimant: Moray amp; Agnew (18 January, 13 July, 10 August) 
  
  Counsel for the 2 nd Cross- Respondent Ms K Guazzelli (18, 19 January)
 The 2 nd Cross-Respondent did not appear (13 July and 10 August) 
@@ -744,7 +744,7 @@ The 4 th Cross-Respondent did not appear 10 August
  Counsel for the 5 th Cross- Respondent: Mr M Bostock (18 January)
 The 5 th Cross-Respondent did not appear 19 January, 13 July, 10 August 
  
- Solicitor for the 5 th Cross-Respondent Peter G Williams &amp; Associates (18 January) 
+ Solicitor for the 5 th Cross-Respondent Peter G Williams amp; Associates (18 January) 
  
  Counsel for the 6 th Cross- Respondent: Mr N Andreatidis (18 January)
 The 6 th Cross-Respondent did not appear 19 January, 13 July
@@ -772,4 +772,8 @@ The 6 th Cross-Respondent did not appear 19 January, 13 July
  
  </sentence>
 </sentences>
-</case>
+</case>/case>
+ 
+ </sentence>
+</sentences>
+</case>/case>

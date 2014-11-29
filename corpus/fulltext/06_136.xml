@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <case>
-<name>Australian Competition &amp; Consumer Commission v Visy Industries [2006] FCA 136 (23 February 2006)</name>
+<name>Australian Competition amp; Consumer Commission v Visy Industries [2006] FCA 136 (23 February 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/136.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">allegations of price fixing and market sharing arrangements contrary to pt iv of the trade practices act 1974 (cth)</catchphrase>
-<catchphrase "id=c1">immunity granted to other party to alleged arrangements (amcor)</catchphrase>
-<catchphrase "id=c2">confidentiality of contents of amcor documents</catchphrase>
-<catchphrase "id=c3">whether amcor documents referred to in amended statement of claim should be produced to respondents</catchphrase>
-<catchphrase "id=c4">procedural fairness</catchphrase>
-<catchphrase "id=c5">centrality of documents to case against respondents</catchphrase>
-<catchphrase "id=c6">use of documents produced to be restricted to proper purposes</catchphrase>
-<catchphrase "id=c7">harman undertaking implied</catchphrase>
-<catchphrase "id=c8">construction of s 157 of the trade practices act</catchphrase>
-<catchphrase "id=c9">relevance of amcor disclosing documents to accc</catchphrase>
-<catchphrase "id=c10">trade practices</catchphrase>
+<catchphrase >allegations of price fixing and market sharing arrangements contrary to pt iv of the trade practices act 1974 (cth)</catchphrase>
+<catchphrase >immunity granted to other party to alleged arrangements (amcor)</catchphrase>
+<catchphrase >confidentiality of contents of amcor documents</catchphrase>
+<catchphrase >whether amcor documents referred to in amended statement of claim should be produced to respondents</catchphrase>
+<catchphrase >procedural fairness</catchphrase>
+<catchphrase >centrality of documents to case against respondents</catchphrase>
+<catchphrase >use of documents produced to be restricted to proper purposes</catchphrase>
+<catchphrase >harman undertaking implied</catchphrase>
+<catchphrase >construction of s 157 of the trade practices act</catchphrase>
+<catchphrase >relevance of amcor disclosing documents to accc</catchphrase>
+<catchphrase >trade practices</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -39,48 +39,48 @@
 <sentence id="s16">7 To understand the issues that have arisen it is necessary to make brief reference to the amended statement of claim, a complex document extending to 134 pages.</sentence>
 <sentence id="s17">In par 19 it is alleged that in the period January to April 2000 Visy and Amcor reached an "Over-arching Understanding" which included provisions that 
  
-&#8226; Visy and Amcor would permit each other to maintain approximately their then current share of the CFP market, 
+#8226; Visy and Amcor would permit each other to maintain approximately their then current share of the CFP market, 
  
-&#8226; they would not seek to enter into contracts for the supply of CFP with each other's principal CFP customers, 
+#8226; they would not seek to enter into contracts for the supply of CFP with each other's principal CFP customers, 
  
-&#8226; if for one reason or another Visy did enter into a contract for the supply of CFP with a principal CFP customer of Amcor then Visy would not prevent Amcor from entering into a supply contract with a Visy customer in order to replace the share of the market that it had lost,
+#8226; if for one reason or another Visy did enter into a contract for the supply of CFP with a principal CFP customer of Amcor then Visy would not prevent Amcor from entering into a supply contract with a Visy customer in order to replace the share of the market that it had lost,
  
-&#8226; the converse would apply if Amcor entered into a contract with a principal customer of Visy,
+#8226; the converse would apply if Amcor entered into a contract with a principal customer of Visy,
  
-&#8226; Amcor would not offer to supply CFP to any customer or prospective customer at a price below approximately $1250 per tonne, 
+#8226; Amcor would not offer to supply CFP to any customer or prospective customer at a price below approximately $1250 per tonne, 
  
-&#8226; Visy would not offer to supply at any price below approximately $1150 per tonne,
+#8226; Visy would not offer to supply at any price below approximately $1150 per tonne,
  
-&#8226; Visy and Amcor would in future collaborate with each other to increase the prices at which they supplied CFP.</sentence>
+#8226; Visy and Amcor would in future collaborate with each other to increase the prices at which they supplied CFP.</sentence>
 <sentence id="s18">8 There then follow allegations of 17 instances in which arrangements were allegedly made which gave effect to the Over-arching Understanding either by agreeing on price increases or agreeing to swap or keep particular customers.</sentence>
-<sentence id="s19">By way of example, at pars 73-90 the amended statement of claim deals with what is called the "GFL &amp; Nestl&eacute; Price Understanding".</sentence>
+<sentence id="s19">By way of example, at pars 73-90 the amended statement of claim deals with what is called the "GFL amp; Nestleacute; Price Understanding".</sentence>
 <sentence id="s20">The allegations are as follows.</sentence>
-<sentence id="s21">9 Paragraph 73 : In early 2001 Visy and Amcor arrived at an understanding that Visy would not seek to enter into contracts for the supply of CFP to GFL and Nestl&eacute;, two of Amcor's principal customers, and that if GFL or Nestl&eacute; required Visy to provide a quote Visy would quote prices higher than the prices Amcor quoted to GFL and Nestl&eacute;.</sentence>
+<sentence id="s21">9 Paragraph 73 : In early 2001 Visy and Amcor arrived at an understanding that Visy would not seek to enter into contracts for the supply of CFP to GFL and Nestleacute;, two of Amcor's principal customers, and that if GFL or Nestleacute; required Visy to provide a quote Visy would quote prices higher than the prices Amcor quoted to GFL and Nestleacute;.</sentence>
 <sentence id="s22">This understanding was partly oral and partly to be implied.</sentence>
-<sentence id="s23">Insofar as it was oral it was arrived at in the course of conversations between Mr Carroll on behalf of Visy and Mr Laidlaw on behalf of Amcor at which Mr Laidlaw said to Mr Carroll "words to the effect that he understood that Visy was to 'cover' Amcor on the upcoming tenders for the GFL and Nestl&eacute; CFP accounts" and Mr Carroll said Mr Laidlaw's understanding was correct.</sentence>
+<sentence id="s23">Insofar as it was oral it was arrived at in the course of conversations between Mr Carroll on behalf of Visy and Mr Laidlaw on behalf of Amcor at which Mr Laidlaw said to Mr Carroll "words to the effect that he understood that Visy was to 'cover' Amcor on the upcoming tenders for the GFL and Nestleacute; CFP accounts" and Mr Carroll said Mr Laidlaw's understanding was correct.</sentence>
 <sentence id="s24">The understanding was also said to be implied from the conduct of Visy and Amcor alleged in pars 77-87.</sentence>
-<sentence id="s25">10 Paragraphs 74-76 allege the various ways in which the GFL &amp; Nestl&eacute; Price Understanding contravened the Trade Practices Act .</sentence>
+<sentence id="s25">10 Paragraphs 74-76 allege the various ways in which the GFL amp; Nestleacute; Price Understanding contravened the Trade Practices Act .</sentence>
 <sentence id="s26">11 Paragraph 77 : In March-April 2001 Mr Carroll and Mr Laidlaw had a discussion in which Mr Carroll said Visy was not interested in picking up the GFL account.</sentence>
 <sentence id="s27">Mr Laidlaw provided Mr Carroll with some of Amcor's proposed average dollars per tonne prices for its tender for the GFL account and Mr Carroll said that Visy, in its tender to GFL, would quote prices above the prices provided by Mr Laidlaw.</sentence>
 <sentence id="s28">12 Paragraph 78 : On about 11 April 2001 Visy submitted a tender proposal to supply CFP to GFL.</sentence>
 <sentence id="s29">13 Paragraph 79 : On about 27 April 2001 Amcor provided a tender proposal to supply CFP to GFL.</sentence>
 <sentence id="s30">14 Paragraph 80 : On about 21 May 2001 Mr Pratt and Mr Jones of Amcor had a meeting at the All Nations Hotel in Richmond at which, amongst other things, Mr Jones asked Mr Pratt to confirm that there was an arrangement in place which "involved the prevention of major market share shifts".</sentence>
-<sentence id="s31">Mr Jones said he needed to know that Visy would honour the arrangement and that Visy would not try to take the GFL and Nestl&eacute; accounts away from Amcor.</sentence>
+<sentence id="s31">Mr Jones said he needed to know that Visy would honour the arrangement and that Visy would not try to take the GFL and Nestleacute; accounts away from Amcor.</sentence>
 <sentence id="s32">Mr Pratt confirmed this.</sentence>
 <sentence id="s33">15 Paragraph 81 : In Visy's tender proposal (par 78) and Amcor's tender proposal (par 79) (a) Visy's prices were higher than Amcor's prices and/or (b) GFL "held the belief" that Visy's prices were higher than Amcor's prices.</sentence>
 <sentence id="s34">16 Paragraph 82 : On 8 June 2001 Amcor reached "informal agreement" with GFL for Amcor to supply CFP to GFL.</sentence>
 <sentence id="s35">17 Paragraph 83 : On 23 November 2001 Amcor and GFL entered into a written agreement for Amcor to supply CFP.</sentence>
-<sentence id="s36">18 Paragraph 84 : Between June 2001 and February 2002 Amcor and Nestl&eacute; were involved in negotiations for a new CFP supply agreement in which Amcor sought to obtain an increase of approximately 54 per cent.</sentence>
-<sentence id="s37">19 Paragraph 85 : Between July 2001 and February 2002 Mr Carroll and Mr Laidlaw discussed the Nestl&eacute; account.</sentence>
+<sentence id="s36">18 Paragraph 84 : Between June 2001 and February 2002 Amcor and Nestleacute; were involved in negotiations for a new CFP supply agreement in which Amcor sought to obtain an increase of approximately 54 per cent.</sentence>
+<sentence id="s37">19 Paragraph 85 : Between July 2001 and February 2002 Mr Carroll and Mr Laidlaw discussed the Nestleacute; account.</sentence>
 <sentence id="s38">Mr Carroll said that Visy's negotiations had not progressed and expected Amcor to retain the account.</sentence>
-<sentence id="s39">20 Paragraph 86 : On about 11 February 2002 Amcor reached an informal agreement with Nestl&eacute; for a 37 per cent price increase without Nestl&eacute; seeking a formal proposal from Visy.</sentence>
-<sentence id="s40">21 Paragraph 87 : On 23 December 2002 Amcor and Nestl&eacute; entered into a written supply agreement.</sentence>
-<sentence id="s41">22 Paragraph 88 : Visy engaged in the conduct alleged in pars 77, 78, 80 and 85 pursuant to the Over-arching Understanding and/or the GFL &amp; Nestl&eacute; Price Understanding.</sentence>
+<sentence id="s39">20 Paragraph 86 : On about 11 February 2002 Amcor reached an informal agreement with Nestleacute; for a 37 per cent price increase without Nestleacute; seeking a formal proposal from Visy.</sentence>
+<sentence id="s40">21 Paragraph 87 : On 23 December 2002 Amcor and Nestleacute; entered into a written supply agreement.</sentence>
+<sentence id="s41">22 Paragraph 88 : Visy engaged in the conduct alleged in pars 77, 78, 80 and 85 pursuant to the Over-arching Understanding and/or the GFL amp; Nestleacute; Price Understanding.</sentence>
 <sentence id="s42">23 Paragraphs 89 and 90 allege various contraventions of the Trade Practices Act .</sentence>
-<sentence id="s43">24 For present purposes the documents in dispute are those referred to in par 83 (the Amcor/GFL supply agreement) and par 87 (the Amcor/Nestl&eacute; supply agreement).</sentence>
+<sentence id="s43">24 For present purposes the documents in dispute are those referred to in par 83 (the Amcor/GFL supply agreement) and par 87 (the Amcor/Nestleacute; supply agreement).</sentence>
 <sentence id="s44">25 As to the Amcor/GFL supply agreement the information said to be confidential includes two clauses, 3.2 and 3.3, and also price figures and formulae.</sentence>
 <sentence id="s45">Amcor says the content of the clauses cannot be described because the commercial secrecy arises from the fact that such clauses exist in the agreement.</sentence>
-<sentence id="s46">As to the Amcor/Nestl&eacute; supply agreement, the information said to be confidential consists of certain figures including current annual sales and proposed annual sales.</sentence>
+<sentence id="s46">As to the Amcor/Nestleacute; supply agreement, the information said to be confidential consists of certain figures including current annual sales and proposed annual sales.</sentence>
 <sentence id="s47">26 In support of Amcor's case Mr Paul Ward, its General Manager Sales and Marketing, deposed that information of the kind mentioned would enable Visy "to calculate with significant accuracy (or at least with reasonable accuracy)" Amcor's pricing to customers.</sentence>
 <sentence id="s48">This would place the Visy group in a position of commercial advantage at a time when supply arrangements became open to renegotiation.</sentence>
 <sentence id="s49">Also he says that in a typical supply contract there is a specified base price and variations.</sentence>
@@ -89,7 +89,7 @@
 <sentence id="s52">27 The Visy respondents filed an affidavit by their solicitor, Mr Robert Heathcote of Arnold Bloch Leibler.</sentence>
 <sentence id="s53">Mr Heathcote deposed as to his belief in certain features of the conduct of the CFP market from information supplied by Mr Debney.</sentence>
 <sentence id="s54">As to the term of agreements, Mr Heathcote says that the term of a current arrangement between Amcor and one of its customers is information generally available to Visy either as a result of previous tenders or proposals made on behalf of Visy to those customers or often because customers provide that information to Visy to create competitive tension in a tender process.</sentence>
-<sentence id="s55">An example of this is the disclosure in relation to the term of the Amcor/Nestl&eacute; agreement, a matter already known to Visy.</sentence>
+<sentence id="s55">An example of this is the disclosure in relation to the term of the Amcor/Nestleacute; agreement, a matter already known to Visy.</sentence>
 <sentence id="s56">28 As to the question of price, Mr Heathcote says that the initial price and pricing variations during the term of a contract are only some of the factors that customers take into account in assessing competing proposals to determine the overall costs and benefits of a contract.</sentence>
 <sentence id="s57">Other relevant factors include the following variables:
  
@@ -148,7 +148,7 @@
 <sentence id="s70">Allegations in the amended statement of claim itself indicate that this may be so in the present case.</sentence>
 <sentence id="s71">As has been mentioned, the alleged Over-arching Understanding includes a provision that the minimum price for supply by Amcor was to be $1250 and the price for Visy $1150.</sentence>
 <sentence id="s72">The particulars sub-joined to that paragraph include (sub-par (b)(ii)(B)(6)) an allegation that Mr Debney said to Mr Brown of Amcor that the price for Visy should be lower "having regard to Visy's different cost structure and different product mix".</sentence>
-<sentence id="s73">Another example is in the case of the alleged GFL &amp; Nestle Price Understanding.</sentence>
+<sentence id="s73">Another example is in the case of the alleged GFL amp; Nestle Price Understanding.</sentence>
 <sentence id="s74">Paragraph 81 alleges that in relation to the prices proposed to GFL by Visy and Amcor, Visy's prices were higher than Amcor's prices "and/or GFL held the belief that Visy's prices were higher than Amcor's prices".</sentence>
 <sentence id="s75">This rather suggests that GFL engaged in some form of analysis going beyond a comparison of two dollar figures.</sentence>
 <sentence id="s76">Similar allegations are made in relation to the understandings involving other customers.</sentence>
@@ -218,5 +218,13 @@ Dated: 23 February 2006
  URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/136.html 
  
  </sentence>
+</sentences>
+</case>ntence>
+</sentences>
+</case>2006/136.html 
+ 
+ </sentence>
+</sentences>
+</case>ntence>
 </sentences>
 </case>

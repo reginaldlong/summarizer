@@ -3,13 +3,13 @@
 <name>Elderslie Finance Corporation Limited v Newpage Pty Ltd (No 6) [2007] FCA 1030 (8 June 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1030.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">approval of compromise on application by liquidator under s 477(2a) of the corporations act 2001 (cth)</catchphrase>
-<catchphrase "id=c1">necessity of liquidator's obtaining court's approval and jurisdiction of court to grant approval</catchphrase>
-<catchphrase "id=c2">meaning of expression " a debt to the company" in s 477(2a)</catchphrase>
-<catchphrase "id=c3">whether order should be made that compromise remain confidential. held: (1) claim based on voidable transaction was not "a debt to the company" but claim of a loan by the company was; (2) a suppression order in relation to terms of compromise should be made.</catchphrase>
-<catchphrase "id=c4">" debt ", " a debt to the company ".</catchphrase>
-<catchphrase "id=c5">corporations</catchphrase>
-<catchphrase "id=c6">words and phrases</catchphrase>
+<catchphrase >approval of compromise on application by liquidator under s 477(2a) of the corporations act 2001 (cth)</catchphrase>
+<catchphrase >necessity of liquidator's obtaining court's approval and jurisdiction of court to grant approval</catchphrase>
+<catchphrase >meaning of expression " a debt to the company" in s 477(2a)</catchphrase>
+<catchphrase >whether order should be made that compromise remain confidential. held: (1) claim based on voidable transaction was not "a debt to the company" but claim of a loan by the company was; (2) a suppression order in relation to terms of compromise should be made.</catchphrase>
+<catchphrase >" debt ", " a debt to the company ".</catchphrase>
+<catchphrase >corporations</catchphrase>
+<catchphrase >words and phrases</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -110,7 +110,7 @@ Plainly, the power to compromise described in s 477(1)(d) is a wide one.</senten
 <sentence id="s68">It can be just as important to decide that a compromised claim is not one of a debt to the company as to decide that it is.</sentence>
 <sentence id="s69">In Spalla v St George Motor Finance Ltd (No 7) [2006] FCA 1177 , for example, a challenge was made to a compromise entered into by a liquidator on the ground that approval under s 477(2A) had not been obtained, and Kenny J had no hesitation in holding that the submission failed because it was "based on a misunderstanding as to what constitutes a 'debt' under the relevant section" (at [143]).</sentence>
 <sentence id="s70">21 The history of the requirement that certain compromises by liquidators be approved by the Court, by the committee of inspection or by a resolution of the creditors was referred to by Moynihan J in Re Luxtrend Pty Ltd (in liq) [1997] 2 Qd R 86 ( Luxtrend ) at 87.</sentence>
-<sentence id="s71">The position under the 1961-62 cooperative r&eacute;gime and under the 1981 cooperative "Code" scheme, as well as under the Corporations Law in its original form in 1991, made the liquidator's power of compromise generally subject to a requirement of the approval of creditors or of the court, subject to an exception in the case of a debt of not more than a certain monetary limit: see ss 236(1)(d) and 236(2)(i) of the Companies Act 1961 (NSW) (in which the monetary figure was &#8356;300), ss 377(1)(d) and 377(2)(j) of the Companies Code (in which the monetary limit was $20,000), and ss 477(1)(d) and 477(2)(j) of the Corporations Law in their original form (where, again, the monetary limit was $20,000, and compromises of debts to the company being calls and liabilities for calls also required approval regardless of the amount).</sentence>
+<sentence id="s71">The position under the 1961-62 cooperative reacute;gime and under the 1981 cooperative "Code" scheme, as well as under the Corporations Law in its original form in 1991, made the liquidator's power of compromise generally subject to a requirement of the approval of creditors or of the court, subject to an exception in the case of a debt of not more than a certain monetary limit: see ss 236(1)(d) and 236(2)(i) of the Companies Act 1961 (NSW) (in which the monetary figure was #8356;300), ss 377(1)(d) and 377(2)(j) of the Companies Code (in which the monetary limit was $20,000), and ss 477(1)(d) and 477(2)(j) of the Corporations Law in their original form (where, again, the monetary limit was $20,000, and compromises of debts to the company being calls and liabilities for calls also required approval regardless of the amount).</sentence>
 <sentence id="s72">That is to say, the position was structurally the converse of the present one.</sentence>
 <sentence id="s73">22 It was s 73 of the Corporate Law Reform Act 1992 (Cth) (No 210, 1992) that amended s 477 of the Corporations Law by omitting the general requirement of approval.</sentence>
 <sentence id="s74">An exposure draft of the Bill for that Act and an Explanatory Paper were released early in 1992.</sentence>
@@ -175,7 +175,7 @@ On any reckoning, the second claim is a claim of a "debt to the company" within 
 <sentence id="s121">Section 50 of the Federal Court of Australia Act 1976 (Cth) provides that the Court may make an order forbidding or restricting the publication of particular evidence, as appears to the Court to be necessary in order to prevent prejudice to the administration of justice.</sentence>
 <sentence id="s122">43 Applications by liquidators for confidentiality orders in respect of compromises for which they have sought Court approval have been considered in McGrath re HIH Insurance Ltd [2005] NSWSC 731 and Re JN Taylor Holdings Ltd (in liq) [2007] SASC 193.</sentence>
 <sentence id="s123">The administration of justice, including the just and efficient winding up of a company, requires that proper compromises be facilitated rather than obstructed.</sentence>
-<sentence id="s124">Apart from the requirement of leave, Mr Hamilton would have been entitled to bargain for and reach agreement upon a confidentiality r&eacute;gime in respect of the compromise that he has reached with Mr Parsons and CBI.</sentence>
+<sentence id="s124">Apart from the requirement of leave, Mr Hamilton would have been entitled to bargain for and reach agreement upon a confidentiality reacute;gime in respect of the compromise that he has reached with Mr Parsons and CBI.</sentence>
 <sentence id="s125">He and they would have been entitled, in particular, to preserve their negotiations and agreement against disclosure to Mr Yii.</sentence>
 <sentence id="s126">44 The evidence shows that without prejudice meetings have been held between the legal representatives of the parties.</sentence>
 <sentence id="s127">It would discourage the negotiation of compromises if liquidators knew that all their negotiations and compromise agreements were to be made public, a fortiori in a case such as the present one in which there is an ongoing claim by the liquidator and the company in liquidation to recover from another party.</sentence>
@@ -213,4 +213,8 @@ Mr G D Wendler
  
  </sentence>
 </sentences>
-</case>
+</case>se>1030.html 
+ 
+ </sentence>
+</sentences>
+</case>se>

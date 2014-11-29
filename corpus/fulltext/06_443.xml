@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <case>
-<name>SZGTE v Minister for Immigration &amp; Multicultural Affairs [2006] FCA 443 (24 April 2006)</name>
+<name>SZGTE v Minister for Immigration amp; Multicultural Affairs [2006] FCA 443 (24 April 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/443.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">tribunal not satisfied that appellant was a genuine falun gong practitioner</catchphrase>
-<catchphrase "id=c1">no jurisdictional error</catchphrase>
-<catchphrase "id=c2">erroneous exercise of discretion in respect of amendment application due to reliance on a mistaken view of facts</catchphrase>
-<catchphrase "id=c3">appellate court substituting its own decision on the application</catchphrase>
-<catchphrase "id=c4">migration</catchphrase>
-<catchphrase "id=c5">federal magistrates court</catchphrase>
+<catchphrase >tribunal not satisfied that appellant was a genuine falun gong practitioner</catchphrase>
+<catchphrase >no jurisdictional error</catchphrase>
+<catchphrase >erroneous exercise of discretion in respect of amendment application due to reliance on a mistaken view of facts</catchphrase>
+<catchphrase >appellate court substituting its own decision on the application</catchphrase>
+<catchphrase >migration</catchphrase>
+<catchphrase >federal magistrates court</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -541,7 +541,7 @@
 <sentence id="s186">It is clear from her Honour's reasons for judgment that she undertook an appropriate balancing of the interests of the respective parties in determining what she considered justice required.</sentence>
 <sentence id="s187">Having said that, it seems to me that her Honour did take a mistaken view of the facts, erroneously concluding that the Respondent Minister only had two clear working days to address the proposed Further Amended Application when, in truth, at least four clear working days were available.</sentence>
 <sentence id="s188">In the circumstances, the exercise of her Honour's discretion miscarried and it falls to this Court to determine what, in the circumstances, should have been the appropriate determination upon the application for leave to further amend the appellant's application in the Federal Magistrates Court.</sentence>
-<sentence id="s189">39 In VUAX v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs ('VUAX') [2004] FCAFC 158 the Court observed at [48]:
+<sentence id="s189">39 In VUAX v Minister for Immigration amp; Multicultural amp; Indigenous Affairs ('VUAX') [2004] FCAFC 158 the Court observed at [48]:
  
  'The practice of raising arguments for the first time before the Full Court has been particularly prevalent in appeals relating to migration matters.</sentence>
 <sentence id="s190">The Court may grant leave if some point that was not taken below, but which clearly has merit, is advanced, and there is no real prejudice to the respondent in permitting it to be agitated.</sentence>
@@ -549,7 +549,7 @@
 <sentence id="s192">' 
  
 
-40 This passage from VUAX was cited with approval by Madgwick J in NAJT v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2005] FCAFC 134 at [163] , upon which, inter alia, the Appellant in the present proceedings relied.</sentence>
+40 This passage from VUAX was cited with approval by Madgwick J in NAJT v Minister for Immigration amp; Multicultural amp; Indigenous Affairs [2005] FCAFC 134 at [163] , upon which, inter alia, the Appellant in the present proceedings relied.</sentence>
 <sentence id="s193">41 Whilst the question of whether leave should be granted to allow an amendment of an application, late in the day, is not the same as the question whether an appellant should be allowed to raise fresh points on the hearing of an appeal in a migration matter, nevertheless there is sufficient correspondence between the two situations to render the above observations relevant.</sentence>
 <sentence id="s194">42 Whilst case management considerations should never be seen to be paramount when evaluating the competing interests to determine what justice requires, it would not be inappropriate for a court, faced with a late application for leave to amend, to have regard to the consequences of an adjournment that may be necessitated were leave to amend to be granted.</sentence>
 <sentence id="s195">Not only might an adjournment lead to considerable further delay in finalising the overall review process, the community interest in the costs thrown away as a result of such an adjournment should not be overlooked where the party seeking the amendment proposes to abandon grounds formulated in an earlier amended application and substitute an entirely new set of grounds.</sentence>
@@ -653,4 +653,8 @@ Dated: 24 April 2006
  
  </sentence>
 </sentences>
-</case>
+</case>case> 
+ 
+ </sentence>
+</sentences>
+</case>case>

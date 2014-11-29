@@ -3,11 +3,11 @@
 <name>Tey v Commissioner of Taxation [2006] FCA 1237 (4 September 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1237.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from decision of aat affirming respondent's decision to not remit penalty imposed</catchphrase>
-<catchphrase "id=c1">no question of law</catchphrase>
-<catchphrase "id=c2">incompetent appeal</catchphrase>
-<catchphrase "id=c3">appeal dismissed.</catchphrase>
-<catchphrase "id=c4">administrative law</catchphrase>
+<catchphrase >appeal from decision of aat affirming respondent's decision to not remit penalty imposed</catchphrase>
+<catchphrase >no question of law</catchphrase>
+<catchphrase >incompetent appeal</catchphrase>
+<catchphrase >appeal dismissed.</catchphrase>
+<catchphrase >administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -80,7 +80,7 @@
  The decision of the Tribunal made no mention of substantial evidence provided by the Applicant.</sentence>
 <sentence id="s39">
  
- There was no tax payable by the Applicant for years 2001 &amp; 2003.</sentence>
+ There was no tax payable by the Applicant for years 2001 amp; 2003.</sentence>
 <sentence id="s40">' 
  
  On 7 March 2006 Lee J ordered the applicant to file particulars of grounds of appeal by 28 March 2006.</sentence>
@@ -144,4 +144,7 @@ Dated: 14 September 2006
  
  </sentence>
 </sentences>
-</case>
+</case>>
+ </sentence>
+</sentences>
+</case>>

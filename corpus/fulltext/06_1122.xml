@@ -3,12 +3,12 @@
 <name>Marchesi v Apostoulou [2006] FCA 1122 (23 August 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1122.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">whether bankrupt beneficial owner of properties</catchphrase>
-<catchphrase "id=c1">whether gift of properties to family trust perfected</catchphrase>
-<catchphrase "id=c2">whether bankrupt did all that was necessary to be done in order to transfer properties and render settlement binding upon him</catchphrase>
-<catchphrase "id=c3">significance of absence of evidence that consent of mortgagees had been obtained</catchphrase>
-<catchphrase "id=c4">bankruptcy</catchphrase>
-<catchphrase "id=c5">equity</catchphrase>
+<catchphrase >whether bankrupt beneficial owner of properties</catchphrase>
+<catchphrase >whether gift of properties to family trust perfected</catchphrase>
+<catchphrase >whether bankrupt did all that was necessary to be done in order to transfer properties and render settlement binding upon him</catchphrase>
+<catchphrase >significance of absence of evidence that consent of mortgagees had been obtained</catchphrase>
+<catchphrase >bankruptcy</catchphrase>
+<catchphrase >equity</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -27,7 +27,7 @@
  
  3 The circumstances surrounding the putative gift to the family trust are as follows.</sentence>
 <sentence id="s10">In August 1987, the bankrupt decided to create a family trust.</sentence>
-<sentence id="s11">He arranged for a firm of solicitors, Coady Dwyer &amp; Associates, to provide a shelf company that would be the trustee of the family trust, and to prepare a deed of trust.</sentence>
+<sentence id="s11">He arranged for a firm of solicitors, Coady Dwyer amp; Associates, to provide a shelf company that would be the trustee of the family trust, and to prepare a deed of trust.</sentence>
 <sentence id="s12">The name of the shelf company was Optquest Pty Ltd.</sentence>
 <sentence id="s13">The bankrupt and his wife were the directors and shareholders of that company.</sentence>
 <sentence id="s14">The deed of trust was dated 12 August 1987.</sentence>
@@ -63,7 +63,7 @@
 <sentence id="s44">
  THE RELEVANT LEGAL PRINCIPLES 
  
- 13 The seminal case dealing with the circumstances in which equity will recognise the assignment of property without consideration is Milroy v Lord (1862) 4 De GF &amp; J 264.</sentence>
+ 13 The seminal case dealing with the circumstances in which equity will recognise the assignment of property without consideration is Milroy v Lord (1862) 4 De GF amp; J 264.</sentence>
 <sentence id="s45">The test laid down by Turner LJ was in the following terms (at 274): 
  
  "I take the law of this Court to be well settled, that, in order to render a voluntary settlement valid and effectual, the settler must have done everything which, according to the nature of the property comprised in the settlement, was necessary to be done in order to transfer the property and render the settlement binding upon him.</sentence>
@@ -171,7 +171,7 @@
 <sentence id="s110">30 On the third, and final, day of the hearing Mr Dwyer was called to give evidence by the bankrupt.</sentence>
 <sentence id="s111">What he had to say was of considerable importance.</sentence>
 <sentence id="s112">31 Mr Dwyer has been a solicitor for 34 years.</sentence>
-<sentence id="s113">He has practised as a sole practitioner since 1989 and, prior to that, was a partner with Coady Dwyer &amp; Associates.</sentence>
+<sentence id="s113">He has practised as a sole practitioner since 1989 and, prior to that, was a partner with Coady Dwyer amp; Associates.</sentence>
 <sentence id="s114">32 Mr Dwyer recalled having been retained to set up a family trust for the bankrupt in the mid-1980s.</sentence>
 <sentence id="s115">He did not dispute that 1987 was the relevant year.</sentence>
 <sentence id="s116">While Mr Dwyer did not precisely recall preparing the family trust documentation (unsurprisingly, given that the documents were prepared almost twenty years ago), he did identify the deed of trust being in the standard form which he would have used at about that time.</sentence>
@@ -335,4 +335,8 @@ Dated: 23 August 2006
  
  </sentence>
 </sentences>
-</case>
+</case>se>ml 
+ 
+ </sentence>
+</sentences>
+</case>se>

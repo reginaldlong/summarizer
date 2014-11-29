@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <case>
-<name>Coleman v Minister for Immigration &amp; Citizenship [2007] FCA 1500 (27 September 2007)</name>
+<name>Coleman v Minister for Immigration amp; Citizenship [2007] FCA 1500 (27 September 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1500.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">cancellation of visa on character grounds</catchphrase>
-<catchphrase "id=c1">unlawful imprisonment</catchphrase>
-<catchphrase "id=c2">whether officer knows or reasonably suspects person is unlawful non-citizen</catchphrase>
-<catchphrase "id=c3">motion for dismissal of application</catchphrase>
-<catchphrase "id=c4">no reasonable cause of action</catchphrase>
-<catchphrase "id=c5">no reasonable prospects of successfully prosecuting application</catchphrase>
-<catchphrase "id=c6">retrospective operation of judicial lawmaking</catchphrase>
-<catchphrase "id=c7">migration law</catchphrase>
-<catchphrase "id=c8">practice &amp; procedure</catchphrase>
+<catchphrase >cancellation of visa on character grounds</catchphrase>
+<catchphrase >unlawful imprisonment</catchphrase>
+<catchphrase >whether officer knows or reasonably suspects person is unlawful non-citizen</catchphrase>
+<catchphrase >motion for dismissal of application</catchphrase>
+<catchphrase >no reasonable cause of action</catchphrase>
+<catchphrase >no reasonable prospects of successfully prosecuting application</catchphrase>
+<catchphrase >retrospective operation of judicial lawmaking</catchphrase>
+<catchphrase >migration law</catchphrase>
+<catchphrase >practice amp; procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -19,7 +19,7 @@
  
 1 This is an application brought by the respondents (the applicants on the notice of motion, hereafter "the respondents") for dismissal of the applicant's application pursuant to either or both of the following: Order 20 rule 4 (previously Order 20 rule 2) of the Federal Court Rules (no reasonable cause of action disclosed) and s 31A of the Federal Court of Australia Act 1976 (Cth) (no reasonable prospect of successfully prosecuting the proceeding).</sentence>
 <sentence id="s1">2 The applicant is the executrix of the estate of Gerard William Coleman who died on 17 March 2006.</sentence>
-<sentence id="s2">The applicant claims Mr Coleman was falsely imprisoned in the period 25 February 2003 (when he was first detained) to 9 December 2003 (when Shaw v Minister for Immigration &amp; Multicultural Affairs [2003] HCA 72 ; (2003) 218 CLR 28 was decided by the High Court of Australia): paras 28 and 29 of the Further Amended Statement of Claim ("the FASC").</sentence>
+<sentence id="s2">The applicant claims Mr Coleman was falsely imprisoned in the period 25 February 2003 (when he was first detained) to 9 December 2003 (when Shaw v Minister for Immigration amp; Multicultural Affairs [2003] HCA 72 ; (2003) 218 CLR 28 was decided by the High Court of Australia): paras 28 and 29 of the Further Amended Statement of Claim ("the FASC").</sentence>
 <sentence id="s3">BACKGROUND 
  
 3 The background facts are not in dispute and are relevantly set out in the respondents' written submissions as follows:
@@ -271,10 +271,10 @@ there is no doubt, in my view, that counsel for the applicant was correct in res
 <sentence id="s85">From that time on, so the argument went, Mr Coleman's continued detention until 9 December 2003 (when the High Court handed down its decision in Shaw ) was, in the face of the decision of the High Court in Re Patterson , unlawful in that the detaining authority was, from that time on, on notice that Mr Coleman first arrived in Australia on 30 October 1967 and it could no longer reasonably suspect Mr Coleman of being an unlawful non-citizen.</sentence>
 <sentence id="s86">11 This argument has a number of hurdles in the way of raising unlawful detention to a level of being a cause of action with reasonable prospects of success:
  
- (1) First, as Gleeson CJ, Gummow, Hayne and Heydon JJ observed in Ruddock v Taylor at [40], a majority of the High Court in Shaw held that Re Patterson is not to be understood as overruling Nolan v Minister for Immigration &amp; Ethnic Affairs [1988] HCA 45 ; (1988) 165 CLR 178, but even it were to be so understood --- "... what were reasonable grounds for effecting the respondent's detention did not retrospectively cease to be reasonable upon the Court making its orders in Patterson or upon the Court later publishing its reasons in that case.</sentence>
+ (1) First, as Gleeson CJ, Gummow, Hayne and Heydon JJ observed in Ruddock v Taylor at [40], a majority of the High Court in Shaw held that Re Patterson is not to be understood as overruling Nolan v Minister for Immigration amp; Ethnic Affairs [1988] HCA 45 ; (1988) 165 CLR 178, but even it were to be so understood --- "... what were reasonable grounds for effecting the respondent's detention did not retrospectively cease to be reasonable upon the Court making its orders in Patterson or upon the Court later publishing its reasons in that case.</sentence>
 <sentence id="s87">... Patterson said nothing about the validity of s 189.</sentence>
 <sentence id="s88">"
- (2) Second, as noted by the majority in Shaw (at [35]), in Re Minister for Immigration &amp; Multicultural Affairs; Ex parte Te [2002] HCA 48 ; (2002) 212 CLR 162 four members of the High Court agreed that there was no single strain of reasoning in the majority judgments in Re Patterson which contains a binding statement of constitutional principle and that there were differing views in the majority as to what were the facts material to the decision.</sentence>
+ (2) Second, as noted by the majority in Shaw (at [35]), in Re Minister for Immigration amp; Multicultural Affairs; Ex parte Te [2002] HCA 48 ; (2002) 212 CLR 162 four members of the High Court agreed that there was no single strain of reasoning in the majority judgments in Re Patterson which contains a binding statement of constitutional principle and that there were differing views in the majority as to what were the facts material to the decision.</sentence>
 <sentence id="s89">One of those four Justices, McHugh J, concluded that Re Patterson had no precedent value beyond its own facts.</sentence>
 <sentence id="s90">A little later (at [39]) the majority said:
  "That case [Re Patterson] henceforth should be regarded as authority for what it decided respecting s 64 of the Constitution and the constructive failure in the exercise of jurisdiction by the Minister.</sentence>
@@ -318,4 +318,8 @@ Dated: 27 September 2007
  
  </sentence>
 </sentences>
-</case>
+</case>case>th/FCA/2007/1500.html 
+ 
+ </sentence>
+</sentences>
+</case>case>

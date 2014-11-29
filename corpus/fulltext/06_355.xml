@@ -3,9 +3,9 @@
 <name>Dana Australia (Holdings) Pty Ltd, in the matter of Dana Australia (Holdings) Pty Ltd [2006] FCA 355 (11 April 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/355.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">extension of times fixed by class order</catchphrase>
-<catchphrase "id=c1">whether permissible under s 1322(4)(d)</catchphrase>
-<catchphrase "id=c2">corporations</catchphrase>
+<catchphrase >extension of times fixed by class order</catchphrase>
+<catchphrase >whether permissible under s 1322(4)(d)</catchphrase>
+<catchphrase >corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -94,7 +94,7 @@ Dated: 11 April 2006
 
  Counsel for the Plaintiffs: I Jones 
  
- Solicitor for the Plaintiffs: Hunt &amp; Hunt 
+ Solicitor for the Plaintiffs: Hunt amp; Hunt 
  
  Date of Hearing: 14 February 2006 
  
@@ -110,4 +110,5 @@ Dated: 11 April 2006
  
  </sentence>
 </sentences>
-</case>
+</case>></sentences>
+</case>>

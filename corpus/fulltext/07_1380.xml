@@ -3,13 +3,13 @@
 <name>Gittins v Repatriation Commission [2007] FCA 1380 (30 August 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1380.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from decision of federal magistrates court of australia</catchphrase>
-<catchphrase "id=c1">pension entitlement for dependent spouse of veteran</catchphrase>
-<catchphrase "id=c2">non-hodgkin's lymphoma</catchphrase>
-<catchphrase "id=c3">whether reasonable hypothesis connecting veteran's death and service</catchphrase>
-<catchphrase "id=c4">application of principles relevant to analysis</catchphrase>
-<catchphrase "id=c5">no error of law.</catchphrase>
-<catchphrase "id=c6">administrative law</catchphrase>
+<catchphrase >appeal from decision of federal magistrates court of australia</catchphrase>
+<catchphrase >pension entitlement for dependent spouse of veteran</catchphrase>
+<catchphrase >non-hodgkin's lymphoma</catchphrase>
+<catchphrase >whether reasonable hypothesis connecting veteran's death and service</catchphrase>
+<catchphrase >application of principles relevant to analysis</catchphrase>
+<catchphrase >no error of law.</catchphrase>
+<catchphrase >administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -38,14 +38,14 @@
 <sentence id="s17">7 According to the Full Court of this Court in Repatriation Commission v Deledio (1998) 83 FCR 82 at 97-98, a four step process is required under ss120 and 120A of the Act to determine if an injury or death is war-caused.</sentence>
 <sentence id="s18">These four steps can be summarised as: 
  
- &#8226; the material before the Tribunal is to be examined to see if it points to a hypothesis connecting the death with the circumstance of the veteran's service.</sentence>
+ #8226; the material before the Tribunal is to be examined to see if it points to a hypothesis connecting the death with the circumstance of the veteran's service.</sentence>
 <sentence id="s19">In the absence of a hypothesis, the claim fails;
- &#8226; if the material does raise a hypothesis, the Tribunal must see if there is a Statement of Principles (SoP) in force.</sentence>
+ #8226; if the material does raise a hypothesis, the Tribunal must see if there is a Statement of Principles (SoP) in force.</sentence>
 <sentence id="s20">If there is no SoP in force that fits the hypothesis, it will be taken to not be reasonable and the claim fails; 
- &#8226; if an SoP is in force relevant to the hypothesis, the Tribunal will consider if the hypothesis is reasonable.</sentence>
+ #8226; if an SoP is in force relevant to the hypothesis, the Tribunal will consider if the hypothesis is reasonable.</sentence>
 <sentence id="s21">If the hypothesis is consistent with the template found in the SoP, the hypothesis is reasonable.</sentence>
 <sentence id="s22">If the hypothesis fails to fit within the template, the claim fails; 
- &#8226; the Tribunal must then consider whether it is satisfied beyond all reasonable doubt that the death was not war-caused.</sentence>
+ #8226; the Tribunal must then consider whether it is satisfied beyond all reasonable doubt that the death was not war-caused.</sentence>
 <sentence id="s23">If it is not so satisfied, the claim succeeds.</sentence>
 <sentence id="s24">If it is so satisfied, the claim fails.</sentence>
 <sentence id="s25">
@@ -76,13 +76,13 @@
 
 13 The Tribunal found:
  
- &#8226; Mr Gittins died from non-Hodgkin's lymphoma;
- &#8226; Mr Gittins suffered from this disease for up to two years before his death;
- &#8226; there was material before it pointing to a hypothesis connecting the death with war service;
- &#8226; the hypothesis was that Mr Gittins was unable to obtain appropriate clinical management for his lymphoma;
- &#8226; there was an SoP in force relevant to such a hypothesis --- SoP 37 of 2003; 
- &#8226; the hypothesis was not consistent with the template found in the SoP because of the lack of evidence that Mr Gittins had contracted the disease before his operational service; and
- &#8226; as the hypothesis failed to fit the template of the SoP, the claim could not succeed.</sentence>
+ #8226; Mr Gittins died from non-Hodgkin's lymphoma;
+ #8226; Mr Gittins suffered from this disease for up to two years before his death;
+ #8226; there was material before it pointing to a hypothesis connecting the death with war service;
+ #8226; the hypothesis was that Mr Gittins was unable to obtain appropriate clinical management for his lymphoma;
+ #8226; there was an SoP in force relevant to such a hypothesis --- SoP 37 of 2003; 
+ #8226; the hypothesis was not consistent with the template found in the SoP because of the lack of evidence that Mr Gittins had contracted the disease before his operational service; and
+ #8226; as the hypothesis failed to fit the template of the SoP, the claim could not succeed.</sentence>
 <sentence id="s33">
 
 14 The Tribunal then considered the second hypothesis raised on behalf of Mrs Gittins.</sentence>
@@ -204,4 +204,10 @@ Dated: 30 August 2007
  
  </sentence>
 </sentences>
+</case>es>
+</case>l 
+ 
+ </sentence>
+</sentences>
+</case>es>
 </case>

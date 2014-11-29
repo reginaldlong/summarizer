@@ -3,11 +3,11 @@
 <name>Australian Competition and Consumer Commission v Alinta 2000 Limited [2007] FCA 1362 (29 August 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1362.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application by australian competition and consumer commission for declaratory and other relief</catchphrase>
-<catchphrase "id=c1">breach of undertaking given by respondent for purposes of trade practices act 1974 (cth) s 87b</catchphrase>
-<catchphrase "id=c2">proceeding settled</catchphrase>
-<catchphrase "id=c3">declarations and orders by consent</catchphrase>
-<catchphrase "id=c4">competition law</catchphrase>
+<catchphrase >application by australian competition and consumer commission for declaratory and other relief</catchphrase>
+<catchphrase >breach of undertaking given by respondent for purposes of trade practices act 1974 (cth) s 87b</catchphrase>
+<catchphrase >proceeding settled</catchphrase>
+<catchphrase >declarations and orders by consent</catchphrase>
+<catchphrase >competition law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -439,7 +439,7 @@ I, [insert name] , [insert position held] , of Blake Dawson Waldron, 2 The Espla
  
  
  (i) does not disclose Information contained in any Document referred to in paragraph 1 of Schedule A that has been disclosed to me or the solicitors for the respondent for the purpose of the Costs Determination or otherwise; and
- (ii) is made in a way that does not disclose Information that is about or identifies a specific Shipper (as defined in the Undertakings provided to the applicant by the respondent and DBP under section 87B of the Trade Practices Act 1974 and accepted by the applicant on 22 &amp; 27 October 2004), including (but not limited to) the name, delivered quantities or type of service of a specific Shipper or that refers or relates to specific inlet points or outlet points on the Pipeline.</sentence>
+ (ii) is made in a way that does not disclose Information that is about or identifies a specific Shipper (as defined in the Undertakings provided to the applicant by the respondent and DBP under section 87B of the Trade Practices Act 1974 and accepted by the applicant on 22 amp; 27 October 2004), including (but not limited to) the name, delivered quantities or type of service of a specific Shipper or that refers or relates to specific inlet points or outlet points on the Pipeline.</sentence>
 <sentence id="s72">
  
  
@@ -485,4 +485,7 @@ I, [insert name] , [insert position held] , of Blake Dawson Waldron, 2 The Espla
  
  </sentence>
 </sentences>
-</case>
+</case>>
+ </sentence>
+</sentences>
+</case>>

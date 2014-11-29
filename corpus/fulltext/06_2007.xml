@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <case>
-<name>Rubibi Community v Western Australia (No 6)(with Corrigenda dated 10 May 2006 &amp;amp [2006] FCA 2007; 15 February 2006) [2006] FCA 82 (13 February 2006)</name>
+<name>Rubibi Community v Western Australia (No 6)(with Corrigenda dated 10 May 2006 amp;amp [2006] FCA 2007; 15 February 2006) [2006] FCA 82 (13 February 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/2007.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">whether groups with different cultural traditions can constitute a native title holding community</catchphrase>
-<catchphrase "id=c1">consideration of succession within a native title holding community</catchphrase>
-<catchphrase "id=c2">consideration of criteria for membership of a native title holding community</catchphrase>
-<catchphrase "id=c3">whether the native title holding community has exclusive possession of the claim area in which there has been no extinguishment</catchphrase>
-<catchphrase "id=c4">native title</catchphrase>
+<catchphrase >whether groups with different cultural traditions can constitute a native title holding community</catchphrase>
+<catchphrase >consideration of succession within a native title holding community</catchphrase>
+<catchphrase >consideration of criteria for membership of a native title holding community</catchphrase>
+<catchphrase >whether the native title holding community has exclusive possession of the claim area in which there has been no extinguishment</catchphrase>
+<catchphrase >native title</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -495,7 +495,7 @@ birrmanan (Birrmanan) --- south-eastern side (bordering Nyikina country)
 60 In another footnote Hosokawa explained 'big' and 'small' Yawuru:
  
  'The exact connotation of "big" and "small" in the folk nomenclature is unclear, but the adjective "big" seems to have some sort of negative evaluation.</sentence>
-<sentence id="s245">Nyikina also distinguishes between "Big Nyikina" and "Small Nyikina" (Stokes 1982, Hudson &amp; McConvell 1984).</sentence>
+<sentence id="s245">Nyikina also distinguishes between "Big Nyikina" and "Small Nyikina" (Stokes 1982, Hudson amp; McConvell 1984).</sentence>
 <sentence id="s246">Interestingly, it is the Small Nyikina (westernside) people who designate themselves as "small" (autonym) and call the eastern group "big" (exonym).</sentence>
 <sentence id="s247">' 
 
@@ -598,16 +598,16 @@ Phillip Corpus stated that he was told by his 'Mimi' in the 1950s that after the
 <sentence id="s321">As was submitted by the Yawuru claimants, it is appropriate to infer from Piddington's article and research:
  
  
- &#8226; The Karajarri practiced the two traditions.</sentence>
+ #8226; The Karajarri practiced the two traditions.</sentence>
 <sentence id="s322">Therefore the northern tradition came that far south.</sentence>
 <sentence id="s323">It must have come from the north through Yawuru country.</sentence>
 <sentence id="s324">
- &#8226; The practice of the two traditions made no difference to the status of the traditional country of the Karajarri tribe.</sentence>
+ #8226; The practice of the two traditions made no difference to the status of the traditional country of the Karajarri tribe.</sentence>
 <sentence id="s325">The whole country was treated as the country of the tribe, whatever the tradition practiced.</sentence>
 <sentence id="s326">
- &#8226; The practice of the two traditions did not, according to Piddington, impair the status of the Karajarri as a tribe.</sentence>
+ #8226; The practice of the two traditions did not, according to Piddington, impair the status of the Karajarri as a tribe.</sentence>
 <sentence id="s327">
- &#8226; The above was the historical, not the contemporary, position.</sentence>
+ #8226; The above was the historical, not the contemporary, position.</sentence>
 <sentence id="s328">
  
 
@@ -1009,4 +1009,6 @@ National Native Title Tribunal
  
  </sentence>
 </sentences>
-</case>
+</case>/case>entence>
+</sentences>
+</case>/case>

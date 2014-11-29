@@ -3,10 +3,10 @@
 <name>Australian Competition and Consumer Commission v Netti Atom Pty Ltd [2007] FCA 1945 (7 December 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1945.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">resale price maintenance</catchphrase>
-<catchphrase "id=c1">enforcement and remedies</catchphrase>
-<catchphrase "id=c2">agreement between parties as to appropriate remedy</catchphrase>
-<catchphrase "id=c3">trade practices</catchphrase>
+<catchphrase >resale price maintenance</catchphrase>
+<catchphrase >enforcement and remedies</catchphrase>
+<catchphrase >agreement between parties as to appropriate remedy</catchphrase>
+<catchphrase >trade practices</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -64,7 +64,7 @@
 <sentence id="s38">It is a per se contravention under the Trade Practices Act .</sentence>
 <sentence id="s39">It is therefore illegal regardless of its effect on competition or its impact on the market.</sentence>
 <sentence id="s40">8 The parties filed joint submissions and minutes of proposed orders dealing with the penalties that should be imposed.</sentence>
-<sentence id="s41">There are many cases that consider the approach a court should adopt when parties agree on penalties: see eg Trade Practices Commission v TNT Australia Pty Ltd (1995) ATPR |P41-375; NW Frozen Foods Pty Ltd v Australian Competition and Consumer Commission (1996) 71 FCR 285; Minister for Industry, Tourism &amp; Resources v Mobil Oil Australia Pty Ltd (2004) ATPR |P41-993.</sentence>
+<sentence id="s41">There are many cases that consider the approach a court should adopt when parties agree on penalties: see eg Trade Practices Commission v TNT Australia Pty Ltd (1995) ATPR |P41-375; NW Frozen Foods Pty Ltd v Australian Competition and Consumer Commission (1996) 71 FCR 285; Minister for Industry, Tourism amp; Resources v Mobil Oil Australia Pty Ltd (2004) ATPR |P41-993.</sentence>
 <sentence id="s42">The import of those decisions is that a court should not depart lightly from the settled position.</sentence>
 <sentence id="s43">If an agreed penalty "is one within the permissible range in all the circumstances" the court should not diverge merely because it would have been disposed to select a different penalty: NW Frozen Foods at 291.</sentence>
 <sentence id="s44">This has the effect of encouraging settlements, thereby saving time and expense.</sentence>
@@ -133,4 +133,6 @@ Dated: 7 December 2007
  
  </sentence>
 </sentences>
-</case>
+</case>>tence>
+</sentences>
+</case>>

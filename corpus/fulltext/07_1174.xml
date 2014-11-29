@@ -3,15 +3,15 @@
 <name>Bienstein v Attorney-General [2007] FCA 1174 (8 August 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1174.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">request</catchphrase>
-<catchphrase "id=c1">transfer of request to another agency</catchphrase>
-<catchphrase "id=c2">transfer on basis that subject-matter of documents more closely connected with functions of another agency</catchphrase>
-<catchphrase "id=c3">whether recipient of request required to search for documents before transferring request on the basis that the subject-matter of documents is more closely connected with the functions of another agency</catchphrase>
-<catchphrase "id=c4">requests made to attorney-general and minister for justice and customs for access to their documents</catchphrase>
-<catchphrase "id=c5">purported transfers of requests to attorney-general's department</catchphrase>
-<catchphrase "id=c6">whether administrative appeals tribunal erred in law in holding requests validly transferred</catchphrase>
-<catchphrase "id=c7">consequences of failure to effect proper transfers of requests</catchphrase>
-<catchphrase "id=c8">freedom of information</catchphrase>
+<catchphrase >request</catchphrase>
+<catchphrase >transfer of request to another agency</catchphrase>
+<catchphrase >transfer on basis that subject-matter of documents more closely connected with functions of another agency</catchphrase>
+<catchphrase >whether recipient of request required to search for documents before transferring request on the basis that the subject-matter of documents is more closely connected with the functions of another agency</catchphrase>
+<catchphrase >requests made to attorney-general and minister for justice and customs for access to their documents</catchphrase>
+<catchphrase >purported transfers of requests to attorney-general's department</catchphrase>
+<catchphrase >whether administrative appeals tribunal erred in law in holding requests validly transferred</catchphrase>
+<catchphrase >consequences of failure to effect proper transfers of requests</catchphrase>
+<catchphrase >freedom of information</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -27,7 +27,7 @@
 <sentence id="s5">In each case, there is an antecedent question as to whether the purported transfer was valid, and a subsidiary question as to whether a transfer of a request absolves the original agency, to which the request is addressed, from the obligation to search for documents answering the descriptions in the request, to determine whether it has such documents in its possession.</sentence>
 <sentence id="s6">2 In each case, the Tribunal's decision was given, and its reasons for decision were published, on 26 August 2004.</sentence>
 <sentence id="s7">Each application for review was dealt with on the papers by consent of the parties to it.</sentence>
-<sentence id="s8">The decisions and reasons are found in Bienstein v Attorney-General (Commonwealth) [2004] AATA 896 and Bienstein v Minister for Justice &amp; Customs [2004] AATA 895.</sentence>
+<sentence id="s8">The decisions and reasons are found in Bienstein v Attorney-General (Commonwealth) [2004] AATA 896 and Bienstein v Minister for Justice amp; Customs [2004] AATA 895.</sentence>
 <sentence id="s9">3 When the original notice of appeal was filed in this Court, it set out a large number of issues, many of which could not properly amount to questions of law arising from the Tribunal's decisions.</sentence>
 <sentence id="s10">By s 44(1) of the AAT Act , an appeal from the Tribunal to this Court is limited to a question of law.</sentence>
 <sentence id="s11">Because the applicant was unrepresented, owing to her lack of means, I referred her to counsel, pursuant to the scheme for legal representation found in O 80 of the Federal Court Rules .</sentence>
@@ -462,11 +462,11 @@
 17 In its reasons for the two decisions, the Tribunal identified five issues with which it was required to deal.</sentence>
 <sentence id="s59">In substance, those five issues are as follows:
  
- &#8226; May the Attorney-General or the Justice Minister transfer the requests even if the applicant does not want them to be transferred?</sentence>
-<sentence id="s60">&#8226; If they are transferred, are the decisions to transfer reviewable and are there inherent decisions to refuse the requests that are reviewable?</sentence>
-<sentence id="s61">&#8226; Did the Attorney-General or the Justice Minister transfer the requests to the Department?</sentence>
-<sentence id="s62">&#8226; Did the Attorney-General and the Justice Minister transfer the requests pursuant to s 16 of the FOI Act ?</sentence>
-<sentence id="s63">&#8226; Is the Attorney-General or the Justice Minister deemed to have made a decision refusing the applicant's requests?</sentence>
+ #8226; May the Attorney-General or the Justice Minister transfer the requests even if the applicant does not want them to be transferred?</sentence>
+<sentence id="s60">#8226; If they are transferred, are the decisions to transfer reviewable and are there inherent decisions to refuse the requests that are reviewable?</sentence>
+<sentence id="s61">#8226; Did the Attorney-General or the Justice Minister transfer the requests to the Department?</sentence>
+<sentence id="s62">#8226; Did the Attorney-General and the Justice Minister transfer the requests pursuant to s 16 of the FOI Act ?</sentence>
+<sentence id="s63">#8226; Is the Attorney-General or the Justice Minister deemed to have made a decision refusing the applicant's requests?</sentence>
 <sentence id="s64">
 
 18 In each case, the Tribunal identified the decisions of which review was sought as decisions that the applicant submitted were deemed to have been made by the Attorney-General and the Justice Minister respectively.</sentence>
@@ -680,4 +680,8 @@ Dated: 8 August 2007
  
  </sentence>
 </sentences>
-</case>
+</case>/case>h/FCA/2007/1174.html 
+ 
+ </sentence>
+</sentences>
+</case>/case>

@@ -3,11 +3,11 @@
 <name>Kim v Minister for Immigration and Citizenship [2007] FCA 138 (9 March 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/138.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from decision of federal magistrate reviewing decision of migration review tribunal</catchphrase>
-<catchphrase "id=c1">consideration of occupational trainee visa</catchphrase>
-<catchphrase "id=c2">whether minister's decision to refuse nomination by employer is reviewable</catchphrase>
-<catchphrase "id=c3">appeal dismissed.</catchphrase>
-<catchphrase "id=c4">migration</catchphrase>
+<catchphrase >appeal from decision of federal magistrate reviewing decision of migration review tribunal</catchphrase>
+<catchphrase >consideration of occupational trainee visa</catchphrase>
+<catchphrase >whether minister's decision to refuse nomination by employer is reviewable</catchphrase>
+<catchphrase >appeal dismissed.</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -69,9 +69,9 @@
 15 On 30 September 2005, the appellant sought judicial review of the Tribunal's decision in the Federal Magistrates Court.</sentence>
 <sentence id="s33">The appellant raised the following grounds:
  
- &#8226; The Tribunal made a 'mistake' by not taking into account a relevant consideration: reg 442.222.</sentence>
-<sentence id="s34">&#8226; The Tribunal did not make further inquiries with the nominator 'which is considered an improper exercise of power' and the decision was therefore invalid.</sentence>
-<sentence id="s35">&#8226; The Tribunal did not review the information about the company which was supposed to provide occupational training.</sentence>
+ #8226; The Tribunal made a 'mistake' by not taking into account a relevant consideration: reg 442.222.</sentence>
+<sentence id="s34">#8226; The Tribunal did not make further inquiries with the nominator 'which is considered an improper exercise of power' and the decision was therefore invalid.</sentence>
+<sentence id="s35">#8226; The Tribunal did not review the information about the company which was supposed to provide occupational training.</sentence>
 <sentence id="s36">
 
 16 Only the appellant appeared at the hearing before the Federal Magistrate.</sentence>
@@ -244,4 +244,6 @@ Dated: 9 March 2007
  
  </sentence>
 </sentences>
-</case>
+</case>se></sentence>
+</sentences>
+</case>se>

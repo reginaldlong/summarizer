@@ -3,9 +3,9 @@
 <name>SZEJU v Minister for Immigration and Multicultural Affairs [2006] FCA 251 (20 March 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/251.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">whether the circumstances in connexion with which the holder of a temporary protection visa has been recognized as a refugee have ceased to exist</catchphrase>
-<catchphrase "id=c1">whether refugee review tribunal committed jurisdictional error in not being satisfied that the appellant as an applicant for a permanent protection visa had a well-founded fear of persecution for a convention reason</catchphrase>
-<catchphrase "id=c2">migration</catchphrase>
+<catchphrase >whether the circumstances in connexion with which the holder of a temporary protection visa has been recognized as a refugee have ceased to exist</catchphrase>
+<catchphrase >whether refugee review tribunal committed jurisdictional error in not being satisfied that the appellant as an applicant for a permanent protection visa had a well-founded fear of persecution for a convention reason</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -96,7 +96,7 @@
 19 On 24 March 2000 a delegate of the Minister for Immigration and Multicultural Affairs decided to grant the Appellant a protection (Class XA) temporary visa.</sentence>
 <sentence id="s70">The delegate was satisfied that the Appellant was a person to whom Australia owed protection obligations under the Convention.</sentence>
 <sentence id="s71">The temporary visa permitted the Appellant to remain in Australia for a period of three years or until an application made by him for a permanent visa was finally determined, whichever happened sooner.</sentence>
-<sentence id="s72">20 By letter dated 3 April 2000 South Brisbane Immigration &amp; Community Legal Service Inc. submitted a further application for a Protection Visa (866) to the Department of Immigration and Multicultural Affairs on behalf of the Appellant.</sentence>
+<sentence id="s72">20 By letter dated 3 April 2000 South Brisbane Immigration amp; Community Legal Service Inc. submitted a further application for a Protection Visa (866) to the Department of Immigration and Multicultural Affairs on behalf of the Appellant.</sentence>
 <sentence id="s73">On 8 May 2000 the Department wrote to the Appellant advising that he could not be granted a Subclass 866 (Protection) visa unless he had held the temporary visa for a continuous period of 30 months or a shorter period specified in writing by the Minister in relation to him.</sentence>
 <sentence id="s74">21 On 4 September 2002 the then Department of Immigration and Multicultural and Indigenous Affairs wrote to the Appellant advising that his 'Protection (Class XA) visa application is being processed in this office'.</sentence>
 <sentence id="s75">The letter included the following:-
@@ -335,4 +335,5 @@ Dated: 20 March 2006
  
  </sentence>
 </sentences>
-</case>
+</case>></sentences>
+</case>>

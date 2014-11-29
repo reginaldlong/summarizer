@@ -3,10 +3,10 @@
 <name>Hawthorne v Carter (Trustee), in the matter of Hawthorne (Bankrupt) [2006] FCA 1097 (26 July 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1097.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for annulment of bankruptcy</catchphrase>
-<catchphrase "id=c1">certain facts not disclosed to court at time sequestration orders made</catchphrase>
-<catchphrase "id=c2">applicants solvent</catchphrase>
-<catchphrase "id=c3">bankruptcy</catchphrase>
+<catchphrase >application for annulment of bankruptcy</catchphrase>
+<catchphrase >certain facts not disclosed to court at time sequestration orders made</catchphrase>
+<catchphrase >applicants solvent</catchphrase>
+<catchphrase >bankruptcy</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -120,7 +120,7 @@
 Dated: 15 August 2006
  Counsel for the Applicant: G Gretsas 
  
- Solicitor for the Applicant: Gretsas &amp; Associates 
+ Solicitor for the Applicant: Gretsas amp; Associates 
  
  Counsel for the Respondent: K Ryder 
  
@@ -138,4 +138,6 @@ Dated: 15 August 2006
  
  </sentence>
 </sentences>
-</case>
+</case>>tence>
+</sentences>
+</case>>

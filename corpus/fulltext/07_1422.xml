@@ -3,16 +3,16 @@
 <name>Kamha v Australian Prudential Regulation Authority [2007] FCA 1422 (13 September 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1422.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">judicial review of a decision by the australian prudential regulation authority</catchphrase>
-<catchphrase "id=c1">reconsideration following appeal to be conducted in light of current circumstances</catchphrase>
-<catchphrase "id=c2">nature of judicial discretion under s 16 of the administrative decisions (judicial review) act 1977 (cth)</catchphrase>
-<catchphrase "id=c3">consideration of prejudice to applicant</catchphrase>
-<catchphrase "id=c4">consideration of public interest</catchphrase>
-<catchphrase "id=c5">consideration of full merits review as a suitable alternative remedy</catchphrase>
-<catchphrase "id=c6">decision of the australian prudential regulation authority to disqualify a person from being or acting in various capacities pursuant to s 25a of the insurance act 1973 (cth)</catchphrase>
-<catchphrase "id=c7">appropriate methods of challenge to decision</catchphrase>
-<catchphrase "id=c8">administrative law</catchphrase>
-<catchphrase "id=c9">insurance</catchphrase>
+<catchphrase >judicial review of a decision by the australian prudential regulation authority</catchphrase>
+<catchphrase >reconsideration following appeal to be conducted in light of current circumstances</catchphrase>
+<catchphrase >nature of judicial discretion under s 16 of the administrative decisions (judicial review) act 1977 (cth)</catchphrase>
+<catchphrase >consideration of prejudice to applicant</catchphrase>
+<catchphrase >consideration of public interest</catchphrase>
+<catchphrase >consideration of full merits review as a suitable alternative remedy</catchphrase>
+<catchphrase >decision of the australian prudential regulation authority to disqualify a person from being or acting in various capacities pursuant to s 25a of the insurance act 1973 (cth)</catchphrase>
+<catchphrase >appropriate methods of challenge to decision</catchphrase>
+<catchphrase >administrative law</catchphrase>
+<catchphrase >insurance</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -64,7 +64,7 @@
 <sentence id="s44">9 Full internal and external merits review of a disqualification is available pursuant to s 63 of the Insurance Act .</sentence>
 <sentence id="s45">The existence of a suitable alternative remedy is a well established basis for the refusal for administrative law relief, whether under the ADJR Act or at common law.</sentence>
 <sentence id="s46">Section 10 of the ADJR Act, particularly s 10(2)(b)(ii) reflects that principle.</sentence>
-<sentence id="s47">( Tooth &amp; Co Ltd v Parramatta City Council [1955] HCA 21 ; (1955) 97 CLR 492 at 497---498 per Dixon CJ; Re Refugee Tribunal; Ex parte Aala [2000] HCA 57 ; (2000) 204 CLR 82 at [5] per Gleeson CJ, [40]---[79] per Gaudron and Gummow JJ, [145]---[150] per Kirby J and [172] per Hayne J; Swan Portland Cement Ltd v Comptroller-General of Customs (1989) 25 FCR 523.</sentence>
+<sentence id="s47">( Tooth amp; Co Ltd v Parramatta City Council [1955] HCA 21 ; (1955) 97 CLR 492 at 497---498 per Dixon CJ; Re Refugee Tribunal; Ex parte Aala [2000] HCA 57 ; (2000) 204 CLR 82 at [5] per Gleeson CJ, [40]---[79] per Gaudron and Gummow JJ, [145]---[150] per Kirby J and [172] per Hayne J; Swan Portland Cement Ltd v Comptroller-General of Customs (1989) 25 FCR 523.</sentence>
 <sentence id="s48">) For obvious reasons, full merits review is generally a more suitable remedy than an administrative law challenge except, for example, where there is a clearly identified question of jurisdiction or power or other legal objection that can be decided without significant fact finding and is appropriate for decision by a court ( Du Pont (Aust) Ltd v Comptroller-General of Customs (1993) 30 ALD 829, [1993] FCA 187 ; NAUV v Minister for Immigration and Multicultural and Indigenous Affairs (2003) 79 ALD 149, [2003] FCA 1319 at [49] citing New South Wales Bar Association v Stevens (2003) 52 ATR 602, [2003] NSWCA 95 at [13] per Spigelman CJ; Boral Gas (NSW) Pty Ltd v Magill (1993) 32 NSWLR 501 particularly per Kirby P at 508---509; Stack v Commissioner of Patents (1999) 161 ALR 531 at [12]---[13]).</sentence>
 <sentence id="s49">The points argued and decided in this and the related case already (including the point involved in the High Court proceeding) illustrate such questions.</sentence>
 <sentence id="s50">As consideration of [79]---[83] of the Full Court judgment ( Kamha [2005] FCAFC 248 ; 147 FCR 516) makes clear, it is only the barest of technicalities which prevented s 10(2)(b)(ii) from being directly applicable.</sentence>
@@ -112,7 +112,7 @@ Dated: 13 September 2007
 15 and 18 August 2006 --- Mr AJL Bannon SC
 28 March 2007 --- Mr GT Bigmore QC 
  
- Solicitor for the Applicant: Varrasso &amp; Associates 
+ Solicitor for the Applicant: Varrasso amp; Associates 
  
  Counsel for the Respondents: 9 June 2006 --- Mr A Robertson SC, Ms M Fisher 
 15 and 18 August 2006 --- Ms L McCallum
@@ -134,4 +134,8 @@ Dated: 13 September 2007
  
  </sentence>
 </sentences>
-</case>
+</case>e>au/cases/cth/FCA/2007/1422.html 
+ 
+ </sentence>
+</sentences>
+</case>e>

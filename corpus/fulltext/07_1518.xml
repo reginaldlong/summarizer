@@ -3,10 +3,10 @@
 <name>Heilbrunn v Lightwood PLC [2007] FCA 1518 (3 October 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1518.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">meaning of "a claim arising out of an agreement that relates to carriage of goods by a ship" for s 4(3)(f) of the admiralty act 1988</catchphrase>
-<catchphrase "id=c1">whether damage to goods caused by a warehouseman acting under an agreement with a freight forwarder who undertook to carry the goods by land and sea, loading a shipping container at its premises prior to transportation to the port for loading on board ship fell within the provision</catchphrase>
-<catchphrase "id=c2">whether the proceeding should be dismissed or stayed because of a time bar or exclusive jurisdiction clause</catchphrase>
-<catchphrase "id=c3">admiralty and maritime jurisdiction</catchphrase>
+<catchphrase >meaning of "a claim arising out of an agreement that relates to carriage of goods by a ship" for s 4(3)(f) of the admiralty act 1988</catchphrase>
+<catchphrase >whether damage to goods caused by a warehouseman acting under an agreement with a freight forwarder who undertook to carry the goods by land and sea, loading a shipping container at its premises prior to transportation to the port for loading on board ship fell within the provision</catchphrase>
+<catchphrase >whether the proceeding should be dismissed or stayed because of a time bar or exclusive jurisdiction clause</catchphrase>
+<catchphrase >admiralty and maritime jurisdiction</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -246,7 +246,7 @@
 <sentence id="s165">It was argued initially that these terms bound the plaintiff through the application of the principles in The 'Pioneer Container' [1994] 2 AC 324.</sentence>
 <sentence id="s166">This argument was abandoned in oral address.</sentence>
 <sentence id="s167">58 There would be a number of difficult questions that would arise if one could be clear about what terms governed the relationship between Planetwide and the defendant.</sentence>
-<sentence id="s168">It is unclear in Australia whether The 'Pioneer Container' is applicable to quasi-bailment as distinct from true sub-bailment where the bailee, sub-bailor obtains possession, before the sub-bailment: cf Mathew Short &amp; Associates Pty Limited v Riviera Marine (International) Pty Limited [2001] NSWCA 281.</sentence>
+<sentence id="s168">It is unclear in Australia whether The 'Pioneer Container' is applicable to quasi-bailment as distinct from true sub-bailment where the bailee, sub-bailor obtains possession, before the sub-bailment: cf Mathew Short amp; Associates Pty Limited v Riviera Marine (International) Pty Limited [2001] NSWCA 281.</sentence>
 <sentence id="s169">Secondly, it is unclear on the evidence that the plaintiff consented to the terms of the sub-bailment.</sentence>
 <sentence id="s170">It is certainly not possible on the evidence to conclude that any terms of the defendant directly bound the plaintiff from anything that passed to or from him, or Mr Seymour.</sentence>
 <sentence id="s171">59 Most fundamentally, however, the evidence does not reveal the terms of the arrangement between Planetwide and the defendant.</sentence>
@@ -296,4 +296,6 @@ Dated: 3 October 2007
  
  </sentence>
 </sentences>
-</case>
+</case>>tence>
+</sentences>
+</case>>

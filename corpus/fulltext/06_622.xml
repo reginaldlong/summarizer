@@ -3,14 +3,14 @@
 <name>Paras v Public Service Body Head of the Department of Infrastructure [2006] FCA 622 (19 May 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/622.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">victorian public service agreement under workplace relations act 1996 (cth)</catchphrase>
-<catchphrase "id=c1">employment governed by public administration act 2004 (vic)</catchphrase>
-<catchphrase "id=c2">summary dismissal for serious misconduct</catchphrase>
-<catchphrase "id=c3">application for interlocutory injunction restraining employer from acting on purported dismissal</catchphrase>
-<catchphrase "id=c4">principles of grant of injunctive relief in context of employment relationship</catchphrase>
-<catchphrase "id=c5">whether serious question to be tried</catchphrase>
-<catchphrase "id=c6">whether balance of convenience and discretionary factors favour grant of injunction</catchphrase>
-<catchphrase "id=c7">workplace relations</catchphrase>
+<catchphrase >victorian public service agreement under workplace relations act 1996 (cth)</catchphrase>
+<catchphrase >employment governed by public administration act 2004 (vic)</catchphrase>
+<catchphrase >summary dismissal for serious misconduct</catchphrase>
+<catchphrase >application for interlocutory injunction restraining employer from acting on purported dismissal</catchphrase>
+<catchphrase >principles of grant of injunctive relief in context of employment relationship</catchphrase>
+<catchphrase >whether serious question to be tried</catchphrase>
+<catchphrase >whether balance of convenience and discretionary factors favour grant of injunction</catchphrase>
+<catchphrase >workplace relations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -283,7 +283,7 @@ The applicant's claim for interim relief falls squarely within the scope of this
 <sentence id="s108">One notable case is Hill v CA Parsons Ltd [1972] 1 Ch 305 (' Hill' ), especially at 314 and 320.</sentence>
 <sentence id="s109">39 The same course was taken by Smith J in the Supreme Court of Victoria in Reilly v State of Victoria (1991) 5 VIR 1 (' Reilly' ), especially at 11 to 12.</sentence>
 <sentence id="s110">There, his Honour granted an injunction restraining the State of Victoria from acting on a notice of termination of a casual public servant.</sentence>
-<sentence id="s111">Other cases to similar effect include: Irani v Southampton &amp; South West Hampshire Health Authority [1985] ICR 590 and Dietman v Brent London Borough Council (1988) IRLR 299; [1987] ICR 737 (' Dietman' ).</sentence>
+<sentence id="s111">Other cases to similar effect include: Irani v Southampton amp; South West Hampshire Health Authority [1985] ICR 590 and Dietman v Brent London Borough Council (1988) IRLR 299; [1987] ICR 737 (' Dietman' ).</sentence>
 <sentence id="s112">In Dietman at 754, Hodgson J reviewed several cases where injunctions were granted on an interim basis to restrain a termination of employment: see Crisp v Holden (1910) 54 S.J. 784; Smith v Mcnally [1912] 1 Ch 816; Hill ; Chappell v Times Newspapers Ltd [1975] ICR 145; Jones v Lee [1980] ICR 310 and R v British Broadcasting Corporation; Ex parte Lavelle [1983] ICR 99 at 113.</sentence>
 <sentence id="s113">These cases recognise that an interim injunction can be granted to restrain an employer treating a dismissal as valid or effective in circumstances where fair processes or natural justice have not been afforded to the employee in accordance with the contract of employment.</sentence>
 <sentence id="s114">In Dietman, the employer had dismissed the employee without adhering to contractual processes that needed to be followed in connection with the dismissal.</sentence>
@@ -293,7 +293,7 @@ The applicant's claim for interim relief falls squarely within the scope of this
 <sentence id="s118">In particular, he submitted that the law recognises that it would be problematical to enforce the continuation of the relationship if the employer and employee have lost faith and confidence in each other.</sentence>
 <sentence id="s119">These policy considerations are discussed by Smith J in Reilly at 22-23.</sentence>
 <sentence id="s120">42 If the employer and employee have lost faith and confidence in each other, that fact would be very relevant, but not necessarily fatal, to the grant of an injunction.</sentence>
-<sentence id="s121">Even where that is the case, injunctions have been granted where the employee's contract of employment requires a particular procedure to be followed as a precondition of dismissal, and that procedure has not been followed: see Robb v Hammersmith and Fulham London Borough Council [1991] IRLR 72; Jones v Lee [1980] ICR 310; and D Bean, Injunctions , 8 th edn, Sweet &amp; Maxwell, 2004, pp 41-42 at [4.10]-[4.11].</sentence>
+<sentence id="s121">Even where that is the case, injunctions have been granted where the employee's contract of employment requires a particular procedure to be followed as a precondition of dismissal, and that procedure has not been followed: see Robb v Hammersmith and Fulham London Borough Council [1991] IRLR 72; Jones v Lee [1980] ICR 310; and D Bean, Injunctions , 8 th edn, Sweet amp; Maxwell, 2004, pp 41-42 at [4.10]-[4.11].</sentence>
 <sentence id="s122">43 In this case, the allegations canvassed in the notice of termination and earlier correspondence provide some basis for thinking that difficulties might arise in future between the applicant and others in the legal section of the Public Transport Division.</sentence>
 <sentence id="s123">However, the principal legal officer with whom Ms Paras has been working does not express in his affidavit any inability to work with the applicant.</sentence>
 <sentence id="s124">None of the other affidavit material filed on behalf of the respondents establishes that it would be impracticable or unworkable for Ms Paras to continue her employment.</sentence>
@@ -343,7 +343,7 @@ Dated: 25 May 2006
 
  Counsel for the Applicant: F O'Brien SC 
  
- Solicitor for the Applicant: Tanya Cirkovic &amp; Associates 
+ Solicitor for the Applicant: Tanya Cirkovic amp; Associates 
  
  Counsel for the Respondents: Dr C Jessup QC with R Attiwill 
  
@@ -361,4 +361,8 @@ Dated: 25 May 2006
  
  </sentence>
 </sentences>
-</case>
+</case>se>CA/2006/622.html 
+ 
+ </sentence>
+</sentences>
+</case>se>

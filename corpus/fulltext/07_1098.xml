@@ -3,10 +3,10 @@
 <name>Li v Minister for Immigration and Citizenship [2007] FCA 1098 (3 August 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1098.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from federal magistrates court</catchphrase>
-<catchphrase "id=c1">refusal to grant appellant permanent spouse visa</catchphrase>
-<catchphrase "id=c2">no error in tribunal decision</catchphrase>
-<catchphrase "id=c3">immigration</catchphrase>
+<catchphrase >appeal from federal magistrates court</catchphrase>
+<catchphrase >refusal to grant appellant permanent spouse visa</catchphrase>
+<catchphrase >no error in tribunal decision</catchphrase>
+<catchphrase >immigration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -109,9 +109,9 @@ Further, s 12 of the Migration Act does not pick up the definition of marriage f
  
 16 The appellant also submits that the Tribunal failed to have regard to certain considerations that it was bound to take into account, namely:
  
-&#8226; the notes of the Departmental interview in September 2004, and in particular the fact that the appellant and the sponsor persisted with the visa application, after having been advised of the option of withdrawing the application or sponsorship; and 
+#8226; the notes of the Departmental interview in September 2004, and in particular the fact that the appellant and the sponsor persisted with the visa application, after having been advised of the option of withdrawing the application or sponsorship; and 
  
-&#8226; the duration of the relationship at the time of the decision.</sentence>
+#8226; the duration of the relationship at the time of the decision.</sentence>
 <sentence id="s74">17 The appellant contends that the first of these matters was relevant by virtue of reg 1.15A(1A)(b), especially 1.15A(1A)(b)(i) concerning the nature of the parties' mutual commitment.</sentence>
 <sentence id="s75">The appellant argued that their persistence with their application was not just an item of evidence but an integer of the visa applicant's claim.</sentence>
 <sentence id="s76">18 The Tribunal plainly had regard to the notes of the Departmental interview.</sentence>
@@ -180,7 +180,7 @@ Dated: 3 August 2007
 
  Counsel for the Appellant: Mr A. Krohn 
  
- Solicitors for the Appellant: Chua Tan &amp; Associates 
+ Solicitors for the Appellant: Chua Tan amp; Associates 
  
  Counsel for the First Respondent: Mr C. Horan 
  
@@ -198,4 +198,6 @@ Dated: 3 August 2007
  
  </sentence>
 </sentences>
-</case>
+</case>se>nce>
+</sentences>
+</case>se>

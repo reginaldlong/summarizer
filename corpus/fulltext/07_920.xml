@@ -3,15 +3,15 @@
 <name>Tey v Commissioner of Taxation [2007] FCA 920 (18 June 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/920.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">procedure</catchphrase>
-<catchphrase "id=c1">application for extension of time to file and serve notice of appeal</catchphrase>
-<catchphrase "id=c2">unsatisfactory explanation for delay</catchphrase>
-<catchphrase "id=c3">proposed appeal without merit.</catchphrase>
-<catchphrase "id=c4">costs</catchphrase>
-<catchphrase "id=c5">costs follow event</catchphrase>
-<catchphrase "id=c6">discretion</catchphrase>
-<catchphrase "id=c7">appeal</catchphrase>
-<catchphrase "id=c8">appeal</catchphrase>
+<catchphrase >procedure</catchphrase>
+<catchphrase >application for extension of time to file and serve notice of appeal</catchphrase>
+<catchphrase >unsatisfactory explanation for delay</catchphrase>
+<catchphrase >proposed appeal without merit.</catchphrase>
+<catchphrase >costs</catchphrase>
+<catchphrase >costs follow event</catchphrase>
+<catchphrase >discretion</catchphrase>
+<catchphrase >appeal</catchphrase>
+<catchphrase >appeal</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -75,7 +75,7 @@
  
  
  (d) The decision of the Tribunal made no mention of substantial evidence provided by the Applicant.</sentence>
-<sentence id="s32">(e) There was no tax payable by the Applicant for years 2001 &amp; 2003.</sentence>
+<sentence id="s32">(e) There was no tax payable by the Applicant for years 2001 amp; 2003.</sentence>
 <sentence id="s33">' 
  
  
@@ -304,4 +304,8 @@ Dated: 18 June 2007
  
  </sentence>
 </sentences>
-</case>
+</case>>ses/cth/FCA/2007/920.html 
+ 
+ </sentence>
+</sentences>
+</case>>

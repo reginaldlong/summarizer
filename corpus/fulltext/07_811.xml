@@ -3,14 +3,14 @@
 <name>Eurogold Limited v Oxus Holdings (Malta) Limited [2007] FCA 811 (25 May 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/811.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">service out of the jurisdiction</catchphrase>
-<catchphrase "id=c1">whether federal claims a trivial or insubstantial aspect of the controversy</catchphrase>
-<catchphrase "id=c2">whether there is jurisdiction to hear and determine a common law claim</catchphrase>
-<catchphrase "id=c3">whether there was material non-disclosure in the course of the hearing of the ex parte application</catchphrase>
-<catchphrase "id=c4">whether orders giving leave to serve out of the jurisdiction should be set aside</catchphrase>
-<catchphrase "id=c5">whether the court is a clearly inappropriate forum</catchphrase>
-<catchphrase "id=c6">practice and procedure</catchphrase>
-<catchphrase "id=c7">conflict of laws</catchphrase>
+<catchphrase >service out of the jurisdiction</catchphrase>
+<catchphrase >whether federal claims a trivial or insubstantial aspect of the controversy</catchphrase>
+<catchphrase >whether there is jurisdiction to hear and determine a common law claim</catchphrase>
+<catchphrase >whether there was material non-disclosure in the course of the hearing of the ex parte application</catchphrase>
+<catchphrase >whether orders giving leave to serve out of the jurisdiction should be set aside</catchphrase>
+<catchphrase >whether the court is a clearly inappropriate forum</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
+<catchphrase >conflict of laws</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -116,7 +116,7 @@
 <sentence id="s62">The making of the statements and whether those statements were based on reasonable grounds, or are misleading or deceptive, goes to the core of the controversy between the parties.</sentence>
 <sentence id="s63">In my view, the federal claims cannot, therefore, be said to be a "trivial or insubstantial aspect of the controversy".</sentence>
 <sentence id="s64">It follows that I do not accept that it is inappropriate for the Court to exercise jurisdiction in respect of the resolution of the common law claims.</sentence>
-<sentence id="s65">21 Oxus Gold relied upon WG &amp; B Manufacturing Pty Ltd v Tesla Farad Pty Ltd (1999) 48 IPR 111 ( WG &amp; B Manufacturing ).</sentence>
+<sentence id="s65">21 Oxus Gold relied upon WG amp; B Manufacturing Pty Ltd v Tesla Farad Pty Ltd (1999) 48 IPR 111 ( WG amp; B Manufacturing ).</sentence>
 <sentence id="s66">In that case, the applicant alleged that the four respondents had engaged in misleading or deceptive conduct in contravention of s 52 of the TPA, and that the remaining respondents had aided and abetted that contravention.</sentence>
 <sentence id="s67">The non-federal claims were somewhat imprecisely pleaded but were founded primarily on a breach of the duty of fidelity arising under contracts of employment, and on a breach of a commercial contract providing for the right to develop a brushless motor.</sentence>
 <sentence id="s68">The respondents in that case submitted that the statement of claim disclosed no reasonable cause of action so far as the federal claims were concerned, and that the federal claims were not made bona fide.</sentence>
@@ -124,7 +124,7 @@
 <sentence id="s70">However, he found that the federal claims were " 'trivial or insubstantial' in the sense explained by the High Court in Fencott v Muller ".</sentence>
 <sentence id="s71">The federal claims were made only by way of bald assertion in the statement of claim, and Finklestein J did not give detailed reasons for his conclusion.</sentence>
 <sentence id="s72">However, it is clear that Finklestein J did not suggest the principles to be applied in determining that issue were other than as set out at [16] to [18] above .</sentence>
-<sentence id="s73">WG &amp; B Manufacturing is simply an illustration that the determination of whether a federal claim is a trivial or insubstantial aspect of the controversy is a matter of impression and practical judgment.</sentence>
+<sentence id="s73">WG amp; B Manufacturing is simply an illustration that the determination of whether a federal claim is a trivial or insubstantial aspect of the controversy is a matter of impression and practical judgment.</sentence>
 <sentence id="s74">23 There was also some debate as to whether Oxus Gold had actually put in issue whether the applicants' conduct in making the federal claims was "colourable" in the sense that they were raised in bad faith.</sentence>
 <sentence id="s75">It is not necessary to determine whether or not that issue was properly raised because, for the reason set out above, it cannot, in my view, be said that the making of the federal claims was colourable.</sentence>
 <sentence id="s76">Both of the federal claims address the loss and damage suffered and likely to be suffered by the first applicant, a public company, from the publication to the investing public of statements impugning an important asset of the first applicant.</sentence>
@@ -308,13 +308,13 @@ Dated: 25 May 2007
 
  Counsel for the Applicant: Mr D Stone 
  
- Solicitor for the Applicant: Williams &amp; Hughes 
+ Solicitor for the Applicant: Williams amp; Hughes 
  
  
 
  Counsel for the Respondent: Mr S K Dharmananda 
  
- Solicitor for the Respondent: Blakiston &amp; Crabb 
+ Solicitor for the Respondent: Blakiston amp; Crabb 
  
  Date of Hearing: 8 December 2006 
  
@@ -330,4 +330,8 @@ Dated: 25 May 2007
  
  </sentence>
 </sentences>
-</case>
+</case>case>/2007/811.html 
+ 
+ </sentence>
+</sentences>
+</case>case>

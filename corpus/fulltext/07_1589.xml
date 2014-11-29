@@ -3,15 +3,15 @@
 <name>In the matter of Thomas Richard Wenkart, Wenkart v Pantzer [2007] FCA 1589 (16 October 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1589.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">trustee</catchphrase>
-<catchphrase "id=c1">remuneration and costs to which trustee lawfully entitled</catchphrase>
-<catchphrase "id=c2">work undertaken post-annulment</catchphrase>
-<catchphrase "id=c3">taxation of costs</catchphrase>
-<catchphrase "id=c4">impact of consent orders</catchphrase>
-<catchphrase "id=c5">enforcement of charge over property</catchphrase>
-<catchphrase "id=c6">court ordered sale of property</catchphrase>
-<catchphrase "id=c7">held: trustee to be awarded amount for remuneration, costs, charges and expenses to which legally entitled</catchphrase>
-<catchphrase "id=c8">bankruptcy</catchphrase>
+<catchphrase >trustee</catchphrase>
+<catchphrase >remuneration and costs to which trustee lawfully entitled</catchphrase>
+<catchphrase >work undertaken post-annulment</catchphrase>
+<catchphrase >taxation of costs</catchphrase>
+<catchphrase >impact of consent orders</catchphrase>
+<catchphrase >enforcement of charge over property</catchphrase>
+<catchphrase >court ordered sale of property</catchphrase>
+<catchphrase >held: trustee to be awarded amount for remuneration, costs, charges and expenses to which legally entitled</catchphrase>
+<catchphrase >bankruptcy</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -32,7 +32,7 @@
 <sentence id="s9">The Full Court dismissed appeals from three of these interlocutory judgments but allowed a cross appeal against the judgment in Wenkart v Pantzer [2003] FCA 456 which concerned the date upon which Dr Wenkart became aware of the amount of a claim for remuneration made by Mr Pantzer ( Wenkart v Pantzer [2003] FCAFC 210 ; (2003) 132 FCR 204).</sentence>
 <sentence id="s10">The Taxation Appeals 
  
-4 Two appeals from decisions of a taxing officer appointed under s 11(4) of the Act concerning respectively a bill of costs of Mr Pantzer and a solicitor/client bill of costs of Sally Nash &amp; Co relating to work undertaken on behalf of Mr Pantzer were also allocated to my docket.</sentence>
+4 Two appeals from decisions of a taxing officer appointed under s 11(4) of the Act concerning respectively a bill of costs of Mr Pantzer and a solicitor/client bill of costs of Sally Nash amp; Co relating to work undertaken on behalf of Mr Pantzer were also allocated to my docket.</sentence>
 <sentence id="s11">Ultimately these two appeals were heard together, with evidence in one proceeding being evidence in the other.</sentence>
 <sentence id="s12">This proceeding was heard immediately thereafter.</sentence>
 <sentence id="s13">5 On 8 November 2005 I published judgment on the taxation appeals ( Wenkart v Pantzer (2005) 223 ALR 384 ("the taxation judgment at first instance")).</sentence>
@@ -68,7 +68,7 @@
 <sentence id="s35">The trial judge ought to have held that there was no evidence before the Court which established that the work for which the taxation was performed was work performed in relation to the administration of the estate as an additional basis to reject the Appellant's claim.</sentence>
 <sentence id="s36">
  2.</sentence>
-<sentence id="s37">The trial judge ought to have held that the legal firm, Sally Nash &amp; Co, was never retained by the Appellant in his capacity as Trustee of the Bankrupt Estate of the First Respondent as an additional basis to reject in its entirely the Appellant's claim in relation to costs and disbursements.</sentence>
+<sentence id="s37">The trial judge ought to have held that the legal firm, Sally Nash amp; Co, was never retained by the Appellant in his capacity as Trustee of the Bankrupt Estate of the First Respondent as an additional basis to reject in its entirely the Appellant's claim in relation to costs and disbursements.</sentence>
 <sentence id="s38">
  ... 
  4.</sentence>
@@ -721,7 +721,7 @@ His Honour also observed at [34.6]:
 <sentence id="s279">" 
  
 
-In Wilkie v Wilkie &amp; Anor [1905] VR 80 at 82 Hodges J accepted, on the authority of Widgery v Tepper , that an ex parte order made by him charging a sum of money paid into court as security for costs of an appeal could not stand because the costs had not yet been taxed.</sentence>
+In Wilkie v Wilkie amp; Anor [1905] VR 80 at 82 Hodges J accepted, on the authority of Widgery v Tepper , that an ex parte order made by him charging a sum of money paid into court as security for costs of an appeal could not stand because the costs had not yet been taxed.</sentence>
 <sentence id="s280">See also Fine Real Estate Network Pty Ltd v Howell (unreported, Young J, Supreme Court of New South Wales, 4 December 1997).</sentence>
 <sentence id="s281">82 I do not consider that I am free to accept that the principle invoked by the Court of Appeal in Widgery v Tepper has application in the circumstances of this case to invalidate the charge purportedly granted by Dr Wenkart over the Paddington property.</sentence>
 <sentence id="s282">The orders of 11 March 2002 were made by consent (see [15] above).</sentence>
@@ -822,11 +822,11 @@ Dated: 16 October 2007
  
  Counsel for the First Respondent: Mr J T Johnson 
  
- Solicitor for the First Respondent: Sally Nash &amp; Co 
+ Solicitor for the First Respondent: Sally Nash amp; Co 
  
  Legal Representative for the Second Respondents Mr J Rea 
  
- Solicitor for the Second Respondents: S Morgan &amp; Co 
+ Solicitor for the Second Respondents: S Morgan amp; Co 
  
  Date of Hearing: 26 April 2007 
  
@@ -845,4 +845,8 @@ Dated: 16 October 2007
  
  </sentence>
 </sentences>
-</case>
+</case>case>th/FCA/2007/1589.html 
+ 
+ </sentence>
+</sentences>
+</case>case>

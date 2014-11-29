@@ -3,20 +3,20 @@
 <name>Re MetLife Insurance Limited [2007] FCA 1327 (10 August 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1327.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">life insurance</catchphrase>
-<catchphrase "id=c1">scheme to transfer part of the life insurance business of one insurer to another</catchphrase>
-<catchphrase "id=c2">procedural requirements complied with</catchphrase>
-<catchphrase "id=c3">actuarial evidence suggested no disadvantage to policy holders</catchphrase>
-<catchphrase "id=c4">apra did not oppose scheme confirmation</catchphrase>
-<catchphrase "id=c5">terms of insurance contracts not altered except beneficially for taxation and social security purposes</catchphrase>
-<catchphrase "id=c6">court's discretion to confirm not limited to supervising procedural compliance</catchphrase>
-<catchphrase "id=c7">interests of policy holders are of primary concern</catchphrase>
-<catchphrase "id=c8">objections by some transferor insurer policy holders to transfer</catchphrase>
-<catchphrase "id=c9">original scheme rejected for failing to accommodate valid concerns of objectors</catchphrase>
-<catchphrase "id=c10">modified scheme with opt out facility for objectors approved</catchphrase>
-<catchphrase "id=c11">nature of court's discretion to confirm scheme for transfer of life insurance business</catchphrase>
-<catchphrase "id=c12">insurance</catchphrase>
-<catchphrase "id=c13">courts</catchphrase>
+<catchphrase >life insurance</catchphrase>
+<catchphrase >scheme to transfer part of the life insurance business of one insurer to another</catchphrase>
+<catchphrase >procedural requirements complied with</catchphrase>
+<catchphrase >actuarial evidence suggested no disadvantage to policy holders</catchphrase>
+<catchphrase >apra did not oppose scheme confirmation</catchphrase>
+<catchphrase >terms of insurance contracts not altered except beneficially for taxation and social security purposes</catchphrase>
+<catchphrase >court's discretion to confirm not limited to supervising procedural compliance</catchphrase>
+<catchphrase >interests of policy holders are of primary concern</catchphrase>
+<catchphrase >objections by some transferor insurer policy holders to transfer</catchphrase>
+<catchphrase >original scheme rejected for failing to accommodate valid concerns of objectors</catchphrase>
+<catchphrase >modified scheme with opt out facility for objectors approved</catchphrase>
+<catchphrase >nature of court's discretion to confirm scheme for transfer of life insurance business</catchphrase>
+<catchphrase >insurance</catchphrase>
+<catchphrase >courts</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -208,14 +208,14 @@ Subsection (2) then provides:
 <sentence id="s43">The No.</sentence>
 <sentence id="s44">2 Fund comprises deferred annuities and superannuation savings accounts that provide benefits based on a policy "account balance" maintained under each policy, with either:
  
-&#8226; Interest credited at a fixed (guaranteed) rate, over a fixed term.</sentence>
+#8226; Interest credited at a fixed (guaranteed) rate, over a fixed term.</sentence>
 <sentence id="s45">A new fixed rate of interest is offered, for a new fixed term, at the end of each guarantee period.</sentence>
-<sentence id="s46">&#8226; Interest credited on a "cash rate" basis, where the interest rate credited is declared by MetLife each week, in advance.</sentence>
+<sentence id="s46">#8226; Interest credited on a "cash rate" basis, where the interest rate credited is declared by MetLife each week, in advance.</sentence>
 <sentence id="s47">11 The No.</sentence>
 <sentence id="s48">3 Fund issues immediate annuities and allocated pensions.</sentence>
-<sentence id="s49">&#8226; All immediate annuities are issued on a term certain basis, either with a return of capital (RCV100), or without the return of capital (RCV0), at the end of the annuity term.</sentence>
+<sentence id="s49">#8226; All immediate annuities are issued on a term certain basis, either with a return of capital (RCV100), or without the return of capital (RCV0), at the end of the annuity term.</sentence>
 <sentence id="s50">For administration purposes, MetLife records an "account balance" for each annuity, where the account balance is reduced by annuity payments and increased by the fixed interest rate implicitly guaranteed within the annuity terms provided.</sentence>
-<sentence id="s51">&#8226; The allocated pensions are issued on either a fixed rate, fixed term basis, or on a "cash rate" basis.</sentence>
+<sentence id="s51">#8226; The allocated pensions are issued on either a fixed rate, fixed term basis, or on a "cash rate" basis.</sentence>
 <sentence id="s52">Fixed rate, fixed term allocated pensions provide fixed annuity payments over the guaranteed period (albeit allowing for fixed rate indexation where selected).</sentence>
 <sentence id="s53">At the end of the fixed rate period the residual policy account value may be "rolled over" for a new fixed rate period.</sentence>
 <sentence id="s54">The "cash rate" allocated pensions operate on a similar basis to the above No.</sentence>
@@ -224,10 +224,10 @@ Subsection (2) then provides:
 <sentence id="s57">As at 31 March 2007, the No.</sentence>
 <sentence id="s58">2 and No.</sentence>
 <sentence id="s59">3 statutory funds had recourse to the same underlying pool of assets valued at $2.215 billion represented by Australian fixed interest and cash of 61.4 per cent, US fixed interest (hedged to AUD) 29.3 per cent and USA high yield and bank loans 9.3 per cent.</sentence>
-<sentence id="s60">Overall, the investment profile was approximately 65 per cent rated Standard &amp; Poors (S&amp;P) A--- or above, 24 per cent rated as S&amp;P BBB and 12 per cent rated S&amp;P BB+ or below.</sentence>
+<sentence id="s60">Overall, the investment profile was approximately 65 per cent rated Standard amp; Poors (Samp;P) A--- or above, 24 per cent rated as Samp;P BBB and 12 per cent rated Samp;P BB+ or below.</sentence>
 <sentence id="s61">The investment policy is very conservative, although that may not be so clear now as it was when the evidence was tendered.</sentence>
 <sentence id="s62">The financial position of MetLife is strong.</sentence>
-<sentence id="s63">It has a claims paying S&amp;P rating of AA---.</sentence>
+<sentence id="s63">It has a claims paying Samp;P rating of AA---.</sentence>
 <sentence id="s64">13 Challenger Life No.</sentence>
 <sentence id="s65">2 Limited (Challenger) has a different history and profile.</sentence>
 <sentence id="s66">Its ultimate owner is Challenger Financial Services Group Limited, an Australian publicly listed company.</sentence>
@@ -414,7 +414,7 @@ Subsection (2) then provides:
  
  
  "1.</sentence>
-<sentence id="s140">Concern that the Standard &amp; Poor's rating is dropping from "AA---" with MetLife to "A" with Challenger 
+<sentence id="s140">Concern that the Standard amp; Poor's rating is dropping from "AA---" with MetLife to "A" with Challenger 
  
  2.</sentence>
 <sentence id="s141">Policyholder looking for security for a bulk of their retirement money concerned that Challenger is a third tier institution 
@@ -503,7 +503,7 @@ He also drew attention to the fact that he could only redeem at a significant di
 <sentence id="s178">
  
 
-( Re Royal &amp; Sun Alliance Life Assurance Ltd [2000] FCA 1259 ; (2000) 104 FCR 37 at [3] ).</sentence>
+( Re Royal amp; Sun Alliance Life Assurance Ltd [2000] FCA 1259 ; (2000) 104 FCR 37 at [3] ).</sentence>
 <sentence id="s179">Further, Parliament has indicated the importance of the role of the Court in Pt 9 , by identifying it as one of six principal means of effecting the objects of the Act (s 3(2)).</sentence>
 <sentence id="s180">29 The applicants submitted that the actuarial evidence established that there was no disadvantage to the interests of policy holders of either company, by virtue of the Scheme.</sentence>
 <sentence id="s181">The benefits and the manner in which they will be administered are substantially secure in all respects.</sentence>
@@ -612,4 +612,10 @@ Dated: 4 September 2007
  
  </sentence>
 </sentences>
+</case>es>
+</case>p://www.austlii.edu.au/au/cases/cth/FCA/2007/1327.html 
+ 
+ </sentence>
+</sentences>
+</case>es>
 </case>

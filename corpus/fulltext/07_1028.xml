@@ -3,9 +3,9 @@
 <name>Australian Capital Reserve Limited (Administrators Appointed) v High Tower Investments Pty Limited (Administrators Appointed); in the matter of High Tower Investments Pty Limited(Administrators Appointed) [2007] FCA 1028 (6 July 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1028.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">companies in administration</catchphrase>
-<catchphrase "id=c1">extension of "decision period" for enforcement of charges</catchphrase>
-<catchphrase "id=c2">corporations</catchphrase>
+<catchphrase >companies in administration</catchphrase>
+<catchphrase >extension of "decision period" for enforcement of charges</catchphrase>
+<catchphrase >corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -111,7 +111,7 @@ Dated: 6 July 2007
 
  Counsel for the Applicants: Mr JC Sheahan SC, Mr BF Katekar 
  
- Solicitor for the Applicants: Baker &amp; McKenzie 
+ Solicitor for the Applicants: Baker amp; McKenzie 
  
  Solicitor for the Respondents: Mr M Hughes of Minter Ellison 
  
@@ -152,4 +152,5 @@ ACN 085 515 180
  
  </sentence>
 </sentences>
-</case>
+</case>></sentences>
+</case>>

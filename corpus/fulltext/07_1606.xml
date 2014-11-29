@@ -3,10 +3,10 @@
 <name>Secretary, Department of Employment and Workplace Relations v Parry [2007] FCA 1606 (26 October 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1606.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from administrative appeals tribunal deciding the respondent qualified for disability support pension</catchphrase>
-<catchphrase "id=c1">concession that the appeal must be allowed as tribunal failed to address s 94(2)(b) social security act 1991 (cth)</catchphrase>
-<catchphrase "id=c2">ambiguity in tribunal's reasons</catchphrase>
-<catchphrase "id=c3">administrative law</catchphrase>
+<catchphrase >appeal from administrative appeals tribunal deciding the respondent qualified for disability support pension</catchphrase>
+<catchphrase >concession that the appeal must be allowed as tribunal failed to address s 94(2)(b) social security act 1991 (cth)</catchphrase>
+<catchphrase >ambiguity in tribunal's reasons</catchphrase>
+<catchphrase >administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -91,9 +91,9 @@
 <sentence id="s27">6.</sentence>
 <sentence id="s28">In order to assess whether a condition is fully diagnosed, treated and stabilised, one must consider: 
  
- &#8226; what treatment or rehabilitation has occurred;
- &#8226; whether treatment is still continuing or is planned in the near future;
- &#8226; whether any further reasonable medical treatment is likely to lead to significant functional improvement within the next 2 years.</sentence>
+ #8226; what treatment or rehabilitation has occurred;
+ #8226; whether treatment is still continuing or is planned in the near future;
+ #8226; whether any further reasonable medical treatment is likely to lead to significant functional improvement within the next 2 years.</sentence>
 <sentence id="s29">" 
  
  
@@ -215,4 +215,6 @@ Dated: 26 October 2007
  
  </sentence>
 </sentences>
-</case>
+</case>se>nce>
+</sentences>
+</case>se>

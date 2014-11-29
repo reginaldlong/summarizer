@@ -3,12 +3,12 @@
 <name>Adultshop.Com Ltd v Members of the Classification Review Board (No. 2) [2007] FCA 1872 (29 November 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1872.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">confidentiality orders</catchphrase>
-<catchphrase "id=c1">evidence of meetings of standing committee of attorneys-general censorship ministers</catchphrase>
-<catchphrase "id=c2">need to prevent prejudice to administration of justice warrants departure from principle of open justice</catchphrase>
-<catchphrase "id=c3">considerations differ from public interest immunity</catchphrase>
-<catchphrase "id=c4">public interest in proper functioning of co-operative ministerial councils</catchphrase>
-<catchphrase "id=c5">evidence</catchphrase>
+<catchphrase >confidentiality orders</catchphrase>
+<catchphrase >evidence of meetings of standing committee of attorneys-general censorship ministers</catchphrase>
+<catchphrase >need to prevent prejudice to administration of justice warrants departure from principle of open justice</catchphrase>
+<catchphrase >considerations differ from public interest immunity</catchphrase>
+<catchphrase >public interest in proper functioning of co-operative ministerial councils</catchphrase>
+<catchphrase >evidence</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -25,11 +25,11 @@
 <sentence id="s6">4 Opinions are expressed in the affidavit that the confidentiality arrangements are necessary to ensure that the relevant Ministers and public officials are free to engage in full, frank and robust discussions at those meetings.</sentence>
 <sentence id="s7">5 The gist of what is put against the continuation of the Orders is:
  
-&#8226; the claim for confidentiality in the affidavit evidence is analogous to a claim for public interest immunity for classes of documents which ought to be considered with some scepticism; and
+#8226; the claim for confidentiality in the affidavit evidence is analogous to a claim for public interest immunity for classes of documents which ought to be considered with some scepticism; and
  
-&#8226; open justice points in favour of members of the public being able to access the evidence in the case; without the SCAG material it is not possible to properly understand the evidence, the submissions and the decision which I am about to deliver; and
+#8226; open justice points in favour of members of the public being able to access the evidence in the case; without the SCAG material it is not possible to properly understand the evidence, the submissions and the decision which I am about to deliver; and
  
-&#8226; the last mentioned public interest is said to be particularly apt because there is a "no evidence" ground of review in which Adultshop's submissions invoke the SCAG material.</sentence>
+#8226; the last mentioned public interest is said to be particularly apt because there is a "no evidence" ground of review in which Adultshop's submissions invoke the SCAG material.</sentence>
 <sentence id="s8">The Evidence 
  
 6 The supporting affidavit was that of Ms Amanda Davies who is the Assistant Secretary of the Classification Policy Branch of the Commonwealth Attorney-General's Department.</sentence>
@@ -118,9 +118,9 @@
 <sentence id="s61">They extend beyond the public interest in the need to do justice between the parties and involve the public interest in the proper functioning of the National Classification Scheme.</sentence>
 <sentence id="s62">33 The elements of the public interest which the Attorney invokes are:
  
-&#8226; the effective operation of the National Classification Scheme through the proper and effective functioning of SCAG; and
+#8226; the effective operation of the National Classification Scheme through the proper and effective functioning of SCAG; and
  
-&#8226; the ability of the Commonwealth, the States and Territories to cooperate through Ministerial Councils in order to develop policy and take joint action to resolve issues arising between those governments.</sentence>
+#8226; the ability of the Commonwealth, the States and Territories to cooperate through Ministerial Councils in order to develop policy and take joint action to resolve issues arising between those governments.</sentence>
 <sentence id="s63">34 Ms Davies' opinions are to the effect that the principle of confidentiality stated in the SCAG Procedures, the COAG Compendium and the Policy Paper should be enforced in order to protect the elements of the public interest set out above.</sentence>
 <sentence id="s64">35 It seems to me that these interests go beyond, but ultimately are referrable to, the public interest in the need to do justice between the parties.</sentence>
 <sentence id="s65">They are therefore aspects of the administration of justice which may be prejudiced by an unqualified application of the principle of open justice.</sentence>
@@ -215,4 +215,8 @@ Dated: 29 November 2007
  
  </sentence>
 </sentences>
-</case>
+</case>case> 
+ 
+ </sentence>
+</sentences>
+</case>case>

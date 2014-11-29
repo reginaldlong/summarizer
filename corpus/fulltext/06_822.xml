@@ -3,12 +3,12 @@
 <name>Lindsay Transport Pty Ltd v Commissioner of Taxation [2006] FCA 822 (30 June 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/822.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">whether qualification for exemption on acquisition of three connected goods in operation in unison for purpose of refrigeration in course of transport by road by way of towage by prime mover</catchphrase>
-<catchphrase "id=c1">whether used mainly in carrying out manufacture-related activity</catchphrase>
-<catchphrase "id=c2">whether manufacture-related activity mainly carried out</catchphrase>
-<catchphrase "id=c3">whether exemption as general purpose road vehicle</catchphrase>
-<catchphrase "id=c4">interpretation of statutory sales tax exemption and classification provisions</catchphrase>
-<catchphrase "id=c5">sales tax</catchphrase>
+<catchphrase >whether qualification for exemption on acquisition of three connected goods in operation in unison for purpose of refrigeration in course of transport by road by way of towage by prime mover</catchphrase>
+<catchphrase >whether used mainly in carrying out manufacture-related activity</catchphrase>
+<catchphrase >whether manufacture-related activity mainly carried out</catchphrase>
+<catchphrase >whether exemption as general purpose road vehicle</catchphrase>
+<catchphrase >interpretation of statutory sales tax exemption and classification provisions</catchphrase>
+<catchphrase >sales tax</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -914,7 +914,7 @@ Lindsay drew attention in particular to 'subjecting to... physical action... [an
 And further at 607:
  
  
- 'Even if the decision on the meaning of "treatment" and the concept of what are the goods be rejected, the individual fragments of mineral are "processed" by the blending because they are, intentionally and usefully, re-arranged vis-&agrave;-vis one another....</sentence>
+ 'Even if the decision on the meaning of "treatment" and the concept of what are the goods be rejected, the individual fragments of mineral are "processed" by the blending because they are, intentionally and usefully, re-arranged vis-agrave;-vis one another....</sentence>
 <sentence id="s269">The Commissioner contended that a change in form or nature of the goods was required, but that is inconsistent with [certain English authority decided in 1957]..., and can be regarded as consistent with such cases as [certain further English authority decided in 1956 and 1966] only if goods the subject of the operation are regarded as a general mass of useful goods together with dirt, waste or impurities, and not the separate individual pieces intended for delivery or sale.</sentence>
 <sentence id="s270">' 
 
@@ -942,7 +942,7 @@ Establishing and maintaining a requisite low temperature to foodstuffs, in order
 <sentence id="s287">However the Commissioner contended further that 'the mere cooling of goods during transport is qualitatively different from the process under consideration in Davies ', because there the winding of the yarn onto the cones and tubes was described as 'part of the process of bringing the ultimate product, namely the piece goods, into a form or condition in which they could be marketed' .</sentence>
 <sentence id="s288">The difficulty for the Commissioner flowing from any comparison of the factual circumstances in Hamersley Iron , and also in Davies , is that whilst the physical outcome of the process or treatment might be described in each case as more significant in terms of process and extent of change, the STEC notion of applying a process or treatment of goods appearing in the Item 18(5) definition of manufacture-related activity would clearly enough accommodate situations of varying degree, depending upon the nature and extent of the process or treatment the subject of application.</sentence>
 <sentence id="s289">I have not found the Commissioner's endeavours to distinguish the circumstances in Hamersley Iron (or Davies for that matter) from the present to be persuasive.</sentence>
-<sentence id="s290">58 Lindsay further drew attention to the notion of process appearing in subItem 18(5)(c) as an aspect of the definition of manufacture-related activity, being a notion addressed in the patent case of ICI Chemicals &amp; Polymers Ltd v Lubrizol Corporation Inc [2000] FCA 1349 ; (2000) 106 FCR 214.</sentence>
+<sentence id="s290">58 Lindsay further drew attention to the notion of process appearing in subItem 18(5)(c) as an aspect of the definition of manufacture-related activity, being a notion addressed in the patent case of ICI Chemicals amp; Polymers Ltd v Lubrizol Corporation Inc [2000] FCA 1349 ; (2000) 106 FCR 214.</sentence>
 <sentence id="s291">The relevant subItem 18(5) expression is of course that of process or treatment to goods , being words of wide import and operation.</sentence>
 <sentence id="s292">In the reasons for joint judgment of the Full Court (Lee, Heerey and Lehane JJ) at [7], the following appears, upon which Lindsay placed reliance by way of illustration and analogy:
  
@@ -986,7 +986,7 @@ Those circumstances are materially removed from the circumstances of this presen
 60 The perishable goods in the form of foodstuffs here involved are to be apparently marketed by or on behalf of a manufacturer of the goods , each of them being a primary producer or manufacturer of the goods , or in relation to whom the goods are wholesaler's-materials goods within the s 3 definition of that expression , or otherwise are within the par (c)(iii) description of qualifying goods within in turn the s 3 definition of that further expression.</sentence>
 <sentence id="s316">Lindsay submitted that in the present context therefore, a 'process or treatment to goods' , which has the purpose of bringing goods into and keeping goods in a marketable or usable condition, within the purport of subItem 18(5)(c), need not involve a change in the form, nature or condition of the goods the subject of scrutiny.</sentence>
 <sentence id="s317">Lindsay contended rather that it is enough that some action is applied to the goods which results in preserving their marketability or usability in the hands of the manufacturer of the goods, and additionally as here its transportation consignee Lindsay.</sentence>
-<sentence id="s318">61 So much was contended by Lindsay moreover to be no different in principle, materially or relevantly, from the process or treatment involved in maintaining the slurry in Queensland Cement &amp; Lime Co Ltd v Deputy Federal Commissioner of Taxation (1986) 86 ATC 4771, being a decision of the Supreme Court of Queensland, in which the following views were expressed by de Jersey J (at 4773), albeit in the context of the 1935 precursor to the STEC Act:
+<sentence id="s318">61 So much was contended by Lindsay moreover to be no different in principle, materially or relevantly, from the process or treatment involved in maintaining the slurry in Queensland Cement amp; Lime Co Ltd v Deputy Federal Commissioner of Taxation (1986) 86 ATC 4771, being a decision of the Supreme Court of Queensland, in which the following views were expressed by de Jersey J (at 4773), albeit in the context of the 1935 precursor to the STEC Act:
  
  'I should add, with regard to a submission made on behalf of the defendant, that it would in my view be artificial to regard the conversion of limestone power to slurry, and the transporting of that slurry to Fisherman's Landing, as standing apart from the process of manufacture of the clinker.</sentence>
 <sentence id="s319">This is, of course, apart from what I have already referred to as a concession on the pleadings.</sentence>
@@ -1116,7 +1116,7 @@ Dated: 30 June 2006
 
  Counsel for the Applicant: M Leeming 
  
- Solicitor for the Applicant: Heidtman &amp; Co Lawyers 
+ Solicitor for the Applicant: Heidtman amp; Co Lawyers 
  
  Counsel for the Respondent: R Quinn 
  
@@ -1134,4 +1134,8 @@ Dated: 30 June 2006
  
  </sentence>
 </sentences>
-</case>
+</case>ase>l 
+ 
+ </sentence>
+</sentences>
+</case>ase>

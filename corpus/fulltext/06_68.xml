@@ -3,14 +3,14 @@
 <name>Bayer Bioscience NV v Deltapine Australia Pty Ltd [2006] FCA 68 (10 February 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/68.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">confidentiality regime</catchphrase>
-<catchphrase "id=c1">disclosure of confidential documents to proposed witness who is competitor of applicant</catchphrase>
-<catchphrase "id=c2">expert evidence</catchphrase>
-<catchphrase "id=c3">more than one expert per discipline</catchphrase>
-<catchphrase "id=c4">cost and delay</catchphrase>
-<catchphrase "id=c5">english practice preferrable</catchphrase>
-<catchphrase "id=c6">patents</catchphrase>
-<catchphrase "id=c7">evidence</catchphrase>
+<catchphrase >confidentiality regime</catchphrase>
+<catchphrase >disclosure of confidential documents to proposed witness who is competitor of applicant</catchphrase>
+<catchphrase >expert evidence</catchphrase>
+<catchphrase >more than one expert per discipline</catchphrase>
+<catchphrase >cost and delay</catchphrase>
+<catchphrase >english practice preferrable</catchphrase>
+<catchphrase >patents</catchphrase>
+<catchphrase >evidence</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -50,7 +50,7 @@
 <sentence id="s32">Professor Adang is a shareholder in the company.</sentence>
 <sentence id="s33">In his affidavit he says he is entitled to "compensation by InsectiGen for any successful commercialisation of technologies which are the subject of patents owned by the company and on which (he is) named as an inventor".</sentence>
 <sentence id="s34">11 In a news release published on the internet on 12 December 2005 InsectiGen announced it had received venture funding totalling $1.16 million allowing it to hire additional researchers and continue developing its bio-pesticide products.</sentence>
-<sentence id="s35">The release noted that in July InsectiGen had licensed its "patented Bt booster &tm; technology" for cotton to a subsidiary of Dupont for use in making better pest resistant crops (Dupont is a competitor of Bayer).</sentence>
+<sentence id="s35">The release noted that in July InsectiGen had licensed its "patented Bt booster tm; technology" for cotton to a subsidiary of Dupont for use in making better pest resistant crops (Dupont is a competitor of Bayer).</sentence>
 <sentence id="s36">The release included the following:
  
  "Developed by Michael Adang, UGA Professor of Entomology, Biochemistry and Molecular Biology, InsectiGen's licensed Bt booster (TM) technology has the potential to help increase worldwide crop yields and farm level productivity.</sentence>
@@ -161,4 +161,8 @@ Dated: 10 February 2006
  
  </sentence>
 </sentences>
-</case>
+</case>>h/FCA/2006/68.html 
+ 
+ </sentence>
+</sentences>
+</case>>

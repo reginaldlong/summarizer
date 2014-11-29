@@ -3,9 +3,9 @@
 <name>Sims, in the matter of Huon Corporation Pty Limited (Administrators Appointed) [2006] FCA 1201 (1 September 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1201.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">whether voluntary administrators incurred debt for services rendered</catchphrase>
-<catchphrase "id=c1">as did not s 447a order made to assist continuation of business</catchphrase>
-<catchphrase "id=c2">corporations</catchphrase>
+<catchphrase >whether voluntary administrators incurred debt for services rendered</catchphrase>
+<catchphrase >as did not s 447a order made to assist continuation of business</catchphrase>
+<catchphrase >corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -77,7 +77,7 @@
  
  The administrators contend that the obligations under the Supply Agreements fall within s 443A and seek a direction to that effect.</sentence>
 <sentence id="s36">There is an initial question as to whether any liability which ensues would properly be described as a 'debt'.</sentence>
-<sentence id="s37">Counsel has properly referred me to the decision of Branson J in Molit (No55) Pty Ltd v Lam Soon Australia Pty Ltd (Administrator Appointed) &amp; Macks (1996) 68 FCR 319 in which a strict instruction of the term 'debt' is adopted, drawing a distinction between a debt and a liability for unliquidated damages in this section.</sentence>
+<sentence id="s37">Counsel has properly referred me to the decision of Branson J in Molit (No55) Pty Ltd v Lam Soon Australia Pty Ltd (Administrator Appointed) amp; Macks (1996) 68 FCR 319 in which a strict instruction of the term 'debt' is adopted, drawing a distinction between a debt and a liability for unliquidated damages in this section.</sentence>
 <sentence id="s38">Counsel has pointed out that, in other sections, the words such as 'debt' and 'creditor' have been given a wider construction.</sentence>
 <sentence id="s39">The provision for insolvent trading is one example.</sentence>
 <sentence id="s40">Another is the construction of s 563A in Sons of Gwalia Ltd v Margaretic [2006] FCAFC 17 ; (2005) 149 FCR 227.</sentence>
@@ -135,4 +135,5 @@ Dated: 1 September 2006
  
  </sentence>
 </sentences>
-</case>
+</case>></sentences>
+</case>>

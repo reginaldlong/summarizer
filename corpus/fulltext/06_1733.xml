@@ -3,13 +3,13 @@
 <name>Dellios v Zegarac [2006] FCA 1733 (13 December 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1733.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">sequestration order made against respondent</catchphrase>
-<catchphrase "id=c1">respondent filing notice of motion seeking extension of time to appeal federal magistrate's decision</catchphrase>
-<catchphrase "id=c2">whether "special reasons" pursuant to o 52 r 15 (2) federal court rules</catchphrase>
-<catchphrase "id=c3">whether appeal is bound to fail</catchphrase>
-<catchphrase "id=c4">whether respondent has a counter claim set off or cross-demand equal to or exceeding the amount of judgment debt</catchphrase>
-<catchphrase "id=c5">no basis for extending the time for compliance</catchphrase>
-<catchphrase "id=c6">bankruptcy</catchphrase>
+<catchphrase >sequestration order made against respondent</catchphrase>
+<catchphrase >respondent filing notice of motion seeking extension of time to appeal federal magistrate's decision</catchphrase>
+<catchphrase >whether "special reasons" pursuant to o 52 r 15 (2) federal court rules</catchphrase>
+<catchphrase >whether appeal is bound to fail</catchphrase>
+<catchphrase >whether respondent has a counter claim set off or cross-demand equal to or exceeding the amount of judgment debt</catchphrase>
+<catchphrase >no basis for extending the time for compliance</catchphrase>
+<catchphrase >bankruptcy</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -63,10 +63,10 @@
 <sentence id="s31">By an application dated 26 June 2006 she has applied to set aside the orders of Smith M. That matter is yet to be heard by the Supreme Court.</sentence>
 <sentence id="s32">14 Since the refusal of Phipps FM to set aside the bankruptcy notice, the following relevant events have also occurred:
  
- &#8226; On 18 May 2006, Mussett R heard the creditor's petition and made a sequestration order.</sentence>
-<sentence id="s33">&#8226; On 9 June 2006, Ms Zegarac filed an application to review the exercise of power by the Registrar.</sentence>
+ #8226; On 18 May 2006, Mussett R heard the creditor's petition and made a sequestration order.</sentence>
+<sentence id="s33">#8226; On 9 June 2006, Ms Zegarac filed an application to review the exercise of power by the Registrar.</sentence>
 <sentence id="s34">(The hearing of that review is scheduled for next Friday 15 December 2006).</sentence>
-<sentence id="s35">&#8226; On 14 July 2006, Ryan J declined to grant a stay of the sequestration order, but noted the undertaking of Mr Dellios to consent to the adjournment of the unresolved Supreme Court proceeding until the hearing and determination of the review.</sentence>
+<sentence id="s35">#8226; On 14 July 2006, Ryan J declined to grant a stay of the sequestration order, but noted the undertaking of Mr Dellios to consent to the adjournment of the unresolved Supreme Court proceeding until the hearing and determination of the review.</sentence>
 <sentence id="s36">
 
 15 At [14] of his reasons for judgment, Phipps FM said:
@@ -116,12 +116,12 @@ Middleton J previously dealt with paragraphs 1, 3 and 4 of the motion 28 Novembe
 Dated: 13 December 2006
  Counsel for the Applicant Creditor: Ms F Forsyth 
  
- Solicitor for the Applicant Creditor: Dellios, West &amp; Co 
+ Solicitor for the Applicant Creditor: Dellios, West amp; Co 
  
  The Respondent Debtor appeared for herself.</sentence>
 <sentence id="s58">Counsel for the Trustees: Mr P Agardy 
  
- Solicitor for the Trustees: Schetzer Brott &amp; Appel 
+ Solicitor for the Trustees: Schetzer Brott amp; Appel 
  
  Date of Hearing: 13 December 2006 
  
@@ -135,4 +135,8 @@ Dated: 13 December 2006
  
  </sentence>
 </sentences>
-</case>
+</case>case>33.html 
+ 
+ </sentence>
+</sentences>
+</case>case>

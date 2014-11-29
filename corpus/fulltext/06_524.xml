@@ -3,11 +3,11 @@
 <name>Restom v Battenberg, in the matter of Battenberg (with Corrigendum dated 22 May 2006) [2006] FCA 524 (4 April 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/524.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">interim application to dismiss creditors petition and alternatively set aside subpoenas</catchphrase>
-<catchphrase "id=c1">whether debtor ordinarily resident or had a dwelling house in australia at the date of the act of bankruptcy</catchphrase>
-<catchphrase "id=c2">found to be arguable basis for allegation</catchphrase>
-<catchphrase "id=c3">application successful in part</catchphrase>
-<catchphrase "id=c4">bankruptcy</catchphrase>
+<catchphrase >interim application to dismiss creditors petition and alternatively set aside subpoenas</catchphrase>
+<catchphrase >whether debtor ordinarily resident or had a dwelling house in australia at the date of the act of bankruptcy</catchphrase>
+<catchphrase >found to be arguable basis for allegation</catchphrase>
+<catchphrase >application successful in part</catchphrase>
+<catchphrase >bankruptcy</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -53,7 +53,7 @@
 9 The grounds which were then elaborated included the following: 
  
  'F) That the Tribunal erred in determining that it had jurisdiction to hear the matter, the Appellant having Australian domicile at the time.</sentence>
-<sentence id="s23">(The letter of 3 March 2005 from Messrs Russo, the Appellant's Australian solicitors, to Russel &amp; Aitkin refers).</sentence>
+<sentence id="s23">(The letter of 3 March 2005 from Messrs Russo, the Appellant's Australian solicitors, to Russel amp; Aitkin refers).</sentence>
 <sentence id="s24">
  ... 
  
@@ -89,7 +89,7 @@
 <sentence id="s49">Therefore the subpoenas should be set aside and to the extent that any documents may have been produced in answer to the subpoenas by the clubs, the documents should be returned without being inspected by any party.</sentence>
 <sentence id="s50">17 Lastly, the application seeks that the subpoena issued to the debtor on 13 December 2005 be set aside.</sentence>
 <sentence id="s51">That subpoena seeks documents that relate to the Scottish Employment Tribunal proceedings and the appeal from it.</sentence>
-<sentence id="s52">Inter alia, it specifically seeks in paragraph 4 the letter dated 3 March 2005 from the debtor's solicitors to Russel &amp; Aitken referred to in the ground of appeal F in the Employment Appeals Tribunal proceedings.</sentence>
+<sentence id="s52">Inter alia, it specifically seeks in paragraph 4 the letter dated 3 March 2005 from the debtor's solicitors to Russel amp; Aitken referred to in the ground of appeal F in the Employment Appeals Tribunal proceedings.</sentence>
 <sentence id="s53">For the reasons that I have already given, it seems to me that the material sought in this subpoena has relevance and, subject to any proper objections as to production, ought be answered as Stone J has already directed.</sentence>
 <sentence id="s54">I refuse to set that subpoena aside.</sentence>
 <sentence id="s55">18 The debtor seeks the costs of this application.</sentence>
@@ -101,11 +101,11 @@ Dated: 9 May 2006
 
  Counsel for the Applicants: J Johnson 
  
- Solicitor for the Applicants: Sally Nash &amp; Co 
+ Solicitor for the Applicants: Sally Nash amp; Co 
  
  Counsel for the Respondent: MR Aldridge SC 
  
- Solicitor for the Respondent: Russo &amp; Partners 
+ Solicitor for the Respondent: Russo amp; Partners 
  
  Date of Hearing: 4 April 2006 
  
@@ -119,4 +119,6 @@ Dated: 9 May 2006
  
  </sentence>
 </sentences>
-</case>
+</case>ase>/sentence>
+</sentences>
+</case>ase>

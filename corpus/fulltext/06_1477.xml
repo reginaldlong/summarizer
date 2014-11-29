@@ -3,11 +3,11 @@
 <name>SZBII and Anor v Minister for Immigration and Multicultural Affairs and Anor [2006] FCA 1477 (17 November 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1477.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">protection visa</catchphrase>
-<catchphrase "id=c1">alleged fraud of migration agent</catchphrase>
-<catchphrase "id=c2">whether conduct of migration agent vitiates decision of tribunal</catchphrase>
-<catchphrase "id=c3">no jurisdictional error.</catchphrase>
-<catchphrase "id=c4">migration</catchphrase>
+<catchphrase >protection visa</catchphrase>
+<catchphrase >alleged fraud of migration agent</catchphrase>
+<catchphrase >whether conduct of migration agent vitiates decision of tribunal</catchphrase>
+<catchphrase >no jurisdictional error.</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -105,10 +105,10 @@
  
  'The Tribunal's invitation to the appellant was sent in accordance with statutory requirements as identified by the primary Judge.</sentence>
 <sentence id="s70">The Tribunal complied with its obligations to give the appellant notice of the hearing, notwithstanding the appellant's assertions that she did not receive the notice.</sentence>
-<sentence id="s71">Accordingly there was no legal error in the primary Judge's decision which is consistent with the decision of the Full Court in NADK of 2002 v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2002] FCAFC 184.</sentence>
+<sentence id="s71">Accordingly there was no legal error in the primary Judge's decision which is consistent with the decision of the Full Court in NADK of 2002 v Minister for Immigration amp; Multicultural amp; Indigenous Affairs [2002] FCAFC 184.</sentence>
 <sentence id="s72">' 
 
-21 In contrast, in Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs v SZFML and Anor [2006] FCAFC 152 the agent had correctly indicated to the Tribunal that his client wished to attend the hearing.</sentence>
+21 In contrast, in Minister for Immigration amp; Multicultural amp; Indigenous Affairs v SZFML and Anor [2006] FCAFC 152 the agent had correctly indicated to the Tribunal that his client wished to attend the hearing.</sentence>
 <sentence id="s73">Shortly before the hearing date the Tribunal changed the date.</sentence>
 <sentence id="s74">A further invitation was provided to the agent, who responded stating that the appellant did not wish to attend.</sentence>
 <sentence id="s75">However evidence established that in fact the appellant, being unaware of the date change, had attended at the hearing on the day and had always wished to provide further evidence in support of her case.</sentence>
@@ -223,4 +223,6 @@ Dated: 17 November 2006
  
  </sentence>
 </sentences>
-</case>
+</case>ase>/sentence>
+</sentences>
+</case>ase>

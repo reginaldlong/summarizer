@@ -3,11 +3,11 @@
 <name>Thompson v Big Bert Pty Ltd t/as Charles Hotel [2007] FCA 1978 (14 December 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1978.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">whether termination of employment or employment relationship</catchphrase>
-<catchphrase "id=c1">casual employment</catchphrase>
-<catchphrase "id=c2">whether direct or indirect age discrimination</catchphrase>
-<catchphrase "id=c3">whether indirect sex discrimination</catchphrase>
-<catchphrase "id=c4">employment law</catchphrase>
+<catchphrase >whether termination of employment or employment relationship</catchphrase>
+<catchphrase >casual employment</catchphrase>
+<catchphrase >whether direct or indirect age discrimination</catchphrase>
+<catchphrase >whether indirect sex discrimination</catchphrase>
+<catchphrase >employment law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -379,9 +379,9 @@
 <sentence id="s159">Ms Thompson disputed the substance of each of them in her evidence but in my view that cannot detract from the indication that she was not on good terms with Ms Engelhardt.</sentence>
 <sentence id="s160">The three incidents were identified as follows:
  
- '&#8226; Failed to ensure TAB race sheets were up 
- &#8226; Failed to ensure there was adequate change for the Lunch break relief 
- &#8226; Displaying a poor attitude / resentment to new Management' 
+ '#8226; Failed to ensure TAB race sheets were up 
+ #8226; Failed to ensure there was adequate change for the Lunch break relief 
+ #8226; Displaying a poor attitude / resentment to new Management' 
  
 
 36 There is no indication in the evidence that this warning letter was ever acted upon or had any further formal significance.</sentence>
@@ -774,4 +774,6 @@ Dated: 14 December 2007
  
  </sentence>
 </sentences>
-</case>
+</case>se></sentence>
+</sentences>
+</case>se>

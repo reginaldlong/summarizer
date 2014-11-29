@@ -3,9 +3,9 @@
 <name>SZGYM v Minister for Immigration and Citizenship [2007] FCA 1923 (12 November 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1923.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">procedural fairness</catchphrase>
-<catchphrase "id=c1">whether a tribunal hearing should have proceeded where a real doubt existed as to the ability of the applicant to comprehend what was being said</catchphrase>
-<catchphrase "id=c2">migration</catchphrase>
+<catchphrase >procedural fairness</catchphrase>
+<catchphrase >whether a tribunal hearing should have proceeded where a real doubt existed as to the ability of the applicant to comprehend what was being said</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -163,7 +163,7 @@ Once again the letter recording that information was expressed in English.</sent
 <sentence id="s80">' 
 
  
-23 In SYYB v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2006] FCA 24 Mansfield J considered a case where an issue was raised in respect of an Albanian interpreter who was said not to have been proficient in the Tosk dialect.</sentence>
+23 In SYYB v Minister for Immigration amp; Multicultural amp; Indigenous Affairs [2006] FCA 24 Mansfield J considered a case where an issue was raised in respect of an Albanian interpreter who was said not to have been proficient in the Tosk dialect.</sentence>
 <sentence id="s81">In his reasons for judgment his Honour said at [11]-[12]:
  
  '11 The Tribunal conducted a hearing on 28 January 2005.</sentence>
@@ -289,4 +289,5 @@ Dated: 6 December 2007
  
  </sentence>
 </sentences>
-</case>
+</case>e>/sentences>
+</case>e>

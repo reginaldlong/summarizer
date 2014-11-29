@@ -3,13 +3,13 @@
 <name>Roche Therapeutics, Inc v GenRx Pty Ltd [2007] FCA 83 (9 February 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/83.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">pharmaceutical patent</catchphrase>
-<catchphrase "id=c1">interlocutory hearing seeking injunctions to prevent alleged infringement</catchphrase>
-<catchphrase "id=c2">whether serious question to be tried as to whether there will be infringement</catchphrase>
-<catchphrase "id=c3">whether patent is invalid</catchphrase>
-<catchphrase "id=c4">whether impugned products would infringe patent even if valid</catchphrase>
-<catchphrase "id=c5">where balance of convenience lies</catchphrase>
-<catchphrase "id=c6">intellectual property</catchphrase>
+<catchphrase >pharmaceutical patent</catchphrase>
+<catchphrase >interlocutory hearing seeking injunctions to prevent alleged infringement</catchphrase>
+<catchphrase >whether serious question to be tried as to whether there will be infringement</catchphrase>
+<catchphrase >whether patent is invalid</catchphrase>
+<catchphrase >whether impugned products would infringe patent even if valid</catchphrase>
+<catchphrase >where balance of convenience lies</catchphrase>
+<catchphrase >intellectual property</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -91,10 +91,10 @@
 <sentence id="s70">According to the Guidelines, that includes:
  
  
- "&#8226; New generic medicine --- these are new versions of medicines where the patent for the original medicine has expired.</sentence>
+ "#8226; New generic medicine --- these are new versions of medicines where the patent for the original medicine has expired.</sentence>
 <sentence id="s71">The new version of medicine has the same active ingredient as the original medicine.</sentence>
 <sentence id="s72">
- &#8226; New pseudo generic medicines --- these are new versions of medicines which are still on-patent.</sentence>
+ #8226; New pseudo generic medicines --- these are new versions of medicines which are still on-patent.</sentence>
 <sentence id="s73">These may be marketed by the patent holder or another sponsor under an arrangement with the patent holder.</sentence>
 <sentence id="s74">The new version of medicine has the same active ingredient as the original medicine.</sentence>
 <sentence id="s75">" 
@@ -162,8 +162,8 @@
 32 By way of example of pricing, the current Schedule of Pharmaceutical Benefits shows the following pricing information for DILATREND 25 mg tablets:
  
  
- &#8226; Dispensed price: $106.42
- &#8226; Maximum price paid by the general consumer: $29.50 
+ #8226; Dispensed price: $106.42
+ #8226; Maximum price paid by the general consumer: $29.50 
  
 
 Those figures indicate that there is a $72.92 difference between dispensed price of the tablets and the payment made by the patient.</sentence>
@@ -270,7 +270,7 @@ The letter requested that the products be flagged as interchangeable with ' the 
 <sentence id="s178">The binding of such a substance to a receptor is likened to an operation of a lock and a key.</sentence>
 <sentence id="s179">The substance is the key and the receptor is the lock.</sentence>
 <sentence id="s180">The binding of the substance to the receptor unlocks the cell's response.</sentence>
-<sentence id="s181">The adrenergic receptors are classified as &#945;-receptors and [beta]-receptors.</sentence>
+<sentence id="s181">The adrenergic receptors are classified as #945;-receptors and [beta]-receptors.</sentence>
 <sentence id="s182">48 US Patent Number 4,503,067 discloses certain compounds including carvedilol.</sentence>
 <sentence id="s183">Carvedilol acts on [beta]-receptors and is described as a vasodilating [beta]-blocker.</sentence>
 <sentence id="s184">Those actions of carvedilol are said in the Patent to be useful for the treatment of hypertension.</sentence>
@@ -330,11 +330,11 @@ In its cross-claim, GenRx relies on other grounds as well.</sentence>
 <sentence id="s217">Three separate publications are independently relied upon as follows:
  
  
- &#8226; Gilbert EM, Olsen SL, Mealey P, Volkman K, Garrabee P, and Bristow MR " Is beta-receptor up-regulation necessary for improved LV function in dilated cardiomyopathy?</sentence>
+ #8226; Gilbert EM, Olsen SL, Mealey P, Volkman K, Garrabee P, and Bristow MR " Is beta-receptor up-regulation necessary for improved LV function in dilated cardiomyopathy?</sentence>
 <sentence id="s218">" (Paper presented at EMH Milan, 1991).</sentence>
-<sentence id="s219">&#8226; Kelly DT, " Carvedilol in Heart Failure ", Cardiology 1993, 82 (Suppl 3).</sentence>
+<sentence id="s219">#8226; Kelly DT, " Carvedilol in Heart Failure ", Cardiology 1993, 82 (Suppl 3).</sentence>
 <sentence id="s220">45-59.</sentence>
-<sentence id="s221">&#8226; Metra M, Nardi M, Giubbini R, Dei Cas L, " Effects of Short- and Long- Term Carvedilol Administration on Rest and Exercise Hemodynamic Variables, Exercise Capacity and Clinical Conditions in Patients with Idiopathic Dilated Cardiomyopathy " J Am Coll Cardiol vol 24, no 7, 1994.</sentence>
+<sentence id="s221">#8226; Metra M, Nardi M, Giubbini R, Dei Cas L, " Effects of Short- and Long- Term Carvedilol Administration on Rest and Exercise Hemodynamic Variables, Exercise Capacity and Clinical Conditions in Patients with Idiopathic Dilated Cardiomyopathy " J Am Coll Cardiol vol 24, no 7, 1994.</sentence>
 <sentence id="s222">
  
 
@@ -642,7 +642,7 @@ Dated: 9 February 2007
 <sentence id="s463">Burley and Mr A.</sentence>
 <sentence id="s464">Fox 
  
- Solicitor for the Applicant: Spruson &amp; Ferguson 
+ Solicitor for the Applicant: Spruson amp; Ferguson 
  
  Counsel for the Respondent: Ms A.H. Bowne SC and Mr N.R.</sentence>
 <sentence id="s465">Murray 
@@ -662,4 +662,10 @@ Dated: 9 February 2007
  
  </sentence>
 </sentences>
+</case>>
+</case>tml 
+ 
+ </sentence>
+</sentences>
+</case>>
 </case>

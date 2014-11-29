@@ -3,15 +3,15 @@
 <name>Conor Medsystems, Inc. v The University of British Columbia (No 4) [2007] FCA 324 (9 March 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/324.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">discovery</catchphrase>
-<catchphrase "id=c1">confidential documents</catchphrase>
-<catchphrase "id=c2">inspection by in-house counsel of trade rival</catchphrase>
-<catchphrase "id=c3">principles to be applied</catchphrase>
-<catchphrase "id=c4">restrictions imposed</catchphrase>
-<catchphrase "id=c5">notice to produce</catchphrase>
-<catchphrase "id=c6">seeking better discovery</catchphrase>
-<catchphrase "id=c7">abuse of process</catchphrase>
-<catchphrase "id=c8">practice and procedure</catchphrase>
+<catchphrase >discovery</catchphrase>
+<catchphrase >confidential documents</catchphrase>
+<catchphrase >inspection by in-house counsel of trade rival</catchphrase>
+<catchphrase >principles to be applied</catchphrase>
+<catchphrase >restrictions imposed</catchphrase>
+<catchphrase >notice to produce</catchphrase>
+<catchphrase >seeking better discovery</catchphrase>
+<catchphrase >abuse of process</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -56,7 +56,7 @@
 <sentence id="s35">The concept was developed in applications for protective orders restricting access to confidential trade information produced during discovery.</sentence>
 <sentence id="s36">7 When deciding whether or not to make a protective order to protect trade secrets United States courts strike a balance between, on the one hand, the need for full and open discovery and, on the other, the need to protect parties from a misuse of trade secrets by competitors.</sentence>
 <sentence id="s37">Striking the right balance will present difficulties in the case of in-house counsel.</sentence>
-<sentence id="s38">8 In-house counsel are not automatically denied access to an opponent's confidential information: R R Donnelley &amp; Sons Co v Quark Inc 2007 US Dist Lexis 424.</sentence>
+<sentence id="s38">8 In-house counsel are not automatically denied access to an opponent's confidential information: R R Donnelley amp; Sons Co v Quark Inc 2007 US Dist Lexis 424.</sentence>
 <sentence id="s39">But if in-house counsel is involved in "competitive decision-making" a protective order is often made.</sentence>
 <sentence id="s40">It has been said that involvement in competitive decision-making is the "crucial" or "decisive" or determinative factor in denying in-house counsel access to confidential information: Brown Bag Software v Symantec Corp (1960 F.2d 1465, 1470 (9 th Cir, 1992)); Glaxo Inc v Genpharm Pharmaceuticals Inc 796 F.Supp 872, 874 (ED NC, 1992); Carpenter Technology Corp v Armco Inc 132 FRD 24, 27 (ED Pa, 1991).</sentence>
 <sentence id="s41">9 The position under Anglo-Australian law is similar.</sentence>
@@ -138,7 +138,7 @@
 <sentence id="s115">This did not prevent its abolition in federal courts and tribunals by s 51 of the Evidence Act 1995 (Cth).</sentence>
 <sentence id="s116">17 The best evidence of the contents of a document is the original document.</sentence>
 <sentence id="s117">A party, though, was not always in the position of being able to produce the original of a document.</sentence>
-<sentence id="s118">If the original was in the possession of the opposite party, that party could be served with a notice to produce and if the original was not produced, secondary evidence of its contents could be given: Morgan v Babcock &amp; Wilcox Ltd [1929] HCA 25 ; (1929) 43 CLR 163.</sentence>
+<sentence id="s118">If the original was in the possession of the opposite party, that party could be served with a notice to produce and if the original was not produced, secondary evidence of its contents could be given: Morgan v Babcock amp; Wilcox Ltd [1929] HCA 25 ; (1929) 43 CLR 163.</sentence>
 <sentence id="s119">If the first party still wanted the original the proper course was to serve a subpoena duces tecum .</sentence>
 <sentence id="s120">By the rules of the Federal Court (O 33 r 12) a notice to produce has been given a two fold function.</sentence>
 <sentence id="s121">First, if the notice was not answered it permitted the party serving it to give secondary evidence of the contents of a document.</sentence>
@@ -146,7 +146,7 @@
 <sentence id="s123">18 The respondents served the notice to produce to obtain production of documents said to be discoverable, but which the applicant has not discovered.</sentence>
 <sentence id="s124">This is not a legitimate use of a notice to produce.</sentence>
 <sentence id="s125">In Commissioner for Railways v Small (1938) 38 SR (NSW) 564, 574 Jordan CJ said: "[I]t is not legitimate to use a writ of subpoena duces tecum as a substitute for an application for discovery of documents, or as an alternative to an application for further and better discovery.</sentence>
-<sentence id="s126">" See also Australian Competition &amp; Consumer Commission v Shell Co of Australia Ltd (1999) 161 ALR 686, 695-696.</sentence>
+<sentence id="s126">" See also Australian Competition amp; Consumer Commission v Shell Co of Australia Ltd (1999) 161 ALR 686, 695-696.</sentence>
 <sentence id="s127">It is equally illegitimate to use a notice to produce for that purpose.</sentence>
 <sentence id="s128">19 Perhaps anticipating that the notice was open to attack as an abuse of process, the respondents invited me to treat the notice as a convenient vehicle to consider whether the applicant should be required to make further discovery or to make particular discovery.</sentence>
 <sentence id="s129">There is, however, no basis for requiring the applicant to do either.</sentence>
@@ -187,4 +187,8 @@ Mr T Cordiner
  
  </sentence>
 </sentences>
-</case>
+</case>se>s/cth/FCA/2007/324.html 
+ 
+ </sentence>
+</sentences>
+</case>se>

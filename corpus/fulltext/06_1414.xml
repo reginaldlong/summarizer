@@ -3,12 +3,12 @@
 <name>Commissioner of Taxation v Word Investments Ltd [2006] FCA 1414 (3 November 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1414.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">charities</catchphrase>
-<catchphrase "id=c1">exemption from paying income tax</catchphrase>
-<catchphrase "id=c2">whether organisation that raised funds exclusively for provision to an exempt charity was itself charitable</catchphrase>
-<catchphrase "id=c3">whether running a commercial business caused organisation to lose charitable status</catchphrase>
-<catchphrase "id=c4">whether organisation that raises funds for charitable work overseas pursues its objectives in australia</catchphrase>
-<catchphrase "id=c5">taxation</catchphrase>
+<catchphrase >charities</catchphrase>
+<catchphrase >exemption from paying income tax</catchphrase>
+<catchphrase >whether organisation that raised funds exclusively for provision to an exempt charity was itself charitable</catchphrase>
+<catchphrase >whether running a commercial business caused organisation to lose charitable status</catchphrase>
+<catchphrase >whether organisation that raises funds for charitable work overseas pursues its objectives in australia</catchphrase>
+<catchphrase >taxation</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -268,16 +268,16 @@
 23 The Tribunal made the followings findings of fact and law:
  
  
- &#8226; Between 1986 or 1987 and 1996 Word generated income solely from investing deposits made by individuals seeking to support its fund-raising activities.</sentence>
+ #8226; Between 1986 or 1987 and 1996 Word generated income solely from investing deposits made by individuals seeking to support its fund-raising activities.</sentence>
 <sentence id="s88">This income was used solely for the benefit of Wycliffe and other similar religious organisations.</sentence>
 <sentence id="s89">Its activities were pursued solely in Australia.</sentence>
 <sentence id="s90">Consequently, during this period, Word was entitled to be endorsed as exempt from income tax as an institution for the advancement of religion, under item 1.1 in the table at s 50-5 of the Act.</sentence>
-<sentence id="s91">&#8226; From the commencement of Bethel Funerals in 1996 until 30 June 2002 when Bethel Funerals started operating separately from Word, the business of Word was a commercial operation for the purpose of making a commercial profit.</sentence>
+<sentence id="s91">#8226; From the commencement of Bethel Funerals in 1996 until 30 June 2002 when Bethel Funerals started operating separately from Word, the business of Word was a commercial operation for the purpose of making a commercial profit.</sentence>
 <sentence id="s92">As such, Word was not a charitable institution during that period.</sentence>
-<sentence id="s93">&#8226; Word's activities from 1 July 2002, after Bethel Funerals had started operating separately, were the same as those prior to 1996 and consequently Word was entitled to endorsement as a charitable institution from 1 July 2002.</sentence>
-<sentence id="s94">&#8226; Word was not a fund established by trust, for the purposes of item 1.5B of the table at s 50-5 of the Act, since its memorandum and articles of association did not constitute an instrument of trust and, at any rate, the trust would not satisfy s 50-60 since its distributions to Wycliffe were not to a foundation or institution which incurs its expenditure and pursues its charitable purposes outside Australia.</sentence>
-<sentence id="s95">&#8226; The question of whether the Foundation was an exempt fund under item 1.5B of the table at s 50-5 of the Act was not properly before the Tribunal.</sentence>
-<sentence id="s96">&#8226; Word, being a separate legal entity, was not a part of Wycliffe and is not entitled to the exemption which Wycliffe has.</sentence>
+<sentence id="s93">#8226; Word's activities from 1 July 2002, after Bethel Funerals had started operating separately, were the same as those prior to 1996 and consequently Word was entitled to endorsement as a charitable institution from 1 July 2002.</sentence>
+<sentence id="s94">#8226; Word was not a fund established by trust, for the purposes of item 1.5B of the table at s 50-5 of the Act, since its memorandum and articles of association did not constitute an instrument of trust and, at any rate, the trust would not satisfy s 50-60 since its distributions to Wycliffe were not to a foundation or institution which incurs its expenditure and pursues its charitable purposes outside Australia.</sentence>
+<sentence id="s95">#8226; The question of whether the Foundation was an exempt fund under item 1.5B of the table at s 50-5 of the Act was not properly before the Tribunal.</sentence>
+<sentence id="s96">#8226; Word, being a separate legal entity, was not a part of Wycliffe and is not entitled to the exemption which Wycliffe has.</sentence>
 <sentence id="s97">
  
 
@@ -406,7 +406,7 @@ Clearly, in this case there was evidence that Wycliffe and the other organisatio
 <sentence id="s182">42 There is a large body of law on this question in the United States: see D E Buckner, 'Property Used as Dining Rooms or Restaurants as within Tax Exemptions Extended to Property of Religious, Educational, Charitable, or Hospital Organizations' 72 ALR 2d 521.</sentence>
 <sentence id="s183">Some decisions favour the taxpayer and others favour the authorities.</sentence>
 <sentence id="s184">In some cases, the different results can be explained by differences in the wording of the relevant statutes or the degree to which the property of disputed use is integrated into the remainder of the property of the organisation.</sentence>
-<sentence id="s185">The leading textbook on trusts in the United States, Scott on Trusts , cites the decision of the Supreme Court of Illinois in School of Domestic Arts and Science v Carr 322 Ill 562, 153 NE 669 (1926) and concludes that where a charitable organisation applies any profits made by it to its charitable purposes, it will not thereby lose its charitable status: A Scott &amp; W Fratcher, The Law of Trusts , 4 th edn, Little, Brown &amp; Company, 1989) SS376.</sentence>
+<sentence id="s185">The leading textbook on trusts in the United States, Scott on Trusts , cites the decision of the Supreme Court of Illinois in School of Domestic Arts and Science v Carr 322 Ill 562, 153 NE 669 (1926) and concludes that where a charitable organisation applies any profits made by it to its charitable purposes, it will not thereby lose its charitable status: A Scott amp; W Fratcher, The Law of Trusts , 4 th edn, Little, Brown amp; Company, 1989) SS376.</sentence>
 <sentence id="s186">The School of Domestic Arts case was concerned with a tax on the property occupied by the School.</sentence>
 <sentence id="s187">The School conducted a restaurant located within its premises.</sentence>
 <sentence id="s188">The Court said at 322 Ill 562 at 569---570, 153 NE 669 at 672:
@@ -523,7 +523,7 @@ To the same effect is Decatur Sports Foundation v Department of Revenue 177 Ill 
 <sentence id="s286">With the decline of the welfare state, charitable organisations are expected to do more with the same resources.</sentence>
 <sentence id="s287">Reliance on donations alone will, in many cases, be insufficient.</sentence>
 <sentence id="s288">Hence many charitable organisations have established business ventures to generate the income necessary to support their activities.</sentence>
-<sentence id="s289">There may appear to be a vast difference between selling lamingtons at a church f&ecirc;te and selling funeral services, but where the object of raising the funds is the same, I can no see no reason to draw a legal distinction between the two.</sentence>
+<sentence id="s289">There may appear to be a vast difference between selling lamingtons at a church fecirc;te and selling funeral services, but where the object of raising the funds is the same, I can no see no reason to draw a legal distinction between the two.</sentence>
 <sentence id="s290">I again refer in this connection to the cases referred to at [33]-[35].</sentence>
 <sentence id="s291">61 It follows that, for the period from 1 July 2000 to 1 July 2002, Word was a charitable institution under item 1.1 of the table at s 50-5 of the Act and is entitled to endorsement accordingly.</sentence>
 <sentence id="s292">The cross-appeal is therefore allowed.</sentence>
@@ -599,4 +599,8 @@ Dated: 3 November 2006
  
  </sentence>
 </sentences>
+</case>>
+</case> </sentence>
+</sentences>
+</case>>
 </case>

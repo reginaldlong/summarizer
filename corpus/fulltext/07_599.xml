@@ -3,11 +3,11 @@
 <name>Minister for Environment and Heritage v Warne [2007] FCA 599 (27 April 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/599.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">commercial fishing within boundaries of a reserve</catchphrase>
-<catchphrase "id=c1">civil penalty proceedings</catchphrase>
-<catchphrase "id=c2">joint submissions on penalty</catchphrase>
-<catchphrase "id=c3">appropriate penalty</catchphrase>
-<catchphrase "id=c4">environment protection</catchphrase>
+<catchphrase >commercial fishing within boundaries of a reserve</catchphrase>
+<catchphrase >civil penalty proceedings</catchphrase>
+<catchphrase >joint submissions on penalty</catchphrase>
+<catchphrase >appropriate penalty</catchphrase>
+<catchphrase >environment protection</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -125,7 +125,7 @@ By operation of s 4AA of the Crimes Act 1914 (Cth) the maximum civil penalty for
 <sentence id="s32">The Court will not depart from an agreed figure merely because it might otherwise have been disposed to select some other figure, or except in a clear case.</sentence>
 <sentence id="s33">
 
-8 The Full Court has held that these observations are capable of applying to the making of orders reflecting negotiated outcomes in respect of civil penalty provisions of Acts other than the TPA ( Minister for Industry, Tourism &amp; Resources v Mobil Oil Australia Pty Ltd [2004] FCAFC 72).</sentence>
+8 The Full Court has held that these observations are capable of applying to the making of orders reflecting negotiated outcomes in respect of civil penalty provisions of Acts other than the TPA ( Minister for Industry, Tourism amp; Resources v Mobil Oil Australia Pty Ltd [2004] FCAFC 72).</sentence>
 <sentence id="s34">In my view, the observations are applicable to the circumstances of this case.</sentence>
 <sentence id="s35">9 I now have regard to the matters referred to in s 481(3) of the Act.</sentence>
 <sentence id="s36">10 As to the nature and extent of the contravening conduct, the respondent is a commercial fisherman who, in the course of carrying out fishing operations in the vicinity of the Mermaid Reef Reserve, caused the vessel, AFV Surefire , on four different occasions over the two days in question, to enter the boundaries of the reserve and to trawl for scampi.</sentence>
@@ -170,7 +170,7 @@ Dated: 27 April 2007
  
  Counsel for the Respondent: Mr D Leask 
  
- Solicitor for the Respondent: Leask &amp; Co 
+ Solicitor for the Respondent: Leask amp; Co 
  
  Date of Hearing: 17 April 2007 
  
@@ -186,4 +186,6 @@ Dated: 27 April 2007
  
  </sentence>
 </sentences>
-</case>
+</case>e> </sentence>
+</sentences>
+</case>e>

@@ -3,11 +3,11 @@
 <name>Christodoulou v Disney Enterprises Inc [2006] FCA 38 (3 February 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/38.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">whether security for costs should be ordered</catchphrase>
-<catchphrase "id=c1">appeal without merit or substance</catchphrase>
-<catchphrase "id=c2">appellant impecunious</catchphrase>
-<catchphrase "id=c3">amount of security appropriate</catchphrase>
-<catchphrase "id=c4">security for costs</catchphrase>
+<catchphrase >whether security for costs should be ordered</catchphrase>
+<catchphrase >appeal without merit or substance</catchphrase>
+<catchphrase >appellant impecunious</catchphrase>
+<catchphrase >amount of security appropriate</catchphrase>
+<catchphrase >security for costs</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -40,7 +40,7 @@
 <sentence id="s21">In my view those submissions should be accepted.</sentence>
 <sentence id="s22">8 In support of their contention that the appeal is 'without merit or substance' the respondents stated:
  
- 'As the reasons of Crennan J indicate, this case is simply an application of simple facts to a well developed body of law which has been established by the High Court and Full Court in cases such as Shell Co (Aust) Ltd v Esso Standard Oil (Aust) Ltd (1963) 109 CLR 404, Johnson &amp; Johnson Australia Pty Ltd v Sterling Pharmaceuticals Pty Ltd (1991) 30 FCR 326, Musidor BV v Tansing (1994) 52 FCR 363 and Registrar of Trademarks v Woolworths Ltd [1999] FCA 1020 ; (1999) 93 FCR 365.</sentence>
+ 'As the reasons of Crennan J indicate, this case is simply an application of simple facts to a well developed body of law which has been established by the High Court and Full Court in cases such as Shell Co (Aust) Ltd v Esso Standard Oil (Aust) Ltd (1963) 109 CLR 404, Johnson amp; Johnson Australia Pty Ltd v Sterling Pharmaceuticals Pty Ltd (1991) 30 FCR 326, Musidor BV v Tansing (1994) 52 FCR 363 and Registrar of Trademarks v Woolworths Ltd [1999] FCA 1020 ; (1999) 93 FCR 365.</sentence>
 <sentence id="s23">' 
 
 9 The submissions also state:
@@ -82,4 +82,7 @@ Dated: 9 February 2006
  
  </sentence>
 </sentences>
-</case>
+</case>>
+ </sentence>
+</sentences>
+</case>>

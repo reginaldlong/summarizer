@@ -3,9 +3,9 @@
 <name>Nouv v Minister for Immigration and Multicultural Affairs [2006] FCA 1474 (10 November 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1474.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">permanent spouse visa application</catchphrase>
-<catchphrase "id=c1">death of sponsoring spouse</catchphrase>
-<catchphrase "id=c2">migration</catchphrase>
+<catchphrase >permanent spouse visa application</catchphrase>
+<catchphrase >death of sponsoring spouse</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -21,7 +21,7 @@
 
 2 A delegate of the Minister refused to grant the permanent visa.</sentence>
 <sentence id="s6">That refusal was affirmed on review by the Migration Review Tribunal.</sentence>
-<sentence id="s7">An application for judicial review was refused by Connolly FM: Chinda Nouv v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2006] FMCA 1101.</sentence>
+<sentence id="s7">An application for judicial review was refused by Connolly FM: Chinda Nouv v Minister for Immigration amp; Multicultural amp; Indigenous Affairs [2006] FMCA 1101.</sentence>
 <sentence id="s8">The appellant now appeals to this Court.</sentence>
 <sentence id="s9">3 The factual background, the relevant legislation and the terms of the Tribunal's decision are set out in the decision of the learned Magistrate and it is not necessary to repeat them.</sentence>
 <sentence id="s10">4 The appellant's counsel contended that the learned Magistrate erred in that he should have set aside the Tribunal's decision on the grounds that:
@@ -98,7 +98,7 @@ Dated: 10 November 2006
 
  Counsel for the Appellant: J Gibson 
  
- Solicitors for the Appellant: Clothier Anderson &amp; Associates 
+ Solicitors for the Appellant: Clothier Anderson amp; Associates 
  
  Counsel for the Respondent: G Livermore 
  
@@ -118,4 +118,5 @@ Dated: 10 November 2006
  
  </sentence>
 </sentences>
-</case>
+</case>se>sentences>
+</case>se>

@@ -3,13 +3,13 @@
 <name>Inspector-General in Bankruptcy v Bradshaw [2006] FCA 22 (31 January 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/22.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application to reopen</catchphrase>
-<catchphrase "id=c1">discretionary factors militating for and against reopening</catchphrase>
-<catchphrase "id=c2">parties proceeded on an understanding that the applicants would not adduce evidence on quantification of loss</catchphrase>
-<catchphrase "id=c3">interest in finality of litigation</catchphrase>
-<catchphrase "id=c4">whether applicants made an election between alternative rights</catchphrase>
-<catchphrase "id=c5">application to reopen refused</catchphrase>
-<catchphrase "id=c6">bankruptcy</catchphrase>
+<catchphrase >application to reopen</catchphrase>
+<catchphrase >discretionary factors militating for and against reopening</catchphrase>
+<catchphrase >parties proceeded on an understanding that the applicants would not adduce evidence on quantification of loss</catchphrase>
+<catchphrase >interest in finality of litigation</catchphrase>
+<catchphrase >whether applicants made an election between alternative rights</catchphrase>
+<catchphrase >application to reopen refused</catchphrase>
+<catchphrase >bankruptcy</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -204,7 +204,7 @@ I would therefore refuse the application to reopen the applicants' case.</senten
 <sentence id="s161">They show only that the Commonwealth, through ITSA and the AFP, expended monies in the employment of these officers who, in the course of their employment as salaried officers of the Commonwealth, undertook the investigation.</sentence>
 <sentence id="s162">There was no necessary correlation, causal or otherwise, demonstrated between the cost of the work done on account of Bradshaw's misfeasance and the cost of Mr Clarke's or Mr Kane's annual salary.</sentence>
 <sentence id="s163">Put another way, there is no necessary connection between Bradshaw's breach of the condition of his bond and the amount claimed in relation to Mr Clarke and Mr Kane.</sentence>
-<sentence id="s164">Further, there is nothing to indicate that their services would not have been retained or that they would have been more profitably employed but for their investigation of Bradshaw: compare National Coal Board v Galley [1958] 1 WLR 16 at 29-30 referred to by Harvey McGregor in McGregor on Damages (16 th ed, Sweet &amp; Maxwell Ltd, 1997) at [1250].</sentence>
+<sentence id="s164">Further, there is nothing to indicate that their services would not have been retained or that they would have been more profitably employed but for their investigation of Bradshaw: compare National Coal Board v Galley [1958] 1 WLR 16 at 29-30 referred to by Harvey McGregor in McGregor on Damages (16 th ed, Sweet amp; Maxwell Ltd, 1997) at [1250].</sentence>
 <sentence id="s165">There is nothing to show that their work on Bradshaw's account saved the Commonwealth from other expenditures: compare Christmas Island Resort Pty Ltd v Geraldton Building Co Pty Ltd (No 4) (1995) 16 WAR 277 at 280.</sentence>
 <sentence id="s166">There is no evidence in the relevant affidavits about the work that they would have undertaken if they had not undertaken the investigations into Bradshaw's activities.</sentence>
 <sentence id="s167">37 Moreover, whilst the Commonwealth might recover payment under the bond in respect of its expenditure in investigating Bradshaw, it does not follow that it would be entitled to recover its expenditure on Bradshaw's prosecution.</sentence>
@@ -272,7 +272,7 @@ I would therefore refuse the application to reopen the applicants' case.</senten
  
  Solicitor for the Second Respondent: 
  
- Herbert Geer &amp; Rundle 
+ Herbert Geer amp; Rundle 
  
  
  
@@ -301,4 +301,8 @@ I would therefore refuse the application to reopen the applicants' case.</senten
  
  </sentence>
 </sentences>
-</case>
+</case>e>06/22.html 
+ 
+ </sentence>
+</sentences>
+</case>e>

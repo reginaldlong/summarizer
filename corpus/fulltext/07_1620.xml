@@ -3,16 +3,16 @@
 <name>Australian Securities and Investments Commission v Mining Projects Group Limited [2007] FCA 1620 (25 October 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1620.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">civil penalty proceeding</catchphrase>
-<catchphrase "id=c1">pleadings</catchphrase>
-<catchphrase "id=c2">request for further and better particulars of defence</catchphrase>
-<catchphrase "id=c3">whether self-incrimination or penalty privilege apply to pleadings</catchphrase>
-<catchphrase "id=c4">whether privilege waived by filing a defence</catchphrase>
-<catchphrase "id=c5">extent of waiver</catchphrase>
-<catchphrase "id=c6">discovery</catchphrase>
-<catchphrase "id=c7">witness statements and affidavits obtained by plaintiff</catchphrase>
-<catchphrase "id=c8">whether protected from inspection by litigation privilege</catchphrase>
-<catchphrase "id=c9">practice and procedure</catchphrase>
+<catchphrase >civil penalty proceeding</catchphrase>
+<catchphrase >pleadings</catchphrase>
+<catchphrase >request for further and better particulars of defence</catchphrase>
+<catchphrase >whether self-incrimination or penalty privilege apply to pleadings</catchphrase>
+<catchphrase >whether privilege waived by filing a defence</catchphrase>
+<catchphrase >extent of waiver</catchphrase>
+<catchphrase >discovery</catchphrase>
+<catchphrase >witness statements and affidavits obtained by plaintiff</catchphrase>
+<catchphrase >whether protected from inspection by litigation privilege</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -82,7 +82,7 @@
 <sentence id="s62">" That is, the plaintiff must prove his case without any assistance from the defendant: Abbco Iceworks 52 FCR 96, 129; Rich [2004] HCA 42 ; 220 CLR 129, 142.</sentence>
 <sentence id="s63">So it has been held that although in a civil action a defendant is required to deliver a defence he cannot be compelled to make any admissions in relation to the matters alleged against him.</sentence>
 <sentence id="s64">That is, penalty privilege operates to relieve a defendant from the need to deliver a defence that complies with the pleading rules if the rules would override the privilege.</sentence>
-<sentence id="s65">To the extent that pleading rules purport to impose such an obligation they must give way to the privilege: Hadgkiss v Construction, Forestry, Mining and Energy Union (2005) 146 IR 106, 111-112; A &amp; L Silvestri Pty Ltd v Construction, Forestry, Mining and Energy Union (2005) 226 ALR 247, 251.</sentence>
+<sentence id="s65">To the extent that pleading rules purport to impose such an obligation they must give way to the privilege: Hadgkiss v Construction, Forestry, Mining and Energy Union (2005) 146 IR 106, 111-112; A amp; L Silvestri Pty Ltd v Construction, Forestry, Mining and Energy Union (2005) 226 ALR 247, 251.</sentence>
 <sentence id="s66">13 There is a potential problem if, as in this case, a defendant wishes to run a positive case.</sentence>
 <sentence id="s67">Ordinarily a positive case must be raised in the defence.</sentence>
 <sentence id="s68">Whether it must be raised in a defence in a civil action to recover a penalty is by no means clear.</sentence>
@@ -143,7 +143,7 @@
 <sentence id="s121">21 According to 8 Wigmore on Evidence (revised edition, 1961) SS2275, self-incrimination privilege may also be waived by contract or other binding pledge.</sentence>
 <sentence id="s122">Bray on Discovery (1885), 337-338 and Phipson on Evidence (14 th ed, 1990), para 20-53 take the opposite view, stating that self-incrimination privilege may not be waived by contract: see generally K Grevling, "Contracting Out of the Privilege Against Self-Incrimination" in F D Rose (ed), Consensus Ad Idem 28, 45-50.</sentence>
 <sentence id="s123">In reality, the position in England is uncertain.</sentence>
-<sentence id="s124">There is at least one nineteenth century case which arguably holds that the privilege can be excluded by agreement ( Robinson v Kitchin (1856) 21 Beav 365, 370 [52 ER 900, 902]; 8 De G M &amp; G 88, 91-92 [44 ER 322, 324] (affirmed on appeal on other grounds)).</sentence>
+<sentence id="s124">There is at least one nineteenth century case which arguably holds that the privilege can be excluded by agreement ( Robinson v Kitchin (1856) 21 Beav 365, 370 [52 ER 900, 902]; 8 De G M amp; G 88, 91-92 [44 ER 322, 324] (affirmed on appeal on other grounds)).</sentence>
 <sentence id="s125">Two other cases may be interpreted as authority for the same proposition: Green (1827) 1 Sim 404; Chadwick v Chadwick (1852) 22 LJ Ch 329 [20 LTR 272]).</sentence>
 <sentence id="s126">There is, however, contrary authority: see Lee v Read (1842) 5 Beav 381, 385 [49 ER 625, 627].</sentence>
 <sentence id="s127">Recent authority has cast doubt on the correctness of the cases that support waiver by contract, both generally and as they apply to self-incrimination privilege: see Rank Film [1982] AC 380, 413-414 and 422; Bishopsgate Investment Management Ltd (in prov liq) v Maxwell [1993] Ch D 1, 34, 54, 66 and 71.</sentence>
@@ -283,4 +283,8 @@ H Carmichael
  
  </sentence>
 </sentences>
-</case>
+</case>e>au/cases/cth/FCA/2007/1620.html 
+ 
+ </sentence>
+</sentences>
+</case>e>

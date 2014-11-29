@@ -3,13 +3,13 @@
 <name>Restom v Battenberg, in the matter of Battenberg [2006] FCA 781 (22 June 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/781.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">subpoena</catchphrase>
-<catchphrase "id=c1">notice to produce</catchphrase>
-<catchphrase "id=c2">interim application to set aside subpoenas and notices to produce</catchphrase>
-<catchphrase "id=c3">relevance</catchphrase>
-<catchphrase "id=c4">legal professional privilege</catchphrase>
-<catchphrase "id=c5">waiver of privilege</catchphrase>
-<catchphrase "id=c6">practice and procedure</catchphrase>
+<catchphrase >subpoena</catchphrase>
+<catchphrase >notice to produce</catchphrase>
+<catchphrase >interim application to set aside subpoenas and notices to produce</catchphrase>
+<catchphrase >relevance</catchphrase>
+<catchphrase >legal professional privilege</catchphrase>
+<catchphrase >waiver of privilege</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -30,16 +30,16 @@
 <sentence id="s9">The only issue remaining is the creditors' objection to paragraph 4 of the subpoena, on the grounds that the documents sought are subject to legal professional privilege.</sentence>
 <sentence id="s10">Paragraph 4 is as follows:
  
- 'Letter dated 3 March 2005 by Salvatore Russo to the [sic] Russel &amp; Aitken on behalf of the Respondent in an appeal from the decision of the Scottish Employment Tribunal.</sentence>
+ 'Letter dated 3 March 2005 by Salvatore Russo to the [sic] Russel amp; Aitken on behalf of the Respondent in an appeal from the decision of the Scottish Employment Tribunal.</sentence>
 <sentence id="s11">' 
 
-4 Apparently Russel &amp; Aitken are solicitors who acted for the debtor in Scotland.</sentence>
+4 Apparently Russel amp; Aitken are solicitors who acted for the debtor in Scotland.</sentence>
 <sentence id="s12">The debtor claimed that this letter between his Australian and Scottish solicitors is protected from disclosure by legal professional privilege.</sentence>
 <sentence id="s13">The creditors claim that any such privilege was waived by the debtor because there had been disclosure to a third party (the Scottish Employment Tribunal) in circumstances where the third party was not bound to treat the information disclosed as confidential.</sentence>
 <sentence id="s14">The disclosure to which the creditors refer is to be found in paragraph 6(F) of the debtor's Notice of Appeal from a decision of the Scottish Employment Tribunal, which is as follows:
  
  'That the Tribunal erred in determining that it had jurisdiction to hear the matter, the Appellant having Australian domicile at the time.</sentence>
-<sentence id="s15">(The letter of 3 March 2005 from Messrs Russo, the Appellant's Australian solicitors, to Russel &amp; Aitken refers).</sentence>
+<sentence id="s15">(The letter of 3 March 2005 from Messrs Russo, the Appellant's Australian solicitors, to Russel amp; Aitken refers).</sentence>
 <sentence id="s16">
 
 5 The disclosure of the contents of the letter of 3 March 2005 in the Notice of Appeal signed by the debtor is inconsistent with the maintenance of confidentiality.</sentence>
@@ -82,10 +82,10 @@
  
  
  '1.</sentence>
-<sentence id="s42">Correspondence from Russo &amp; Co to the Sheriff, Perth, Scotland concerning ownership of chattels.</sentence>
+<sentence id="s42">Correspondence from Russo amp; Co to the Sheriff, Perth, Scotland concerning ownership of chattels.</sentence>
 <sentence id="s43">
  2.</sentence>
-<sentence id="s44">Correspondence to Russo &amp; Co instructing him with respect to: 
+<sentence id="s44">Correspondence to Russo amp; Co instructing him with respect to: 
  
  
  
@@ -124,10 +124,10 @@ Dated: 22 June 2006
 
  Counsel for the Applicant: Mr P Walsh 
  
- Solicitor for the Applicant: Sally Nash &amp; Co.</sentence>
+ Solicitor for the Applicant: Sally Nash amp; Co.</sentence>
 <sentence id="s57">Counsel for the Respondent: Mr M Aldridge SC with Mr J Dupree 
  
- Solicitor for the Respondent: Russo &amp; Partners 
+ Solicitor for the Respondent: Russo amp; Partners 
  
  Date of Hearing: 20 June 2006 
  
@@ -141,4 +141,8 @@ Dated: 22 June 2006
  
  </sentence>
 </sentences>
-</case>
+</case></case>.html 
+ 
+ </sentence>
+</sentences>
+</case></case>

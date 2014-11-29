@@ -3,20 +3,20 @@
 <name>The University of Western Australia v Gray (No 8) [2007] FCA 89 (9 February 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/89.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">discovery</catchphrase>
-<catchphrase "id=c1">inspection</catchphrase>
-<catchphrase "id=c2">obligation to produce discovered documents</catchphrase>
-<catchphrase "id=c3">power of court to order production of documents discovered</catchphrase>
-<catchphrase "id=c4">discretion</catchphrase>
-<catchphrase "id=c5">criterion</catchphrase>
-<catchphrase "id=c6">"necessary"</catchphrase>
-<catchphrase "id=c7">whether inspection necessary</catchphrase>
-<catchphrase "id=c8">solicitors</catchphrase>
-<catchphrase "id=c9">duty in provision of discovery</catchphrase>
-<catchphrase "id=c10">certificate of availability for inspection</catchphrase>
-<catchphrase "id=c11">duty of solicitor in so certifying</catchphrase>
-<catchphrase "id=c12">discovery of single item comprising voluminous unsorted records including irrelevant material</catchphrase>
-<catchphrase "id=c13">practice and procedure</catchphrase>
+<catchphrase >discovery</catchphrase>
+<catchphrase >inspection</catchphrase>
+<catchphrase >obligation to produce discovered documents</catchphrase>
+<catchphrase >power of court to order production of documents discovered</catchphrase>
+<catchphrase >discretion</catchphrase>
+<catchphrase >criterion</catchphrase>
+<catchphrase >"necessary"</catchphrase>
+<catchphrase >whether inspection necessary</catchphrase>
+<catchphrase >solicitors</catchphrase>
+<catchphrase >duty in provision of discovery</catchphrase>
+<catchphrase >certificate of availability for inspection</catchphrase>
+<catchphrase >duty of solicitor in so certifying</catchphrase>
+<catchphrase >discovery of single item comprising voluminous unsorted records including irrelevant material</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -272,7 +272,7 @@ The basis upon which the University sought the production of these documents was
 
 14 The proposition advanced by Cairns was not always so obvious nor is it obvious today.</sentence>
 <sentence id="s90">In Bray's Principles and Practice of Discovery (Reeves and Turner, 1885) it was pointed out that cases under the old English equivalent of O 15 r 10 drew a clear distinction between an application for production of documents referred to in affidavits and pleadings and documents referred to in the affidavit of documents: at 242-243 citing Quilter v Heatly (1883) 23 Ch D 42; Roberts v Oppenheim (1884) 26 Ch D 724.</sentence>
-<sentence id="s91">15 The English practice in relation to inspection under the former Rules of the Supreme Court was recently described in Matthews P and Malek HM, Disclosure (Sweet &amp; Maxwell, London, 2001) (at [9.001]): 
+<sentence id="s91">15 The English practice in relation to inspection under the former Rules of the Supreme Court was recently described in Matthews P and Malek HM, Disclosure (Sweet amp; Maxwell, London, 2001) (at [9.001]): 
  
  'Under the former rules ... at the stage of disclosure, the burden was on the disclosing party to show why disclosure was not necessary, either for disposing fairly of the cause or matter, or for saving costs.</sentence>
 <sentence id="s92">In relation to inspection, the general rule involved the same test, but (in the High Court) it reversed the burden of proof, ie that no order for production, or for the supply of a copy, of any document is to be made unless the Court was satisfied that the order was necessary either for disposing fairly of the cause or matter or for saving costs.</sentence>
@@ -414,4 +414,9 @@ Dated: 9 February 2007
  
  </sentence>
 </sentences>
-</case>
+</case>>k 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/89.html 
+ 
+ </sentence>
+</sentences>
+</case>>

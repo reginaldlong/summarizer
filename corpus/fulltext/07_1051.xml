@@ -3,15 +3,15 @@
 <name>Gauci v Kennedy [2007] FCA 1051 (13 July 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1051.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from decision of federal magistrate summarily dismissing application</catchphrase>
-<catchphrase "id=c1">principles relating to summary dismissal</catchphrase>
-<catchphrase "id=c2">whether case so clear as to justify summary dismissal</catchphrase>
-<catchphrase "id=c3">sexual harassment</catchphrase>
-<catchphrase "id=c4">whether his honour erred in his determination that the alleged acts against the appellant by the first respondent could not amount to sexual harassment</catchphrase>
-<catchphrase "id=c5">vicarious liability of second respondent for conduct of first respondent not considered by court below</catchphrase>
-<catchphrase "id=c6">interpretation of s 28a sex discrimination act 1984 (cth)</catchphrase>
-<catchphrase "id=c7">practice and procedure</catchphrase>
-<catchphrase "id=c8">discrimination law</catchphrase>
+<catchphrase >appeal from decision of federal magistrate summarily dismissing application</catchphrase>
+<catchphrase >principles relating to summary dismissal</catchphrase>
+<catchphrase >whether case so clear as to justify summary dismissal</catchphrase>
+<catchphrase >sexual harassment</catchphrase>
+<catchphrase >whether his honour erred in his determination that the alleged acts against the appellant by the first respondent could not amount to sexual harassment</catchphrase>
+<catchphrase >vicarious liability of second respondent for conduct of first respondent not considered by court below</catchphrase>
+<catchphrase >interpretation of s 28a sex discrimination act 1984 (cth)</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
+<catchphrase >discrimination law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -36,8 +36,8 @@
 <sentence id="s7">5 His Honour was satisfied that:
  
  
- &#8226; no conduct of the second respondent constituted sexual harassment of the appellant; and
- &#8226; while conduct of the first respondent could amount to harassment of the appellant within the ordinary meaning of the word, that conduct was not enough to establish a breach of the SD Act .</sentence>
+ #8226; no conduct of the second respondent constituted sexual harassment of the appellant; and
+ #8226; while conduct of the first respondent could amount to harassment of the appellant within the ordinary meaning of the word, that conduct was not enough to establish a breach of the SD Act .</sentence>
 <sentence id="s8">Therefore even assuming that the first respondent was at all material times an employee of the second respondent, this aspect of the claim against the second respondent was bound to fail.</sentence>
 <sentence id="s9">
  
@@ -83,8 +83,8 @@
 <sentence id="s30">12 First, the appellant does not appear to cavil with the findings of his Honour that:
  
  
- &#8226; there are no facts alleged by the appellant that could amount to any sexual harassment of the appellant by or on behalf of the second respondent or any of Professor Gardner, Dr Bowey, Marnie King, Luisa Nocella, Ann Stewart, Dr Tony Arklay and Roger Byrom; and
- &#8226; in asking the appellant to read the first respondent's complaint of sexual harassment against him, or by failing to dismiss the first respondent's complaint summarily without calling for his response, the conduct of the second respondent did not constitute sexual harassment of him.</sentence>
+ #8226; there are no facts alleged by the appellant that could amount to any sexual harassment of the appellant by or on behalf of the second respondent or any of Professor Gardner, Dr Bowey, Marnie King, Luisa Nocella, Ann Stewart, Dr Tony Arklay and Roger Byrom; and
+ #8226; in asking the appellant to read the first respondent's complaint of sexual harassment against him, or by failing to dismiss the first respondent's complaint summarily without calling for his response, the conduct of the second respondent did not constitute sexual harassment of him.</sentence>
 <sentence id="s31">
  
 
@@ -127,9 +127,9 @@
 19 In response the second respondent submitted that:
  
  
- &#8226; Jarrett FM was correct in finding that the alleged conduct of the first respondent was not capable of amounting to sexual harassment within the meaning of s 28A SD Act , and accordingly there was no conduct in respect of which the second respondent could be liable
- &#8226; even if that were not so, the learned Federal Magistrate's orders should be upheld on the alternative basis that it is not alleged and it is not open on the facts to conclude that the university is vicariously liable for the alleged conduct of the first respondent under s 106 SD Act 
- &#8226; the other matters that the applicant seeks to raise in the appeal are not properly the subject of the appeal.</sentence>
+ #8226; Jarrett FM was correct in finding that the alleged conduct of the first respondent was not capable of amounting to sexual harassment within the meaning of s 28A SD Act , and accordingly there was no conduct in respect of which the second respondent could be liable
+ #8226; even if that were not so, the learned Federal Magistrate's orders should be upheld on the alternative basis that it is not alleged and it is not open on the facts to conclude that the university is vicariously liable for the alleged conduct of the first respondent under s 106 SD Act 
+ #8226; the other matters that the applicant seeks to raise in the appeal are not properly the subject of the appeal.</sentence>
 <sentence id="s50">
  
 
@@ -197,7 +197,7 @@ Dated: 13 July 2007
  
  Counsel for the Second Respondent: TJ Bradley 
  
- Solicitor for the Second Respondent: Brian Bartley &amp; Associates 
+ Solicitor for the Second Respondent: Brian Bartley amp; Associates 
  
  Date of Hearing: 6 February 2007 
  
@@ -211,4 +211,10 @@ Dated: 13 July 2007
  
  </sentence>
 </sentences>
+</case>
+</case>FCA/2007/1051.html 
+ 
+ </sentence>
+</sentences>
+</case>
 </case>

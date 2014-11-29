@@ -3,9 +3,9 @@
 <name>Sheikholeslami v Brungs [2006] FCA 1781 (20 December 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1781.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">proceeding dismissed for non compliance with orders and as an abuse of process</catchphrase>
-<catchphrase "id=c1">leave to appeal refused</catchphrase>
-<catchphrase "id=c2">practice and procedure</catchphrase>
+<catchphrase >proceeding dismissed for non compliance with orders and as an abuse of process</catchphrase>
+<catchphrase >leave to appeal refused</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -72,7 +72,7 @@ Dated: 20 December 2006
 
  Counsel for the Applicant: Mr A Britt 
  
- Solicitor for the Applicant: KP O'Donnell &amp; Associates Solicitors 
+ Solicitor for the Applicant: KP O'Donnell amp; Associates Solicitors 
  
  Counsel for the Respondents: Ms N Sharp 
  
@@ -92,4 +92,5 @@ Dated: 20 December 2006
  
  </sentence>
 </sentences>
-</case>
+</case>></sentences>
+</case>>

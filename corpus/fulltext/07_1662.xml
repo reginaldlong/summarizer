@@ -3,10 +3,10 @@
 <name>Kite v State of South Australia [2007] FCA 1662 (2 November 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1662.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">notice of motion to strike out native title determination application under s 84c native title act 1993 (cth) or s 31a federal court of australia act 1976 (cth)</catchphrase>
-<catchphrase "id=c1">whether the claim group includes all people who hold the native title claimed</catchphrase>
-<catchphrase "id=c2">whether all members of the claim group satisfy criteria said to give status as native title holders</catchphrase>
-<catchphrase "id=c3">native title</catchphrase>
+<catchphrase >notice of motion to strike out native title determination application under s 84c native title act 1993 (cth) or s 31a federal court of australia act 1976 (cth)</catchphrase>
+<catchphrase >whether the claim group includes all people who hold the native title claimed</catchphrase>
+<catchphrase >whether all members of the claim group satisfy criteria said to give status as native title holders</catchphrase>
+<catchphrase >native title</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -334,7 +334,7 @@ Dated: 2 November 2007
 
  Counsel for the Applicant: Mr R Bower 
  
- Solicitor for the Applicant: Corser &amp; Corser 
+ Solicitor for the Applicant: Corser amp; Corser 
  
  Counsel for the Respondent: Mr S McCall 
  
@@ -353,4 +353,6 @@ Dated: 2 November 2007
  
  </sentence>
 </sentences>
-</case>
+</case>>tence>
+</sentences>
+</case>>

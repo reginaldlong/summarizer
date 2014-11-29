@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <case>
-<name>Secretary Department of Employment &amp; Workplace Relations v Barrington [2006] FCA 527 (10 May 2006)</name>
+<name>Secretary Department of Employment amp; Workplace Relations v Barrington [2006] FCA 527 (10 May 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/527.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">social security</catchphrase>
-<catchphrase "id=c1">lump sum preclusion period</catchphrase>
-<catchphrase "id=c2">compensation sum included legal costs</catchphrase>
-<catchphrase "id=c3">purchase of house after awareness of preclusion period</catchphrase>
-<catchphrase "id=c4">held: administrative appeals tribunal did not (i) err in not mentioning submission as to relevance of purchase (ii) fail to give natural justice in relation to relevance of legal costs</catchphrase>
-<catchphrase "id=c5">administrative law</catchphrase>
+<catchphrase >social security</catchphrase>
+<catchphrase >lump sum preclusion period</catchphrase>
+<catchphrase >compensation sum included legal costs</catchphrase>
+<catchphrase >purchase of house after awareness of preclusion period</catchphrase>
+<catchphrase >held: administrative appeals tribunal did not (i) err in not mentioning submission as to relevance of purchase (ii) fail to give natural justice in relation to relevance of legal costs</catchphrase>
+<catchphrase >administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -27,9 +27,9 @@
 <sentence id="s11">5 On appeal to this Court the Secretary accepts that the decision of the Tribunal was open on the evidence.</sentence>
 <sentence id="s12">However, he submits that in its process the Tribunal made two errors of law: 
 
-&#8226; It failed to deal with a submission seriously advanced by the Secretary which was worthy of consideration, namely the fact that Mr Barrington's purchase of a house after he had received notice of the lump sum preclusion period told against the recognition of special circumstances; and
+#8226; It failed to deal with a submission seriously advanced by the Secretary which was worthy of consideration, namely the fact that Mr Barrington's purchase of a house after he had received notice of the lump sum preclusion period told against the recognition of special circumstances; and
  
-&#8226; It denied the Secretary natural justice by basing its finding of "special circumstances" on the payment of $47,500 legal costs out of the settlement payment of $285,000:
+#8226; It denied the Secretary natural justice by basing its finding of "special circumstances" on the payment of $47,500 legal costs out of the settlement payment of $285,000:
  
 1. without giving the Secretary any notice that it might treat the costs payment as relevant;
  
@@ -102,11 +102,11 @@
 <sentence id="s63">Those circumstances were: 
  
  
- &#8226; Mr Barrington's state of health which had deteriorated since he received his compensation payment;
- &#8226; The fact that his poor health combined with the employment market in the area where he lived had made it more difficult than expected for him to find suitable part-time work;
- &#8226; That he had not been reckless and irresponsible in spending his lump sum compensation payment;
- &#8226; The house he had purchased was modest and in terms of value near the bottom end of the market;
- &#8226; The fact that a significant portion of his compensation payment was for legal costs.</sentence>
+ #8226; Mr Barrington's state of health which had deteriorated since he received his compensation payment;
+ #8226; The fact that his poor health combined with the employment market in the area where he lived had made it more difficult than expected for him to find suitable part-time work;
+ #8226; That he had not been reckless and irresponsible in spending his lump sum compensation payment;
+ #8226; The house he had purchased was modest and in terms of value near the bottom end of the market;
+ #8226; The fact that a significant portion of his compensation payment was for legal costs.</sentence>
 <sentence id="s64">In agreeing to this settlement figure and also when informed about the preclusion period he did not fully appreciate the size and significance of the legal costs he would have to pay.</sentence>
 <sentence id="s65">
  
@@ -123,9 +123,9 @@
  
  
  
- &#8226; ..., or 
- &#8226; The person acquired realisable assets AFTER the person was advised of the preclusion period, and there is no impediment to the realization of those assets, or 
- &#8226; ..." 
+ #8226; ..., or 
+ #8226; The person acquired realisable assets AFTER the person was advised of the preclusion period, and there is no impediment to the realization of those assets, or 
+ #8226; ..." 
  
  
  
@@ -406,4 +406,8 @@ Dated:
  
  </sentence>
 </sentences>
+</case>es>
+</case>/sentence>
+</sentences>
+</case>es>
 </case>

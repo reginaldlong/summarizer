@@ -3,9 +3,9 @@
 <name>Seven Network Limited v News Limited (No 11) [2006] FCA 174 (6 March 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/174.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">notice to produce</catchphrase>
-<catchphrase "id=c1">whether documents sought satisfy the test of apparent relevance</catchphrase>
-<catchphrase "id=c2">practice and procedure</catchphrase>
+<catchphrase >notice to produce</catchphrase>
+<catchphrase >whether documents sought satisfy the test of apparent relevance</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -130,7 +130,7 @@
 
 A notice to produce served pursuant to O 33 r 12, despite the ambiguous form of the rule, has the same coercive effect as a subpoena duces tecum : Seven Network Ltd v News Ltd (No 5) (2005) 216 ALR 147, at [6], and cases cited there.</sentence>
 <sentence id="s15">5 As with a subpoena, when a notice to produce is issued, three steps must be taken before the documents identified in the notice can be admitted into evidence.</sentence>
-<sentence id="s16">The steps were described by Glass JA (with whom Moffitt P and Hutley JA agreed) in National Employers' Mutual General Insurance Association Ltd v Waind &amp; Hill [1978] 1 NSWLR 372, at 381, as follows:
+<sentence id="s16">The steps were described by Glass JA (with whom Moffitt P and Hutley JA agreed) in National Employers' Mutual General Insurance Association Ltd v Waind amp; Hill [1978] 1 NSWLR 372, at 381, as follows:
  
  'The first is obeying the subpoena, by the witness bringing the documents to the court and handing them to the judge.</sentence>
 <sentence id="s17">This step involves the determination of any objections of the witness to the subpoena, or to the production of the documents to the court pursuant to the subpoena.</sentence>
@@ -174,25 +174,25 @@ A notice to produce served pursuant to O 33 r 12, despite the ambiguous form of 
 <sentence id="s29">Mr Castle, who appeared with Mr Pike for Telstra , submits that the documents sought by the notice to produce are not likely to be useful in the proceedings.</sentence>
 <sentence id="s30">He says that:
  
-&#8226; the Court could not conclude from the documents alone that any synergies or any internal modelling of those synergies by Telstra, would have actually been realised had the transactions been consummated;
+#8226; the Court could not conclude from the documents alone that any synergies or any internal modelling of those synergies by Telstra, would have actually been realised had the transactions been consummated;
  
-&#8226; if the modelling is to be meaningful, the Court will need to consider evidence about the assumptions used in preparing the models or in making predictions;
+#8226; if the modelling is to be meaningful, the Court will need to consider evidence about the assumptions used in preparing the models or in making predictions;
  
-&#8226; the probative value of the documents is likely to be diminished, since the Court will not know whether the models and predictions were final or merely constituted intermediate working drafts; and
+#8226; the probative value of the documents is likely to be diminished, since the Court will not know whether the models and predictions were final or merely constituted intermediate working drafts; and
  
-&#8226; in any event, there is nothing to indicate that the circumstances of Telstra corresponded to those that would be experienced by Seven in the hypothetical circumstances that need to be explored in the damages aspect of the case.</sentence>
+#8226; in any event, there is nothing to indicate that the circumstances of Telstra corresponded to those that would be experienced by Seven in the hypothetical circumstances that need to be explored in the damages aspect of the case.</sentence>
 <sentence id="s31">9 Mr Castle also contends that there are sound reasons why, in the interests of ensuring an orderly trial, Seven should not be permitted to open up a new line of enquiry at this stage.</sentence>
 <sentence id="s32">He points to the following:
  
-&#8226; Seven has closed its case in chief, insofar as lay evidence is concerned;
+#8226; Seven has closed its case in chief, insofar as lay evidence is concerned;
  
-&#8226; the documents which Seven now relies upon to prove the existence of Project Patrick and Project Colour were discovered by Telstra as long ago as mid-2004; 
+#8226; the documents which Seven now relies upon to prove the existence of Project Patrick and Project Colour were discovered by Telstra as long ago as mid-2004; 
  
-&#8226; the two expert reports filed by Seven which are relevant to the IMC claim do not refer to synergies that might be derived from any actual or contemplated transaction in Australia, although they do analyse at considerable length mergers or acquisitions in the United States;
+#8226; the two expert reports filed by Seven which are relevant to the IMC claim do not refer to synergies that might be derived from any actual or contemplated transaction in Australia, although they do analyse at considerable length mergers or acquisitions in the United States;
  
-&#8226; Seven's proposed tender list at one point included the discovered documents referring to the two Projects, but the documents were removed in late 2005 from the tender list; and
+#8226; Seven's proposed tender list at one point included the discovered documents referring to the two Projects, but the documents were removed in late 2005 from the tender list; and
  
-&#8226; if Seven is permitted to raise these issues, the likelihood is that their counsel will wish to cross-examine Telstra's witnesses on the assumptions underlying the projected synergies and it may well become necessary for Telstra to call evidence explaining the internal documentation and demonstrating that Telstra's position was different from that hypothetically facing Seven.</sentence>
+#8226; if Seven is permitted to raise these issues, the likelihood is that their counsel will wish to cross-examine Telstra's witnesses on the assumptions underlying the projected synergies and it may well become necessary for Telstra to call evidence explaining the internal documentation and demonstrating that Telstra's position was different from that hypothetically facing Seven.</sentence>
 <sentence id="s33">10 The notice to produce is drafted in wide terms, notwithstanding that it is limited to Board Papers and Minutes relating to Project Patrick and Project Colour.</sentence>
 <sentence id="s34">In my opinion, there are likely to be some documents within the classes of documents sought by Seven that satisfy the test of apparent relevance.</sentence>
 <sentence id="s35">I have in mind Board Papers and Minutes which record or comment on potential cost savings or increased revenues likely to flow from Telstra's ownership or control of Foxtel and its ownership or control of one or other of the free to air operators.</sentence>
@@ -242,4 +242,7 @@ Dated: 6 March 2006
  
  </sentence>
 </sentences>
+</case>s>
+</case>es>
+</case>s>
 </case>

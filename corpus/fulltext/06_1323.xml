@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <case>
-<name>Meinhardt (Hong Kong) Ltd v William Lindsay Meinhardt (Deceased) &amp; Ors (No 2) [2006] FCA 1323 (10 October 2006)</name>
+<name>Meinhardt (Hong Kong) Ltd v William Lindsay Meinhardt (Deceased) amp; Ors (No 2) [2006] FCA 1323 (10 October 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1323.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">deceased estate</catchphrase>
-<catchphrase "id=c1">whether debt in liquidated sum due and payable</catchphrase>
-<catchphrase "id=c2">sum advanced by company to director without terms</catchphrase>
-<catchphrase "id=c3">insolvency of estate</catchphrase>
-<catchphrase "id=c4">whether estate should be administered in bankruptcy.</catchphrase>
-<catchphrase "id=c5">bankruptcy</catchphrase>
+<catchphrase >deceased estate</catchphrase>
+<catchphrase >whether debt in liquidated sum due and payable</catchphrase>
+<catchphrase >sum advanced by company to director without terms</catchphrase>
+<catchphrase >insolvency of estate</catchphrase>
+<catchphrase >whether estate should be administered in bankruptcy.</catchphrase>
+<catchphrase >bankruptcy</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -258,7 +258,7 @@ In the account ledger itself, the following series of entries appears, with resp
  Balance b/f 8,978,914.00 
  08-Oct-2003 JVD 041024 
  
- PAY VICKI PSB 02/03-PART &amp; S/O W MAPL USD40098 312,771.80 
+ PAY VICKI PSB 02/03-PART amp; S/O W MAPL USD40098 312,771.80 
  30-Apr-2004 AUD-06 PSB02/03 
  PSB02/03 TO VICKI, NOT WLM 34,218.20 
  
@@ -281,7 +281,7 @@ For the purposes of this proceeding, Mr Smith had caused to be produced a reconc
  
  } 9,291,686 8-Oct-03 Reversal of MHK 02/03 PSB 312,771.80 } 30-Apr-04 Reversal of MHK 02/03 PSB (balance-thru Audit Adj) 34,218.20 
  
- Bal @30/4/2004 &amp; 2005 &amp; 2006 9,325,904.00 
+ Bal @30/4/2004 amp; 2005 amp; 2006 9,325,904.00 
  
 
 It will be noted that the reconciliation shows the sum of $HK8,978,914.00 as the balance on 30 April 2003.</sentence>
@@ -323,7 +323,7 @@ It will be noted that the reconciliation shows the sum of $HK8,978,914.00 as the
  
  30 It would seem that the profit share bonus for the year ended 30 April 2003 was not actually determined until some time after that date but, once determined, was treated as effective on that date and was included in that year.</sentence>
 <sentence id="s161">However, as appears from the reconciliation and from the account ledger, in October 2003 Mr Meinhardt's account was debited with the sum of $HK312,771.80.</sentence>
-<sentence id="s162">In the reconciliation, this is said to be by way of 'reversal of MHK 02/03 PSB', while in the account ledger the transaction was said to be 'PAY VICKI PSB02/03-PART &amp; S/O W MAPL USD40098'.</sentence>
+<sentence id="s162">In the reconciliation, this is said to be by way of 'reversal of MHK 02/03 PSB', while in the account ledger the transaction was said to be 'PAY VICKI PSB02/03-PART amp; S/O W MAPL USD40098'.</sentence>
 <sentence id="s163">The 'VICKI' referred to was the third respondent.</sentence>
 <sentence id="s164">At that time she was not a director of the applicant; nor, on the evidence (such as it is), as yet the ultimate holder of the 61% equity in WL Meinhardt Group Pty Ltd. 31 The nature of, and the reasons for, the transaction on 8 October 2003 were explained by Mr Smith in his viva voce evidence as follows: 
  
@@ -353,8 +353,8 @@ What appears to have happened is that the directors of the applicant decided tha
  "We are required to inform your goodself that the Company has a claim against Mr Meinhardt's estate for a net amount of HK$9,325,904 due from Mr Meinhardt being: 
  
  
- &#8226; Loan from the Company HK$9,451,700 
- &#8226; LESS Amount due to Mr Meinhardt by the Company (125,796) 
+ #8226; Loan from the Company HK$9,451,700 
+ #8226; LESS Amount due to Mr Meinhardt by the Company (125,796) 
  
  
  Net amount due to the Company as of 28 Jan 2004 HK$9,325,904 " 
@@ -489,7 +489,7 @@ I consider that Fullagar J's judgment in Ogilvie v Adams is applicable to the ci
 <sentence id="s278">
  THE DISCRETION UNDER s 244 
  
- 47 Under Div 2 of Pt IV of the Bankruptcy Act , upon proof of the factual requirements set out in s 43 and s 44 , and provided the debt remains owing, the creditor will be regarded as prima facie entitled to an order for sequestration: Cain v Whyte [1933] HCA 6 ; (1933) 48 CLR 639, 645-646; Rozenbes v Kronhill [1956] HCA 65 ; (1956) 95 CLR 407, 414 &amp; 419; Ling v Enrobook (1997) 74 FCR 19, 24-25.</sentence>
+ 47 Under Div 2 of Pt IV of the Bankruptcy Act , upon proof of the factual requirements set out in s 43 and s 44 , and provided the debt remains owing, the creditor will be regarded as prima facie entitled to an order for sequestration: Cain v Whyte [1933] HCA 6 ; (1933) 48 CLR 639, 645-646; Rozenbes v Kronhill [1956] HCA 65 ; (1956) 95 CLR 407, 414 amp; 419; Ling v Enrobook (1997) 74 FCR 19, 24-25.</sentence>
 <sentence id="s279">The court has a discretion to dismiss the petition either if it appears that the debtor is able to pay his or her debts or if for some 'other sufficient cause' a sequestration order should not be made: s 52(2).</sentence>
 <sentence id="s280">Although, under par (b) of s 52(2) , the discretion is a broad one, it is the debtor who will carry the onus of persuasion, as it were.</sentence>
 <sentence id="s281">48 The scheme of Pt XI is different in two respects.</sentence>
@@ -560,7 +560,7 @@ Dated: 10 October 2006
  
  Counsel for the Second Respondent: G.T.Bigmore QC and K.J.A Lyons 
  
- Solicitor for the Second Respondent: Chambers &amp; Co 
+ Solicitor for the Second Respondent: Chambers amp; Co 
  
  Counsel for the Third Respondent: A.Foster 
  
@@ -581,4 +581,8 @@ Dated: 10 October 2006
  
  </sentence>
 </sentences>
+</case>>
+</case> </sentence>
+</sentences>
+</case>>
 </case>

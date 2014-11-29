@@ -3,11 +3,11 @@
 <name>KGL Health Pty Limited v Mechtler [2007] FCA 1411 (12 September 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1411.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for summary dismissal and to strike out defence to amended cross-claim</catchphrase>
-<catchphrase "id=c1">defence of set-off</catchphrase>
-<catchphrase "id=c2">defence of abatement</catchphrase>
-<catchphrase "id=c3">relief of abatement within scope of s 87 of the trade practices act 1974 (cth)</catchphrase>
-<catchphrase "id=c4">practice and procedure</catchphrase>
+<catchphrase >application for summary dismissal and to strike out defence to amended cross-claim</catchphrase>
+<catchphrase >defence of set-off</catchphrase>
+<catchphrase >defence of abatement</catchphrase>
+<catchphrase >relief of abatement within scope of s 87 of the trade practices act 1974 (cth)</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -25,7 +25,7 @@
 6 Rosanza contends that on a proper reading and analysis of the Defence to the Amended Cross-Claim there is a clear admission that there has been a breach of the Lease and therefore, since the rental outstanding is now due and payable, judgment should be given immediately for the total amount of rent, GST and expenses outstanding without making any adjustment for the principal claim in the proceedings.</sentence>
 <sentence id="s9">7 As noted above, the admission of breach in the Defence to the Amended Cross-Claim is made subject to paragraph 8, which relies on the applicants' claims in the principal proceedings as a defence to the Amended Cross-Claim.</sentence>
 <sentence id="s10">On one view, this could be construed as a defence of set-off.</sentence>
-<sentence id="s11">A set-off is essentially in the nature of a cross-claim for debt or damage, but it operates as a defence to a principal claim: see Jacob IH, Bullen and Leake and Jacob's Precedents of Pleading (12 th ed, Sweet &amp; Maxwell, 1975) p 1296-1297.</sentence>
+<sentence id="s11">A set-off is essentially in the nature of a cross-claim for debt or damage, but it operates as a defence to a principal claim: see Jacob IH, Bullen and Leake and Jacob's Precedents of Pleading (12 th ed, Sweet amp; Maxwell, 1975) p 1296-1297.</sentence>
 <sentence id="s12">A defence of set-off should plead the facts giving rise to the debt or claim as if they were set out in the Statement of Claim.</sentence>
 <sentence id="s13">It should also expressly state that the defendant will seek to set-off such a debt or claim in extinction or diminution of the plaintiff's claim.</sentence>
 <sentence id="s14">The appropriate course of pleading in such circumstances is to admit the claim subject to set-off.</sentence>
@@ -73,7 +73,7 @@ Dated: 12 September 2007
  
  Counsel for the Respondents: S Climpson 
  
- Solicitor for the Respondents: Bull Son &amp; Schmidt 
+ Solicitor for the Respondents: Bull Son amp; Schmidt 
  
  Date of Hearing: 4 September 2007 
  
@@ -87,4 +87,6 @@ Dated: 12 September 2007
  
  </sentence>
 </sentences>
-</case>
+</case>e> </sentence>
+</sentences>
+</case>e>

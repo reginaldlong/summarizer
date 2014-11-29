@@ -3,9 +3,9 @@
 <name>Dunstan v Human Rights and Equal Opportunity Commission (No 3) [2006] FCA 916 (20 July 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/916.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">lump sum order for costs</catchphrase>
-<catchphrase "id=c1">order 62 rule 4(2)(c)</catchphrase>
-<catchphrase "id=c2">costs</catchphrase>
+<catchphrase >lump sum order for costs</catchphrase>
+<catchphrase >order 62 rule 4(2)(c)</catchphrase>
+<catchphrase >costs</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -291,9 +291,9 @@ Dated: 19 July 2006
  
  Solicitor for the Second Respondent: Phillips Fox 
  
- Counsel for the Third, Fourth, Fifth &amp; Sixth Respondents: G Stretton 
+ Counsel for the Third, Fourth, Fifth amp; Sixth Respondents: G Stretton 
  
- Solicitor for the Third, Fourth, Fifth &amp; Sixth Respondents: Australian Government Solicitor 
+ Solicitor for the Third, Fourth, Fifth amp; Sixth Respondents: Australian Government Solicitor 
  
  Dates of Hearing: 1, 2 May 2006 
  
@@ -307,4 +307,5 @@ Dated: 19 July 2006
  
  </sentence>
 </sentences>
-</case>
+</case>e>/sentences>
+</case>e>

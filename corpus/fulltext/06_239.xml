@@ -3,13 +3,13 @@
 <name>VSAB v Minister for Immigration and Multicultural and Indigenous Affairs [2006] FCA 239 (17 March 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/239.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from federal magistrate's decision</catchphrase>
-<catchphrase "id=c1">finding by refugee review tribunal that nationality of appellant husband that of former yugoslav republic of macedonia</catchphrase>
-<catchphrase "id=c2">claim that finding made without any evidence to support it</catchphrase>
-<catchphrase "id=c3">meaning of "nationality"</catchphrase>
-<catchphrase "id=c4">whether refugee review tribunal bound to act only upon direct evidence, such as text of statute, or expert evidence, when determining questions of "derivative acquisition of nationality"</catchphrase>
-<catchphrase "id=c5">whether distinction to be drawn between "original acquisition of nationality" and "derivative acquisition of nationality"</catchphrase>
-<catchphrase "id=c6">migration</catchphrase>
+<catchphrase >appeal from federal magistrate's decision</catchphrase>
+<catchphrase >finding by refugee review tribunal that nationality of appellant husband that of former yugoslav republic of macedonia</catchphrase>
+<catchphrase >claim that finding made without any evidence to support it</catchphrase>
+<catchphrase >meaning of "nationality"</catchphrase>
+<catchphrase >whether refugee review tribunal bound to act only upon direct evidence, such as text of statute, or expert evidence, when determining questions of "derivative acquisition of nationality"</catchphrase>
+<catchphrase >whether distinction to be drawn between "original acquisition of nationality" and "derivative acquisition of nationality"</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -109,14 +109,14 @@
 11 In substance, therefore, it may be seen that the Tribunal found that the husband was a national of FYROM, notwithstanding his protestations to the contrary, because:
  
  
- &#8226; he had lived there, on and off, since 1991;
- &#8226; he was in possession of a FYROM passport that had been issued to him in 1995, and renewed in 1998; 
- &#8226; the passport nominated Skopje, the capital of FYROM, as his place of residence;
- &#8226; he had travelled regularly using the passport;
- &#8226; he had been married to a national of FYROM since 1986;
- &#8226; at least one, and possibly both, of his children were nationals of FYROM;
- &#8226; his wife had told Australian immigration authorities, after her arrival in this country, that he had the right to enter FYROM on his FYROM passport, and to reside there; and
- &#8226; Department of Foreign Affairs and Trade ("DFAT") information relating to FYROM, which set out the requirements for acquiring FYROM citizenship, suggested that the husband met those requirements.</sentence>
+ #8226; he had lived there, on and off, since 1991;
+ #8226; he was in possession of a FYROM passport that had been issued to him in 1995, and renewed in 1998; 
+ #8226; the passport nominated Skopje, the capital of FYROM, as his place of residence;
+ #8226; he had travelled regularly using the passport;
+ #8226; he had been married to a national of FYROM since 1986;
+ #8226; at least one, and possibly both, of his children were nationals of FYROM;
+ #8226; his wife had told Australian immigration authorities, after her arrival in this country, that he had the right to enter FYROM on his FYROM passport, and to reside there; and
+ #8226; Department of Foreign Affairs and Trade ("DFAT") information relating to FYROM, which set out the requirements for acquiring FYROM citizenship, suggested that the husband met those requirements.</sentence>
 <sentence id="s63">In particular, as the Tribunal noted, the husband had been married to a Macedonian national for more than the requisite three years, spoke Macedonian, and had no criminal record.</sentence>
 <sentence id="s64">
  
@@ -176,8 +176,8 @@
 <sentence id="s104">Nor even did it have regard to any scholarly works by experts on this subject.</sentence>
 <sentence id="s105">28 Mr Gibson submitted that in reality the only evidence before the Tribunal regarding the husband's nationality (apart from his possession of a FYROM passport) was the country information that had been provided by DFAT, to which the Tribunal briefly referred in its reasons for decision, set out above at [8].</sentence>
 <sentence id="s106">Accordingly, so it was submitted, the Tribunal's finding on this critical issue had been made without any, or at least without any adequate, reference to the appropriate law regarding that subject.</sentence>
-<sentence id="s107">29 Mr Gibson noted that the Federal Magistrate had relied upon the judgment of Ryan J in Applicants in V 722 of 2000 v Minister for Immigration &amp; Multicultural Affairs [2002] FCA 1059 (" Applicants V 722 ") in dealing with the ascertainment of foreign law.</sentence>
-<sentence id="s108">His Honour's approach was approved, on appeal, by the Full Court in VHAJ v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2003] FCAFC 186.</sentence>
+<sentence id="s107">29 Mr Gibson noted that the Federal Magistrate had relied upon the judgment of Ryan J in Applicants in V 722 of 2000 v Minister for Immigration amp; Multicultural Affairs [2002] FCA 1059 (" Applicants V 722 ") in dealing with the ascertainment of foreign law.</sentence>
+<sentence id="s108">His Honour's approach was approved, on appeal, by the Full Court in VHAJ v Minister for Immigration amp; Multicultural amp; Indigenous Affairs [2003] FCAFC 186.</sentence>
 <sentence id="s109">30 In substance, Ryan J held, at [32]-[33], that while findings relating to the law of a foreign country are questions of fact, and therefore susceptible to proof by expert evidence, it is not necessary to resort to such evidence to make "a finding as to the effect of a relevant law of a foreign country".</sentence>
 <sentence id="s110">He stated at [33]:
  
@@ -262,7 +262,7 @@
 <sentence id="s162">" 
  
 
-45 Mr Horan relied upon the following observation of the Full Court regarding the "no evidence ground" in SFGB v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2003] FCAFC 231 at [20] :
+45 Mr Horan relied upon the following observation of the Full Court regarding the "no evidence ground" in SFGB v Minister for Immigration amp; Multicultural amp; Indigenous Affairs [2003] FCAFC 231 at [20] :
  
  "On the other hand, if there is sufficient evidence or other information before the Tribunal on which it could reach the conclusion it did then it is for the Tribunal to determine what weight it gives to that evidence.</sentence>
 <sentence id="s163">Indeed, unless the relevant fact can be identified as a 'jurisdictional fact', there is no error of law, let alone a jurisdictional error, in the Tribunal making a wrong finding of fact: Attorney-General (NSW) v Quin [1990] HCA 21 ; (1990) 170 CLR 1 at 35-36.</sentence>
@@ -376,7 +376,7 @@ Dated: 17 March 2006
 
  Counsel for the Appellants: Mr J.A. Gibson 
  
- Solicitors for the Appellants: Erskine Rodan &amp; Associates 
+ Solicitors for the Appellants: Erskine Rodan amp; Associates 
  
  Counsel for the Respondents: Mr C. Horan 
  
@@ -398,4 +398,9 @@ Dated: 17 March 2006
  
  </sentence>
 </sentences>
+</case>ences>
+</case> 
+ </sentence>
+</sentences>
+</case>ences>
 </case>

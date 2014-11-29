@@ -3,11 +3,11 @@
 <name>De Bruyn v The Minister for Justice and Customs [2006] FCA 232 (15 March 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/232.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">extradition arrangements</catchphrase>
-<catchphrase "id=c1">claim by the commonwealth of public interest immunity concerning documents relevant to the question of whether the minister has refused or constructively refused to discharge a statutory duty</catchphrase>
-<catchphrase "id=c2">consideration of the principles generally</catchphrase>
-<catchphrase "id=c3">matter brought forward for urgent determination prior to hearing commencing in one week.</catchphrase>
-<catchphrase "id=c4">practice and procedure</catchphrase>
+<catchphrase >extradition arrangements</catchphrase>
+<catchphrase >claim by the commonwealth of public interest immunity concerning documents relevant to the question of whether the minister has refused or constructively refused to discharge a statutory duty</catchphrase>
+<catchphrase >consideration of the principles generally</catchphrase>
+<catchphrase >matter brought forward for urgent determination prior to hearing commencing in one week.</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -175,7 +175,7 @@
 <sentence id="s93">29 Since the documents are relevant, a party in proceedings is entitled to place such evidence before the Tribunal of fact in the conduct of its case unless the documents are otherwise excluded.</sentence>
 <sentence id="s94">30 There is some authority, however, to the effect that demonstrating that evidence is relevant to an issue of fact in the proceeding may not be enough.</sentence>
 <sentence id="s95">The test, on one view, is whether the evidence has greater probative force than mere relevance.</sentence>
-<sentence id="s96">In Alister &amp; Ors v R (1983) 50 ALR 41 at 44, Gibbs CJ took the view the documents ought "contain material evidence" although Brennan J at page 81 in discussing Air Canada v Secretary of State for Trade [1983] 2 WLR 494 considered the documents must contain "material substantially useful to the party seeking discovery".</sentence>
+<sentence id="s96">In Alister amp; Ors v R (1983) 50 ALR 41 at 44, Gibbs CJ took the view the documents ought "contain material evidence" although Brennan J at page 81 in discussing Air Canada v Secretary of State for Trade [1983] 2 WLR 494 considered the documents must contain "material substantially useful to the party seeking discovery".</sentence>
 <sentence id="s97">In the case of a claim for immunity in respect of that class of documents pre-eminently protected, Gibbs ACJ in Sankey v Whitlam [1978] HCA 43 ; (1978) 142 CLR 1 at page 43 spoke of the need to establish "a strong case" for the production of the documents, by the party seeking production, before an order for production would be made.</sentence>
 <sentence id="s98">In the same case, Stephen J at page 49 referred to evidence generally " necessary if justice is to be done".</sentence>
 <sentence id="s99">On this question, Lord Wilberforce in Air Canada v Secretary of State for Trade (supra) at page 528 observed that in the appeal below, the Court of Appeal had taken the position that there "must be a likelihood that the documents would support the case of the party seeking discovery" and said "on this point I agree with the Court of Appeal".</sentence>
@@ -253,4 +253,7 @@ Dated: 15 March 2006
  
  </sentence>
 </sentences>
-</case>
+</case>>
+ </sentence>
+</sentences>
+</case>>

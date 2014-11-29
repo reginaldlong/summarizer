@@ -3,10 +3,10 @@
 <name>Bankstown City Radio Co-operative Ltd v Australian Communications and Media Authority [2007] FCA 2053 (20 December 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/2053.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">renewal of community broadcasting licence</catchphrase>
-<catchphrase "id=c1">whether refusal to renew unreasonable</catchphrase>
-<catchphrase "id=c2">whether denial of procedural fairness</catchphrase>
-<catchphrase "id=c3">judicial review</catchphrase>
+<catchphrase >renewal of community broadcasting licence</catchphrase>
+<catchphrase >whether refusal to renew unreasonable</catchphrase>
+<catchphrase >whether denial of procedural fairness</catchphrase>
+<catchphrase >judicial review</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -218,8 +218,8 @@ The language used in the sub-heading, subject to a minor change, was derived fro
 30 ACMA recorded its findings adverse to BCR as follows:
  
  
- '&#9679; [ACMA] is not satisfied that BCR has the management capacity to provide the service in accordance with its obligation to continue to represent the general community within the licence area; and 
- &#8226; the extent to which BCR's service meets and will meet the existing and perceived future needs of the community within the licence area is significantly affected because BCR is not representative of the licence area community.</sentence>
+ '#9679; [ACMA] is not satisfied that BCR has the management capacity to provide the service in accordance with its obligation to continue to represent the general community within the licence area; and 
+ #8226; the extent to which BCR's service meets and will meet the existing and perceived future needs of the community within the licence area is significantly affected because BCR is not representative of the licence area community.</sentence>
 <sentence id="s96">' 
  
  
@@ -272,8 +272,8 @@ In view of these findings, ACMA also found that if it were deciding whether to a
  
  
  
- &#8226; a majority of its members (66 percent) live outside the licence area; and 
- &#8226; five of the seven directors elected for 2006 live outside the licence area.</sentence>
+ #8226; a majority of its members (66 percent) live outside the licence area; and 
+ #8226; five of the seven directors elected for 2006 live outside the licence area.</sentence>
 <sentence id="s126">
  
  
@@ -340,7 +340,7 @@ Dated: 20 December 2007
 
  Counsel for the applicants: Mr R D Weaver 
  
- Solicitor for the applicants: Griffiths Delaney &amp; Co 
+ Solicitor for the applicants: Griffiths Delaney amp; Co 
  
  Counsel for the respondent: Ms L Clegg 
  
@@ -359,4 +359,6 @@ Dated: 20 December 2007
  
  </sentence>
 </sentences>
-</case>
+</case>case>e>
+</sentences>
+</case>case>

@@ -3,31 +3,31 @@
 <name>Australian Prudential Regulation Authority v Siminton (No 6) [2007] FCA 1608 (26 October 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1608.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">provisions relating to the carrying on of banking business</catchphrase>
-<catchphrase "id=c1">where respondent establishes a "country" known as principality of camside</catchphrase>
-<catchphrase "id=c2">where that country hosted a "bank" referred to as the terra nova cache</catchphrase>
-<catchphrase "id=c3">where members of public deposit money in the terra nova cache</catchphrase>
-<catchphrase "id=c4">where unlawful for a person other than a body corporate to carry on banking business unless exemption granted by apra</catchphrase>
-<catchphrase "id=c5">where no such exemption granted to respondent</catchphrase>
-<catchphrase "id=c6">whether the respondent's conduct constitutes the carrying on of banking business in contravention of s 7 of the banking act 1959 (cth)</catchphrase>
-<catchphrase "id=c7">preliminary objections to application on constitutional grounds</catchphrase>
-<catchphrase "id=c8">where s 65a of the banking act relates to breaches of ss 7 and 66 which are "criminal offences"</catchphrase>
-<catchphrase "id=c9">whether alleged breaches of such provisions can be conducted as civil proceedings rather than criminal proceedings</catchphrase>
-<catchphrase "id=c10">where interlocutory injunction imposed preventing respondent from dealing with his funds and property</catchphrase>
-<catchphrase "id=c11">whether freezing order constitutes an acquisition of property by the commonwealth other than on just terms</catchphrase>
-<catchphrase "id=c12">abuse of process</catchphrase>
-<catchphrase "id=c13">whether evidence of collateral purpose</catchphrase>
-<catchphrase "id=c14">argument ruled on in earlier judgment</catchphrase>
-<catchphrase "id=c15">injunctions</catchphrase>
-<catchphrase "id=c16">whether appointment of receiver appropriate</catchphrase>
-<catchphrase "id=c17">parties to file submissions on appropriate terms of orders consistent with reasons for judgment</catchphrase>
-<catchphrase "id=c18">"banking business"</catchphrase>
-<catchphrase "id=c19">banking</catchphrase>
-<catchphrase "id=c20">constitutional law</catchphrase>
-<catchphrase "id=c21">constitutional law</catchphrase>
-<catchphrase "id=c22">practice and procedure</catchphrase>
-<catchphrase "id=c23">remedies</catchphrase>
-<catchphrase "id=c24">words and phrases</catchphrase>
+<catchphrase >provisions relating to the carrying on of banking business</catchphrase>
+<catchphrase >where respondent establishes a "country" known as principality of camside</catchphrase>
+<catchphrase >where that country hosted a "bank" referred to as the terra nova cache</catchphrase>
+<catchphrase >where members of public deposit money in the terra nova cache</catchphrase>
+<catchphrase >where unlawful for a person other than a body corporate to carry on banking business unless exemption granted by apra</catchphrase>
+<catchphrase >where no such exemption granted to respondent</catchphrase>
+<catchphrase >whether the respondent's conduct constitutes the carrying on of banking business in contravention of s 7 of the banking act 1959 (cth)</catchphrase>
+<catchphrase >preliminary objections to application on constitutional grounds</catchphrase>
+<catchphrase >where s 65a of the banking act relates to breaches of ss 7 and 66 which are "criminal offences"</catchphrase>
+<catchphrase >whether alleged breaches of such provisions can be conducted as civil proceedings rather than criminal proceedings</catchphrase>
+<catchphrase >where interlocutory injunction imposed preventing respondent from dealing with his funds and property</catchphrase>
+<catchphrase >whether freezing order constitutes an acquisition of property by the commonwealth other than on just terms</catchphrase>
+<catchphrase >abuse of process</catchphrase>
+<catchphrase >whether evidence of collateral purpose</catchphrase>
+<catchphrase >argument ruled on in earlier judgment</catchphrase>
+<catchphrase >injunctions</catchphrase>
+<catchphrase >whether appointment of receiver appropriate</catchphrase>
+<catchphrase >parties to file submissions on appropriate terms of orders consistent with reasons for judgment</catchphrase>
+<catchphrase >"banking business"</catchphrase>
+<catchphrase >banking</catchphrase>
+<catchphrase >constitutional law</catchphrase>
+<catchphrase >constitutional law</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
+<catchphrase >remedies</catchphrase>
+<catchphrase >words and phrases</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -110,11 +110,11 @@
 <sentence id="s28">8 Mr Siminton argued that s 65A of the Act was "unconstitutional" and could not be relied on by APRA.</sentence>
 <sentence id="s29">He contended that:
  
- &#8226; Insofar as s 65A of the Act relates to breaches of ss 7 and 66 "which are criminal offences, there is no head of power in the Constitution enabling proceedings for a breach of such sections to be conducted as civil proceedings rather than criminal proceedings";
- &#8226; Insofar as s 65A of the Act "purportedly authorises the making of [a] 'Freezing Order' then the same is unconstitutional as constituting the acquisition by [APRA] and/or the Commonwealth of property without just terms contrary to the Constitution s 51(xxxi)" ;
- &#8226; "The trying of the breach of an indictable offence, in particular [s 7 of the Act ], purportedly pursuant to [s 65A of the Act ], without a jury, is a breach of the Constitution s 80" ;
- &#8226; "The powers granted to the Federal Court, purportedly pursuant to [s 65A of the Act ] is (sic) a breach of Chapter 3 (sic) of the Constitution in that, it purports, contrary to the Separation of Powers as therein contained, to grant to the Court legislative and executive powers"; and
- &#8226; "In particular, s 65A, sub-section 11, insofar as it purports to grant to the Court, upon the application of [APRA], the power to make an award of damages to third persons, is made without any head of constitutional power, the power purportedly granted to the Court to so act being in the nature of a collection service or solicitor acting on behalf of such third persons, and not within the constitutional power with respect to banking or properly incidental thereto.</sentence>
+ #8226; Insofar as s 65A of the Act relates to breaches of ss 7 and 66 "which are criminal offences, there is no head of power in the Constitution enabling proceedings for a breach of such sections to be conducted as civil proceedings rather than criminal proceedings";
+ #8226; Insofar as s 65A of the Act "purportedly authorises the making of [a] 'Freezing Order' then the same is unconstitutional as constituting the acquisition by [APRA] and/or the Commonwealth of property without just terms contrary to the Constitution s 51(xxxi)" ;
+ #8226; "The trying of the breach of an indictable offence, in particular [s 7 of the Act ], purportedly pursuant to [s 65A of the Act ], without a jury, is a breach of the Constitution s 80" ;
+ #8226; "The powers granted to the Federal Court, purportedly pursuant to [s 65A of the Act ] is (sic) a breach of Chapter 3 (sic) of the Constitution in that, it purports, contrary to the Separation of Powers as therein contained, to grant to the Court legislative and executive powers"; and
+ #8226; "In particular, s 65A, sub-section 11, insofar as it purports to grant to the Court, upon the application of [APRA], the power to make an award of damages to third persons, is made without any head of constitutional power, the power purportedly granted to the Court to so act being in the nature of a collection service or solicitor acting on behalf of such third persons, and not within the constitutional power with respect to banking or properly incidental thereto.</sentence>
 <sentence id="s30">" 
 
 9 Civil Proceedings Relating to Criminal Offences.</sentence>
@@ -225,15 +225,15 @@ In Lawler the Court held that a provision of the Fisheries Management Act 1991 (
 <sentence id="s125">26 Mr Siminton submitted that the proceeding was an abuse of process because it had been brought for the collateral purpose of seeking information and evidence to substantiate or justify allegations that Mr Siminton had committed criminal offences under ss 7 and 66 of the Act.</sentence>
 <sentence id="s126">He said that the Court should so conclude because:
  
- &#8226; APRA had failed to accept an offer by Mr Siminton to agree to certain forms of injunction;
- &#8226; APRA's statement of claim failed to plead any cause of action for damages;
- &#8226; APRA had conceded that it lacked evidence of lending by Mr Siminton and, therefore, that he had engaged in "banking";
- &#8226; Of the fact that no charges had been laid against Mr Siminton;
- &#8226; Of the alleged paucity of evidence linking Mr Siminton to any alleged breach of s 66;
- &#8226; Of APRA's claim for certain interlocutory orders which Gray J had declined to make;
- &#8226; Of the commencement of contempt proceedings against Mr Siminton which were heard before the trial of the present proceeding;
- &#8226; Of APRA's attempt to use and rely on discovery, its seeking of particulars of Mr Siminton's defence and its application that directions be made requiring Mr Siminton to file witness statements in advance of trial; and
- &#8226; Of what was said to be the "linking of APRA's release of frozen funds for legal expenses to the provision of information.</sentence>
+ #8226; APRA had failed to accept an offer by Mr Siminton to agree to certain forms of injunction;
+ #8226; APRA's statement of claim failed to plead any cause of action for damages;
+ #8226; APRA had conceded that it lacked evidence of lending by Mr Siminton and, therefore, that he had engaged in "banking";
+ #8226; Of the fact that no charges had been laid against Mr Siminton;
+ #8226; Of the alleged paucity of evidence linking Mr Siminton to any alleged breach of s 66;
+ #8226; Of APRA's claim for certain interlocutory orders which Gray J had declined to make;
+ #8226; Of the commencement of contempt proceedings against Mr Siminton which were heard before the trial of the present proceeding;
+ #8226; Of APRA's attempt to use and rely on discovery, its seeking of particulars of Mr Siminton's defence and its application that directions be made requiring Mr Siminton to file witness statements in advance of trial; and
+ #8226; Of what was said to be the "linking of APRA's release of frozen funds for legal expenses to the provision of information.</sentence>
 <sentence id="s127">" (I take this to be a reference to the terms of order 2 of the orders made by Gray J on 10 January 2006 under which Mr Siminton was given liberty to apply on notice in writing to APRA, supported by affidavit evidence of his means, for an order that he be permitted to withdraw monies for living and legal expenses).</sentence>
 <sentence id="s128">
 
@@ -643,12 +643,12 @@ Plainly, Mr Siminton is not a body corporate.</sentence>
 <sentence id="s357">" 
 
 Williams J (at 97) held that the legislation authorised by s 51(xiii) "is legislation with respect of the business of banking.</sentence>
-<sentence id="s358">" Rich J (at 64-5) referred to and relied on the construction placed on the word "banking" by Isaacs J in Commissioner of State Savings Bank of Victoria v Permewan, Wright &amp; Company Limited [1914] HCA 83 ; (1914) 19 CLR 457:
+<sentence id="s358">" Rich J (at 64-5) referred to and relied on the construction placed on the word "banking" by Isaacs J in Commissioner of State Savings Bank of Victoria v Permewan, Wright amp; Company Limited [1914] HCA 83 ; (1914) 19 CLR 457:
  
  "While the word 'banking' is sometimes used in a colloquial and crude sense to mean the payment of money to the credit of a customer's account at a bank, the word in its normal and ordinary signification denotes the business of banking.</sentence>
 <sentence id="s359">Some assistance in defining 'banking' can be obtained from the Bills of Exchange Act 1909-1936.</sentence>
 <sentence id="s360">In this Act the word banker includes a body of persons, whether incorporated or not, who carry on the business of banking, and though banking is not defined in this Act it seems reasonable to believe that one legislative interpretation of the word would be the business carried on by a banker.</sentence>
-<sentence id="s361">In the case of Commissioners of State Savings Bank of Victoria v Permewan, Wright &amp; Company Limited Isaacs J ... said: 'the fundamental meaning of the term' (banking) 'is not, and never has been, different in Australia from that obtaining in England.</sentence>
+<sentence id="s361">In the case of Commissioners of State Savings Bank of Victoria v Permewan, Wright amp; Company Limited Isaacs J ... said: 'the fundamental meaning of the term' (banking) 'is not, and never has been, different in Australia from that obtaining in England.</sentence>
 <sentence id="s362">Various writers attempt various definitions, more or less discordant and many of them referring to functions that are now very common and convenient, and even prominent, as if they were indispensable attributes.</sentence>
 <sentence id="s363">The essential characteristics of the business of banking are, however, all that are necessary to bring the appellants within the scope of the enactments' (s 83 of the Victorian Instruments Act 1980 and s 88 of the Bills of Exchange Act 1909 ) 'and these may be described as the collection of money by receiving deposits upon loan, repayable when and as expressly or impliedly agreed upon, and the utilisation of the money so collected by lending it again in such sums as are required.</sentence>
 <sentence id="s364">These are the essential functions of a banker as an instrument of society.</sentence>
@@ -704,11 +704,11 @@ Even if no regular practice of making loans had been established prior to APRA c
 <sentence id="s404">They comprehend the provision of services of a financial nature.</sentence>
 <sentence id="s405">57 APRA submits that the following categories of conduct on the part of Mr Siminton, when considered either individually or cumulatively, constitute the provision of financial services within the meaning of s 66:
  
- &#8226; advertising and encouraging people to participate in the depositing of money for which interest would be paid, or a profit or return on an investment given;
- &#8226; the receipt of moneys from persons;
- &#8226; the holding of moneys for such persons;
- &#8226; the dealing in moneys deposited by such persons; and
- &#8226; the payment of interest on those moneys and/or the payment of some kind of financial return on those moneys.</sentence>
+ #8226; advertising and encouraging people to participate in the depositing of money for which interest would be paid, or a profit or return on an investment given;
+ #8226; the receipt of moneys from persons;
+ #8226; the holding of moneys for such persons;
+ #8226; the dealing in moneys deposited by such persons; and
+ #8226; the payment of interest on those moneys and/or the payment of some kind of financial return on those moneys.</sentence>
 <sentence id="s406">
 
 58 Not all of the conduct identified by APRA can, in my opinion, be regarded as the provision of financial services by Mr Siminton.</sentence>
@@ -740,17 +740,17 @@ Even if no regular practice of making loans had been established prior to APRA c
  "[36] At the risk of some repetition, I summarise the principles which I draw from the presently applicable authorities: 
  
 
-&#8226; the jurisdiction which the court exercises under [the Corporations Act ] s 1324 is a statutory jurisdiction, not the court's traditional equity jurisdiction; 
+#8226; the jurisdiction which the court exercises under [the Corporations Act ] s 1324 is a statutory jurisdiction, not the court's traditional equity jurisdiction; 
  
-&#8226; Parliament has made it increasingly clear by successive statutory enactments that the court, in exercising its statutory jurisdiction under s 1324 , is not to be confined by the considerations which would be applicable if it were exercising its traditional equity jurisdiction; 
+#8226; Parliament has made it increasingly clear by successive statutory enactments that the court, in exercising its statutory jurisdiction under s 1324 , is not to be confined by the considerations which would be applicable if it were exercising its traditional equity jurisdiction; 
  
-&#8226; among the considerations which the court must take into account in an application for an injunction under [Corporations Act] s 1324 are the wider issues referred to by Austin J ... and by Davies AJ ...; they may be gathered under the broad question whether the injunction would have some utility or would serve some purpose within the contemplation of the Corporations Act ; 
+#8226; among the considerations which the court must take into account in an application for an injunction under [Corporations Act] s 1324 are the wider issues referred to by Austin J ... and by Davies AJ ...; they may be gathered under the broad question whether the injunction would have some utility or would serve some purpose within the contemplation of the Corporations Act ; 
  
-&#8226; these considerations are to be taken into account regardless of whether the application is for a permanent injunction under s 1324(1) or for a interim application under s 1324(4) ; 
+#8226; these considerations are to be taken into account regardless of whether the application is for a permanent injunction under s 1324(1) or for a interim application under s 1324(4) ; 
  
-&#8226; where an application under s 1324(4) is made by ASIC rather than a private litigant the court is more likely to give greater weight to the broad question whether the injunction would serve a purpose within the contemplation of the Corporations Act ; 
+#8226; where an application under s 1324(4) is made by ASIC rather than a private litigant the court is more likely to give greater weight to the broad question whether the injunction would serve a purpose within the contemplation of the Corporations Act ; 
  
-&#8226; where there is an appreciable --- that is, not fanciful --- risk of particular future contraventions of the Corporations Act by a defendant, it would serve a purpose within the contemplation of the Corporations Act that the court grant not only a permanent injunction, but, in an appropriate case, an interim injunction restraining such conduct.</sentence>
+#8226; where there is an appreciable --- that is, not fanciful --- risk of particular future contraventions of the Corporations Act by a defendant, it would serve a purpose within the contemplation of the Corporations Act that the court grant not only a permanent injunction, but, in an appropriate case, an interim injunction restraining such conduct.</sentence>
 <sentence id="s425">Section 1324 evinces an intention that the possibly severe consequences and the relatively promptness of proceedings for contempt of court be added to criminal prosecutions as a deterrent to contraventions of the Corporations Act ..." 
  
 In my view these principles have application to the construction of s 65A of the Act.</sentence>
@@ -772,9 +772,9 @@ In my view these principles have application to the construction of s 65A of the
 <sentence id="s441">The granting of an injunction is also warranted as a means of marking the Court's disapproval of the flagrant breaches of the Act which had been perpetrated by Mr Siminton; see Trade Practices Commission v Mobil Oil Australia Limited (1985) 4 FCR 296 at 300.</sentence>
 <sentence id="s442">69 Mr Siminton should be restrained from:
  
- &#8226; Receiving money from members of the public by way of deposit in the Terra Nova Cache or the Principality of Camside;
- &#8226; Assuming or using the words "bank", "banker" or "banking", or any words or phrases of like import, in relation to his business; and
- &#8226; Advertising, representing or stating that he will carry on banking business.</sentence>
+ #8226; Receiving money from members of the public by way of deposit in the Terra Nova Cache or the Principality of Camside;
+ #8226; Assuming or using the words "bank", "banker" or "banking", or any words or phrases of like import, in relation to his business; and
+ #8226; Advertising, representing or stating that he will carry on banking business.</sentence>
 <sentence id="s443">
 
 The injunction should also prevent him undertaking such activities through servants or agents.</sentence>
@@ -820,13 +820,13 @@ The injunction should also prevent him undertaking such activities through serva
 Dated: 26 October 2007
 
 
- Counsel for the Applicant: Ms D Mortimer S.C &amp; Mr S Hibble 
+ Counsel for the Applicant: Ms D Mortimer S.C amp; Mr S Hibble 
  
  Solicitor for the Applicant: Australian Prudential Regulation Authority 
  
  Counsel for the Respondent: Mr D Sharp 
  
- Solicitor for the Respondent: Erhardt &amp; Associates 
+ Solicitor for the Respondent: Erhardt amp; Associates 
  
  Date of Hearing: 4-7 June 2007 
  
@@ -842,5 +842,14 @@ Dated: 26 October 2007
  URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/1608.html 
  
  </sentence>
+</sentences>
+</case></sentence>
+</sentences>
+</case>pyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/1608.html 
+ 
+ </sentence>
+</sentences>
+</case></sentence>
 </sentences>
 </case>

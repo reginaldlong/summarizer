@@ -3,12 +3,12 @@
 <name>Civil Aviation Safety Authority v Boatman [2006] FCA 460 (28 April 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/460.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">regulation of air navigation</catchphrase>
-<catchphrase "id=c1">licences</catchphrase>
-<catchphrase "id=c2">pilots</catchphrase>
-<catchphrase "id=c3">cancellation or suspension of licence</catchphrase>
-<catchphrase "id=c4">whether conduct constituted, contributed to, or resulted in, a serious and imminent risk to air safety.</catchphrase>
-<catchphrase "id=c5">aviation</catchphrase>
+<catchphrase >regulation of air navigation</catchphrase>
+<catchphrase >licences</catchphrase>
+<catchphrase >pilots</catchphrase>
+<catchphrase >cancellation or suspension of licence</catchphrase>
+<catchphrase >whether conduct constituted, contributed to, or resulted in, a serious and imminent risk to air safety.</catchphrase>
+<catchphrase >aviation</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -190,10 +190,10 @@
  The effect of the table is that: 
  
  
- &#8226; if CASA's application for an order is withdrawn or refused, the suspension ends at the time of withdrawal or refusal 
- &#8226; if in the five business days after the last day on which the order was in force CASA does not give the holder a show cause notice under s 30DH, the suspension ends at the conclusion of the fifth business day after the order ceased to be in force 
- &#8226; if CASA varies, suspends or cancels the authorisation under s 30DI, the suspension ends at the time the holder is notified of the variation, suspension or cancellation 
- &#8226; if CASA has given the holder a show cause notice under s 30DH, but in the five business days after the last day of the period specified in the notice does not vary, suspend or cancel the authorisation, the suspension ends at the conclusion of the fifth business day after the last day of the period specified in the show cause notice.</sentence>
+ #8226; if CASA's application for an order is withdrawn or refused, the suspension ends at the time of withdrawal or refusal 
+ #8226; if in the five business days after the last day on which the order was in force CASA does not give the holder a show cause notice under s 30DH, the suspension ends at the conclusion of the fifth business day after the order ceased to be in force 
+ #8226; if CASA varies, suspends or cancels the authorisation under s 30DI, the suspension ends at the time the holder is notified of the variation, suspension or cancellation 
+ #8226; if CASA has given the holder a show cause notice under s 30DH, but in the five business days after the last day of the period specified in the notice does not vary, suspend or cancel the authorisation, the suspension ends at the conclusion of the fifth business day after the last day of the period specified in the show cause notice.</sentence>
 <sentence id="s45">
  
  
@@ -208,9 +208,9 @@
  
  
  
- &#8226; where CASA had reason to believe that there may be a serious risk to air safety if an authorisation were not suspended, it could suspend the authorisation 
- &#8226; where CASA suspended the authorisation it was required forthwith to investigate the matter, and the suspension would cease upon completion of the investigation or at the expiration of twenty eight days from the date on which the suspension took effect, whichever was the earlier 
- &#8226; where upon completion of the investigation CASA gave the holder a notice under reg 269, the authorisation remained suspended during the time specified by CASA in that notice as the time within which the holder may show cause why the authorisation should not be varied, suspended or cancelled under reg 269.</sentence>
+ #8226; where CASA had reason to believe that there may be a serious risk to air safety if an authorisation were not suspended, it could suspend the authorisation 
+ #8226; where CASA suspended the authorisation it was required forthwith to investigate the matter, and the suspension would cease upon completion of the investigation or at the expiration of twenty eight days from the date on which the suspension took effect, whichever was the earlier 
+ #8226; where upon completion of the investigation CASA gave the holder a notice under reg 269, the authorisation remained suspended during the time specified by CASA in that notice as the time within which the holder may show cause why the authorisation should not be varied, suspended or cancelled under reg 269.</sentence>
 <sentence id="s50">
  
  
@@ -218,8 +218,8 @@
  The effect of reg 269 can be summarised as follows: 
  
  
- &#8226; CASA was empowered to vary, suspend or cancel an authorisation when it was satisfied that one or more specified grounds existed (including contravention of the Regulations and breach of the duty to operate aircraft safely) 
- &#8226; before taking action to vary, suspend or cancel an authorisation, CASA was required to give notice to the holder of the facts that in its opinion warranted consideration being given to the variation, suspension or cancellation, and allow the holder to show cause why the authorisation should not be varied, suspended or cancelled.</sentence>
+ #8226; CASA was empowered to vary, suspend or cancel an authorisation when it was satisfied that one or more specified grounds existed (including contravention of the Regulations and breach of the duty to operate aircraft safely) 
+ #8226; before taking action to vary, suspend or cancel an authorisation, CASA was required to give notice to the holder of the facts that in its opinion warranted consideration being given to the variation, suspension or cancellation, and allow the holder to show cause why the authorisation should not be varied, suspended or cancelled.</sentence>
 <sentence id="s51">
  
  
@@ -873,12 +873,12 @@ Earlier, he had said:
 <sentence id="s483">Mr South holds a number of pilot licences and has impressive experience, including approximately 4 000 hours flying time in various aircraft, and qualifications in safety auditing and investigation.</sentence>
 <sentence id="s484">118 Mr South made the following points:
  
- &#8226; the two aircraft were involved in a passenger-carrying commercial operation;
- &#8226; the legislation puts responsibilities on Mr Boatman as the holder of the relevant Air Operation Certificate (AOC) and, as the Chief Pilot, and on Ms Kennedy as the 'line pilot';
- &#8226; public roads have been used for take-off and landing of aircraft in medical emergencies and for humanitarian relief, but not by an operator engaged in passenger carrying operations;
- &#8226; in his opinion, the circumstances at Innamincka made it difficult to understand 'why a pilot would consider taking off from this area, with or without passengers on board';
- &#8226; CAAP 92-1(1) advises that '[a] pilot should not use a landing area or have an aeroplane engine running unless the aeroplane is clear of all persons, animals, vehicles or other obstructions', and '[a] pilot should not use a landing area without taking all reasonable steps to ensure the physical characteristics and dimensions are satisfactory';
- &#8226; Stawell Aviation's own Operations Manual required:
+ #8226; the two aircraft were involved in a passenger-carrying commercial operation;
+ #8226; the legislation puts responsibilities on Mr Boatman as the holder of the relevant Air Operation Certificate (AOC) and, as the Chief Pilot, and on Ms Kennedy as the 'line pilot';
+ #8226; public roads have been used for take-off and landing of aircraft in medical emergencies and for humanitarian relief, but not by an operator engaged in passenger carrying operations;
+ #8226; in his opinion, the circumstances at Innamincka made it difficult to understand 'why a pilot would consider taking off from this area, with or without passengers on board';
+ #8226; CAAP 92-1(1) advises that '[a] pilot should not use a landing area or have an aeroplane engine running unless the aeroplane is clear of all persons, animals, vehicles or other obstructions', and '[a] pilot should not use a landing area without taking all reasonable steps to ensure the physical characteristics and dimensions are satisfactory';
+ #8226; Stawell Aviation's own Operations Manual required:
  'Before flying into and out of an Aircraft Landing Area, the Pilot in Command will: 
  ... 
  
@@ -889,37 +889,37 @@ Earlier, he had said:
  
  
  
- &#8226; he concluded, as to this, that 'in essence the operator's instructions, as stated above, are that the landing area should comply with CAAP 92-1';
- &#8226; if there were to be a departure from this, 'the AOC holder should formulate a substantive safety case' outlining 'how risk is mitigated and safety is assured' ;
- &#8226; the roadway itself was at or close to the recommended width for a 'runway' but there was no viable 'runway strip' beside it --- this reduced room for pilot error or recovery from any emergency such as tyre deflation;
- &#8226; there were obstructions in what CAAP 92-1(1) envisaged as the 'runway strip' area, including rocks, stones, ruts and in particular, 60mm wide steel pipe posts or 'bollards' (as CASA representatives called them.</sentence>
+ #8226; he concluded, as to this, that 'in essence the operator's instructions, as stated above, are that the landing area should comply with CAAP 92-1';
+ #8226; if there were to be a departure from this, 'the AOC holder should formulate a substantive safety case' outlining 'how risk is mitigated and safety is assured' ;
+ #8226; the roadway itself was at or close to the recommended width for a 'runway' but there was no viable 'runway strip' beside it --- this reduced room for pilot error or recovery from any emergency such as tyre deflation;
+ #8226; there were obstructions in what CAAP 92-1(1) envisaged as the 'runway strip' area, including rocks, stones, ruts and in particular, 60mm wide steel pipe posts or 'bollards' (as CASA representatives called them.</sentence>
 <sentence id="s487">These, I interpolate, were measured as 1.8 metres high from ground level, but their heights relative to the central part of the made roadway appear to have varied and were not measured);
- &#8226; the various obstructions and in particular the steel posts could do significant damage to an aircraft taxi-ing, on a take-off run, or in flight (including during recovery from a post-take-off emergency);
- &#8226; Mr South's information was that, at some points, 'Mr Boatman had to manoeuvre his aircraft at high speed through the gap between these obstructions, a gap of 12.5 metres for an aircraft with a wingspan of 10.97 metres.</sentence>
+ #8226; the various obstructions and in particular the steel posts could do significant damage to an aircraft taxi-ing, on a take-off run, or in flight (including during recovery from a post-take-off emergency);
+ #8226; Mr South's information was that, at some points, 'Mr Boatman had to manoeuvre his aircraft at high speed through the gap between these obstructions, a gap of 12.5 metres for an aircraft with a wingspan of 10.97 metres.</sentence>
 <sentence id="s488">This would leave a gap of only 1.53 metres or 0.76 metres each side of the aircraft';
- &#8226; the purpose of the CAAP-recommended runway strip is that it be in a condition to minimise any damage to an aeroplane 'which may run off a runway during take-off or landing';
- &#8226; risks during take-off would include: incorrect pilot technique, pilot incapacity, sudden tyre deflation, undercarriage failure, collision with animals, sudden runway obstruction, cross-wind gusts, and partial and complete engine failure';
- &#8226; in general, to take-off from a roadway with 'significant obstacles and hazards located in very close proximity to the take off path' would not be 'consistent with' a pilot or chief pilot's responsibilities for safety.</sentence>
+ #8226; the purpose of the CAAP-recommended runway strip is that it be in a condition to minimise any damage to an aeroplane 'which may run off a runway during take-off or landing';
+ #8226; risks during take-off would include: incorrect pilot technique, pilot incapacity, sudden tyre deflation, undercarriage failure, collision with animals, sudden runway obstruction, cross-wind gusts, and partial and complete engine failure';
+ #8226; in general, to take-off from a roadway with 'significant obstacles and hazards located in very close proximity to the take off path' would not be 'consistent with' a pilot or chief pilot's responsibilities for safety.</sentence>
 <sentence id="s489">(I interpolate that in no sense is any legal duty to insure safety cast on a pilot, nor could it sensibly be so cast);
- &#8226; the available take-off distances fixed by photo records and by measurements carried out by Mr Pilichiewicz, an aerodrome inspector employed by CASA, were less than those Mr Boatman or Ms Kennedy had suggested were necessary;
- &#8226; to take-off or plan a take-off around a curved runway was risky;
- &#8226; there was no justification for Mr Boatman distinguishing between some of the posts or obstacles and others.</sentence>
+ #8226; the available take-off distances fixed by photo records and by measurements carried out by Mr Pilichiewicz, an aerodrome inspector employed by CASA, were less than those Mr Boatman or Ms Kennedy had suggested were necessary;
+ #8226; to take-off or plan a take-off around a curved runway was risky;
+ #8226; there was no justification for Mr Boatman distinguishing between some of the posts or obstacles and others.</sentence>
 <sentence id="s490">(Mr Boatman had removed a tall road sign he considered hazardous.</sentence>
 <sentence id="s491">);
- &#8226; the non-frangible obstacles in the area beside the road were an unusual hazard;
- &#8226; unexpected entry onto a public road by a member of the public should have been considered possible;
- &#8226; in a take-off abort scenario, the landing distance on a down slope, as on the western end of Browne Street, would be longer than usual; this had apparently been overlooked by both pilots;
- &#8226; Ms Kennedy's take-off around the curve 'would subject the aircraft's undercarriage...to significant side loads'.</sentence>
+ #8226; the non-frangible obstacles in the area beside the road were an unusual hazard;
+ #8226; unexpected entry onto a public road by a member of the public should have been considered possible;
+ #8226; in a take-off abort scenario, the landing distance on a down slope, as on the western end of Browne Street, would be longer than usual; this had apparently been overlooked by both pilots;
+ #8226; Ms Kennedy's take-off around the curve 'would subject the aircraft's undercarriage...to significant side loads'.</sentence>
 <sentence id="s492">Such a take-off is 'an untested, unapproved manoeuvre for which she would not have been trained';
- &#8226; Mr Boatman was 'having to either fly at low level and high speed altitude or ground run at high speed' at a point at the Mitchell Street intersection and through the gap between posts on opposite sides of the road which was only 12.5 metres wide.</sentence>
+ #8226; Mr Boatman was 'having to either fly at low level and high speed altitude or ground run at high speed' at a point at the Mitchell Street intersection and through the gap between posts on opposite sides of the road which was only 12.5 metres wide.</sentence>
 <sentence id="s493">His plane's wingspan was 10.97 metres.</sentence>
 <sentence id="s494">Thus, he had a 'safety margin of only 1.52 metres or 0.76 metres from each obstacle';
- &#8226; Mr Boatman held his aircraft down at very low height for a considerable distance over the available road.</sentence>
+ #8226; Mr Boatman held his aircraft down at very low height for a considerable distance over the available road.</sentence>
 <sentence id="s495">This was not the 'normal take off' profile for the relevant kind of aeroplane;
- &#8226; that manoeuvre enhanced the risk of collision with various 'obstacles', including buildings and spectators not far from the line followed by the plane;
- &#8226; it would also have given him fewer options to select a place to land off-field in the event of a post-take-off emergency such as engine failure;
- &#8226; Mr Boatman's decision to use the roadway at all, and his take-off profile, showed a failure of his responsibilities to both act for the safety of his passengers and was 'a very poor demonstration of airmanship';
- &#8226; neither pilot: 
+ #8226; that manoeuvre enhanced the risk of collision with various 'obstacles', including buildings and spectators not far from the line followed by the plane;
+ #8226; it would also have given him fewer options to select a place to land off-field in the event of a post-take-off emergency such as engine failure;
+ #8226; Mr Boatman's decision to use the roadway at all, and his take-off profile, showed a failure of his responsibilities to both act for the safety of his passengers and was 'a very poor demonstration of airmanship';
+ #8226; neither pilot: 
  
  
  o measured up to the proper responsibilities of a Pilot in Command;
@@ -929,32 +929,32 @@ Earlier, he had said:
  
  
  Both 'exposed [themselves] and their passengers to an unacceptable level of safety reduction'; and
- &#8226; the level of safety reduction 'should not be underestimated because they were lucky enough to get away with it on this occasion'.</sentence>
+ #8226; the level of safety reduction 'should not be underestimated because they were lucky enough to get away with it on this occasion'.</sentence>
 <sentence id="s497">
 
 119 It appeared from the cross-examination that the following matters were the case or represented Mr South's opinions:
  
- &#8226; Mr South had had no specialised bush flying training;
- &#8226; roads have been used as runways in emergency situations;
- &#8226; some 'runway strips' (the areas beside the runway) are themselves soft (e.g.</sentence>
+ #8226; Mr South had had no specialised bush flying training;
+ #8226; roads have been used as runways in emergency situations;
+ #8226; some 'runway strips' (the areas beside the runway) are themselves soft (e.g.</sentence>
 <sentence id="s498">sandy or soft when wet) and hazardous for aircraft travelling at significant ground speed;
- &#8226; the purpose of the 'runway strip' area is not to cause no harm but to ensure that any damage is minimised;
- &#8226; he knew of no instance where a qualified pilot had involuntarily run off a runway and onto the runway strip area;
- &#8226; the risk of that is 'very controllable';
- &#8226; tyre blow-outs while taking-off (as distinct from landing) are practically unknown;
- &#8226; single engine planes (as these were) are less inclined to veer on engine failure than twin engine planes;
- &#8226; the mere fact that an airstrip does not comply with CAAP 92-1(1) would not mean that it is unsafe;
- &#8226; runways with blind crests are not unknown;
- &#8226; the planes took off in circumstances that satisfied CAR 92(1)(d) (see [12] above);
- &#8226; flying at airports close to roads and buildings is not uncommon;
- &#8226; in usual operations there are often objects immediately adjacent to runways that it would be disastrous for a plane to hit;
- &#8226; taking off at different airports involves different levels of risks, and the key question is not whether the risk is elevated per se but whether it is elevated to a level that makes it unsafe to take-off;
- &#8226; the safety level does not alter according to the purpose for which the pilot executes the take-off but with the features of the take-off;
- &#8226; the technique employed by Mr Boatman of increasing speed low to the ground and then taking-off at the (steep) best angle of climb can be safe;
- &#8226; lay people are typically used for crowd control at air shows;
- &#8226; specialised training in taking-off from bush strips would enhance a pilot's ability to cope with taking-off from the road at Innamincka;
- &#8226; as a practical matter, there was more than the necessary length of road available for each take-off; and
- &#8226; some accidents are the result of near certainties, some of serious and imminent risks and some of outside chances eventuating.</sentence>
+ #8226; the purpose of the 'runway strip' area is not to cause no harm but to ensure that any damage is minimised;
+ #8226; he knew of no instance where a qualified pilot had involuntarily run off a runway and onto the runway strip area;
+ #8226; the risk of that is 'very controllable';
+ #8226; tyre blow-outs while taking-off (as distinct from landing) are practically unknown;
+ #8226; single engine planes (as these were) are less inclined to veer on engine failure than twin engine planes;
+ #8226; the mere fact that an airstrip does not comply with CAAP 92-1(1) would not mean that it is unsafe;
+ #8226; runways with blind crests are not unknown;
+ #8226; the planes took off in circumstances that satisfied CAR 92(1)(d) (see [12] above);
+ #8226; flying at airports close to roads and buildings is not uncommon;
+ #8226; in usual operations there are often objects immediately adjacent to runways that it would be disastrous for a plane to hit;
+ #8226; taking off at different airports involves different levels of risks, and the key question is not whether the risk is elevated per se but whether it is elevated to a level that makes it unsafe to take-off;
+ #8226; the safety level does not alter according to the purpose for which the pilot executes the take-off but with the features of the take-off;
+ #8226; the technique employed by Mr Boatman of increasing speed low to the ground and then taking-off at the (steep) best angle of climb can be safe;
+ #8226; lay people are typically used for crowd control at air shows;
+ #8226; specialised training in taking-off from bush strips would enhance a pilot's ability to cope with taking-off from the road at Innamincka;
+ #8226; as a practical matter, there was more than the necessary length of road available for each take-off; and
+ #8226; some accidents are the result of near certainties, some of serious and imminent risks and some of outside chances eventuating.</sentence>
 <sentence id="s499">
 
 Overall, Mr South remained of the view that there had been a 'very much increased risk of a crash' with the take-offs in question.</sentence>
@@ -973,11 +973,11 @@ Overall, Mr South remained of the view that there had been a 'very much increase
 <sentence id="s510">123 In his view, CAAP 92-1(1) being merely advisory, CAR reg 92(1)(d) left the determination of what is an acceptable aeroplane landing area to the judgment of the pilot in command, after due consideration of all prevailing circumstances.</sentence>
 <sentence id="s511">He took the view that a pilot should consider:
  
- &#8226; whether the available take-off distance is adequate;
- &#8226; whether the place being considered will allow a safe take-off generally;
- &#8226; aircraft weight and balance in relation to specified limits;
- &#8226; serviceability of the aircraft; and
- &#8226; the pilot's experience and competence to take-off from a place that does not meet the requirements for a normal aerodrome.</sentence>
+ #8226; whether the available take-off distance is adequate;
+ #8226; whether the place being considered will allow a safe take-off generally;
+ #8226; aircraft weight and balance in relation to specified limits;
+ #8226; serviceability of the aircraft; and
+ #8226; the pilot's experience and competence to take-off from a place that does not meet the requirements for a normal aerodrome.</sentence>
 <sentence id="s512">
 
 124 Viewing the matter as one of actual safety rather than the 'very conservative' take-off requirements specified for the planes in question, and considering that both pilots had used the rolling start technique (i.e.</sentence>
@@ -997,19 +997,19 @@ Overall, Mr South remained of the view that there had been a 'very much increase
 <sentence id="s526">132 In his view any pilot experienced in operating from bush strips could safely take-off from the Innamincka road in question.</sentence>
 <sentence id="s527">133 In cross-examination, he said that:
  
- &#8226; the CAAP 92(1) recommendation for a 'runway strip' is a prudent one in the interests of safety;
- &#8226; it was very unlikely that Mr Boatman had been blown to the right side of the road as the aircraft concerned are very directionally controllable.</sentence>
+ #8226; the CAAP 92(1) recommendation for a 'runway strip' is a prudent one in the interests of safety;
+ #8226; it was very unlikely that Mr Boatman had been blown to the right side of the road as the aircraft concerned are very directionally controllable.</sentence>
 <sentence id="s528">He believed Mr Boatman had veered to the right as a matter of deliberate choice;
- &#8226; to start a take-off run without full visibility over the rest of the runway involves an added element of risk;
- &#8226; likewise where there are obstructions in what would be the 'runway strip' area;
- &#8226; there would have been a serious and imminent risk to air safety if Mr Osborne had stayed on the road;
- &#8226; to fly an 11 metre wing-span aircraft 'through' a 12.5 metre gap would be inherently dangerous, and it would still be dangerous but less so, to fly through a 15 metre gap;
- &#8226; it would be unnecessary, though not hazardous, to fly low with passengers so that photos could be taken if the plane accelerating, gaining kinetic energy and had an adequate margin to climb, even though that cut the margin for error;
- &#8226; by Mr Boatman's staying low, there was a risk of collision with the trees if there was pilot error in misjudging their distance.</sentence>
+ #8226; to start a take-off run without full visibility over the rest of the runway involves an added element of risk;
+ #8226; likewise where there are obstructions in what would be the 'runway strip' area;
+ #8226; there would have been a serious and imminent risk to air safety if Mr Osborne had stayed on the road;
+ #8226; to fly an 11 metre wing-span aircraft 'through' a 12.5 metre gap would be inherently dangerous, and it would still be dangerous but less so, to fly through a 15 metre gap;
+ #8226; it would be unnecessary, though not hazardous, to fly low with passengers so that photos could be taken if the plane accelerating, gaining kinetic energy and had an adequate margin to climb, even though that cut the margin for error;
+ #8226; by Mr Boatman's staying low, there was a risk of collision with the trees if there was pilot error in misjudging their distance.</sentence>
 <sentence id="s529">(I interpolate that there was, however, no evidence that as such misjudgment was at all likely);
- &#8226; many landing areas in Australia have no 'runway strip' at all and there are obstacles right beside them;
- &#8226; he had never had to use a 'runway strip'; and
- &#8226; the presence of the posts did not increase the level of risk to an unsafe level.</sentence>
+ #8226; many landing areas in Australia have no 'runway strip' at all and there are obstacles right beside them;
+ #8226; he had never had to use a 'runway strip'; and
+ #8226; the presence of the posts did not increase the level of risk to an unsafe level.</sentence>
 <sentence id="s530">
  (c) Mr Foster 
  
@@ -1169,7 +1169,7 @@ Dated: 28 April 2006
  
  Counsel for the Respondents: Mr H J Langmead SC/Mr P W Lithgow 
  
- Solicitor for the Respondents: Grundy Maitland &amp; Co 
+ Solicitor for the Respondents: Grundy Maitland amp; Co 
  
  Date of Hearing: 28 February, 1, 2, 10 and 17 March 2005 
  
@@ -1298,6 +1298,14 @@ Regulation 92 (1) does not specify the method of determining which "circumstance
  
  AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
  URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/460.html 
+ 
+ </sentence>
+</sentences>
+</case>.edu.au/au/cases/cth/FCA/2006/460.html 
+ 
+ </sentence>
+</sentences>
+</case>.html 
  
  </sentence>
 </sentences>

@@ -3,11 +3,11 @@
 <name>Elderslie Finance Corporation Limited v Newpage Pty Ltd (No 4) [2007] FCA 500 (4 April 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/500.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">freezing order</catchphrase>
-<catchphrase "id=c1">sharply conflicting evidence as to underlying facts</catchphrase>
-<catchphrase "id=c2">whether serious question to be tried as to whether person against whom freezing order sought would be held liable to applicants</catchphrase>
-<catchphrase "id=c3">whether freezing order should be discharged because applicants had not made full disclosure on original ex parte application for the order.</catchphrase>
-<catchphrase "id=c4">practice and procedure</catchphrase>
+<catchphrase >freezing order</catchphrase>
+<catchphrase >sharply conflicting evidence as to underlying facts</catchphrase>
+<catchphrase >whether serious question to be tried as to whether person against whom freezing order sought would be held liable to applicants</catchphrase>
+<catchphrase >whether freezing order should be discharged because applicants had not made full disclosure on original ex parte application for the order.</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -17,11 +17,11 @@
 <sentence id="s2">They were due to expire at 5.00 pm on 26 March 2007, the date of the hearing.</sentence>
 <sentence id="s3">By consent, and upon a continuation of undertakings given to the Court by: 
 
-&#8226; the first applicant, Newpage Pty Limited (Receiver and Manager Appointed) (in liquidation) ('Newpage');
+#8226; the first applicant, Newpage Pty Limited (Receiver and Manager Appointed) (in liquidation) ('Newpage');
  
-&#8226; the second applicant, the liquidator of Newpage, Barry Kenneth Hamilton ('Mr Hamilton'); and
+#8226; the second applicant, the liquidator of Newpage, Barry Kenneth Hamilton ('Mr Hamilton'); and
  
-&#8226; the first plaintiff, Elderslie Finance Corporation Limited ('Elderslie'), 
+#8226; the first plaintiff, Elderslie Finance Corporation Limited ('Elderslie'), 
  
 I extended the operation of the freezing orders against Mr Yii until delivery of this judgment.</sentence>
 <sentence id="s4">
@@ -535,4 +535,6 @@ Dated: 5 April 2007
  
  </sentence>
 </sentences>
-</case>
+</case>se></sentence>
+</sentences>
+</case>se>

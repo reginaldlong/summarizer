@@ -3,11 +3,11 @@
 <name>Samsonidis v Commissioner, Australian Federal Police [2006] FCA 1592 (24 November 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1592.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">telecommunications (interception and access) act 1979</catchphrase>
-<catchphrase "id=c1">'lawfully intercepted information'</catchphrase>
-<catchphrase "id=c2">transcript of telephone interception</catchphrase>
-<catchphrase "id=c3">whether respondent is prohibited from communicating lawfully intercepted information to person to whom it has already been published</catchphrase>
-<catchphrase "id=c4">administrative law</catchphrase>
+<catchphrase >telecommunications (interception and access) act 1979</catchphrase>
+<catchphrase >'lawfully intercepted information'</catchphrase>
+<catchphrase >transcript of telephone interception</catchphrase>
+<catchphrase >whether respondent is prohibited from communicating lawfully intercepted information to person to whom it has already been published</catchphrase>
+<catchphrase >administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -226,7 +226,7 @@ Dated: 24 November 2006
 
  Counsel for the Applicant: Mr G Livermore 
  
- Solicitor for the Applicant: Haines &amp; Polites 
+ Solicitor for the Applicant: Haines amp; Polites 
  
  Counsel for the Respondent: Mr G T Pagone QC and Ms K Walker 
  
@@ -246,4 +246,7 @@ Dated: 24 November 2006
  
  </sentence>
 </sentences>
-</case>
+</case>>
+ </sentence>
+</sentences>
+</case>>

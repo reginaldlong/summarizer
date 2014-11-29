@@ -3,22 +3,22 @@
 <name>Anvil Hill Project Watch Association Inc v Minister for the Environment and Water Resources [2007] FCA 1480 (20 September 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1480.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">administrative decisions (judicial review) act 1977 (cth)</catchphrase>
-<catchphrase "id=c1">application for an order to review decision of delegate of the minister for the environment and water resources</catchphrase>
-<catchphrase "id=c2">environment protection and biodiversity conservation act 1999 (cth)</catchphrase>
-<catchphrase "id=c3">whether proposed action is a controlled action</catchphrase>
-<catchphrase "id=c4">whether this is a question of jurisdictional fact</catchphrase>
-<catchphrase "id=c5">whether delegate applied wrong test</catchphrase>
-<catchphrase "id=c6">whether delegate misconstrued listed threatened ecological community</catchphrase>
-<catchphrase "id=c7">environment protection and biodiversity conservation act 1999 (cth)</catchphrase>
-<catchphrase "id=c8">whether proposed action is a controlled action</catchphrase>
-<catchphrase "id=c9">coal mine</catchphrase>
-<catchphrase "id=c10">anthropogenic greenhouse gas emissions</catchphrase>
-<catchphrase "id=c11">significance of listing as a key threatening process</catchphrase>
-<catchphrase "id=c12">correct test for assessing impact on protected matters</catchphrase>
-<catchphrase "id=c13">listed threatened ecological community</catchphrase>
-<catchphrase "id=c14">administrative law</catchphrase>
-<catchphrase "id=c15">environmental law</catchphrase>
+<catchphrase >administrative decisions (judicial review) act 1977 (cth)</catchphrase>
+<catchphrase >application for an order to review decision of delegate of the minister for the environment and water resources</catchphrase>
+<catchphrase >environment protection and biodiversity conservation act 1999 (cth)</catchphrase>
+<catchphrase >whether proposed action is a controlled action</catchphrase>
+<catchphrase >whether this is a question of jurisdictional fact</catchphrase>
+<catchphrase >whether delegate applied wrong test</catchphrase>
+<catchphrase >whether delegate misconstrued listed threatened ecological community</catchphrase>
+<catchphrase >environment protection and biodiversity conservation act 1999 (cth)</catchphrase>
+<catchphrase >whether proposed action is a controlled action</catchphrase>
+<catchphrase >coal mine</catchphrase>
+<catchphrase >anthropogenic greenhouse gas emissions</catchphrase>
+<catchphrase >significance of listing as a key threatening process</catchphrase>
+<catchphrase >correct test for assessing impact on protected matters</catchphrase>
+<catchphrase >listed threatened ecological community</catchphrase>
+<catchphrase >administrative law</catchphrase>
+<catchphrase >environmental law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -142,14 +142,14 @@
  The Project comprises the design, construction and operation of: 
  
  
- &#8226; an open cut coal mine; 
- &#8226; coal handling, crushing and stockpiling facilities and a coal preparation plant (washery); 
- &#8226; water management, supply and distribution infrastructure; 
- &#8226; handling and placement of overburden (rock); 
- &#8226; mine access road including a new intersection on Wybong Road, internal access roads and haul roads; 
- &#8226; a 66kV transmission line and switchyard which are both within the Proposed Disturbance Area; 
- &#8226; infrastructure including offices, staff amenities, workshop, conveyors, and ancillary services; and 
- &#8226; a rail loop and rail loading infrastructure for the transport of all product coal.</sentence>
+ #8226; an open cut coal mine; 
+ #8226; coal handling, crushing and stockpiling facilities and a coal preparation plant (washery); 
+ #8226; water management, supply and distribution infrastructure; 
+ #8226; handling and placement of overburden (rock); 
+ #8226; mine access road including a new intersection on Wybong Road, internal access roads and haul roads; 
+ #8226; a 66kV transmission line and switchyard which are both within the Proposed Disturbance Area; 
+ #8226; infrastructure including offices, staff amenities, workshop, conveyors, and ancillary services; and 
+ #8226; a rail loop and rail loading infrastructure for the transport of all product coal.</sentence>
 <sentence id="s62">
  
 
@@ -178,15 +178,15 @@ The description continued with some comments on the arrangements that had been m
 <sentence id="s76">The majority of these submissions contended that the second respondent's proposal should be a controlled action because it was likely to have "significant impacts" on matters of national environmental significance.</sentence>
 <sentence id="s77">22 The delegate stated that she considered the information and advice provided by the applicant and that she relied on a brief from the Department of Environment and Water Resources.</sentence>
 <sentence id="s78">She listed the evidence or other material in that brief on which she based her findings as follows:
- &#9675; referral for the proposed action and associated figures and maps; 
+ #9675; referral for the proposed action and associated figures and maps; 
  
  
- &#9675; Anvil Hill Project Environmental Assessment, Volumes 1-7, Umwelt (Australia) Pty Limited, August 2006;
- &#9675; Anvil Hill Project Environmental Assessment , Response to submissions Parts A, B &amp; C, Umwelt (Australia) Pty Limited, November 2006; 
- &#9675; thirteen public submissions, including a summary of issues raised in the submissions; 
- &#9675; email correspondence from Umwelt, providing further information, dated 11 January 2007 and 7 and 17 February 2007; 
- &#9675; WhiteBox --- Yellow Box --- Blakely's Red Gum grassy woodlands and derived native grasslands ( EPBC Act Policy Statements, Department of the Environment and Heritage, May 2006); 
- &#9675; advice from the Department relating to the potential impacts of the proposed action on matters protected under the EPBC Act.</sentence>
+ #9675; Anvil Hill Project Environmental Assessment, Volumes 1-7, Umwelt (Australia) Pty Limited, August 2006;
+ #9675; Anvil Hill Project Environmental Assessment , Response to submissions Parts A, B amp; C, Umwelt (Australia) Pty Limited, November 2006; 
+ #9675; thirteen public submissions, including a summary of issues raised in the submissions; 
+ #9675; email correspondence from Umwelt, providing further information, dated 11 January 2007 and 7 and 17 February 2007; 
+ #9675; WhiteBox --- Yellow Box --- Blakely's Red Gum grassy woodlands and derived native grasslands ( EPBC Act Policy Statements, Department of the Environment and Heritage, May 2006); 
+ #9675; advice from the Department relating to the potential impacts of the proposed action on matters protected under the EPBC Act.</sentence>
 <sentence id="s79">
  
  
@@ -373,18 +373,18 @@ A process is a key threatening process if it satisfies the criteria established 
  In order to be the listed ecological community, an understorey patch, in the absence of overstorey trees, must 
  
  
- &#8226; be a minimum of 0.1 hectares in size; and 
- &#8226; have native species dominating the perennial vegetation of the ground layer; and 
- &#8226; contain at least 12 native, non-grass understorey species ... ; and 
- &#8226; contain at least one important species ... 
+ #8226; be a minimum of 0.1 hectares in size; and 
+ #8226; have native species dominating the perennial vegetation of the ground layer; and 
+ #8226; contain at least 12 native, non-grass understorey species ... ; and 
+ #8226; contain at least one important species ... 
  
  
  Areas with both an overstorey and understorey present are also considered of sufficiently good condition to be part of the listed ecological community if the understorey meets any of the conditions above, or they: 
  
  
- &#8226; are a minimum of 2 hectares in size; and 
- &#8226; have native species dominating the perennial vegetation of the ground layer; and 
- &#8226; contain either 20 or more mature trees per hectare or natural regeneration of the overstorey species.</sentence>
+ #8226; are a minimum of 2 hectares in size; and 
+ #8226; have native species dominating the perennial vegetation of the ground layer; and 
+ #8226; contain either 20 or more mature trees per hectare or natural regeneration of the overstorey species.</sentence>
 <sentence id="s190">
  
  
@@ -574,5 +574,13 @@ Dated: 20 September 2007
  URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/1480.html 
  
  </sentence>
+</sentences>
+</case>e>
+</sentences>
+</case> http://www.austlii.edu.au/au/cases/cth/FCA/2007/1480.html 
+ 
+ </sentence>
+</sentences>
+</case>e>
 </sentences>
 </case>

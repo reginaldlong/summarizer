@@ -3,14 +3,14 @@
 <name>Australian Competition and Consumer Commission v April International Marketing Services Australia Pty Ltd [2007] FCA 2024 (21 December 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/2024.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">amended and further amended statement of claim subject of strike out application by thirteenth respondent</catchphrase>
-<catchphrase "id=c1">conduct sufficiently identified and linked to relevant parties</catchphrase>
-<catchphrase "id=c2">case against respondent sufficiently clear</catchphrase>
-<catchphrase "id=c3">pleading of conclusions and material facts</catchphrase>
-<catchphrase "id=c4">whether particulars must be included as part of pleading</catchphrase>
-<catchphrase "id=c5">complex pleading</catchphrase>
-<catchphrase "id=c6">question of extra-territorial operation of s 6(2) of trade practices act 1974 (cth) should be determined in ordinary course</catchphrase>
-<catchphrase "id=c7">practice and procedure</catchphrase>
+<catchphrase >amended and further amended statement of claim subject of strike out application by thirteenth respondent</catchphrase>
+<catchphrase >conduct sufficiently identified and linked to relevant parties</catchphrase>
+<catchphrase >case against respondent sufficiently clear</catchphrase>
+<catchphrase >pleading of conclusions and material facts</catchphrase>
+<catchphrase >whether particulars must be included as part of pleading</catchphrase>
+<catchphrase >complex pleading</catchphrase>
+<catchphrase >question of extra-territorial operation of s 6(2) of trade practices act 1974 (cth) should be determined in ordinary course</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -137,9 +137,9 @@
 <sentence id="s36">9 A series of allegations are made as to the operation of the AAA Club and the activities of its members without all of the underlying material facts.</sentence>
 <sentence id="s37">Mr George, as the Managing Director of APP Australia and as agent for the tenth to twelfth respondents, is alleged to have:
  
- &#8226; implemented the prices at which APP Australia was to sell folio and cut-size paper, prices which were set at AAA Meetings;
- &#8226; monitored the price at which other AAA Club members supplied that paper in the Australian Paper Market; and
- &#8226; reported those prices to the Jakarta office of the APP Group.</sentence>
+ #8226; implemented the prices at which APP Australia was to sell folio and cut-size paper, prices which were set at AAA Meetings;
+ #8226; monitored the price at which other AAA Club members supplied that paper in the Australian Paper Market; and
+ #8226; reported those prices to the Jakarta office of the APP Group.</sentence>
 <sentence id="s38">
 
 10 As a representative of the APP Group who attended and participated in the AAA Meetings, Mr George is alleged to have done so with the authority of or at the direction of or with the consent or the agreement of a director or servant or agent, unnamed, of APP Australia and the tenth to twelfth respondents.</sentence>
@@ -264,7 +264,7 @@
 <sentence id="s142">41 As was said by Sackville J in Seven Network v News Ltd [2003] FCA 388 at [21] material facts, not conclusions, must be pleaded with a sufficient degree of specificity, having regard to the subject matter, to convey to the opposite party the case that party has to meet.</sentence>
 <sentence id="s143">His Honour observed that it must be apparent on the face of the document that the facts pleaded if proved would establish the cause of action relied on.</sentence>
 <sentence id="s144">An example given by Sackville J at [22] was that a mere assertion that an agreement contained a provision that had the purpose or effect of substantially lessening competition is not a proper pleading.</sentence>
-<sentence id="s145">It is not suggested by the Commission and it would not cure the pleading if Mr George could request further particulars ( Australian Wool Innovation Ltd v Newkirk (2005) ATPR 42-053 at [20]-[25]; Shelton v National Roads &amp; Motorists Assn Ltd (2004) 51 ACSR 278 at [18]-[22]).</sentence>
+<sentence id="s145">It is not suggested by the Commission and it would not cure the pleading if Mr George could request further particulars ( Australian Wool Innovation Ltd v Newkirk (2005) ATPR 42-053 at [20]-[25]; Shelton v National Roads amp; Motorists Assn Ltd (2004) 51 ACSR 278 at [18]-[22]).</sentence>
 <sentence id="s146">The pleading of a conclusion without underlying material facts is liable to be struck out ( Australian Wool Innovation, Shelton ).</sentence>
 <sentence id="s147">42 As was observed by Young J in Cadence Asset Management Pty Ltd v Concept Sports Ltd (2006) 58 ACSR 435 at [35]---[37] a cause of action can be pleaded at different levels of generality depending on the nature of the case and the subject matter and most pleadings set forth the material facts at a level which involves some element of conclusion.</sentence>
 <sentence id="s148">However, broad conclusions asserted at such a high level of generality that the opposite party cannot understand the case he or she has to meet are not sufficient.</sentence>
@@ -294,7 +294,7 @@
 <sentence id="s172">The Commission submits that it has pleaded the overt acts of the alleged conspirators and the conclusion.</sentence>
 <sentence id="s173">The Commission says that, taken together, this leads to the conclusion that there was an arrangement or understanding which contained a provision of the type impugned.</sentence>
 <sentence id="s174">48 Central to the Commission's submissions is the principle that in a modern form of pleading some generality and the pleading of conclusions are allowable.</sentence>
-<sentence id="s175">Further, the Commission submits that in claims of conspiracy sought to be proved by inference from acts done in pursuance of the apparent common purpose, it may be appropriate to defer the provision of particulars until after appropriate discovery or not require them where they are within the knowledge of the respondent ( Stanley v Layne Christenson &amp; Co [2006] WASCA 56 per Wheeler J [50]).</sentence>
+<sentence id="s175">Further, the Commission submits that in claims of conspiracy sought to be proved by inference from acts done in pursuance of the apparent common purpose, it may be appropriate to defer the provision of particulars until after appropriate discovery or not require them where they are within the knowledge of the respondent ( Stanley v Layne Christenson amp; Co [2006] WASCA 56 per Wheeler J [50]).</sentence>
 <sentence id="s176">It may also be appropriate simply to require the Commission to put on its evidence.</sentence>
 <sentence id="s177">49 It is relevant that this is a complex case, alleging cartel behaviour.</sentence>
 <sentence id="s178">This necessarily involves pleading conduct the effect of which is known and some of the alleged participants identified, but where information cannot be provided until after discovery and subpoenas.</sentence>
@@ -431,7 +431,7 @@ Dated: 21 December 2007
  
  Counsel for the Sixth Respondent: R Wyld 
  
- Solicitor for the Sixth Respondent: Johnson Winter &amp; Slattery 
+ Solicitor for the Sixth Respondent: Johnson Winter amp; Slattery 
  
  Counsel for the Thirteenth Respondent: A Leopold SC 
  
@@ -451,4 +451,8 @@ Dated: 21 December 2007
  
  </sentence>
 </sentences>
-</case>
+</case>/case>007/2024.html 
+ 
+ </sentence>
+</sentences>
+</case>/case>

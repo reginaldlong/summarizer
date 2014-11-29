@@ -3,9 +3,9 @@
 <name>Duus v Dalvella Pty Ltd [2007] FCA 1921 (6 December 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1921.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">consideration of an application for further and better particulars of a statement of claim</catchphrase>
-<catchphrase "id=c1">consideration of contentions relating to s 121 of the bankruptcy act 1966 (cth)</catchphrase>
-<catchphrase "id=c2">practice and procedure</catchphrase>
+<catchphrase >consideration of an application for further and better particulars of a statement of claim</catchphrase>
+<catchphrase >consideration of contentions relating to s 121 of the bankruptcy act 1966 (cth)</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -498,7 +498,7 @@
 <sentence id="s101">The respondents say the particulars are inadequate and too broad as they capture all future creditors and adopt the 'inclusive' reference that does nothing to limit the field of inquiry the subject of the alleged intention.</sentence>
 <sentence id="s102">Paragraph 22.1 asserts money transfers as part of a scheme put in place by Waters with an intent to defraud creditors.</sentence>
 <sentence id="s103">There must be a relation between the steps taken in the scheme and an intention to defraud identified creditors.</sentence>
-<sentence id="s104">Those creditors might be existing creditors with provable debts or future creditors ( Barton v Deputy Federal Commissioner of Taxation [1974] HCA 43 ; (1974) 131 CLR 370 at 374; PT Garuda Indonesia Ltd v Grellman (1992) 35 FCR 515 at 525-526; DM Cannane &amp; Anor v J Cannane Pty Ltd [1998] HCA 26 ; (1998) 192 CLR 557 at 566 and 593; Ebner v Official Trustee in Bankruptcy [1999] FCA 110 ; (1999) 91 FCR 353 at 370-371) or any present or future creditor.</sentence>
+<sentence id="s104">Those creditors might be existing creditors with provable debts or future creditors ( Barton v Deputy Federal Commissioner of Taxation [1974] HCA 43 ; (1974) 131 CLR 370 at 374; PT Garuda Indonesia Ltd v Grellman (1992) 35 FCR 515 at 525-526; DM Cannane amp; Anor v J Cannane Pty Ltd [1998] HCA 26 ; (1998) 192 CLR 557 at 566 and 593; Ebner v Official Trustee in Bankruptcy [1999] FCA 110 ; (1999) 91 FCR 353 at 370-371) or any present or future creditor.</sentence>
 <sentence id="s105">In this case, the applicants contend Waters held the relevant intent at the time of orchestrating the scheme, in relation to present creditors and those who, like Jefferson and Stevenson and BSA, might become creditors.</sentence>
 <sentence id="s106">A trustee at pleading stage, seeking to recover assets on behalf of the beneficiaries of a bankrupt estate is not likely to know whether a scheme has been implemented with an intent to defraud each present creditor or a group of present creditors (perhaps those agitating the most); or future creditors or a group of future or anticipated creditors perceived by the former bankrupt to be those who might pursue claims or causes of action arising out of the conduct of the bankrupt; or both classes of claimant.</sentence>
 <sentence id="s107">What is important is the identification of the contention within the limits of what might reasonably be put having regard to all the circumstances pleaded.</sentence>
@@ -601,7 +601,7 @@ Dated: 6 December 2007
  
  Counsel for the Respondents (Applicants on the Motion): Mr Perry SC 
  
- Solicitor for the Respondents (Applicants on the Motion): Lynch &amp; Company 
+ Solicitor for the Respondents (Applicants on the Motion): Lynch amp; Company 
  
  Date of Hearing: 22 June 2007 
  
@@ -615,4 +615,5 @@ Dated: 6 December 2007
  
  </sentence>
 </sentences>
-</case>
+</case>e>/sentences>
+</case>e>

@@ -3,9 +3,9 @@
 <name>Duncan v Companies Auditors Liquidators Disciplinary Board [2006] FCA 1747 (15 December 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1747.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">proper construction of s 41 of the administrative appeals tribunal act 1975 (cth) in a review by the tribunal of a decision of the companies auditors liquidators disciplinary board</catchphrase>
-<catchphrase "id=c1">whether the tribunal has the power to order decision and reasons for decision not be published</catchphrase>
-<catchphrase "id=c2">statutory interpretation</catchphrase>
+<catchphrase >proper construction of s 41 of the administrative appeals tribunal act 1975 (cth) in a review by the tribunal of a decision of the companies auditors liquidators disciplinary board</catchphrase>
+<catchphrase >whether the tribunal has the power to order decision and reasons for decision not be published</catchphrase>
+<catchphrase >statutory interpretation</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -35,11 +35,11 @@
 <sentence id="s14">On 30 November 2006, the applicant filed an application to the Tribunal for review of the Board's decision to exercise its powers under s 1292(2).</sentence>
 <sentence id="s15">The applicant also applied for orders under s 41(2) of the AAT Act as follows:
  
-&#8226; the Board be restrained from complying with s 1296(1) of the Corporations Act ;
+#8226; the Board be restrained from complying with s 1296(1) of the Corporations Act ;
  
-&#8226; the orders made by the Board on 20 November 2006 be stayed until the Board's decision of that day has been reviewed by the Tribunal and a decision made;
+#8226; the orders made by the Board on 20 November 2006 be stayed until the Board's decision of that day has been reviewed by the Tribunal and a decision made;
  
-&#8226; the Board and ASIC be restrained, until the review by the Tribunal and its decision, from publishing or causing or permitting to be published in the Gazette or in any other way any detail of the orders of the Board of 20 November 2006.</sentence>
+#8226; the Board and ASIC be restrained, until the review by the Tribunal and its decision, from publishing or causing or permitting to be published in the Gazette or in any other way any detail of the orders of the Board of 20 November 2006.</sentence>
 <sentence id="s16">5 On 4 December 2006, the Tribunal directed that the order made by the Board on 20 November 2006 ' be stayed and not come into effect until the hearing of this matter or until further order '.</sentence>
 <sentence id="s17">However, the Tribunal declined to make any further order under s 41 of the AAT Act, as sought by the applicant.</sentence>
 <sentence id="s18">6 The applicant now seeks an order for review of the decision of the Tribunal to refuse to make further orders under s 41 of the AAT Act.</sentence>
@@ -47,8 +47,8 @@
 <sentence id="s20">Alternatively, the applicant seeks orders under s 39B of the Judiciary Act 1903 (Cth).</sentence>
 <sentence id="s21">The ground of review under the ADJR Act is that the Tribunal erred or misdirected itself in finding that it did not have power to make the further orders under s 41 of the AAT Act sought by the applicant.</sentence>
 <sentence id="s22">7 The question is whether the power to make an order ' staying or otherwise affecting the operation or implementation ' of the Board's decision extends to an order prohibiting compliance with s 1296(1) of the Corporations Act .</sentence>
-<sentence id="s23">The Tribunal concluded that it had no such power because of observations made by Heerey J in Allied Asia Holdings (Aust) Pty Ltd v Australian Securities &amp; Investments Commission [2002] FCA 566.</sentence>
-<sentence id="s24">There, ASIC made a decision under s 21(2)(c) of the Insurance (Agents &amp; Brokers) Act 1984 (Cth) ('the Insurance Brokers Act') to refuse to renew a company's registration as a general insurance broker.</sentence>
+<sentence id="s23">The Tribunal concluded that it had no such power because of observations made by Heerey J in Allied Asia Holdings (Aust) Pty Ltd v Australian Securities amp; Investments Commission [2002] FCA 566.</sentence>
+<sentence id="s24">There, ASIC made a decision under s 21(2)(c) of the Insurance (Agents amp; Brokers) Act 1984 (Cth) ('the Insurance Brokers Act') to refuse to renew a company's registration as a general insurance broker.</sentence>
 <sentence id="s25">On the same day, ASIC notified that company that it intended to publish a press release recording that facts and the findings made in the course of making the decision.</sentence>
 <sentence id="s26">The company sought to restrain ASIC from publishing the press release until the decision to refuse renewal had been reviewed by the Tribunal.</sentence>
 <sentence id="s27">At that stage, there had been no application to the Tribunal for review.</sentence>
@@ -129,7 +129,7 @@ Dated: 15 December 2006
  
  Counsel for the Second Respondent: Mr RJ Wright SC with Mr AL Connolly 
  
- Solicitor for the Second Respondent: Australian Securities &amp; Investments Commission 
+ Solicitor for the Second Respondent: Australian Securities amp; Investments Commission 
  
  Date of Hearing: 7 December 2006 
  
@@ -143,4 +143,5 @@ Dated: 15 December 2006
  
  </sentence>
 </sentences>
-</case>
+</case>/case>tences>
+</case>/case>

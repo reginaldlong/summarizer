@@ -3,19 +3,19 @@
 <name>Australian Competition and Consumer Commission v Admiral Mechanical Services Pty Ltd [2007] FCA 1085 (25 July 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1085.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">price fixing arrangements</catchphrase>
-<catchphrase "id=c1">pecuniary penalties</catchphrase>
-<catchphrase "id=c2">injunctions</catchphrase>
-<catchphrase "id=c3">declarations</catchphrase>
-<catchphrase "id=c4">trade practice compliance program</catchphrase>
-<catchphrase "id=c5">contraventions admitted</catchphrase>
-<catchphrase "id=c6">pecuniary penalty</catchphrase>
-<catchphrase "id=c7">penalty agreed</catchphrase>
-<catchphrase "id=c8">some penalties contested</catchphrase>
-<catchphrase "id=c9">totality principle</catchphrase>
-<catchphrase "id=c10">reduction of pecuniary penalty due to co-operation</catchphrase>
-<catchphrase "id=c11">relevant factors to assessing pecuniary penalty</catchphrase>
-<catchphrase "id=c12">trade practices</catchphrase>
+<catchphrase >price fixing arrangements</catchphrase>
+<catchphrase >pecuniary penalties</catchphrase>
+<catchphrase >injunctions</catchphrase>
+<catchphrase >declarations</catchphrase>
+<catchphrase >trade practice compliance program</catchphrase>
+<catchphrase >contraventions admitted</catchphrase>
+<catchphrase >pecuniary penalty</catchphrase>
+<catchphrase >penalty agreed</catchphrase>
+<catchphrase >some penalties contested</catchphrase>
+<catchphrase >totality principle</catchphrase>
+<catchphrase >reduction of pecuniary penalty due to co-operation</catchphrase>
+<catchphrase >relevant factors to assessing pecuniary penalty</catchphrase>
+<catchphrase >trade practices</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -403,13 +403,13 @@ Mech Const 12 th $6 295 603 10 Ralie 15 th 6 13 Scott Mechanical 16 th $3 063 16
  
 92 The following table contains a summary of the Ralie commercial and industrial air conditioning installation business annual turnover and profit during the years indicated:
  Year ended 30 June Total Income Profit Before Tax Assets Liabilities Net Assets 2003 $111 3107 ($139 982) $323 828 $360 684 ($36 856) 2002 $2 219 157 $5 219 $706 943 $603 817 $103 126 2001 $2 111 808 ($58 538) $704 173 $606 266 $97 907 2000 $1 903 445 ($33 141) $508 813 $209 716 $158 445 
-93 Mr Moore founded Ralie in September 1994, when he and Mr Broadley bought the business of J.R Morgan &amp; Company.</sentence>
+93 Mr Moore founded Ralie in September 1994, when he and Mr Broadley bought the business of J.R Morgan amp; Company.</sentence>
 <sentence id="s221">94 Mr Moore is 40 years of age and enjoys good health.</sentence>
 <sentence id="s222">He is married and has two dependent children aged 1 and 6.</sentence>
 <sentence id="s223">Mr Moore earns a salary of $60 000 per annum.</sentence>
 <sentence id="s224">He aims to work until retirement age (65) and will earn a similar annual income (with increases as the years progress) until retirement age has been attained.</sentence>
 <sentence id="s225">Mr Moore has negligible savings and together with his wife owns a modest home in Karrinyup that is mortgaged for an amount of $241 374.</sentence>
-<sentence id="s226">95 Mr Broadley founded Ralie in September 1994, when he and Mr Moore bought the business of J.R Morgan &amp; Company.</sentence>
+<sentence id="s226">95 Mr Broadley founded Ralie in September 1994, when he and Mr Moore bought the business of J.R Morgan amp; Company.</sentence>
 <sentence id="s227">96 Mr Broadley is 60 years of age and enjoys good health.</sentence>
 <sentence id="s228">He is married and the last of his dependent children left home in May 2005.</sentence>
 <sentence id="s229">Mr Broadley earns a salary of $60 000 per annum.</sentence>
@@ -565,7 +565,7 @@ Scott Mechanical did not have a trade practices compliance program in place nor 
  
 140 Although difficult to reach a definite view, it is estimated that Scott Mechanical has a market share of approximately 0.4 per cent and 0.5 per cent, a share which has remained fairly static.</sentence>
 <sentence id="s323">141 The majority of Scott Mechanical's work is in the supply and installation of commercial and industrial air conditioning and mechanical services.</sentence>
-<sentence id="s324">Scott Mechanical has two or three regular small maintenance contracts and subcontracts that work to E W Perry &amp; Co.</sentence>
+<sentence id="s324">Scott Mechanical has two or three regular small maintenance contracts and subcontracts that work to E W Perry amp; Co.</sentence>
 <sentence id="s325">The only other maintenance work performed by Scott Mechanical is in relation to warranties on installation projects done by Scott Mechanical.</sentence>
 <sentence id="s326">Amount of loss or damage 
  
@@ -1460,17 +1460,17 @@ A combined tender value of $48m is approximately 14 per cent greater than a comb
 <sentence id="s836">It is said the range is appropriate in light of the penalties imposed on company representatives involved in cartel cases such as the Tyco cases, Midland Brick Co 207 ALR 329 and ABB Power Transmission (2004) ATPR 42-011.</sentence>
 <sentence id="s837">375 It is also submitted that in this case regard should be had to the serious nature of Messrs Allen and Henny's involvement in the contraventions of the Act by DES considered in light of the following:
  
- &#8226; Messrs Henny and Allen have both fully cooperated with the applicant from the outset of its investigation, by complying with all of its requests which has simplified the proceedings for the applicant.</sentence>
-<sentence id="s838">&#8226; Mr Allen's limited involvement in senior commercial roles meant that he did not appreciate the seriousness of the conduct; 
- &#8226; While Mr Henny occupied a senior position in DES, DES is a relatively small Perth based company;
- &#8226; Neither Messrs Henny nor Allen was a ringleader or organiser in the arrangement;
- &#8226; The conduct of Messrs Allen and Henny was not motivated necessarily by a desire to increase prices; 
- &#8226; In relation to Mr Henny, penalties apply to only a few contraventions (much fewer than most other individual respondents) as a number of the contraventions fall outside the penalty period;
- &#8226; Neither Messrs Henny or Allen have means to meet a very large penalty.</sentence>
+ #8226; Messrs Henny and Allen have both fully cooperated with the applicant from the outset of its investigation, by complying with all of its requests which has simplified the proceedings for the applicant.</sentence>
+<sentence id="s838">#8226; Mr Allen's limited involvement in senior commercial roles meant that he did not appreciate the seriousness of the conduct; 
+ #8226; While Mr Henny occupied a senior position in DES, DES is a relatively small Perth based company;
+ #8226; Neither Messrs Henny nor Allen was a ringleader or organiser in the arrangement;
+ #8226; The conduct of Messrs Allen and Henny was not motivated necessarily by a desire to increase prices; 
+ #8226; In relation to Mr Henny, penalties apply to only a few contraventions (much fewer than most other individual respondents) as a number of the contraventions fall outside the penalty period;
+ #8226; Neither Messrs Henny or Allen have means to meet a very large penalty.</sentence>
 <sentence id="s839">In Mr Henny's case his primary source of income has ceased since his separation from DES.</sentence>
 <sentence id="s840">Mr Allen in particular has very substantial ongoing financial commitments and was without a job for a period of approximately four months.</sentence>
 <sentence id="s841">Mr Allen has been employed since April 2005, but at a lower salary than that previously earned at DES; and
- &#8226; Both Messrs Henny and Allen are providing ongoing cooperation to the applicant.</sentence>
+ #8226; Both Messrs Henny and Allen are providing ongoing cooperation to the applicant.</sentence>
 <sentence id="s842">
 
 376 I do accept that the pecuniary penalty proposed for DES is correctly described as 'broadly comparable' to that proposed in relation to Centigrade and MPM.</sentence>
@@ -1932,11 +1932,11 @@ A combined tender value of $48m is approximately 14 per cent greater than a comb
 <sentence id="s1075">These matters, such as: 
  
  
- &#8226; whether HVAC was a tenderer for a particular project, 
- &#8226; who its representative was, 
- &#8226; when the tender occurred, HVAC's tender price, 
- &#8226; the identity of the other tenderers; and 
- &#8226; whether HVAC was successful tenderer 
+ #8226; whether HVAC was a tenderer for a particular project, 
+ #8226; who its representative was, 
+ #8226; when the tender occurred, HVAC's tender price, 
+ #8226; the identity of the other tenderers; and 
+ #8226; whether HVAC was successful tenderer 
  
  
  are 'ancillary' in nature and do not go to the heart of whether there was a contravention.</sentence>
@@ -1952,11 +1952,11 @@ A combined tender value of $48m is approximately 14 per cent greater than a comb
 
 466 The applicant has brought to the Court the following:
  
- &#8226; Submissions filed 5 July 2007;
- &#8226; Outline of legal principles applicable to various forms of relief filed on 5 July 2007;
- &#8226; Minute of proposed orders with respect to the tenth respondent filed on 5 July 2007;
- &#8226; Affidavit of Mr Beigel sworn and filed on 5 July 2007; and
- &#8226; Affidavit of Mr Beigel sworn on 2 July 2007 (four volumes).</sentence>
+ #8226; Submissions filed 5 July 2007;
+ #8226; Outline of legal principles applicable to various forms of relief filed on 5 July 2007;
+ #8226; Minute of proposed orders with respect to the tenth respondent filed on 5 July 2007;
+ #8226; Affidavit of Mr Beigel sworn and filed on 5 July 2007; and
+ #8226; Affidavit of Mr Beigel sworn on 2 July 2007 (four volumes).</sentence>
 <sentence id="s1082">
 
 467 The tenth respondent, through its liquidator, has filed the affidavit of Mr Francis sworn on 28 June 2007 and filed on 29 June 2007.</sentence>
@@ -2280,7 +2280,7 @@ A combined tender value of $48m is approximately 14 per cent greater than a comb
 <sentence id="s1246">Conduct on behalf of HVAC 
  Table Arrangements or Understandings 
  
-556 Mr McLeod admitted that in relation to the BCMS &amp; VAV Upgrade project that he made or arrived at the Table Arrangement or Understanding relating to that project on behalf of HVAC.</sentence>
+556 Mr McLeod admitted that in relation to the BCMS amp; VAV Upgrade project that he made or arrived at the Table Arrangement or Understanding relating to that project on behalf of HVAC.</sentence>
 <sentence id="s1247">557 The relativity tables show Mr McLeod as 16 of 16 for all arrangements and 18 of 19 for total value.</sentence>
 <sentence id="s1248">558 Mr McLeod was one of HVAC's more senior officers.</sentence>
 <sentence id="s1249">At all relevant times Mr McLeod had significant input and influence over HVAC's operations in Western Australia.</sentence>
@@ -2324,15 +2324,15 @@ Mr N Gvozdin
  
  Counsel for the 15 th , 37 th and 38 th Respondents: Mr L Margaretic 
  
- Solicitor for the 15 th , 37 th and 38 th Respondents: Havilah &amp; Associates 
+ Solicitor for the 15 th , 37 th and 38 th Respondents: Havilah amp; Associates 
  
  Counsel for the 32 nd Respondent: Mr N Friedman 
  
- Solicitor for the 32 nd Respondent: Friedman Lurie Singh &amp; D'Angelo 
+ Solicitor for the 32 nd Respondent: Friedman Lurie Singh amp; D'Angelo 
  
  Counsel for the 31 st Respondent: Mr N Friedman 
  
- Solicitor for the 31 st Respondent: Friedman Lurie Singh &amp; D'Angelo 
+ Solicitor for the 31 st Respondent: Friedman Lurie Singh amp; D'Angelo 
  
  Counsel for the 13 th , 35 th and 36 th Respondents: Mr C Colvin SC 
  
@@ -2340,11 +2340,11 @@ Mr N Gvozdin
  
  Counsel for the 12 th and 20 th Respondents: Mr A Metaxas 
  
- Solicitor for the 12 th and 20 th Respondents: Arthur Metaxas &amp; Co 
+ Solicitor for the 12 th and 20 th Respondents: Arthur Metaxas amp; Co 
  
  Counsel for the 11 th and 34 th Respondents: Mr G H Murphy with Mr K J Murphy 
  
- Solicitor for the 11 th and 34 th Respondents: Murfett &amp; Co 
+ Solicitor for the 11 th and 34 th Respondents: Murfett amp; Co 
  
  Counsel for the 6 th and 24 th Respondents: Mr M J McPhee 
  
@@ -2354,7 +2354,7 @@ Mr N Gvozdin
  
  Solicitor for the 30 th Respondent: Stables Scott 
  
- Dates of Hearing: 8 - 10 August 2005, 12-13 December 2005, 15 February 2006, 26 April 2006, 7 June 2006, 19 September 2006 &amp; 14 May 2007.</sentence>
+ Dates of Hearing: 8 - 10 August 2005, 12-13 December 2005, 15 February 2006, 26 April 2006, 7 June 2006, 19 September 2006 amp; 14 May 2007.</sentence>
 <sentence id="s1260">Date of Judgment: 25 July 2007 
 
  
@@ -2370,5 +2370,13 @@ Mr N Gvozdin
  URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/1085.html 
  
  </sentence>
+</sentences>
+</case>ntence>
+</sentences>
+</case>/cases/cth/FCA/2007/1085.html 
+ 
+ </sentence>
+</sentences>
+</case>ntence>
 </sentences>
 </case>

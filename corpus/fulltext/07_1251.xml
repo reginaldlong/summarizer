@@ -3,19 +3,19 @@
 <name>Lever v Australian Nuclear Science and Technology Organisation [2007] FCA 1251 (16 August 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1251.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">purported breach of part xa of the workplace relations act 1996 (cth)</catchphrase>
-<catchphrase "id=c1">applicant joined statutory corporation as employee</catchphrase>
-<catchphrase "id=c2">promoted to position at level below that sought</catchphrase>
-<catchphrase "id=c3">agitated for promotion to higher level</catchphrase>
-<catchphrase "id=c4">appointed by trade union as worksite delegate</catchphrase>
-<catchphrase "id=c5">deterioration in employment relationship though status quo maintained</catchphrase>
-<catchphrase "id=c6">whether employer's conduct in declining promotion to higher level and conduct incidental to dispute involved dismissal or injury in employment or alteration of position to applicant's prejudice or discrimination according to statutory provisions</catchphrase>
-<catchphrase "id=c7">whether operation of statutory presumption crystallised</catchphrase>
-<catchphrase "id=c8">whether applicant established operation of statutory presumption</catchphrase>
-<catchphrase "id=c9">series of fourteen instances of statutory breach propounded</catchphrase>
-<catchphrase "id=c10">extensive evidence and submissions made in course of lengthy proceedings</catchphrase>
-<catchphrase "id=c11">proceedings dismissed</catchphrase>
-<catchphrase "id=c12">workplace relations</catchphrase>
+<catchphrase >purported breach of part xa of the workplace relations act 1996 (cth)</catchphrase>
+<catchphrase >applicant joined statutory corporation as employee</catchphrase>
+<catchphrase >promoted to position at level below that sought</catchphrase>
+<catchphrase >agitated for promotion to higher level</catchphrase>
+<catchphrase >appointed by trade union as worksite delegate</catchphrase>
+<catchphrase >deterioration in employment relationship though status quo maintained</catchphrase>
+<catchphrase >whether employer's conduct in declining promotion to higher level and conduct incidental to dispute involved dismissal or injury in employment or alteration of position to applicant's prejudice or discrimination according to statutory provisions</catchphrase>
+<catchphrase >whether operation of statutory presumption crystallised</catchphrase>
+<catchphrase >whether applicant established operation of statutory presumption</catchphrase>
+<catchphrase >series of fourteen instances of statutory breach propounded</catchphrase>
+<catchphrase >extensive evidence and submissions made in course of lengthy proceedings</catchphrase>
+<catchphrase >proceedings dismissed</catchphrase>
+<catchphrase >workplace relations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -1695,9 +1695,9 @@ Step 4 of Section 7 provided, inter alia , that:
  
  
  
- &#8226; the steps to be taken to get you back to suitable work;
- &#8226; who is to be responsible for the various steps; and
- &#8226; a timetable for completion of the plan.</sentence>
+ #8226; the steps to be taken to get you back to suitable work;
+ #8226; who is to be responsible for the various steps; and
+ #8226; a timetable for completion of the plan.</sentence>
 <sentence id="s635">
  
  
@@ -2114,7 +2114,7 @@ I should record for completeness that Mr Lever rejoined in relation to subpar (v
 <sentence id="s745">137 Further as to pars 20 to 22 of Mr Lever's points of claim the subject of the first series of breaches , ANSTO submitted that Mr Lever 'has not established that any conduct of [ANSTO] caused him to miss an opportunity to seek a review of Dr Doherty's decision to promote him', maintaining that Mr Lever had produced 'no evidence that he intended to seek a review at the time of the relevant discussions with Dr Doherty', and accordingly that Mr Lever 'has not established that the conduct of [ANSTO] was the reason for his failure to seek such a review'.</sentence>
 <sentence id="s746">It was further submitted by ANSTO in that regard that '[i]f [Mr Lever's] failure to seek a review could constitute an injury to him in his employment or an alteration of his position to his prejudice, it was caused by the actions or inactions of [Mr Lever] subsequent to the conduct of Dr Doherty', and furthermore that '[i]f [Mr Lever] knew of the availability of a review, it was his own decision to forebear from pursuing one'.</sentence>
 <sentence id="s747">It was contended by ANSTO also that '[e]xcept in the circumstances described in s 298L(2), attempting to induce or discourage an employee from a course of action cannot be conduct of the kind described in s 298K(1)(b) or (c)', and moreover '[i]f the attempt succeeds and the employee is discouraged', so the ANSTO submission continued, 'the status quo is preserved, [but if] the attempt fails, the employer's conduct has not affected the employee's exercise of his free will, [and] [i]n either case, the conduct has not injured the employee in his employment or altered the employee's position to his prejudice'.</sentence>
-<sentence id="s748">Reference was made by ANSTO in that context to Finance Sector Union of Australia v Australia &amp; New Zealand Banking Group Ltd [2002] FCA 631 ; (2002) 120 FCR 107 where at [195] in relation to a s 298M claim by a union for an imposition of penalties, Wilcox J found as follows:
+<sentence id="s748">Reference was made by ANSTO in that context to Finance Sector Union of Australia v Australia amp; New Zealand Banking Group Ltd [2002] FCA 631 ; (2002) 120 FCR 107 where at [195] in relation to a s 298M claim by a union for an imposition of penalties, Wilcox J found as follows:
  
  'Ms Howell argued her s 289M [ sic ] claim by reference to conduct by Mr Inglis which, she contended, had the effect of putting pressure on Ms Buckland to choose between her job and her position in the FSU.</sentence>
 <sentence id="s749">Mr Inglis may have applied such pressure and, perhaps, this might be described as an attempt to induce Ms Buckland to resign.</sentence>
@@ -2875,4 +2875,8 @@ Dated: 16 August 2007
  
  </sentence>
 </sentences>
-</case>
+</case>ase>://www.austlii.edu.au/au/cases/cth/FCA/2007/1251.html 
+ 
+ </sentence>
+</sentences>
+</case>ase>

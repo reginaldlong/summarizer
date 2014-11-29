@@ -3,19 +3,19 @@
 <name>Ho v Professional Services Review Committee No 295 [2007] FCA 388 (26 March 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/388.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">health insurance</catchphrase>
-<catchphrase "id=c1">investigation by professional services review committee as to whether a medical practitioner has engaged in inappropriate practice in relation to the number of services rendered or initiated by him</catchphrase>
-<catchphrase "id=c2">whether exceptional circumstances existed that excused the conduct</catchphrase>
-<catchphrase "id=c3">operation of s 106ka(2) of the health insurance act 1973 (cth)</catchphrase>
-<catchphrase "id=c4">relation to reg 11(a) of the health insurance (professional services review) regulations 1999 (cth)</catchphrase>
-<catchphrase "id=c5">meaning of 'exceptional circumstances'</catchphrase>
-<catchphrase "id=c6">meaning of 'unusual occurrence'</catchphrase>
-<catchphrase "id=c7">circumstances under which committee must consider reg 11(a)</catchphrase>
-<catchphrase "id=c8">whether practice management considerations are relevant</catchphrase>
-<catchphrase "id=c9">'exceptional circumstances'</catchphrase>
-<catchphrase "id=c10">'unusual occurrence'</catchphrase>
-<catchphrase "id=c11">administrative law</catchphrase>
-<catchphrase "id=c12">words and phrases</catchphrase>
+<catchphrase >health insurance</catchphrase>
+<catchphrase >investigation by professional services review committee as to whether a medical practitioner has engaged in inappropriate practice in relation to the number of services rendered or initiated by him</catchphrase>
+<catchphrase >whether exceptional circumstances existed that excused the conduct</catchphrase>
+<catchphrase >operation of s 106ka(2) of the health insurance act 1973 (cth)</catchphrase>
+<catchphrase >relation to reg 11(a) of the health insurance (professional services review) regulations 1999 (cth)</catchphrase>
+<catchphrase >meaning of 'exceptional circumstances'</catchphrase>
+<catchphrase >meaning of 'unusual occurrence'</catchphrase>
+<catchphrase >circumstances under which committee must consider reg 11(a)</catchphrase>
+<catchphrase >whether practice management considerations are relevant</catchphrase>
+<catchphrase >'exceptional circumstances'</catchphrase>
+<catchphrase >'unusual occurrence'</catchphrase>
+<catchphrase >administrative law</catchphrase>
+<catchphrase >words and phrases</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -294,13 +294,13 @@ In effect, the view which each committee took as to the management of the respec
 <sentence id="s158">The chairman then summarised the committee's understanding of the claim for exceptional circumstances made by Dr Ho as follows:
  
  
- &#8226; his lack of awareness of the 80/20 rule during the referral period;
- &#8226; the serious conflict in his earlier practice;
- &#8226; the departure of Dr Nguyen-Phuoc from that practice;
- &#8226; the current practice's inability to employ another doctor;
- &#8226; the high numbers of patients in the practice's books;
- &#8226; busy Mondays, days after long weekends and wintertime; and
- &#8226; two days when his partner suffered a sudden illness and was unable to work.</sentence>
+ #8226; his lack of awareness of the 80/20 rule during the referral period;
+ #8226; the serious conflict in his earlier practice;
+ #8226; the departure of Dr Nguyen-Phuoc from that practice;
+ #8226; the current practice's inability to employ another doctor;
+ #8226; the high numbers of patients in the practice's books;
+ #8226; busy Mondays, days after long weekends and wintertime; and
+ #8226; two days when his partner suffered a sudden illness and was unable to work.</sentence>
 <sentence id="s159">
  
 
@@ -321,10 +321,10 @@ In effect, the view which each committee took as to the management of the respec
 <sentence id="s167">On 4 of the days, when over 80 patients were seen, the surgery had been closed for a number of the preceding days, namely:
  
  
- &#8226; 4 January 2000: the surgery had been closed for 3 days over the preceding New Year period;
- &#8226; 27 March 2000: the surgery opened in new premises after a 2 day closure in which it was moved;
- &#8226; 26 April 2000: the surgery had been closed for 6 days over Easter (and, presumably, Anzac Day) break;
- &#8226; 13 June 2000: the surgery had been closed for 3 days over the Queen's Birthday holiday.</sentence>
+ #8226; 4 January 2000: the surgery had been closed for 3 days over the preceding New Year period;
+ #8226; 27 March 2000: the surgery opened in new premises after a 2 day closure in which it was moved;
+ #8226; 26 April 2000: the surgery had been closed for 6 days over Easter (and, presumably, Anzac Day) break;
+ #8226; 13 June 2000: the surgery had been closed for 3 days over the Queen's Birthday holiday.</sentence>
 <sentence id="s168">
  
 
@@ -386,8 +386,8 @@ In effect, the view which each committee took as to the management of the respec
 <sentence id="s202">Finally, the committee made findings that:
  
  
- &#8226; Dr Ho engaged in inappropriate practice by rendering 80 or more professional attendances on 24 days during the referral period which constituted a prescribed pattern of services under s 106KA(1) of the Act;
- &#8226; for the purposes of s 106KA(2) the committee did not consider that exceptional circumstances existed that affected the rendering of services by Dr Ho on any of the 24 days.</sentence>
+ #8226; Dr Ho engaged in inappropriate practice by rendering 80 or more professional attendances on 24 days during the referral period which constituted a prescribed pattern of services under s 106KA(1) of the Act;
+ #8226; for the purposes of s 106KA(2) the committee did not consider that exceptional circumstances existed that affected the rendering of services by Dr Ho on any of the 24 days.</sentence>
 <sentence id="s203">
  
 
@@ -465,8 +465,8 @@ In effect, the view which each committee took as to the management of the respec
 <sentence id="s265">They made findings as follows:
  
  
- &#8226; Dr Do engaged in inappropriate practice by rendering 80 or more professional attendances on each of the 56 days, and that this constituted a prescribed pattern of services under s 106KA(1) of the Act.</sentence>
-<sentence id="s266">&#8226; The committee did not consider that exceptional circumstances existed that affected the rendering of services by Dr Do on any of the 56 days in question.</sentence>
+ #8226; Dr Do engaged in inappropriate practice by rendering 80 or more professional attendances on each of the 56 days, and that this constituted a prescribed pattern of services under s 106KA(1) of the Act.</sentence>
+<sentence id="s266">#8226; The committee did not consider that exceptional circumstances existed that affected the rendering of services by Dr Do on any of the 56 days in question.</sentence>
 <sentence id="s267">
  
  DR DO --- THE FINAL REPORT 
@@ -712,4 +712,10 @@ Dated: 26 March 2007
  
  </sentence>
 </sentences>
+</case>tences>
+</case>tlii.edu.au/au/cases/cth/FCA/2007/388.html 
+ 
+ </sentence>
+</sentences>
+</case>tences>
 </case>

@@ -3,12 +3,12 @@
 <name>Cheng v Minister for Immigration and Multicultural and Indigenous Affairs [2006] FCA 1028 (9 August 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1028.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">student visa</catchphrase>
-<catchphrase "id=c1">unsatisfactory academic performance</catchphrase>
-<catchphrase "id=c2">breach of condition 8202</catchphrase>
-<catchphrase "id=c3">cancellation of visa under s 116 of migration act 1958 (cth)</catchphrase>
-<catchphrase "id=c4">whether representations made in notice issued under s 20 of the education services for overseas students act 2000 (cth) gave rise to procedural unfairness</catchphrase>
-<catchphrase "id=c5">migration</catchphrase>
+<catchphrase >student visa</catchphrase>
+<catchphrase >unsatisfactory academic performance</catchphrase>
+<catchphrase >breach of condition 8202</catchphrase>
+<catchphrase >cancellation of visa under s 116 of migration act 1958 (cth)</catchphrase>
+<catchphrase >whether representations made in notice issued under s 20 of the education services for overseas students act 2000 (cth) gave rise to procedural unfairness</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -279,25 +279,25 @@
 <sentence id="s75">28 In a letter dated 15 October 2004 pursuant to s 359A of the Act, the Tribunal invited the applicant to comment on the following information:
  
  
- &#8226; 'Section 20 notice...dated 31 March 2004... 
+ #8226; 'Section 20 notice...dated 31 March 2004... 
  
  
  
- &#8226; Academic transcript from ECU dated 16 December 2003... 
+ #8226; Academic transcript from ECU dated 16 December 2003... 
  
- &#8226; ECU letter of 13 May 2004 and delegate's notation that appeal to ECU was not successful...' 
+ #8226; ECU letter of 13 May 2004 and delegate's notation that appeal to ECU was not successful...' 
  
  
 
 29 In response to the invitation the applicant's agent sent a letter dated 29 November 2004, enclosing a number of documents which included:
  
- &#8226; A letter dated 8 August 2003 from a representative of the organisation, Marie Stopes International, which advised that following a counselling session and medical examination, the applicant had a medical procedure terminating her pregnancy on 8 August 2003.</sentence>
+ #8226; A letter dated 8 August 2003 from a representative of the organisation, Marie Stopes International, which advised that following a counselling session and medical examination, the applicant had a medical procedure terminating her pregnancy on 8 August 2003.</sentence>
 <sentence id="s76">The pregnancy had been unplanned.</sentence>
 <sentence id="s77">
 
 
  
- &#8226; A letter dated 23 November 2004 from Ms Jennie Connolly, a clinical psychologist.</sentence>
+ #8226; A letter dated 23 November 2004 from Ms Jennie Connolly, a clinical psychologist.</sentence>
 <sentence id="s78">The letter referred to a psychological assessment of the applicant.</sentence>
 <sentence id="s79">
 
@@ -540,4 +540,8 @@ Dated: 9 August 2006
  
  </sentence>
 </sentences>
-</case>
+</case>case> 
+ 
+ </sentence>
+</sentences>
+</case>case>

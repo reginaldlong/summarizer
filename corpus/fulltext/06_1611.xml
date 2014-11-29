@@ -3,12 +3,12 @@
 <name>United Salvage Pty Ltd v Louis Dreyfus Armateurs SNC [2006] FCA 1611 (23 November 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1611.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">offer of compromise made by defendants prior to hearing</catchphrase>
-<catchphrase "id=c1">application of o 23 r 11(5)</catchphrase>
-<catchphrase "id=c2">whether offer of compromise was defective because the sum of money was inclusive of interest and costs and/or the offer required the plaintiffs to execute a "satisfactory deed of release"</catchphrase>
-<catchphrase "id=c3">whether "satisfactory deed of release" requirement is uncertain or would result in oppression to plaintiffs</catchphrase>
-<catchphrase "id=c4">whether defendants had engaged in disentitling conduct such that the court should not award indemnity costs.</catchphrase>
-<catchphrase "id=c5">costs</catchphrase>
+<catchphrase >offer of compromise made by defendants prior to hearing</catchphrase>
+<catchphrase >application of o 23 r 11(5)</catchphrase>
+<catchphrase >whether offer of compromise was defective because the sum of money was inclusive of interest and costs and/or the offer required the plaintiffs to execute a "satisfactory deed of release"</catchphrase>
+<catchphrase >whether "satisfactory deed of release" requirement is uncertain or would result in oppression to plaintiffs</catchphrase>
+<catchphrase >whether defendants had engaged in disentitling conduct such that the court should not award indemnity costs.</catchphrase>
+<catchphrase >costs</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -71,11 +71,11 @@
 <sentence id="s35">8 The grounds on which the plaintiffs seek a contrary order in relation to indemnity costs are as follows:
  
  
- &#8226; The defendants permitted documents to be destroyed after the incident, thereby preventing discovery and inspection; 
- &#8226; Full discovery was not given in respect of the relationship of the third defendant and the identity of the beneficial owner of the vessel at relevant times;
- &#8226; No Offer complying with O 23 was made because of the requirement that the plaintiffs should execute "a satisfactory deed of release".</sentence>
+ #8226; The defendants permitted documents to be destroyed after the incident, thereby preventing discovery and inspection; 
+ #8226; Full discovery was not given in respect of the relationship of the third defendant and the identity of the beneficial owner of the vessel at relevant times;
+ #8226; No Offer complying with O 23 was made because of the requirement that the plaintiffs should execute "a satisfactory deed of release".</sentence>
 <sentence id="s36">The Offer, it is said, was uncertain, oppressive and not in accordance with the requirements of Federal Court Rules , thereby making it incapable of acceptance;
- &#8226; It was not imprudent or unreasonable for the plaintiffs to refuse the Offers of Compromise made by the defendants.</sentence>
+ #8226; It was not imprudent or unreasonable for the plaintiffs to refuse the Offers of Compromise made by the defendants.</sentence>
 <sentence id="s37">
  
 
@@ -138,7 +138,7 @@ E Cox
  
  Counsel for the Defendants: G Rich 
  
- Solicitor for the Defendants: Thynne &amp; Macartney 
+ Solicitor for the Defendants: Thynne amp; Macartney 
  
  Dates of Hearing: 21 September 2006 
  
@@ -152,4 +152,8 @@ E Cox
  
  </sentence>
 </sentences>
-</case>
+</case>case> 
+ 
+ </sentence>
+</sentences>
+</case>case>

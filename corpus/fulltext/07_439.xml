@@ -3,11 +3,11 @@
 <name>Garrett v Westpac Banking Corporation [2007] FCA 439 (26 March 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/439.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">summary judgment</catchphrase>
-<catchphrase "id=c1">s 31a(2) of the federal court of australia act 1976 (cth)</catchphrase>
-<catchphrase "id=c2">no demonstrated standing</catchphrase>
-<catchphrase "id=c3">no reasonable prospect of success</catchphrase>
-<catchphrase "id=c4">practice and procedure</catchphrase>
+<catchphrase >summary judgment</catchphrase>
+<catchphrase >s 31a(2) of the federal court of australia act 1976 (cth)</catchphrase>
+<catchphrase >no demonstrated standing</catchphrase>
+<catchphrase >no reasonable prospect of success</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -51,7 +51,7 @@
  
 6 The background to this matter is conveniently set out in Mr Garrett's affidavit.</sentence>
 <sentence id="s15">During the course of October 2006 Mr Garrett approached a Robert Gray of (what he describes as) Creditnet to provide A$350 million by way of funding in respect of a sale of certain assets of Fosters Wines Estates.</sentence>
-<sentence id="s16">7 I note in passing that there is nothing in the documentation before me which provides any details at all concerning Creditnet which is otherwise referred to in the material as "Creditnet Banking International&eacute;".</sentence>
+<sentence id="s16">7 I note in passing that there is nothing in the documentation before me which provides any details at all concerning Creditnet which is otherwise referred to in the material as "Creditnet Banking Internationaleacute;".</sentence>
 <sentence id="s17">The respondents having done ASIC searches of the latter name have put on evidence to the effect that there is no registered company or business name which matches it.</sentence>
 <sentence id="s18">Its search though did disclose a company with the name "Creditnet International Pty Ltd" which is currently under external administration.</sentence>
 <sentence id="s19">8 Mr Garrett deposes that on or about 16 December 2006 Mr Gray rang him and confirmed verbally the availability of US$300 million in respect of the proposed bid for the Fosters' Estates.</sentence>
@@ -149,7 +149,7 @@ Mr Garrett rejected Westpac's "approach" and refused to retrieve or accept the r
 <sentence id="s97">That signing does not satisfy the requirement of s 28(1).</sentence>
 <sentence id="s98">I agree.</sentence>
 <sentence id="s99">If such be Mr Garrett's claim, it must fail.</sentence>
-<sentence id="s100">24 The claimed breach of contract is unexplained and I do not speculate as to what was in contemplation, although the written submissions (which, in part, pr&eacute;cis text and statutes dealings with bills of exchange and banker customer) seem to tie it, as also the negligence claim, to a wrong committed by Westpac variously as an acceptor of the bill and as a collecting bank.</sentence>
+<sentence id="s100">24 The claimed breach of contract is unexplained and I do not speculate as to what was in contemplation, although the written submissions (which, in part, preacute;cis text and statutes dealings with bills of exchange and banker customer) seem to tie it, as also the negligence claim, to a wrong committed by Westpac variously as an acceptor of the bill and as a collecting bank.</sentence>
 <sentence id="s101">This pleading does not indicate the material facts giving rise to these claims.</sentence>
 <sentence id="s102">Nothing in the evidence put on by Mr Garrett would suggest that some viable cause of action is immanent in the circumstances upon which he relies.</sentence>
 <sentence id="s103">25 In my view, the Statement of Claim discloses no cause of action that has any reasonable prospect of success.</sentence>
@@ -203,4 +203,6 @@ Dated: 21 March 2007
  
  </sentence>
 </sentences>
-</case>
+</case>e> </sentence>
+</sentences>
+</case>e>

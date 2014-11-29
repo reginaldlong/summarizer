@@ -3,9 +3,9 @@
 <name>Christodoulou v Disney Enterprises Inc [2006] FCA 902 (14 July 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/902.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">motion seeking permission to discontinue appeal and recover security paid into court</catchphrase>
-<catchphrase "id=c1">second motion seeking leave to withdraw discontinuance</catchphrase>
-<catchphrase "id=c2">appeal</catchphrase>
+<catchphrase >motion seeking permission to discontinue appeal and recover security paid into court</catchphrase>
+<catchphrase >second motion seeking leave to withdraw discontinuance</catchphrase>
+<catchphrase >appeal</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -85,7 +85,7 @@
 <sentence id="s26">Any question of extension of time would not arise unless and until Mr Christodoulou obtained the orders sought in the second motion.</sentence>
 <sentence id="s27">11 Mr Bova also submitted that I should conclude that the Court had no power to set aside the notice of discontinuance because Mr Christodoulou had not satisfied either of the two possibly applicable criteria.</sentence>
 <sentence id="s28">The first requires it to be shown that the withdrawal is a nullity; the Court needs to be satisfied the discontinuance was not the result of a deliberate and informed decision such as where (to take some non-exhaustive examples) it is the result of fraud or mistake: R v Medway [1976] 1 All ER 527 at 543.</sentence>
-<sentence id="s29">The second, more liberal, view is that the Court has power to set aside the discontinuance as part of its inherent power to prevent injustice: Applicant NACT of 2001 v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2004] FCA 316 at [4] , Applicant A26 of 2002 v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2003] FCA 1050 at [5] .</sentence>
+<sentence id="s29">The second, more liberal, view is that the Court has power to set aside the discontinuance as part of its inherent power to prevent injustice: Applicant NACT of 2001 v Minister for Immigration amp; Multicultural amp; Indigenous Affairs [2004] FCA 316 at [4] , Applicant A26 of 2002 v Minister for Immigration amp; Multicultural amp; Indigenous Affairs [2003] FCA 1050 at [5] .</sentence>
 <sentence id="s30">12 Mr Bova says that Mr Christodoulou's failure to satisfy either test means there is no jurisdiction, appellate or otherwise, to exercise.</sentence>
 <sentence id="s31">13 The problem with this argument is that it would require me to embark on a consideration of the substance of Mr Christodoulou's applications.</sentence>
 <sentence id="s32">While it is true that no circumstances are raised by him which would suggest that the discontinuance was a nullity, he vigorously asserted that it would be unjust, and indeed contrary to the public interest, were he not allowed to resume his appeal.</sentence>
@@ -93,7 +93,7 @@
 <sentence id="s34">14 The question has been touched on in two decisions of judges of this Court.</sentence>
 <sentence id="s35">In NACT (supra) Jacobson J, as already mentioned, held that there was power in the Court to set aside the notice of discontinuance, but dismissed the application.</sentence>
 <sentence id="s36">However, the question whether the jurisdiction could be exercised by a single judge was not raised before his Honour and was not mentioned.</sentence>
-<sentence id="s37">15 In NACU v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2004] FCA 1444 the appellant was the wife of the appellant in NACT .</sentence>
+<sentence id="s37">15 In NACU v Minister for Immigration amp; Multicultural amp; Indigenous Affairs [2004] FCA 1444 the appellant was the wife of the appellant in NACT .</sentence>
 <sentence id="s38">In the husband's case an application for special leave to appeal to the High Court had taken the point that the application should have been heard by a Full Court.</sentence>
 <sentence id="s39">In NACU Hill J at [8] expressed "some misgivings" about jurisdiction, but apparently on the basis that following a discontinuance the proceedings were at an end and there is nothing that could go before a Full Court.</sentence>
 <sentence id="s40">If there was power to set aside a discontinuance, to his Honour it was "not immediately apparent how the application (was) one that really resides in the Full Court".</sentence>
@@ -103,8 +103,8 @@
  
  
  
- &#8226; Once a notice of discontinuance of an appeal has been filed and served, does the Court have any jurisdiction at all?</sentence>
-<sentence id="s44">&#8226; If yes, can that jurisdiction be exercised by a single judge?</sentence>
+ #8226; Once a notice of discontinuance of an appeal has been filed and served, does the Court have any jurisdiction at all?</sentence>
+<sentence id="s44">#8226; If yes, can that jurisdiction be exercised by a single judge?</sentence>
 <sentence id="s45">
  
  
@@ -144,4 +144,7 @@ Dated: 14 July 2006
  
  </sentence>
 </sentences>
+</case>
+</case>nces>
+</case>
 </case>

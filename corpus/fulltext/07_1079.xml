@@ -3,18 +3,18 @@
 <name>Commissioner of Taxation v Dixon (Trustee) [2007] FCA 1079 (25 July 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1079.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from a decision of the administrative appeals tribunal</catchphrase>
-<catchphrase "id=c1">tribunal varied a decision of the commissioner of taxation not to remit any part of an administrative penalty imposed on the respondent by virtue of the respondent having incorrectly sought an input tax credit</catchphrase>
-<catchphrase "id=c2">tribunal found that 25% of the penalty imposed should be remitted to the respondent</catchphrase>
-<catchphrase "id=c3">tribunal found that no harm was done as respondent's error was identified by commissioner before any money was refunded</catchphrase>
-<catchphrase "id=c4">factors relevant to the exercise of the remission discretion</catchphrase>
-<catchphrase "id=c5">whether factors relevant to the exercise of the remission discretion restricted to those relating to the conduct of a taxpayer or at least the taxpayer's circumstances</catchphrase>
-<catchphrase "id=c6">relevance of general interest charge regime in the taxation legislation</catchphrase>
-<catchphrase "id=c7">whether penalty imposed by the commissioner or the legislation</catchphrase>
-<catchphrase "id=c8">whether the fact that a refund of the tax amount in question was never made to the taxpayer meant that no harm was done is an irrelevant consideration in the exercise of the remission discretion</catchphrase>
-<catchphrase "id=c9">whether it is necessary that there be special circumstances before the remission discretion is exercised</catchphrase>
-<catchphrase "id=c10">taxation</catchphrase>
-<catchphrase "id=c11">taxation</catchphrase>
+<catchphrase >appeal from a decision of the administrative appeals tribunal</catchphrase>
+<catchphrase >tribunal varied a decision of the commissioner of taxation not to remit any part of an administrative penalty imposed on the respondent by virtue of the respondent having incorrectly sought an input tax credit</catchphrase>
+<catchphrase >tribunal found that 25% of the penalty imposed should be remitted to the respondent</catchphrase>
+<catchphrase >tribunal found that no harm was done as respondent's error was identified by commissioner before any money was refunded</catchphrase>
+<catchphrase >factors relevant to the exercise of the remission discretion</catchphrase>
+<catchphrase >whether factors relevant to the exercise of the remission discretion restricted to those relating to the conduct of a taxpayer or at least the taxpayer's circumstances</catchphrase>
+<catchphrase >relevance of general interest charge regime in the taxation legislation</catchphrase>
+<catchphrase >whether penalty imposed by the commissioner or the legislation</catchphrase>
+<catchphrase >whether the fact that a refund of the tax amount in question was never made to the taxpayer meant that no harm was done is an irrelevant consideration in the exercise of the remission discretion</catchphrase>
+<catchphrase >whether it is necessary that there be special circumstances before the remission discretion is exercised</catchphrase>
+<catchphrase >taxation</catchphrase>
+<catchphrase >taxation</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -97,12 +97,12 @@
 <sentence id="s37">In summary, the reasons for decision of the Commissioner in finding there were no exceptional circumstances in this case included:
  
  
- &#8226; the Commissioner took the view that the respondent had not shown that a genuine attempt was made in the matter to comply with his obligations
- &#8226; the change in accountants was not relevant to the tax shortfall, which was a result of the ITC incorrectly claimed
- &#8226; the Commissioner took the view that the respondent behaved recklessly because both the respondent and his tax agent failed to make even basic inquiries with either the vendor of the property, Mr Mugridge or the respondent's solicitor to determine the correct GST treatment of the sale or to obtain a tax invoice
- &#8226; the Commissioner took the view that the respondent also displayed recklessness by claiming an ITC on the basis of a draft copy of the contract of sale of the property and did not attempt to obtain a copy of the executed contract from his solicitor until 3 February 2005, when a copy of the executed contract would have made it clear that the purchase price of the property did not include GST
- &#8226; the respondent did not contact Mr Mugridge to inquire why he had not claimed the ITC for this acquisition
- &#8226; no inquiries as to the GST treatment of the transaction were made by either the respondent or Mr Gillard, and therefore the Commissioner considered that no genuine effort was made to comply with what is considered to be a fundamental requirement of the new tax system.</sentence>
+ #8226; the Commissioner took the view that the respondent had not shown that a genuine attempt was made in the matter to comply with his obligations
+ #8226; the change in accountants was not relevant to the tax shortfall, which was a result of the ITC incorrectly claimed
+ #8226; the Commissioner took the view that the respondent behaved recklessly because both the respondent and his tax agent failed to make even basic inquiries with either the vendor of the property, Mr Mugridge or the respondent's solicitor to determine the correct GST treatment of the sale or to obtain a tax invoice
+ #8226; the Commissioner took the view that the respondent also displayed recklessness by claiming an ITC on the basis of a draft copy of the contract of sale of the property and did not attempt to obtain a copy of the executed contract from his solicitor until 3 February 2005, when a copy of the executed contract would have made it clear that the purchase price of the property did not include GST
+ #8226; the respondent did not contact Mr Mugridge to inquire why he had not claimed the ITC for this acquisition
+ #8226; no inquiries as to the GST treatment of the transaction were made by either the respondent or Mr Gillard, and therefore the Commissioner considered that no genuine effort was made to comply with what is considered to be a fundamental requirement of the new tax system.</sentence>
 <sentence id="s38">
  
 
@@ -211,9 +211,9 @@
 19 The effect of these provisions is as follows:
  
  
- &#8226; where there is a shortfall amount the Commissioner is required to identify the cause of the shortfall amount, and apply the appropriate percentage to arrive at the base penalty amount;
- &#8226; accordingly, once the cause has been identified, the taxpayer is liable to pay the applicable penalty (for example, 50% of the shortfall amount in circumstances where the shortfall resulted from recklessness);
- &#8226; at this stage in the process there is no discretion in the Commissioner as to the imposition of the relevant penalty - the amount of the penalty flows from the cause of the shortfall, based on the culpability of the behaviour of the taxpayer or tax agent.</sentence>
+ #8226; where there is a shortfall amount the Commissioner is required to identify the cause of the shortfall amount, and apply the appropriate percentage to arrive at the base penalty amount;
+ #8226; accordingly, once the cause has been identified, the taxpayer is liable to pay the applicable penalty (for example, 50% of the shortfall amount in circumstances where the shortfall resulted from recklessness);
+ #8226; at this stage in the process there is no discretion in the Commissioner as to the imposition of the relevant penalty - the amount of the penalty flows from the cause of the shortfall, based on the culpability of the behaviour of the taxpayer or tax agent.</sentence>
 <sentence id="s76">
  
 
@@ -283,13 +283,13 @@
 <sentence id="s90">Implied limitations include: 
  
 
-&#8226; that such factors must be particular to the taxpayer and the specific penalty being considered for remission
+#8226; that such factors must be particular to the taxpayer and the specific penalty being considered for remission
  
-&#8226; consideration of any factor independent of the particular circumstances or conduct of the relevant taxpayer would be inconsistent with the imposition of the penalty by the legislature and the purpose of that imposition, namely that of promoting consistent treatment in respect of the rates of penalties imposed for a certain standard of behaviour
+#8226; consideration of any factor independent of the particular circumstances or conduct of the relevant taxpayer would be inconsistent with the imposition of the penalty by the legislature and the purpose of that imposition, namely that of promoting consistent treatment in respect of the rates of penalties imposed for a certain standard of behaviour
  
-&#8226; that the consequences of the behaviour (in this case, reckless behaviour) are to be disregarded unless the consequences are referable to something the taxpayer has done by way of preventing or ameliorating those consequences
+#8226; that the consequences of the behaviour (in this case, reckless behaviour) are to be disregarded unless the consequences are referable to something the taxpayer has done by way of preventing or ameliorating those consequences
  
-&#8226; that the presence in the Act of a GIC regime, designed to have such a compensatory consequence, necessarily implies that the separate "penalty imposition and discretionary remission" regime is concerned with matter other than loss of use of revenue.</sentence>
+#8226; that the presence in the Act of a GIC regime, designed to have such a compensatory consequence, necessarily implies that the separate "penalty imposition and discretionary remission" regime is concerned with matter other than loss of use of revenue.</sentence>
 <sentence id="s91">
  
  3.</sentence>
@@ -307,13 +307,13 @@
 <sentence id="s103">The following are relevant considerations in the context of whether the remission discretion should be exercised: 
  
 
-&#8226; the amount of the tax shortfall
+#8226; the amount of the tax shortfall
  
-&#8226; that the Act imposed a penalty at the rate of 50%
+#8226; that the Act imposed a penalty at the rate of 50%
  
-&#8226; that the whole of the shortfall amount resulted from recklessness as to the operation of a taxation law
+#8226; that the whole of the shortfall amount resulted from recklessness as to the operation of a taxation law
  
-&#8226; any circumstances peculiar to the taxpayer.</sentence>
+#8226; any circumstances peculiar to the taxpayer.</sentence>
 <sentence id="s104">27 In summary the respondent submitted the following:
  
  
@@ -333,9 +333,9 @@
 <sentence id="s117">Relevant factors are not confined to those which are particular to the taxpayer and the specific penalty being considered for remission because: 
  
 
-&#8226; it inhibits the potential of s 298-20 to fulfil its role of avoiding harsh outcomes
+#8226; it inhibits the potential of s 298-20 to fulfil its role of avoiding harsh outcomes
  
-&#8226; in any event "particular circumstances or conduct of the relevant taxpayer" are ambiguous, and could encompass the quantum of the penalty and the fact that the respondent had been paid nothing by the Commissioner.</sentence>
+#8226; in any event "particular circumstances or conduct of the relevant taxpayer" are ambiguous, and could encompass the quantum of the penalty and the fact that the respondent had been paid nothing by the Commissioner.</sentence>
 <sentence id="s118">
  
  7.</sentence>
@@ -361,9 +361,9 @@
 <sentence id="s129">30 In considering the nature of the discretion conferred by s 298-20 and relevant considerations it is useful to have regard to:
  
  
- &#8226; the legislative context;
- &#8226; a number of Explanatory Memoranda where the remission discretion was discussed; and
- &#8226; relevant authorities where the remission discretion in s 298-20 has been considered.</sentence>
+ #8226; the legislative context;
+ #8226; a number of Explanatory Memoranda where the remission discretion was discussed; and
+ #8226; relevant authorities where the remission discretion in s 298-20 has been considered.</sentence>
 <sentence id="s130">
  
  Legislative Context 
@@ -394,9 +394,9 @@
 <sentence id="s138">1.12 The new administrative penalty regime will overcome the problems within the existing penalties framework and the application of penalties to a new tax system by: 
  
  
- &#8226; grouping together existing penalty provisions which have a substantially similar operative effect;
- &#8226; imposing the same administrative penalty for breaches of similar tax obligations
- &#8226; applying new administrative penalty regime uniformly to all taxation laws, including those recently introduced as part of the new tax system.</sentence>
+ #8226; grouping together existing penalty provisions which have a substantially similar operative effect;
+ #8226; imposing the same administrative penalty for breaches of similar tax obligations
+ #8226; applying new administrative penalty regime uniformly to all taxation laws, including those recently introduced as part of the new tax system.</sentence>
 <sentence id="s139">" (emphasis added) 
  
  
@@ -430,11 +430,11 @@
 <sentence id="s151">1.140 There are a number of factors which the Commissioner takes into account when deciding to remit a penalty.</sentence>
 <sentence id="s152">These include: 
 
-&#8226; treating taxpayers in like circumstances consistently;
+#8226; treating taxpayers in like circumstances consistently;
  
-&#8226; considering a taxpayer's particular circumstances and compliance history; and
+#8226; considering a taxpayer's particular circumstances and compliance history; and
  
-&#8226; tailoring the penalty to secure improvements in compliance behaviour.</sentence>
+#8226; tailoring the penalty to secure improvements in compliance behaviour.</sentence>
 <sentence id="s153">
  1.141 Remission guidelines for statement and scheme penalties will be published by the ATO.</sentence>
 <sentence id="s154">The guidelines will be based on the ATO Compliance Model and will be consistent with the principles contained in the Taxpayer's Charter.</sentence>
@@ -448,9 +448,9 @@
 <sentence id="s159">This is because:
  
  
- &#8226; Explanatory Memorandum 2000 specifically refers to reforms to the administrative penalty regime in Pt 4.25 and specifically s 298- 20 ;
- &#8226; Explanatory Memorandum 2000 was prepared in the context of the package of legislation comprising the new tax system (paras 1.3-1.5);
- &#8226; the provisions of Div 284 postdate Div 298, and it appears that a reason for the extensive discussion in Explanatory Memorandum 2000 concerning Div 298 was to explain the manner in which it was intended to operate in the context of the penalties imposed by Div 284.</sentence>
+ #8226; Explanatory Memorandum 2000 specifically refers to reforms to the administrative penalty regime in Pt 4.25 and specifically s 298- 20 ;
+ #8226; Explanatory Memorandum 2000 was prepared in the context of the package of legislation comprising the new tax system (paras 1.3-1.5);
+ #8226; the provisions of Div 284 postdate Div 298, and it appears that a reason for the extensive discussion in Explanatory Memorandum 2000 concerning Div 298 was to explain the manner in which it was intended to operate in the context of the penalties imposed by Div 284.</sentence>
 <sentence id="s160">
  
 
@@ -477,7 +477,7 @@
 41 Counsel for the Commissioner helpfully referred me to a number of authorities where the Tribunal has reviewed the discretion of the Commissioner under s 298- 20 :
  
  
- &#8226; In Hobart Central Child Care Pty Ltd v Federal Commissioner of Taxation [2005] AATA 1027 ; 2005 ATC 2351 where the Commissioner took the view that tax shortfalls resulting from subsequently disallowed deductions were caused by the taxpayer's intentional disregard of the law, and a penalty was imposed, the Tribunal found that there were no grounds for remitting the penalties under s 298- 20 .</sentence>
+ #8226; In Hobart Central Child Care Pty Ltd v Federal Commissioner of Taxation [2005] AATA 1027 ; 2005 ATC 2351 where the Commissioner took the view that tax shortfalls resulting from subsequently disallowed deductions were caused by the taxpayer's intentional disregard of the law, and a penalty was imposed, the Tribunal found that there were no grounds for remitting the penalties under s 298- 20 .</sentence>
 <sentence id="s171">The Tribunal said:
  "Section 298- 20 of Schedule 1 to the TA Act provides that the Commissioner may remit all or part of a penalty.</sentence>
 <sentence id="s172">It does not set out any guidelines as governing the exercise of the discretion.</sentence>
@@ -485,7 +485,7 @@
 <sentence id="s174">I am satisfied that there are no circumstances that mitigate those in which HCCC finds itself.</sentence>
 <sentence id="s175">" (at 2,385)
  
- &#8226; In Otway Pastoral Pty Ltd v Federal Commissioner of Taxation [2005] AATA 649 ; 2005 ATC 2219 the taxpayer had failed to lodge quarterly BASs on time for the periods ending 30 June 2001 through to 30 September 2003, and finally lodged them in early December 2003.</sentence>
+ #8226; In Otway Pastoral Pty Ltd v Federal Commissioner of Taxation [2005] AATA 649 ; 2005 ATC 2219 the taxpayer had failed to lodge quarterly BASs on time for the periods ending 30 June 2001 through to 30 September 2003, and finally lodged them in early December 2003.</sentence>
 <sentence id="s176">The Tribunal stated that the remission power should only be granted where special circumstances exist (at 2221).</sentence>
 <sentence id="s177">It found that the failure to lodge the BASs by the due dates was due to factors outside the control of the taxpayer, namely the failure of the taxpayer's bookkeeper to discharge her duties and to disclose such failure, and the unavoidable absence (due to a stroke) of the manager employed by the taxpayer to supervise the bookkeeper's activities.</sentence>
 <sentence id="s178">The Tribunal was satisfied that the combination of factors was unusual and represented special circumstances.</sentence>
@@ -493,7 +493,7 @@
  "While not necessarily a special circumstance, the general financial losses caused by the mishaps to the farm manager also have some relevance to this decision.</sentence>
 <sentence id="s180">"(at 2222)
  
- &#8226; In Kowadlo v Commissioner of Taxation [2004] AATA 786 the taxpayers' returns for the year ended 30 June 2002 were lodged late and a penalty was imposed.</sentence>
+ #8226; In Kowadlo v Commissioner of Taxation [2004] AATA 786 the taxpayers' returns for the year ended 30 June 2002 were lodged late and a penalty was imposed.</sentence>
 <sentence id="s181">The Tribunal noted that returns for each of the three prior years were lodged late without penalty, but found:
  "As stated on behalf of (the Commissioner), the penalty regime is to penalise non-compliance with the requirements of the legislation.</sentence>
 <sentence id="s182">Loss of revenue is not the issue.</sentence>
@@ -502,9 +502,9 @@
 <sentence id="s185">I am not satisfied on the evidence before me that there is justification for any remission of the penalty.</sentence>
 <sentence id="s186">"(at [10])
  
- &#8226; In Re Taxpayer v Federal Commissioner of Taxation [2005] AATA 696 ; (2005) 60 ATR 1129 the Commissioner took the view that the taxpayer was not entitled to claim GST input credits in the relevant circumstances, and because the case involved intentional disregard of a taxation law, imposed a penalty of 75% under Div 284.</sentence>
+ #8226; In Re Taxpayer v Federal Commissioner of Taxation [2005] AATA 696 ; (2005) 60 ATR 1129 the Commissioner took the view that the taxpayer was not entitled to claim GST input credits in the relevant circumstances, and because the case involved intentional disregard of a taxation law, imposed a penalty of 75% under Div 284.</sentence>
 <sentence id="s187">The Tribunal affirmed the decision of the Commissioner not to remit the penalty or any part thereof in circumstances where the taxpayer had intentionally understated tax or knowingly over-claimed a credit.</sentence>
-<sentence id="s188">&#8226; In Re William Vazquez &amp; Associates v Federal Commissioner of Taxation [2005] AATA 301 ; (2005) 58 ATR 1357 where a director of the taxpayer said that the taxpayer did not have the funds to make payment of outstanding amounts, and that he had been of the mistaken belief as to the time payments were due to be made, the Commissioner imposed a penalty for late lodgement.</sentence>
+<sentence id="s188">#8226; In Re William Vazquez amp; Associates v Federal Commissioner of Taxation [2005] AATA 301 ; (2005) 58 ATR 1357 where a director of the taxpayer said that the taxpayer did not have the funds to make payment of outstanding amounts, and that he had been of the mistaken belief as to the time payments were due to be made, the Commissioner imposed a penalty for late lodgement.</sentence>
 <sentence id="s189">In allowing partial remission of the penalty on the basis that the penalty was excessive, it is useful to note the following comments of the Tribunal:
  "[14] Although the penalty imposed is described as an 'administrative penalty' it is still a penalty and normal sentencing principles must be kept in mind when exercising the discretion as to whether to mitigate the penalty of not.</sentence>
 <sentence id="s190">In particular apart from circumstances peculiar to the individual offending taxpayer the threefold purposes of punishment must be kept in mind.</sentence>
@@ -525,7 +525,7 @@
 <sentence id="s202">[33] So far as retribution and general deterrence are concerned, no doubt the applicant and its accountants and directors are now aware of the late lodgement provisions and will make others aware.</sentence>
 <sentence id="s203">"
  
- &#8226; In Re Kizquart Pty Ltd v Federal Commissioner of Taxation [2005] AATA 582 ; (2005) 60 ATR 1112, the Tribunal followed Vazquez and found that in determining whether the discretion to mitigate should be exercised, normal sentencing principles should be taken into account (at 1116).</sentence>
+ #8226; In Re Kizquart Pty Ltd v Federal Commissioner of Taxation [2005] AATA 582 ; (2005) 60 ATR 1112, the Tribunal followed Vazquez and found that in determining whether the discretion to mitigate should be exercised, normal sentencing principles should be taken into account (at 1116).</sentence>
 <sentence id="s204">In finding that the amount of the penalty was excessive, the Tribunal found it relevant that: 
  
  
@@ -549,7 +549,7 @@
 <sentence id="s210">The intention of the regime was to create a penalty regime which, inter alia , grouped together existing penalty provisions with a substantially similar operative effect and imposed the same administrative penalty for breaches of similar tax obligations (para 1.12 Explanatory Memorandum 2000), and was equitable in that a common penalty would apply where a taxpayer failed to satisfy the same type of obligation under different laws (para 1.3 Explanatory Memorandum 2000).</sentence>
 <sentence id="s211">While the monetary penalty for each infringing taxpayer in respect of particular conduct will vary as to amount depending on the size of the tax shortfall amounts, the manifestly clear intention of the legislature to impose a uniform rate of penalty satisfies the description of uniformity of penalty across a category of conduct.</sentence>
 <sentence id="s212">Notwithstanding this approach the remission discretion allows the Commissioner to mitigate the effects of the penalty in appropriate circumstances.</sentence>
-<sentence id="s213">46 Third, as noted by the Australian Law Reform Commission ("ALRC") in its report Australian Law Reform Commission, Principled Regulation: Federal Civil &amp; Administrative Penalties in Australia (Report 95, December 2002) (para 17.69) several federal statutes - including the Act in question - give regulators the power to remit administrative penalties.</sentence>
+<sentence id="s213">46 Third, as noted by the Australian Law Reform Commission ("ALRC") in its report Australian Law Reform Commission, Principled Regulation: Federal Civil amp; Administrative Penalties in Australia (Report 95, December 2002) (para 17.69) several federal statutes - including the Act in question - give regulators the power to remit administrative penalties.</sentence>
 <sentence id="s214">The concept of "remission" of penalty assumes that the penalty has been imposed, but authorises the regulator to refrain from pursuing the penalty in its entirety.</sentence>
 <sentence id="s215">The power to "remit" a penalty was described by the ALRC in its report, accurately in my view, as a specific form of leniency discretion (para 17.67).</sentence>
 <sentence id="s216">It does not follow however that, in exercising leniency, circumstances to which the Commissioner must have regard cannot be limited, either by the purpose or by the terms of the relevant legislation imposing a penalty.</sentence>
@@ -564,9 +564,9 @@
 <sentence id="s225">Of further interest is the discussion in Explanatory Memorandum 2000 of the s 298-20 remission discretion, to the effect that factors the Commissioner takes into account when deciding to remit a penalty include:
  
  
- &#8226; treating taxpayers in like circumstances consistently
- &#8226; considering a taxpayer's particular circumstances and compliance history
- &#8226; tailoring the penalty to secure improvements in compliance behaviour (para 1.140).</sentence>
+ #8226; treating taxpayers in like circumstances consistently
+ #8226; considering a taxpayer's particular circumstances and compliance history
+ #8226; tailoring the penalty to secure improvements in compliance behaviour (para 1.140).</sentence>
 <sentence id="s226">
  
 
@@ -608,11 +608,11 @@
 59 With respect to these issues:
  
  
- &#8226; the amount of the tax shortfall is a relevant consideration in exercising the remission discretion as it is directly referable to the particular circumstances of the taxpayer
- &#8226; the failure of the taxpayer to consult as discussed is relevant to the issue of recklessness of conduct of the taxpayer, but is also relevant to whether the taxpayer has made genuine attempts to comply with its obligations
- &#8226; the rate of penalty is relevant because it determines the amount of the penalty to be paid by the particular taxpayer in the relevant circumstances
- &#8226; the fact that the shortfall amount resulted from recklessness as to the operation of a taxation law is a relevant factor to weigh in conjunction with other factors arising from the particular circumstances of the taxpayer in reaching a decision as whether the remission discretion should be exercised
- &#8226; the existence or otherwise of special circumstances peculiar to the taxpayer is a relevant consideration in relation to the remission discretion, particularly in light of its nature as a leniency discretion.</sentence>
+ #8226; the amount of the tax shortfall is a relevant consideration in exercising the remission discretion as it is directly referable to the particular circumstances of the taxpayer
+ #8226; the failure of the taxpayer to consult as discussed is relevant to the issue of recklessness of conduct of the taxpayer, but is also relevant to whether the taxpayer has made genuine attempts to comply with its obligations
+ #8226; the rate of penalty is relevant because it determines the amount of the penalty to be paid by the particular taxpayer in the relevant circumstances
+ #8226; the fact that the shortfall amount resulted from recklessness as to the operation of a taxation law is a relevant factor to weigh in conjunction with other factors arising from the particular circumstances of the taxpayer in reaching a decision as whether the remission discretion should be exercised
+ #8226; the existence or otherwise of special circumstances peculiar to the taxpayer is a relevant consideration in relation to the remission discretion, particularly in light of its nature as a leniency discretion.</sentence>
 <sentence id="s244">
  
  CONCLUSION 
@@ -622,8 +622,8 @@
 <sentence id="s246">I agree with the oral submissions of Mr Robertson QC that:
  
  
- &#8226; the mischief penalised by Act is, inter alia , making a statement to the Commissioner in a self-assessment environment, where the statement is false or misleading in a material particular, and which results in a shortfall; and
- &#8226; the remission discretion is not enlivened by whether or not, through no activity on the part of or on behalf of the taxpayer, an amount of revenue has or has not been lost.</sentence>
+ #8226; the mischief penalised by Act is, inter alia , making a statement to the Commissioner in a self-assessment environment, where the statement is false or misleading in a material particular, and which results in a shortfall; and
+ #8226; the remission discretion is not enlivened by whether or not, through no activity on the part of or on behalf of the taxpayer, an amount of revenue has or has not been lost.</sentence>
 <sentence id="s247">
  
 
@@ -663,6 +663,18 @@ Dated: 25 July 2007
  
  AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
  URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/1079.html 
+ 
+ </sentence>
+</sentences>
+</case>07/1079.html 
+ 
+ </sentence>
+</sentences>
+</case> 
+ 
+ </sentence>
+</sentences>
+</case>07/1079.html 
  
  </sentence>
 </sentences>

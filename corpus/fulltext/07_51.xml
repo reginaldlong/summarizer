@@ -3,18 +3,18 @@
 <name>McNally v Commissioner of Taxation [2007] FCA 51 (2 February 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/51.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">assessable income of former member of partnership</catchphrase>
-<catchphrase "id=c1">taxpayer a partner for part only of fiscal year</catchphrase>
-<catchphrase "id=c2">whether net income of partnership included work-in-progress at start of year or other adjustment items</catchphrase>
-<catchphrase "id=c3">whether taxpayer's interest included a share of those items</catchphrase>
-<catchphrase "id=c4">income tax assessment act 1936 , ss 90 , 92</catchphrase>
-<catchphrase "id=c5">assessable income of former member of partnership</catchphrase>
-<catchphrase "id=c6">taxpayer retired from partnership</catchphrase>
-<catchphrase "id=c7">taxpayer paid lump sum on retirement</catchphrase>
-<catchphrase "id=c8">whether all or part of lump sum constituted taxpayer's interest in net income of partnership</catchphrase>
-<catchphrase "id=c9">income tax assessment act 1936 , ss 90 , 92</catchphrase>
-<catchphrase "id=c10">income tax</catchphrase>
-<catchphrase "id=c11">income tax</catchphrase>
+<catchphrase >assessable income of former member of partnership</catchphrase>
+<catchphrase >taxpayer a partner for part only of fiscal year</catchphrase>
+<catchphrase >whether net income of partnership included work-in-progress at start of year or other adjustment items</catchphrase>
+<catchphrase >whether taxpayer's interest included a share of those items</catchphrase>
+<catchphrase >income tax assessment act 1936 , ss 90 , 92</catchphrase>
+<catchphrase >assessable income of former member of partnership</catchphrase>
+<catchphrase >taxpayer retired from partnership</catchphrase>
+<catchphrase >taxpayer paid lump sum on retirement</catchphrase>
+<catchphrase >whether all or part of lump sum constituted taxpayer's interest in net income of partnership</catchphrase>
+<catchphrase >income tax assessment act 1936 , ss 90 , 92</catchphrase>
+<catchphrase >income tax</catchphrase>
+<catchphrase >income tax</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -139,10 +139,10 @@ The Policy Board might make any such offer conditional upon certain requirements
 <sentence id="s74">One such retired partner was the taxpayer.</sentence>
 <sentence id="s75">Deloittes provided to the Commissioner a three-page statement which set out ---
  
- &#8226; the taxpayer's investment in the partnership as at 30 June 1998;
- &#8226; the taxpayer's "distributable income" for the year to 30 June 1998;
- &#8226; a schedule of the taxpayer's "taxable income" for the year to 30 June 1998; and
- &#8226; the distribution of the taxpayer's taxable income for the year to 30 June 1998.</sentence>
+ #8226; the taxpayer's investment in the partnership as at 30 June 1998;
+ #8226; the taxpayer's "distributable income" for the year to 30 June 1998;
+ #8226; a schedule of the taxpayer's "taxable income" for the year to 30 June 1998; and
+ #8226; the distribution of the taxpayer's taxable income for the year to 30 June 1998.</sentence>
 <sentence id="s76">
 
 15 According to the statement, the taxpayer had no investment in the partnership as at 30 June 1998.</sentence>
@@ -200,7 +200,7 @@ W.I.P 0 PREPAYMENTS 0 OTHER 0 PROVISIONS 0
  - Work In Progress 89,428
  - Prepayments 56,997
  - Other 176,465 
- 322,890 Less closing timing differences (0) Sub-ordinated loan interest --- DH&amp;S Services Pty Ltd 1,698 
+ 322,890 Less closing timing differences (0) Sub-ordinated loan interest --- DHamp;S Services Pty Ltd 1,698 
  559,219 
  
 
@@ -562,7 +562,7 @@ Dated: 2 February 2007
 
  Counsel for the Applicant: D Lockie 
  
- Solicitor for the Applicant: Hall &amp; Wilcox 
+ Solicitor for the Applicant: Hall amp; Wilcox 
  
  Counsel for the Respondent in VID826 of 2006: H Symon SC and P Sest 
  
@@ -573,7 +573,7 @@ Dated: 2 February 2007
  
  Counsel for the Respondent in VID836 of 2006: D Lockie 
  
- Solicitor for the Respondent in VID836 of 2006: Hall &amp; Wilcox 
+ Solicitor for the Respondent in VID836 of 2006: Hall amp; Wilcox 
  
  Date of Hearing: 9 - 10 October 2006 
  
@@ -589,4 +589,8 @@ Dated: 2 February 2007
  
  </sentence>
 </sentences>
-</case>
+</case></case>stlii.edu.au/au/cases/cth/FCA/2007/51.html 
+ 
+ </sentence>
+</sentences>
+</case></case>

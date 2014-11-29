@@ -3,18 +3,18 @@
 <name>Optiver Australia Pty Ltd v Tibra Trading Pty Ltd [2007] FCA 1560 (12 October 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1560.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">preliminary discovery</catchphrase>
-<catchphrase "id=c1">o 15a r 6 of the federal court rules 1979 (cth)</catchphrase>
-<catchphrase "id=c2">admissibility of evidence not complying with strict rules of evidence</catchphrase>
-<catchphrase "id=c3">character of preliminary discovery</catchphrase>
-<catchphrase "id=c4">applicant's reasonable cause to believe</catchphrase>
-<catchphrase "id=c5">application for preliminary discovery is interlocutory</catchphrase>
-<catchphrase "id=c6">application ancillary to underlying federal 'matter'</catchphrase>
-<catchphrase "id=c7">discretion to waive rules of evidence</catchphrase>
-<catchphrase "id=c8">undue expense and delay.</catchphrase>
-<catchphrase "id=c9">"reasonable cause to believe"</catchphrase>
-<catchphrase "id=c10">practice and procedure</catchphrase>
-<catchphrase "id=c11">words and phrases</catchphrase>
+<catchphrase >preliminary discovery</catchphrase>
+<catchphrase >o 15a r 6 of the federal court rules 1979 (cth)</catchphrase>
+<catchphrase >admissibility of evidence not complying with strict rules of evidence</catchphrase>
+<catchphrase >character of preliminary discovery</catchphrase>
+<catchphrase >applicant's reasonable cause to believe</catchphrase>
+<catchphrase >application for preliminary discovery is interlocutory</catchphrase>
+<catchphrase >application ancillary to underlying federal 'matter'</catchphrase>
+<catchphrase >discretion to waive rules of evidence</catchphrase>
+<catchphrase >undue expense and delay.</catchphrase>
+<catchphrase >"reasonable cause to believe"</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
+<catchphrase >words and phrases</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -63,7 +63,7 @@
 <sentence id="s29">That is a matter for the final hearing, when evidence is fully adduced and tested in cross-examination, after all interlocutory procedures have been undertaken and full discovery given.</sentence>
 <sentence id="s30">PRELIMINARY DISCOVERY IS INTERLOCUTORY 
  
-10 In order to ascertain whether an application is final or interlocutory, the test is whether the determination of that application finally disposes of the rights of the parties: Sanofi v Parke &amp; Davis Pty Ltd (No 1) [1982] HCA 9 ; (1982) 149 CLR 147 at 152.</sentence>
+10 In order to ascertain whether an application is final or interlocutory, the test is whether the determination of that application finally disposes of the rights of the parties: Sanofi v Parke amp; Davis Pty Ltd (No 1) [1982] HCA 9 ; (1982) 149 CLR 147 at 152.</sentence>
 <sentence id="s31">In the present case there is a question whether the rights referred to are the substantive rights on the final hearing of the prospective action which may be instituted or the rights affected by an order under O 15A to produce documents.</sentence>
 <sentence id="s32">11 Counsel for Tibra relies on the decision of Lindgren J in Levis v McDonald (1997) 75 FCR 36 (" Levis "), where his Honour held that an application under O 15A r 3 for discovery to identify a respondent was final in character because, in his Honour's view, a determination whether documents should be produced had the consequence of finally determining the rights of the parties in relation to the particular issue tendered for decision, namely whether the person concerned should be ordered to provide the information.</sentence>
 <sentence id="s33">His Honour believed that, without reference to authorities, such an application would not be interlocutory.</sentence>
@@ -75,7 +75,7 @@
 <sentence id="s39">Although his Honour observed that the application for preliminary discovery was of a final nature, his Honour did not give any reasons for his conclusion that the decision was final.</sentence>
 <sentence id="s40">In that case, his Honour was concerned with the question of the Court's jurisdiction to set aside an ex parte order which his Honour considered should not have been made
  
-13 The other authority relied on by Lindgren J was John Fairfax &amp; Sons Ltd v Cojuangco [1988] HCA 54 ; (1988) 165 CLR 346 (" John Fairfax ").</sentence>
+13 The other authority relied on by Lindgren J was John Fairfax amp; Sons Ltd v Cojuangco [1988] HCA 54 ; (1988) 165 CLR 346 (" John Fairfax ").</sentence>
 <sentence id="s41">In that case, the High Court considered the same Supreme Court rule as that considered in Stewart in the context of a proposed defamation action in relation to what was known as the 'newspaper rule'; that is, the common law practice that courts would normally refuse to make an order which would compel a newspaper company to disclose its sources prior to commencement of an action.</sentence>
 <sentence id="s42">The Court said at 356:
  
@@ -178,4 +178,8 @@ Dated: 12 October 2007
  
  </sentence>
 </sentences>
-</case>
+</case>e>.austlii.edu.au/au/cases/cth/FCA/2007/1560.html 
+ 
+ </sentence>
+</sentences>
+</case>e>

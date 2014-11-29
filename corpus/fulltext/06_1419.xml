@@ -3,12 +3,12 @@
 <name>University of Western Australia v Gray (No 5) [2006] FCA 1419 (1 November 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1419.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">pleading</catchphrase>
-<catchphrase "id=c1">amendment</catchphrase>
-<catchphrase "id=c2">viability of amendment</catchphrase>
-<catchphrase "id=c3">whether factual implications</catchphrase>
-<catchphrase "id=c4">amendment allowed</catchphrase>
-<catchphrase "id=c5">practice and procedure</catchphrase>
+<catchphrase >pleading</catchphrase>
+<catchphrase >amendment</catchphrase>
+<catchphrase >viability of amendment</catchphrase>
+<catchphrase >whether factual implications</catchphrase>
+<catchphrase >amendment allowed</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -148,9 +148,9 @@ Before the inspection of the documents referred to in Mr Cox's affidavit, the Un
 <sentence id="s60">However it takes a different stance as to the patentability of the invention claimed in the US patent application.</sentence>
 <sentence id="s61">The true position with respect to the United States application is that it remains pending and that Sirtex awaits further examination of the patent by the USPTO.</sentence>
 <sentence id="s62">Sirtex's position is supported by an affidavit sworn by one of its solicitors, Ms Turner.</sentence>
-<sentence id="s63">The affidavit exhibits correspondence indicating that Sirtex's Australian patent attorneys, Wray &amp; Associates, instructed United States patent attorneys to file a Notice of Appeal against the decision of the USPTO.</sentence>
+<sentence id="s63">The affidavit exhibits correspondence indicating that Sirtex's Australian patent attorneys, Wray amp; Associates, instructed United States patent attorneys to file a Notice of Appeal against the decision of the USPTO.</sentence>
 <sentence id="s64">This had the effect of extending time for responding to the Final Office Action.</sentence>
-<sentence id="s65">A request for continued examination was lodged on 23 November 2005 and, according to information provided to Ms Turner by Wray &amp; Associates, the application is still pending before the USPTO for the continued examination.</sentence>
+<sentence id="s65">A request for continued examination was lodged on 23 November 2005 and, according to information provided to Ms Turner by Wray amp; Associates, the application is still pending before the USPTO for the continued examination.</sentence>
 <sentence id="s66">18 The substantive basis upon which Sirtex opposes the amendment is that the relevant patent application was filed after any employment of Dr Gray by the University and after the assignment of other patents to Sirtex in April-May 1997.</sentence>
 <sentence id="s67">It also post-dated the public listing of Sirtex in August 2000.</sentence>
 <sentence id="s68">19 Sirtex rejects the contention by the University that the invention claimed in the new patent application was developed or discovered prior to April 1997.</sentence>
@@ -283,4 +283,8 @@ Mallesons Stephen Jaques
  
  </sentence>
 </sentences>
-</case>
+</case>e>tml 
+ 
+ </sentence>
+</sentences>
+</case>e>

@@ -3,15 +3,15 @@
 <name>Tu v Pakway Australia Pty Ltd (ACN 093872738) (T/AS Pakway Plastics) [2006] FCA 34 (7 February 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/34.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">costs</catchphrase>
-<catchphrase "id=c1">whether costs should follow the event</catchphrase>
-<catchphrase "id=c2">reserved costs</catchphrase>
-<catchphrase "id=c3">questionable success of motion</catchphrase>
-<catchphrase "id=c4">where applicants did not pursue application for interlocutory relief in favour of early trial</catchphrase>
-<catchphrase "id=c5">where affidavits contained unnecessary detail and inaccuracies and were given low weight</catchphrase>
-<catchphrase "id=c6">costs of senior and junior counsel contested</catchphrase>
-<catchphrase "id=c7">order 62 rule 36a(1), federal court rules</catchphrase>
-<catchphrase "id=c8">practice and procedure</catchphrase>
+<catchphrase >costs</catchphrase>
+<catchphrase >whether costs should follow the event</catchphrase>
+<catchphrase >reserved costs</catchphrase>
+<catchphrase >questionable success of motion</catchphrase>
+<catchphrase >where applicants did not pursue application for interlocutory relief in favour of early trial</catchphrase>
+<catchphrase >where affidavits contained unnecessary detail and inaccuracies and were given low weight</catchphrase>
+<catchphrase >costs of senior and junior counsel contested</catchphrase>
+<catchphrase >order 62 rule 36a(1), federal court rules</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -42,21 +42,21 @@
  
  
  
- &#8226; Ordinarily costs follow the event and a successful litigant receives costs in the absence of special circumstances justifying some other order.</sentence>
+ #8226; Ordinarily costs follow the event and a successful litigant receives costs in the absence of special circumstances justifying some other order.</sentence>
 <sentence id="s15">
  
  
  
  
  
- &#8226; Where a litigant has succeeded only upon a portion of the claim, the circumstances may make it reasonable that the litigant bear the expense of litigating that portion upon which he or she has failed.</sentence>
+ #8226; Where a litigant has succeeded only upon a portion of the claim, the circumstances may make it reasonable that the litigant bear the expense of litigating that portion upon which he or she has failed.</sentence>
 <sentence id="s16">
  
  
  
  
  
- &#8226; A successful party who has failed on certain issues may not only be deprived of the costs of those issues but may be ordered as well to pay the other party's costs of them.</sentence>
+ #8226; A successful party who has failed on certain issues may not only be deprived of the costs of those issues but may be ordered as well to pay the other party's costs of them.</sentence>
 <sentence id="s17">In this sense ' issue ' does not mean a precise issue in the technical pleading sense but any disputed question of fact or law.</sentence>
 <sentence id="s18">
  
@@ -104,7 +104,7 @@ The ordinary costs order in favour of a successful party is not made where, by r
 <sentence id="s44">If they had failed to satisfy this requirement then their application for interlocutory relief would have failed: see Hexal Australia Pty Ltd v Roche Therapeutics Inc [2005] FCA 1218 at [62] - [70] (denying interlocutory relief in a patent case where damages provided an adequate remedy).</sentence>
 <sentence id="s45">14 Further, the respondents relied on the principle that where a person charged with patent infringement contests the validity of the patent and has grounds for the contest, the alleged infringement ought not be restrained on an interlocutory basis.</sentence>
 <sentence id="s46">This principle was discussed in Beecham Group Ltd v Bristol Laboratories Pty Ltd [1968] HCA 1 ; (1968) 118 CLR 618 at 623-4 by Kitto, Taylor, Menzies and Owen JJ, referring to Smith v Grigg Ltd [1924] 1 KB 655.</sentence>
-<sentence id="s47">The same principle has been held to apply in design cases: see Tefex Pty Ltd v Bowler (1982) 60 FLR 314 at 321 per Rath J and Obsa Pty Ltd v TF Thomas &amp; Sons Pty Ltd (1990) 20 IPR 155 at 158 per Einfeld J.</sentence>
+<sentence id="s47">The same principle has been held to apply in design cases: see Tefex Pty Ltd v Bowler (1982) 60 FLR 314 at 321 per Rath J and Obsa Pty Ltd v TF Thomas amp; Sons Pty Ltd (1990) 20 IPR 155 at 158 per Einfeld J.</sentence>
 <sentence id="s48">I accept that the respondents had grounds for their invalidity claim even though I did not ultimately accept the claim.</sentence>
 <sentence id="s49">The application of the principle was not, however, the subject of any real argument on the interlocutory injunction application, although I note that the respondents raised their invalidity claim early in these proceedings, by a cross claim filed on 5 November 2001.</sentence>
 <sentence id="s50">15 The applicants claim that they may have succeeded and should not be punished for not pressing the application after the parties agreed to an early trial date.</sentence>
@@ -212,4 +212,8 @@ Dated: 7 February 2006
  
  </sentence>
 </sentences>
-</case>
+</case>ase>s/cth/FCA/2006/34.html 
+ 
+ </sentence>
+</sentences>
+</case>ase>

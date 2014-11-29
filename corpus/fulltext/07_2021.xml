@@ -3,14 +3,14 @@
 <name>Hall v Repatriation Commission [2007] FCA 2021 (18 December 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/2021.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">veteran's entitlements</catchphrase>
-<catchphrase "id=c1">application for war widow's pension</catchphrase>
-<catchphrase "id=c2">whether death of war veteran was attributable to eligible war service</catchphrase>
-<catchphrase "id=c3">aat found there was a hypothesis linking the veteran's death to alcohol consumption in accordance with applicable statement of principles</catchphrase>
-<catchphrase "id=c4">aat erred in law by failing to satisfy itself, beyond reasonable doubt, that there was no sufficient ground for determining that the veteran's alcohol dependence arose out of his war service</catchphrase>
-<catchphrase "id=c5">aat could not be so satisfied</catchphrase>
-<catchphrase "id=c6">appeal allowed</catchphrase>
-<catchphrase "id=c7">defence and war</catchphrase>
+<catchphrase >veteran's entitlements</catchphrase>
+<catchphrase >application for war widow's pension</catchphrase>
+<catchphrase >whether death of war veteran was attributable to eligible war service</catchphrase>
+<catchphrase >aat found there was a hypothesis linking the veteran's death to alcohol consumption in accordance with applicable statement of principles</catchphrase>
+<catchphrase >aat erred in law by failing to satisfy itself, beyond reasonable doubt, that there was no sufficient ground for determining that the veteran's alcohol dependence arose out of his war service</catchphrase>
+<catchphrase >aat could not be so satisfied</catchphrase>
+<catchphrase >appeal allowed</catchphrase>
+<catchphrase >defence and war</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -84,11 +84,11 @@
 <sentence id="s32">The following findings are of particular significance:
  
  
- "&#8226; Neither Dr Dinnen or Professor Mattick were able to identify in Mr Butler's periods of operational or defence service, particular events which could be objectively defined or perceived as severe stressors and/or psychosocial stressors, thereby providing the necessary link between Mr Butler's alcohol dependence and his service; 
- &#8226; Apart form [sic] the temporal association with the commencement of Mr Butler's alcohol consumption, careful examination of all the material does not provide any evidence of a particular event/occasion during his operational service or defence service that was of particular concern to Mr Butler.</sentence>
+ "#8226; Neither Dr Dinnen or Professor Mattick were able to identify in Mr Butler's periods of operational or defence service, particular events which could be objectively defined or perceived as severe stressors and/or psychosocial stressors, thereby providing the necessary link between Mr Butler's alcohol dependence and his service; 
+ #8226; Apart form [sic] the temporal association with the commencement of Mr Butler's alcohol consumption, careful examination of all the material does not provide any evidence of a particular event/occasion during his operational service or defence service that was of particular concern to Mr Butler.</sentence>
 <sentence id="s33">This remains the case, despite Mr Butler having had the opportunity to identify a particular event/occasion in his 1998 claim, and his denial of such an event(s) when questioned by Dr Dinnen in July 1998.</sentence>
 <sentence id="s34">This was again considered in Dr Dinnen's August 2006 report; 
- &#8226; Despite the lack of any specific information, and even denial by Mr Butler of particular events, Dr Dinnen believed that Mr Butler's service life must have involved exposure to severe stressors and/or psychosocial stressors.</sentence>
+ #8226; Despite the lack of any specific information, and even denial by Mr Butler of particular events, Dr Dinnen believed that Mr Butler's service life must have involved exposure to severe stressors and/or psychosocial stressors.</sentence>
 <sentence id="s35">However, in the absence of particular evidence of events, such a view, in our opinion, involves speculation and/or conjecture and can be given no weight.</sentence>
 <sentence id="s36">" 
  
@@ -225,4 +225,8 @@ Dated: 18 December 2007
  
  </sentence>
 </sentences>
-</case>
+</case>se>A/2007/2021.html 
+ 
+ </sentence>
+</sentences>
+</case>se>

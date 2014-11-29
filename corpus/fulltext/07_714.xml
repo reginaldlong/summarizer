@@ -3,15 +3,15 @@
 <name>In the Application of United Medical Protection Limited (No 2) [2007] FCA 714 (11 May 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/714.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">amalgamation of insurance business</catchphrase>
-<catchphrase "id=c1">confirmation of scheme</catchphrase>
-<catchphrase "id=c2">principles to be applied</catchphrase>
-<catchphrase "id=c3">scheme of arrangement</catchphrase>
-<catchphrase "id=c4">amalgamation of companies</catchphrase>
-<catchphrase "id=c5">approval</catchphrase>
-<catchphrase "id=c6">principles to be applied</catchphrase>
-<catchphrase "id=c7">insurance</catchphrase>
-<catchphrase "id=c8">corporations</catchphrase>
+<catchphrase >amalgamation of insurance business</catchphrase>
+<catchphrase >confirmation of scheme</catchphrase>
+<catchphrase >principles to be applied</catchphrase>
+<catchphrase >scheme of arrangement</catchphrase>
+<catchphrase >amalgamation of companies</catchphrase>
+<catchphrase >approval</catchphrase>
+<catchphrase >principles to be applied</catchphrase>
+<catchphrase >insurance</catchphrase>
+<catchphrase >corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -19,7 +19,7 @@
  A brief description of the two schemes for which approval is now sought is to be found in what I said when ordering the convening of the scheme meetings: see In the Application of United Medical Protection Limited [2007] FCA 631.</sentence>
 <sentence id="s1">The duty of the court when acting under s 411(6) of the Corporations Act 2001 (Cth) has been explained more than once.</sentence>
 <sentence id="s2">Nothing is served by going over old ground.</sentence>
-<sentence id="s3">It will be sufficient to refer to two short passages from the leading case: In re Alabama, New Orleans, Texas &amp; Pacific Junction Railway Company [1891] 1 Ch 213.</sentence>
+<sentence id="s3">It will be sufficient to refer to two short passages from the leading case: In re Alabama, New Orleans, Texas amp; Pacific Junction Railway Company [1891] 1 Ch 213.</sentence>
 <sentence id="s4">First there is the passage from Lindley LJ 238-239.</sentence>
 <sentence id="s5">He said: 
  
@@ -65,15 +65,15 @@ Dated: 11 May 2007
 
 
 
- Counsel for United &amp; AMIL: J Sackar QC
+ Counsel for United amp; AMIL: J Sackar QC
 M J Dawson 
  
- Solicitor for United &amp; AMIL TressCox 
+ Solicitor for United amp; AMIL TressCox 
  
- Counsel for MDAV &amp; PIICA: F G A Beaumont QC
+ Counsel for MDAV amp; PIICA: F G A Beaumont QC
 P D Corbett 
  
- Solicitor for MDAV &amp; PIICA: DLA Phillips Fox 
+ Solicitor for MDAV amp; PIICA: DLA Phillips Fox 
  
  Appearing for Seventy-Fifth Jonestown in VID 1392 of 2006 No Appearance 
  
@@ -94,4 +94,8 @@ P D Corbett
  
  </sentence>
 </sentences>
-</case>
+</case>case>cth/FCA/2007/714.html 
+ 
+ </sentence>
+</sentences>
+</case>case>

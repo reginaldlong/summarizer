@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <case>
-<name>Shen v Minister for Immigration &amp;Multicultural &amp; Indigenous Affairs [2006] FCA 408 (12 April 2006)</name>
+<name>Shen v Minister for Immigration amp;Multicultural amp; Indigenous Affairs [2006] FCA 408 (12 April 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/408.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal</catchphrase>
-<catchphrase "id=c1">student visa</catchphrase>
-<catchphrase "id=c2">whether the migration review tribunal asked itself the wrong question in considering whether the appellant had attended 80% of scheduled contact hours</catchphrase>
-<catchphrase "id=c3">whether the tribunal is able to rely on grounds for cancellation other than those originally identified to the appellant by the minster's delegate</catchphrase>
-<catchphrase "id=c4">whether the validity of the visa cancellation was affected by defects in the notice provided under s 20 of the education services for overseas students act 2000 (cth)</catchphrase>
-<catchphrase "id=c5">migration law</catchphrase>
+<catchphrase >appeal</catchphrase>
+<catchphrase >student visa</catchphrase>
+<catchphrase >whether the migration review tribunal asked itself the wrong question in considering whether the appellant had attended 80% of scheduled contact hours</catchphrase>
+<catchphrase >whether the tribunal is able to rely on grounds for cancellation other than those originally identified to the appellant by the minster's delegate</catchphrase>
+<catchphrase >whether the validity of the visa cancellation was affected by defects in the notice provided under s 20 of the education services for overseas students act 2000 (cth)</catchphrase>
+<catchphrase >migration law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -101,8 +101,8 @@
 <sentence id="s41">Under those provisions, the Minister may cancel a visa if the holder has not complied with a condition of it and must do so if there exist prescribed circumstances in which a visa must be cancelled.</sentence>
 <sentence id="s42">14 The delegate found that:
  
- &#8226; the appellant breached condition 8202(3)(a)(ii) by attending less that 80% of scheduled contact hours in Semester 1 of 2003; and
- &#8226; The appellant breached condition 8202(2)(b) by not being enrolled in a full time course of study in Semester 2 of 2003.</sentence>
+ #8226; the appellant breached condition 8202(3)(a)(ii) by attending less that 80% of scheduled contact hours in Semester 1 of 2003; and
+ #8226; The appellant breached condition 8202(2)(b) by not being enrolled in a full time course of study in Semester 2 of 2003.</sentence>
 <sentence id="s43">
 
 15 On 6 October 2003, the appellant sought a review of the delegate's decision in the Tribunal.</sentence>
@@ -213,7 +213,7 @@ Dated: 12 April 2006
 
  Counsel for the Appellant: Mr J Levine 
  
- Solicitor for the Appellant: Issac Brott &amp; Co 
+ Solicitor for the Appellant: Issac Brott amp; Co 
  
  Counsel for the 1 st Respondent: Mr P Gray 
  
@@ -231,4 +231,8 @@ Dated: 12 April 2006
  
  </sentence>
 </sentences>
-</case>
+</case>case> 
+ 
+ </sentence>
+</sentences>
+</case>case>

@@ -3,20 +3,20 @@
 <name>Rilstone v BP Australia Pty Ltd [2007] FCA 1557 (11 October 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1557.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">where discovery made of documents</catchphrase>
-<catchphrase "id=c1">where claim of legal professional privilege</catchphrase>
-<catchphrase "id=c2">where claim of legal advice privilege</catchphrase>
-<catchphrase "id=c3">where application to produce for inspection</catchphrase>
-<catchphrase "id=c4">where documents created in course of investigation by office of workplace services</catchphrase>
-<catchphrase "id=c5">where documents communicated by office of workplace services to legal and advice branch of office of workplace services</catchphrase>
-<catchphrase "id=c6">where multiple purposes for creation of documents</catchphrase>
-<catchphrase "id=c7">where head of legal and advice branch had power to approve state manager's recommendation to institute proceedings</catchphrase>
-<catchphrase "id=c8">whether legal advice privilege established</catchphrase>
-<catchphrase "id=c9">whether documents brought into existence for dominant purpose of obtaining legal advice</catchphrase>
-<catchphrase "id=c10">whether legal and advice branch of office of workplace services a legal adviser</catchphrase>
-<catchphrase "id=c11">whether necessary to establish independence in all cases</catchphrase>
-<catchphrase "id=c12">whether power to approve state manager's recommendation deprived legal and advice branch of independence.</catchphrase>
-<catchphrase "id=c13">procedure</catchphrase>
+<catchphrase >where discovery made of documents</catchphrase>
+<catchphrase >where claim of legal professional privilege</catchphrase>
+<catchphrase >where claim of legal advice privilege</catchphrase>
+<catchphrase >where application to produce for inspection</catchphrase>
+<catchphrase >where documents created in course of investigation by office of workplace services</catchphrase>
+<catchphrase >where documents communicated by office of workplace services to legal and advice branch of office of workplace services</catchphrase>
+<catchphrase >where multiple purposes for creation of documents</catchphrase>
+<catchphrase >where head of legal and advice branch had power to approve state manager's recommendation to institute proceedings</catchphrase>
+<catchphrase >whether legal advice privilege established</catchphrase>
+<catchphrase >whether documents brought into existence for dominant purpose of obtaining legal advice</catchphrase>
+<catchphrase >whether legal and advice branch of office of workplace services a legal adviser</catchphrase>
+<catchphrase >whether necessary to establish independence in all cases</catchphrase>
+<catchphrase >whether power to approve state manager's recommendation deprived legal and advice branch of independence.</catchphrase>
+<catchphrase >procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -63,16 +63,16 @@
 <sentence id="s29">I found Mr Ronson to be an honest and straightforward witness and I accept his evidence.</sentence>
 <sentence id="s30">9 The salient points of Mr Ronson's evidence are as follows:
  
- &#61863; Mr Ronson has a general discretion to determine the investigations that are to be pursued;
- &#61863; Where an investigation involves high-profile or sensitive issues of, for example, a political or legal nature, his practice is to seek legal advice from the Legal and Advice Branch of the Workplace Ombudsman before deciding whether to proceed further with the investigation or to close the file;
- &#61863; The Legal and Advice Branch is the Workplace Ombudsman's central legal division.</sentence>
+ #61863; Mr Ronson has a general discretion to determine the investigations that are to be pursued;
+ #61863; Where an investigation involves high-profile or sensitive issues of, for example, a political or legal nature, his practice is to seek legal advice from the Legal and Advice Branch of the Workplace Ombudsman before deciding whether to proceed further with the investigation or to close the file;
+ #61863; The Legal and Advice Branch is the Workplace Ombudsman's central legal division.</sentence>
 <sentence id="s31">It provides nationwide legal advice to inspectors and senior management.</sentence>
 <sentence id="s32">The Legal and Advice Branch is also responsible for engaging and instructing external legal providers such as the Australian Government Solicitor and other legal providers engaged by the Workplace Ombudsman;
- &#61863; Mr Ronson has a responsibility to recommend the institution of proceedings to the Legal and Advice Branch, which will subsequently approve or not approve that recommendation.</sentence>
+ #61863; Mr Ronson has a responsibility to recommend the institution of proceedings to the Legal and Advice Branch, which will subsequently approve or not approve that recommendation.</sentence>
 <sentence id="s33">The decision whether or not to institute a proceeding was to be made by Ms Heather Byrne, who was the head of Legal and Advice Branch.</sentence>
-<sentence id="s34">&#61863; Mr Ronson's involvement in the case giving rise to the present proceeding commenced on 14 August 2006;
- &#61863; By 18 August 2006, it was clear to Mr Ronson that he was going to seek legal advice in relation to the case because of Ministerial interest in the matter; the fact that the first respondent was a well known and significant employer; the matter involved young, and vulnerable employees, and involved parents of employees; the nature of the alleged breach of the Act ; and media interest; and
- &#61863; He sought legal advice from the Legal and Advice Branch and his oral evidence was that the first time he did that was between the end of September 2006 and 5 October 2006.</sentence>
+<sentence id="s34">#61863; Mr Ronson's involvement in the case giving rise to the present proceeding commenced on 14 August 2006;
+ #61863; By 18 August 2006, it was clear to Mr Ronson that he was going to seek legal advice in relation to the case because of Ministerial interest in the matter; the fact that the first respondent was a well known and significant employer; the matter involved young, and vulnerable employees, and involved parents of employees; the nature of the alleged breach of the Act ; and media interest; and
+ #61863; He sought legal advice from the Legal and Advice Branch and his oral evidence was that the first time he did that was between the end of September 2006 and 5 October 2006.</sentence>
 <sentence id="s35">On the latter date the Legal and Advice Branch made a decision to seek external legal advice and the firm of Minter Ellison was instructed on 5 October 2006.</sentence>
 <sentence id="s36">On 23 October 2006 the Workplace Ombudsman (in fact, at that time, it must have been the OWS) received advice on the prospects of litigation.</sentence>
 <sentence id="s37">
@@ -207,4 +207,8 @@ Letter from OWS to Mr Bloomfield regarding survey, dated 18.10.06;
  
  </sentence>
 </sentences>
-</case>
+</case></case> http://www.austlii.edu.au/au/cases/cth/FCA/2007/1557.html 
+ 
+ </sentence>
+</sentences>
+</case></case>

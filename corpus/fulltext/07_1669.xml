@@ -3,12 +3,12 @@
 <name>Run Corp Limited v McGrath Limited [2007] FCA 1669 (2 November 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1669.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">restraint of trade by agreement</catchphrase>
-<catchphrase "id=c1">sale of business</catchphrase>
-<catchphrase "id=c2">not to be party to agreement 'which concerns or relates' to the business</catchphrase>
-<catchphrase "id=c3">construction</catchphrase>
-<catchphrase "id=c4">validity</catchphrase>
-<catchphrase "id=c5">trade and commerce</catchphrase>
+<catchphrase >restraint of trade by agreement</catchphrase>
+<catchphrase >sale of business</catchphrase>
+<catchphrase >not to be party to agreement 'which concerns or relates' to the business</catchphrase>
+<catchphrase >construction</catchphrase>
+<catchphrase >validity</catchphrase>
+<catchphrase >trade and commerce</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -142,18 +142,18 @@
 <sentence id="s52">Those services are described in a schedule.</sentence>
 <sentence id="s53">In relation to residential property, each franchisee is required to provide the following services:
  
- "&#8226; listing and sales 
- &#8226; accredited property, valuation services [and] 
- &#8226; auctions" .</sentence>
+ "#8226; listing and sales 
+ #8226; accredited property, valuation services [and] 
+ #8226; auctions" .</sentence>
 <sentence id="s54">
 
  As regards commercial property, the services that each franchisee may provide, subject to the terms of the franchise agreement, are:
  
- "&#8226; listings and sales 
+ "#8226; listings and sales 
  
- &#8226; rental property management 
- &#8226; accredited property, valuation services [and] 
- &#8226; auctions" .</sentence>
+ #8226; rental property management 
+ #8226; accredited property, valuation services [and] 
+ #8226; auctions" .</sentence>
 <sentence id="s55">
  
  
@@ -251,7 +251,7 @@
 <sentence id="s77">" If the applicants get over the first hurdle the second issue to be considered is whether the balance of convenience favours the grant of an injunction.</sentence>
 <sentence id="s78">There it will be necessary to consider matters such as whether damages will be an adequate remedy and is it otherwise just in all the circumstances that an injunction should be granted: State Transport Authority v Apex Quarries Ltd [1988] VR 187, 193.</sentence>
 <sentence id="s79">17 The applicants contend that each franchise agreement between McGrath Australasia and its franchisees is, in the words of cl 13.2.4, a "Franchise Agreement which concerns or relates to the Restrained Business".</sentence>
-<sentence id="s80">The authorities show that expressions such as "concerns" and "relates to" have a wide and general operation which should not usually be read down: Commissioners of Inland Revenue v Maple &amp; Co (Paris) Ltd [1908] 1 AC 22, 26; Fountain v Alexander [1982] HCA 16 ; (1982) 150 CLR 615, 629; Australian Securities Commission v Lord (1991) 33 FCR 144, 149.</sentence>
+<sentence id="s80">The authorities show that expressions such as "concerns" and "relates to" have a wide and general operation which should not usually be read down: Commissioners of Inland Revenue v Maple amp; Co (Paris) Ltd [1908] 1 AC 22, 26; Fountain v Alexander [1982] HCA 16 ; (1982) 150 CLR 615, 629; Australian Securities Commission v Lord (1991) 33 FCR 144, 149.</sentence>
 <sentence id="s81">The expressions import the existence of a connection or association between two things; here a connection between the franchise agreement and the Restrained Business.</sentence>
 <sentence id="s82">But, when assessing the connection or association, it is necessary to be careful because the expressions are wide enough to cover any conceivable connection and that may not be intended: O'Grady v Northern Queensland Company Ltd [1990] HCA 16 ; (1990) 169 CLR 356, 367.</sentence>
 <sentence id="s83">The closeness of the relationship that is required by the expressions "concerns" or "relates to" when considering a particular restraint is to be determined by reference to the nature and purpose of the restraint when understood in its context: PMT Partners Pty Ltd (in liq) v Australian National Parks and Wildlife Service [1995] HCA 36 ; (1995) 184 CLR 301, 313.</sentence>
@@ -402,4 +402,9 @@ D Ryan SC
  
  </sentence>
 </sentences>
+</case>
+</case>
+ </sentence>
+</sentences>
+</case>
 </case>

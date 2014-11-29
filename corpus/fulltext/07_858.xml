@@ -3,13 +3,13 @@
 <name>Jenkins v Jonkay Pty Ltd [2007] FCA 858 (5 June 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/858.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">winding up</catchphrase>
-<catchphrase "id=c1">claim against company</catchphrase>
-<catchphrase "id=c2">liquidator fails to take legal advice</catchphrase>
-<catchphrase "id=c3">no funds to pay legal costs</catchphrase>
-<catchphrase "id=c4">action against company successful</catchphrase>
-<catchphrase "id=c5">whether liquidator personally liable for costs</catchphrase>
-<catchphrase "id=c6">corporations</catchphrase>
+<catchphrase >winding up</catchphrase>
+<catchphrase >claim against company</catchphrase>
+<catchphrase >liquidator fails to take legal advice</catchphrase>
+<catchphrase >no funds to pay legal costs</catchphrase>
+<catchphrase >action against company successful</catchphrase>
+<catchphrase >whether liquidator personally liable for costs</catchphrase>
+<catchphrase >corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -55,9 +55,9 @@
 <sentence id="s30">As an alternative to resolve this impasse please be advised that on the basis that I receive: 
  
  
- &#8226; a consent, release and indemnity from your client 
- &#8226; a consent and release from the Mortgagee, and 
- &#8226; a consent and release from the Estate Agent, 
+ #8226; a consent, release and indemnity from your client 
+ #8226; a consent and release from the Mortgagee, and 
+ #8226; a consent and release from the Estate Agent, 
  
  
  
@@ -83,7 +83,7 @@
 <sentence id="s47">If this were not the rule a liquidator would be in an impossible position.</sentence>
 <sentence id="s48">He would only bring an action if it were bound to succeed.</sentence>
 <sentence id="s49">He might not resist claims brought against the company unless they were clearly hopeless.</sentence>
-<sentence id="s50">There is also the risk that good people would be deterred from taking on the responsibility of acting as a liquidator: Re Wilson Lovatt &amp; Sons Ltd [1977] 1 All ER 274.</sentence>
+<sentence id="s50">There is also the risk that good people would be deterred from taking on the responsibility of acting as a liquidator: Re Wilson Lovatt amp; Sons Ltd [1977] 1 All ER 274.</sentence>
 <sentence id="s51">There are exceptions to the rule that the company's assets should bear the costs.</sentence>
 <sentence id="s52">Broadly speaking, if the liquidator acts unreasonably, recklessly or even negligently and his conduct leads to the unnecessary incurring of costs, those costs ought to be paid by the liquidator: In re Beddoe; Downes v Cottam [1893] 1 Ch 547; Mead v Watson (2005) 23 ACLC 718.</sentence>
 <sentence id="s53">In deciding whether the liquidator is acting unreasonably it is necessary to have regard to s 545 of the Corporations Act .</sentence>
@@ -130,4 +130,8 @@ Dated: 5 June 2007
  
  </sentence>
 </sentences>
-</case>
+</case>ase>858.html 
+ 
+ </sentence>
+</sentences>
+</case>ase>

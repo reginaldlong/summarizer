@@ -3,12 +3,12 @@
 <name>Migration Agents Registration Authority v Shi [2006] FCA 1236 (15 September 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1236.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">migration agents</catchphrase>
-<catchphrase "id=c1">registration of</catchphrase>
-<catchphrase "id=c2">cancellation, suspension and caution</catchphrase>
-<catchphrase "id=c3">whether on review of a decision of the migration agents registration authority the administrative appeals tribunal is to consider whether the decision was the correct and preferable one at the time of its making by the authority or at the time of the tribunal's decision</catchphrase>
-<catchphrase "id=c4">whether conditions, which could not be imposed upon an agent's registration, could be set for the lifting of a caution imposed pursuant to s 303(1)(c) of the migration act 1958 (cth)</catchphrase>
-<catchphrase "id=c5">immigration</catchphrase>
+<catchphrase >migration agents</catchphrase>
+<catchphrase >registration of</catchphrase>
+<catchphrase >cancellation, suspension and caution</catchphrase>
+<catchphrase >whether on review of a decision of the migration agents registration authority the administrative appeals tribunal is to consider whether the decision was the correct and preferable one at the time of its making by the authority or at the time of the tribunal's decision</catchphrase>
+<catchphrase >whether conditions, which could not be imposed upon an agent's registration, could be set for the lifting of a caution imposed pursuant to s 303(1)(c) of the migration act 1958 (cth)</catchphrase>
+<catchphrase >immigration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -260,7 +260,7 @@
  THE SUBMISSIONS ON THE FIRST GROUND OF APPEAL 
  
  16 The first ground of appeal agitated in the Authority's written and oral submissions focused on the cancellation decision.</sentence>
-<sentence id="s80">It was common ground that in relation to the review of the decision to cancel the respondent's registration, the question for the Tribunal was whether that decision was the correct or preferable decision: Drake v Minister for Immigration &amp; Ethnic Affairs (1979) 46 FLR 409 at 419 per Bowen CJ and Deane J; that is, whether it was the correct or preferable decision to conclude that the respondent was not a person of integrity or was otherwise not a fit and proper person to give immigration assistance.</sentence>
+<sentence id="s80">It was common ground that in relation to the review of the decision to cancel the respondent's registration, the question for the Tribunal was whether that decision was the correct or preferable decision: Drake v Minister for Immigration amp; Ethnic Affairs (1979) 46 FLR 409 at 419 per Bowen CJ and Deane J; that is, whether it was the correct or preferable decision to conclude that the respondent was not a person of integrity or was otherwise not a fit and proper person to give immigration assistance.</sentence>
 <sentence id="s81">
  The Authority's Submissions 
  
@@ -510,7 +510,7 @@
  
  57 The respondent submitted that there was no basis for the Court to draw the inference that the Tribunal did not consider the respondent's knowledge of migration procedures to be a material factor in determining the respondent's integrity and fitness because it did not expressly mention this factor in its reasons, and that the Tribunal undoubtedly took the respondent's knowledge of migration procedures into account as required.</sentence>
 <sentence id="s248">58 The respondent contended that there was no doubt that the Tribunal was aware that, in determining the respondent's integrity and fitness, it was required to consider his knowledge of migration procedures.</sentence>
-<sentence id="s249">The Tribunal, at [8] of its 2 September 2005 reasons, specifically adopted the principles set out in Lilienthal v Migration Agents Registration Authority [2001] AATA 797 ; (2001) 66 ALD 249 at [18] --- [25], where Deputy President Purvis, citing Hughes and Vale Pty Ltd &amp; Anor v the State of New South Wales &amp; Ors (No.</sentence>
+<sentence id="s249">The Tribunal, at [8] of its 2 September 2005 reasons, specifically adopted the principles set out in Lilienthal v Migration Agents Registration Authority [2001] AATA 797 ; (2001) 66 ALD 249 at [18] --- [25], where Deputy President Purvis, citing Hughes and Vale Pty Ltd amp; Anor v the State of New South Wales amp; Ors (No.</sentence>
 <sentence id="s250">2) [1955] HCA 28 ; (1955) 93 CLR 127 at 156, considered that fitness to practice: 
  
  ' "... with respect to an office is said to involve three things, honesty, knowledge and ability; "honesty to execute it truly, without malice, affection or partiality; knowledge to know what he ought duly to do; and ability as well in estate as in body that he may intend and execute his office, when need is, diligently, and not for impotency or poverty neglect it".</sentence>
@@ -584,7 +584,7 @@
 <sentence id="s296">77 In my view, the Tribunal's error constitutes an error of law and a jurisdictional error in two respects: The Tribunal asked itself the wrong question; and the Tribunal had regard to matters it was bound not to consider.</sentence>
 <sentence id="s297">78 The respondent submitted that, notwithstanding these findings, the Court should exercise its discretion to decline to grant the appeal because it would be futile to remit the matter for re-determination.</sentence>
 <sentence id="s298">The basis for this submission was that all of the matters taken into account by the Tribunal were open for it to consider, either because they pre-dated the decision under review or because they were after-acquired evidence.</sentence>
-<sentence id="s299">As such, any technical error in identifying the correct point in time would not have materially affected the Tribunal's decision: Lu v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2004] FCAFC 340 ; (2004) 141 FCR 346 at [62] --- [64] per Sackville J.</sentence>
+<sentence id="s299">As such, any technical error in identifying the correct point in time would not have materially affected the Tribunal's decision: Lu v Minister for Immigration amp; Multicultural amp; Indigenous Affairs [2004] FCAFC 340 ; (2004) 141 FCR 346 at [62] --- [64] per Sackville J.</sentence>
 <sentence id="s300">79 I cannot agree with this submission.</sentence>
 <sentence id="s301">First, I do not accept that all the evidence relied upon by the Tribunal in addressing the question it answered (as at September 2005) would have been available if it had asked the correct question (as at July 2003).</sentence>
 <sentence id="s302">Some of the evidence was not relevant to 14 July 2003.</sentence>
@@ -664,4 +664,8 @@ Dated: 15 September 2006
  
  </sentence>
 </sentences>
-</case>
+</case>case> 
+ 
+ </sentence>
+</sentences>
+</case>case>

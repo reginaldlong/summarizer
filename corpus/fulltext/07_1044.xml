@@ -3,12 +3,12 @@
 <name>P Dawson Nominees Pty Ltd v Multiplex Limited [2007] FCA 1044 (12 July 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1044.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">representative proceeding claiming breach of continuous disclosure obligations</catchphrase>
-<catchphrase "id=c1">investigation by australian securities and investments commission</catchphrase>
-<catchphrase "id=c2">subpoena to asic to produce documents obtained and created in course of investigation</catchphrase>
-<catchphrase "id=c3">no opposition by asic</catchphrase>
-<catchphrase "id=c4">opposition by respondents</catchphrase>
-<catchphrase "id=c5">practice</catchphrase>
+<catchphrase >representative proceeding claiming breach of continuous disclosure obligations</catchphrase>
+<catchphrase >investigation by australian securities and investments commission</catchphrase>
+<catchphrase >subpoena to asic to produce documents obtained and created in course of investigation</catchphrase>
+<catchphrase >no opposition by asic</catchphrase>
+<catchphrase >opposition by respondents</catchphrase>
+<catchphrase >practice</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -42,11 +42,11 @@
 <sentence id="s16">7 The undertaking recorded that in the course of the investigation ASIC reviewed over 3000 documents and either examined or took statements from 23 witnesses and obtained information from the UK.</sentence>
 <sentence id="s17">8 The undertaking further recorded ASIC's finding that Multiplex:
  
-&#8226; from 3 to 23 February 2005 failed to comply with its continuous disclosure obligations under ASX listing rule 3.1 and s 674 of the Corporations Act ;
+#8226; from 3 to 23 February 2005 failed to comply with its continuous disclosure obligations under ASX listing rule 3.1 and s 674 of the Corporations Act ;
  
-&#8226; may not have had appropriate corporate governance and compliance procedures and controls in place to ensure compliance with its continuance disclosure obligations under the Corporations Act and the ASX listing rules; and 
+#8226; may not have had appropriate corporate governance and compliance procedures and controls in place to ensure compliance with its continuance disclosure obligations under the Corporations Act and the ASX listing rules; and 
  
-&#8226; may not have had appropriate policies and procedures in place to foster and encourage the timely upward reporting of concerns or difficulties at an operational level and the mechanisms in place to effect the reporting of such concerns.</sentence>
+#8226; may not have had appropriate policies and procedures in place to foster and encourage the timely upward reporting of concerns or difficulties at an operational level and the mechanisms in place to effect the reporting of such concerns.</sentence>
 <sentence id="s18">9 Multiplex undertook to provide compensation up to a maximum of $32 million to persons who had acquired securities during the period 3 to 23 February 2005 and to engage an external consultant to review its policies and procedures and make recommendations.</sentence>
 <sentence id="s19">The subpoena 
  
@@ -244,4 +244,8 @@ Respondent: Freehills
  
  </sentence>
 </sentences>
-</case>
+</case>se>ml 
+ 
+ </sentence>
+</sentences>
+</case>se>

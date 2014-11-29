@@ -3,10 +3,10 @@
 <name>Chief Executive Officer of Customs v John Deere Ltd [2006] FCA 1280 (29 September 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1280.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">rates of duty</catchphrase>
-<catchphrase "id=c1">date of calculation</catchphrase>
-<catchphrase "id=c2">reduction in rates after importation but before entry for home consumption</catchphrase>
-<catchphrase "id=c3">customs and excise</catchphrase>
+<catchphrase >rates of duty</catchphrase>
+<catchphrase >date of calculation</catchphrase>
+<catchphrase >reduction in rates after importation but before entry for home consumption</catchphrase>
+<catchphrase >customs and excise</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -142,7 +142,7 @@ This provision must be read with s 153 of the Customs Act , which provides as fo
 <sentence id="s43">The trial judge struck out the Statement of Claim, substantially on the ground that, since the shoes had not been entered for consumption, no duty was yet payable (relying upon s 132 of the Customs Act ).</sentence>
 <sentence id="s44">13 The Court of Appeal held that s 132 did not have that effect.</sentence>
 <sentence id="s45">Its reasons were given by Heydon JA.</sentence>
-<sentence id="s46">His Honour undertook a close examination of several High Court authorities, commencing with Wilson v Chambers &amp; Co Pty Ltd [1926] HCA 15 ; (1926) 38 CLR 131.</sentence>
+<sentence id="s46">His Honour undertook a close examination of several High Court authorities, commencing with Wilson v Chambers amp; Co Pty Ltd [1926] HCA 15 ; (1926) 38 CLR 131.</sentence>
 <sentence id="s47">The facts of that case had much in common with those of Tony Longo , in that, in Wilson , goods were brought to Australia, but not entered.</sentence>
 <sentence id="s48">The identification of the legal proposition for which Wilson stood was complicated by the circumstance that the person dealing with the goods was charged with evading payment of duty.</sentence>
 <sentence id="s49">The High Court held, in effect, that such a charge was not sustained simply by the production of evidence that the goods were imported, but no duty was paid.</sentence>
@@ -204,9 +204,9 @@ Under the heading 'The Statutory Scheme Considered', Heydon JA said:
 
 His Honour appears to accept that if goods, immediately upon importation, were entered for warehousing, the time for payment of customs duty, in practice at least, would not yet have arrived.</sentence>
 <sentence id="s84">The plaintiff in Tony Longo , the Chief Executive Officer of Customs, submitted to the Court of Appeal that the debt, although payable at the time of importation, was 'no longer exigible' where goods were entered for warehousing as distinct from home consumption (52 NSWLR at 489-490).</sentence>
-<sentence id="s85">Further, in Wilson , Isaacs J said the following of Attorney-General v Ansted (1844) 12 M &amp; W 520:
+<sentence id="s85">Further, in Wilson , Isaacs J said the following of Attorney-General v Ansted (1844) 12 M amp; W 520:
  
- "In the last-mentioned case Parke B, who was in accord with Lord Abinger C B, referring to the Warehousing Act 3 &amp; 4 Will.</sentence>
+ "In the last-mentioned case Parke B, who was in accord with Lord Abinger C B, referring to the Warehousing Act 3 amp; 4 Will.</sentence>
 <sentence id="s86">IV.</sentence>
 <sentence id="s87">c.57, which is the prototype of Part V of the Customs Act , in effect stated the law to be that, apart from the warehousing provisions, the duty was payable, and that those provisions when complied with suspended the Crown's remedy by giving time for payment until the happening of events mentioned in those provisions for requiring actual payment.</sentence>
 <sentence id="s88">He also held that, where by the importer's own fault those provisions were not complied with, the original liability stood and the time for payment had arrived.</sentence>
@@ -299,4 +299,6 @@ Dated: 29 September 2006
  
  </sentence>
 </sentences>
-</case>
+</case>se>nce>
+</sentences>
+</case>se>

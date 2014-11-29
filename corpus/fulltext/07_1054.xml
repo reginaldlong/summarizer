@@ -3,17 +3,17 @@
 <name>P.C (name withheld for cultural reasons) on behalf of the Njamal People v State of Western Australia [2007] FCA 1054 (17 August 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1054.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application to amend claim group description properly to reflect the community or group holding the claimed native title and make technical amendments to the application</catchphrase>
-<catchphrase "id=c1">application to replace persons named as applicant pursuant to s 66b of the native title act 1993 (cth)</catchphrase>
-<catchphrase "id=c2">replacement applicant authorised pursuant to an agreed process of decision-making</catchphrase>
-<catchphrase "id=c3">objection by one person proposed to be replaced</catchphrase>
-<catchphrase "id=c4">assertion that claim group not informed of matters relevant to its decision</catchphrase>
-<catchphrase "id=c5">terms of s 66b satisfied</catchphrase>
-<catchphrase "id=c6">not for the court to consider merits of the claim group's decision</catchphrase>
-<catchphrase "id=c7">procedural difficulties by reason of withdrawal of current applicant's authority and authorisation of replacement applicant before alteration of claim group</catchphrase>
-<catchphrase "id=c8">current applicant remains the applicant in the proceedings until orders for replacement made</catchphrase>
-<catchphrase "id=c9">orders made</catchphrase>
-<catchphrase "id=c10">native title</catchphrase>
+<catchphrase >application to amend claim group description properly to reflect the community or group holding the claimed native title and make technical amendments to the application</catchphrase>
+<catchphrase >application to replace persons named as applicant pursuant to s 66b of the native title act 1993 (cth)</catchphrase>
+<catchphrase >replacement applicant authorised pursuant to an agreed process of decision-making</catchphrase>
+<catchphrase >objection by one person proposed to be replaced</catchphrase>
+<catchphrase >assertion that claim group not informed of matters relevant to its decision</catchphrase>
+<catchphrase >terms of s 66b satisfied</catchphrase>
+<catchphrase >not for the court to consider merits of the claim group's decision</catchphrase>
+<catchphrase >procedural difficulties by reason of withdrawal of current applicant's authority and authorisation of replacement applicant before alteration of claim group</catchphrase>
+<catchphrase >current applicant remains the applicant in the proceedings until orders for replacement made</catchphrase>
+<catchphrase >orders made</catchphrase>
+<catchphrase >native title</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -82,12 +82,12 @@
 <sentence id="s31">Schedule A of the application should be amended to identify the replacement claim group.</sentence>
 <sentence id="s32">10 The proposed technical amendments, broadly and in summary:
  
- &#8226; correct typographical errors; 
- &#8226; exclude category B past and intermediate period acts wholly inconsistent with the continued existence, enjoyment or exercise of any native title rights or interests;
- &#8226; exclude a claim of native title rights and interests conferring exclusive rights over areas in relation to which a previous non-exclusive possession act has been done; 
- &#8226; distinguish between rights and interests claimed over areas where a claim of exclusive possession can be recognised and areas where such a claim cannot be recognised, in accordance with s 190B(9)(c) of the Act; 
- &#8226; delete certain rights and interests claimed, to reflect decisions of the High Court ( Western Australia v Ward [2002] HCA 28 ; (2002) 213 CLR 1) and the Full Federal Court ( Northern Territory v Alyawarr, Kaytetye, Warumungu, Wakaya Native Title Claim Group [2005] FCAFC 135) ; and
- &#8226; better address the requirements of the Act (ss 62(2)(e) and 190B(5)) in describing the native title rights and interests claimed.</sentence>
+ #8226; correct typographical errors; 
+ #8226; exclude category B past and intermediate period acts wholly inconsistent with the continued existence, enjoyment or exercise of any native title rights or interests;
+ #8226; exclude a claim of native title rights and interests conferring exclusive rights over areas in relation to which a previous non-exclusive possession act has been done; 
+ #8226; distinguish between rights and interests claimed over areas where a claim of exclusive possession can be recognised and areas where such a claim cannot be recognised, in accordance with s 190B(9)(c) of the Act; 
+ #8226; delete certain rights and interests claimed, to reflect decisions of the High Court ( Western Australia v Ward [2002] HCA 28 ; (2002) 213 CLR 1) and the Full Federal Court ( Northern Territory v Alyawarr, Kaytetye, Warumungu, Wakaya Native Title Claim Group [2005] FCAFC 135) ; and
+ #8226; better address the requirements of the Act (ss 62(2)(e) and 190B(5)) in describing the native title rights and interests claimed.</sentence>
 <sentence id="s33">
 
 11 The technical amendments do not affect the substantive rights and interests claimed and they are supported by the first respondent, the State of Western Australia.</sentence>
@@ -141,11 +141,11 @@
 <sentence id="s74">20 The sole agenda items at the meeting were ' claim group description ' and ' replacement of the applicants '.</sentence>
 <sentence id="s75">Following discussion of each item, the members present resolved:
  
- &#8226; to amend the claim group description (the first resolution);
- &#8226; no longer to authorise the current applicant ' as a group ' to make the application in these proceedings or to deal with matters in relation to it;
- &#8226; to remove 11 of the 17 persons who currently comprise the applicant and to include three new persons as applicant (the second resolution);
- &#8226; to authorise the replacement applicant to be the applicant in these proceedings and to deal with matters related to the application in accordance with decisions of the Njamal native title claim group through community meetings; 
- &#8226; to authorise the replacement applicant to bring an application in this Court to replace the current applicant and to authorise them to instruct PNTS to act for them, or to organise or appoint legal representatives to act for them, in relation to that application.</sentence>
+ #8226; to amend the claim group description (the first resolution);
+ #8226; no longer to authorise the current applicant ' as a group ' to make the application in these proceedings or to deal with matters in relation to it;
+ #8226; to remove 11 of the 17 persons who currently comprise the applicant and to include three new persons as applicant (the second resolution);
+ #8226; to authorise the replacement applicant to be the applicant in these proceedings and to deal with matters related to the application in accordance with decisions of the Njamal native title claim group through community meetings; 
+ #8226; to authorise the replacement applicant to bring an application in this Court to replace the current applicant and to authorise them to instruct PNTS to act for them, or to organise or appoint legal representatives to act for them, in relation to that application.</sentence>
 <sentence id="s76">
 
 21 Each resolution was passed unanimously.</sentence>
@@ -183,8 +183,8 @@
 <sentence id="s106">There is no evidence that the claim group was informed at the meeting of the reasons why Mr McPhee had not signed agreements in the past.</sentence>
 <sentence id="s107">Rather, the minutes of the meeting record that: 
  
- &#8226; ' It was noted that some registered applicants have opted to resign and that Angus Abdullah lacks sufficient capacity to continue as an applicant ';
- &#8226; ' It was further noted that Eddie McPhee has repeatedly failed to properly perform (sic) the role of applicant, including refusing to sign documents that the Njamal community has agreed to and authorised the applicant to sign '.</sentence>
+ #8226; ' It was noted that some registered applicants have opted to resign and that Angus Abdullah lacks sufficient capacity to continue as an applicant ';
+ #8226; ' It was further noted that Eddie McPhee has repeatedly failed to properly perform (sic) the role of applicant, including refusing to sign documents that the Njamal community has agreed to and authorised the applicant to sign '.</sentence>
 <sentence id="s108">
 
 29 Present at the meeting of 25 October 2006 were members of Mr McPhee's family, including his oldest living relatives which, in turn, included the primary acknowledged family elder, his uncle Johnson Taylor.</sentence>
@@ -212,19 +212,19 @@
 <sentence id="s125">34 There is no dispute that the members of the claim group are entitled to determine the members of the applicant.</sentence>
 <sentence id="s126">35 There are a number of reasons why the inference sought by Mr McPhee should not be drawn:
  
- &#8226; Members of the replacement claim group who were present at the meeting included members of Mr McPhee's family.</sentence>
+ #8226; Members of the replacement claim group who were present at the meeting included members of Mr McPhee's family.</sentence>
 <sentence id="s127">They voted to remove Mr McPhee and have filed affidavits in support of the proposed replacement.</sentence>
-<sentence id="s128">&#8226; Mr McPhee has had ample opportunity to notify the members of the replacement claim group, including members of his family, of his concerns and the reasons why he did not attend the meeting and did not sign or delayed signing previous agreements.</sentence>
+<sentence id="s128">#8226; Mr McPhee has had ample opportunity to notify the members of the replacement claim group, including members of his family, of his concerns and the reasons why he did not attend the meeting and did not sign or delayed signing previous agreements.</sentence>
 <sentence id="s129">Mr McPhee has been present at meetings where he could and did do so.</sentence>
-<sentence id="s130">&#8226; Mr McPhee accepts that at least some members of the replacement claim group would, by now, be aware of his position and the matters and concerns that he raised with PNTS.</sentence>
-<sentence id="s131">&#8226; None of the members of the replacement claim group have supported Mr McPhee's opposition to the second motion or sought to change the decisions reached and resolutions passed at the meeting.</sentence>
+<sentence id="s130">#8226; Mr McPhee accepts that at least some members of the replacement claim group would, by now, be aware of his position and the matters and concerns that he raised with PNTS.</sentence>
+<sentence id="s131">#8226; None of the members of the replacement claim group have supported Mr McPhee's opposition to the second motion or sought to change the decisions reached and resolutions passed at the meeting.</sentence>
 <sentence id="s132">
 
 36 Other factors relevant to the exercise of discretion are:
  
- &#8226; Mr McPhee will remain a member of the replacement claim group.</sentence>
-<sentence id="s133">&#8226; Mr McPhee had previously been removed as a member of a Njamal working party, a group authorised to negotiate with other parties in the proceedings and other parties interested in the claim area.</sentence>
-<sentence id="s134">&#8226; Steps were first taken to remove Mr McPhee as a member of the applicant in 2003.</sentence>
+ #8226; Mr McPhee will remain a member of the replacement claim group.</sentence>
+<sentence id="s133">#8226; Mr McPhee had previously been removed as a member of a Njamal working party, a group authorised to negotiate with other parties in the proceedings and other parties interested in the claim area.</sentence>
+<sentence id="s134">#8226; Steps were first taken to remove Mr McPhee as a member of the applicant in 2003.</sentence>
 <sentence id="s135">
 
 37 Mr Bower likens the meeting to a meeting of a voluntary association where one of the members is improperly treated and misrepresented to the other members of the association.</sentence>
@@ -232,11 +232,11 @@
 <sentence id="s137">I do not accept the analogy.</sentence>
 <sentence id="s138">38 The replacement applicant has established that:
  
- &#8226; There has been a meeting of the Njamal community which has formally agreed to remove certain members of the current applicant and to add certain additional members, to form the replacement applicant.</sentence>
-<sentence id="s139">&#8226; The persons in attendance at the meeting were reasonably representative of the replacement claim group.</sentence>
-<sentence id="s140">&#8226; Some of the members of the current applicant are deceased.</sentence>
-<sentence id="s141">&#8226; The proposed new members have each consented to become members of the replacement applicant.</sentence>
-<sentence id="s142">&#8226; The claimants at the meeting agreed unanimously to the proposed course of action.</sentence>
+ #8226; There has been a meeting of the Njamal community which has formally agreed to remove certain members of the current applicant and to add certain additional members, to form the replacement applicant.</sentence>
+<sentence id="s139">#8226; The persons in attendance at the meeting were reasonably representative of the replacement claim group.</sentence>
+<sentence id="s140">#8226; Some of the members of the current applicant are deceased.</sentence>
+<sentence id="s141">#8226; The proposed new members have each consented to become members of the replacement applicant.</sentence>
+<sentence id="s142">#8226; The claimants at the meeting agreed unanimously to the proposed course of action.</sentence>
 <sentence id="s143">
 
 39 The withdrawal and conferring of authority for the purposes of a s 66B application must be shown to flow from the claim group ( Bolton at [44]).</sentence>
@@ -253,13 +253,13 @@
 <sentence id="s152">That includes the amendment of the application from time to time ( Drury v Western Australia [2000] FCA 132 ; (2000) 97 FCR 169 at [12] per French J).</sentence>
 <sentence id="s153">41 The procedural chronology is as follows:
  
- &#8226; The description of the replacement claim group is agreed (25 October 2006).</sentence>
-<sentence id="s154">&#8226; The replacement claim group resolves that the current applicant ' as a group ' is no longer authorised to deal with the application (25 October 2006).</sentence>
-<sentence id="s155">&#8226; The replacement applicant is authorised by the replacement claim group (25 October 2006).</sentence>
-<sentence id="s156">&#8226; The first motion is filed (27 February 2007).</sentence>
+ #8226; The description of the replacement claim group is agreed (25 October 2006).</sentence>
+<sentence id="s154">#8226; The replacement claim group resolves that the current applicant ' as a group ' is no longer authorised to deal with the application (25 October 2006).</sentence>
+<sentence id="s155">#8226; The replacement applicant is authorised by the replacement claim group (25 October 2006).</sentence>
+<sentence id="s156">#8226; The first motion is filed (27 February 2007).</sentence>
 <sentence id="s157">It lists the replacement applicant as the party moving the Court for orders.</sentence>
-<sentence id="s158">&#8226; The first motion is amended to specify the current applicant as the moving party (28 February 2007).</sentence>
-<sentence id="s159">&#8226; The Court is moved for orders by the current applicant pursuant to the first motion as amended (21 March 2007 and 28 May 2007).</sentence>
+<sentence id="s158">#8226; The first motion is amended to specify the current applicant as the moving party (28 February 2007).</sentence>
+<sentence id="s159">#8226; The Court is moved for orders by the current applicant pursuant to the first motion as amended (21 March 2007 and 28 May 2007).</sentence>
 <sentence id="s160">
 
 42 A question arises as to whether the current applicant can move the Court for orders to amend the application in these circumstances.</sentence>
@@ -321,7 +321,7 @@ Dated: 17 August 2007
  
  Counsel for Eddie McPhee: R Bower 
  
- Solicitor for Eddie McPhee: Corser &amp; Corser 
+ Solicitor for Eddie McPhee: Corser amp; Corser 
  
  Date of Hearing: 21 March 2007, 28 May 2007 
  
@@ -336,5 +336,13 @@ Dated: 17 August 2007
  URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/1054.html 
  
  </sentence>
+</sentences>
+</case></sentence>
+</sentences>
+</case>1054.html 
+ 
+ </sentence>
+</sentences>
+</case></sentence>
 </sentences>
 </case>

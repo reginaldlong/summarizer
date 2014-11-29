@@ -3,12 +3,12 @@
 <name>Lifetime Investments Pty Ltd v Commercial (Worldwide) Financial Services Pty Ltd [2006] FCA 696 (26 May 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/696.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">claim for privilege against self-incrimination</catchphrase>
-<catchphrase "id=c1">compliance with an asset preservation order</catchphrase>
-<catchphrase "id=c2">whether reasonable grounds for witness objecting to giving evidence</catchphrase>
-<catchphrase "id=c3">whether interests of justice require the disclosure of information that will tend to incriminate the witness</catchphrase>
-<catchphrase "id=c4">application of s 128(5) evidence act 1995 (cth) to affidavit evidence</catchphrase>
-<catchphrase "id=c5">practice and procedure</catchphrase>
+<catchphrase >claim for privilege against self-incrimination</catchphrase>
+<catchphrase >compliance with an asset preservation order</catchphrase>
+<catchphrase >whether reasonable grounds for witness objecting to giving evidence</catchphrase>
+<catchphrase >whether interests of justice require the disclosure of information that will tend to incriminate the witness</catchphrase>
+<catchphrase >application of s 128(5) evidence act 1995 (cth) to affidavit evidence</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -103,7 +103,7 @@ On the hearing of that Motion, the relief claimed was restricted to seeking a va
  
  
  (f) 1 share in Colinton Station Pty Ltd $661,700.00 
- (g) 1 share in D &amp; J Wallader Pty Ltd as 
+ (g) 1 share in D amp; J Wallader Pty Ltd as 
  
  
  
@@ -279,7 +279,7 @@ On the hearing of that Motion, the relief claimed was restricted to seeking a va
  
  19 However, Fitzgerald JA said at p 213, at par 24: 
  '24 In my opinion, the correct course for a court asked to make an order for disclosure in aid of a Mareva injunction is to mould any appropriate order by reference to the nature and source of the power being exercised, the nature and content of the privilege against self-incrimination, and the factual circumstances.</sentence>
-<sentence id="s70">I am further of opinion that a defendant against whom an order of disclosure of assets has been made whose privilege against self-incrimination will be infringed by compliance with the order according to its terms is entitled to have the order set aside: Crest Homes Plc v Marks (at 855); cf Australian Competition and Consumer Commission v McPhee &amp; Son (Aust) Pty Ltd [No 2] (1997) 77 FCR 217.</sentence>
+<sentence id="s70">I am further of opinion that a defendant against whom an order of disclosure of assets has been made whose privilege against self-incrimination will be infringed by compliance with the order according to its terms is entitled to have the order set aside: Crest Homes Plc v Marks (at 855); cf Australian Competition and Consumer Commission v McPhee amp; Son (Aust) Pty Ltd [No 2] (1997) 77 FCR 217.</sentence>
 <sentence id="s71">In considering these matters, it is necessary to remember that the privilege protects not only information which is directly self-incriminatory but also information which might indicate a line of inquiry which might produce incriminatory information: Sorby v Commonwealth [1983] HCA 10 ; (1983) 152 CLR 281 at 291-292.</sentence>
 <sentence id="s72">' 
  
@@ -329,7 +329,7 @@ His Honour also observed at p 211:
 
 
  
- 27 In Australian Competition &amp; Consumer Commission v FFE Building Services Ltd (2003) FCAFC 132 , a Full Court of the Federal Court (Emmett, Hely and Jacobson JJ) referred to the general principles in respect of self-incrimination, at pars 12 --- 14:
+ 27 In Australian Competition amp; Consumer Commission v FFE Building Services Ltd (2003) FCAFC 132 , a Full Court of the Federal Court (Emmett, Hely and Jacobson JJ) referred to the general principles in respect of self-incrimination, at pars 12 --- 14:
  '12 The privilege against self-incrimination protects an individual from making a disclosure that may lead to incrimination or to the discovery of real evidence of an incriminating nature: Sorby v Commonwealth of Australia [1983] HCA 10 ; (1983) 152 CLR 281 at 310.</sentence>
 <sentence id="s89">Further, a respondent in a proceeding that is solely for the recovery of a pecuniary penalty should not be ordered to disclose information or produce documents that may assist in establishing his or her liability to the penalty: Refrigerated Express Lines (A/Asia) Pty Ltd v Australian Meat and Livestock Corporation (1979) 42 FLR 208; Pyneboard Pty Ltd v Trade Practices Commission [1983] HCA 9 ; (1983) 152 CLR 328 at 336.</sentence>
 <sentence id="s90">
@@ -337,9 +337,9 @@ His Honour also observed at p 211:
  13 The privilege of refusing to answer questions or provide information on the ground that the answers or the information might tend to expose the party to the imposition of a pecuniary penalty: 
  
  
- &#8226; is not confined to discovery and interrogatories; 
- &#8226; is available at common law 
- &#8226; is distinct from the privilege against exposure to conviction for a crime (Pyneboard (at 337)) 
+ #8226; is not confined to discovery and interrogatories; 
+ #8226; is available at common law 
+ #8226; is distinct from the privilege against exposure to conviction for a crime (Pyneboard (at 337)) 
  
  
  
@@ -349,7 +349,7 @@ His Honour also observed at p 211:
 <sentence id="s92">As the privilege is not subject to judge-made exceptions or qualifications, it cannot be abridged or undermined in consequence of a Court accepting undertakings proffered by the applicant designed to avoid or diminish the danger that provision of the information would expose the respondent to a penalty.</sentence>
 <sentence id="s93">
  
- 14 By requiring an individual respondent, prior to the closure of an applicant&#180;s case, to file statements of evidence proposed to be given by witnesses to be called by that respondent, such a respondent would be exposed to the risk that indirect or derivative evidence, being evidence obtained by using the material disclosed in the statement as a basis of investigation, could be tendered against the respondent.</sentence>
+ 14 By requiring an individual respondent, prior to the closure of an applicant#180;s case, to file statements of evidence proposed to be given by witnesses to be called by that respondent, such a respondent would be exposed to the risk that indirect or derivative evidence, being evidence obtained by using the material disclosed in the statement as a basis of investigation, could be tendered against the respondent.</sentence>
 <sentence id="s94">The provisional disclosure of information may set in train a process that may lead to the imposition of a penalty or may lead to the discovery of real evidence in support of the imposition of a penalty: Reid v Howard (at 6).</sentence>
 <sentence id="s95">' 
 
@@ -504,4 +504,7 @@ Dated: 5 June 2006
  
  </sentence>
 </sentences>
-</case>
+</case></case> 
+ </sentence>
+</sentences>
+</case></case>

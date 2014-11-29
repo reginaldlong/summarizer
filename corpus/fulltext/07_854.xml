@@ -3,14 +3,14 @@
 <name>Applicant S1983 of 2003 v Minister for Immigrationand Citizenship [2007] FCA 854 (8 June 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/854.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appellant claimed in his protection visa application to fear persecution because he was low caste</catchphrase>
-<catchphrase "id=c1">discussion at tribunal hearing as to whether appellant claimed persecution on basis of being a sindhi or a dalit (low caste)</catchphrase>
-<catchphrase "id=c2">whether tribunal misunderstood distinction between being a sindhi and a dalit</catchphrase>
-<catchphrase "id=c3">whether tribunal considered appellant's claim to fear persecution on basis of being a dalit</catchphrase>
-<catchphrase "id=c4">whether further evidence permitted to be received on appeal regarding the meaning of the terms sindhi and dalit</catchphrase>
-<catchphrase "id=c5">held: further evidence received on appeal</catchphrase>
-<catchphrase "id=c6">tribunal failed to address the claim advanced by the appellant</catchphrase>
-<catchphrase "id=c7">migration</catchphrase>
+<catchphrase >appellant claimed in his protection visa application to fear persecution because he was low caste</catchphrase>
+<catchphrase >discussion at tribunal hearing as to whether appellant claimed persecution on basis of being a sindhi or a dalit (low caste)</catchphrase>
+<catchphrase >whether tribunal misunderstood distinction between being a sindhi and a dalit</catchphrase>
+<catchphrase >whether tribunal considered appellant's claim to fear persecution on basis of being a dalit</catchphrase>
+<catchphrase >whether further evidence permitted to be received on appeal regarding the meaning of the terms sindhi and dalit</catchphrase>
+<catchphrase >held: further evidence received on appeal</catchphrase>
+<catchphrase >tribunal failed to address the claim advanced by the appellant</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -405,7 +405,7 @@ That complaint, as it seems to me, was plainly calculated to highlight the disti
 <sentence id="s170">I refer particularly to the content of [25]-[27] above.</sentence>
 <sentence id="s171">Receipt of Further Evidence 
  
-46 An appeal to this Court from the Federal Magistrates Court is an appeal by way of rehearing ( MZWVH v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2006] FCA 1016).</sentence>
+46 An appeal to this Court from the Federal Magistrates Court is an appeal by way of rehearing ( MZWVH v Minister for Immigration amp; Multicultural amp; Indigenous Affairs [2006] FCA 1016).</sentence>
 <sentence id="s172">Section 27 of the Federal Court of Australia Act 1976 (Cth) provides that, in an appeal, the Court should have regard to the evidence given in the proceeding out of which the appeal arose and has power, in its discretion, to receive further evidence.</sentence>
 <sentence id="s173">47 Order 52 r 36 of the Federal Court Rules , subject to any dispensation from compliance (see O 1 r 8), governs the practice of the Court where further evidence is sought to be adduced on appeal.</sentence>
 <sentence id="s174">Ordinarily the Court requires an application to adduce further evidence on appeal to be supported by an affidavit that explains why the further evidence was not adduced below ( Fodare Pty Limited v Official Trustee in Bankruptcy [2000] FCA 1721).</sentence>
@@ -499,4 +499,8 @@ The Second Respondent filed a submitting appearance
  
  </sentence>
 </sentences>
-</case>
+</case>e>FCA/2007/854.html 
+ 
+ </sentence>
+</sentences>
+</case>e>

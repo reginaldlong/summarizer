@@ -3,21 +3,21 @@
 <name>Telstra Corporation Limited v SingTel Optus Pty Ltd [2007] FCA 824 (15 May 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/824.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">misleading or deceptive conduct</catchphrase>
-<catchphrase "id=c1">comparative advertising</catchphrase>
-<catchphrase "id=c2">mobile telephone plans</catchphrase>
-<catchphrase "id=c3">whether advertisements should be prevented by interlocutory injunction</catchphrase>
-<catchphrase "id=c4">whether serious question to be tried</catchphrase>
-<catchphrase "id=c5">whether advertisements misleading or deceptive</catchphrase>
-<catchphrase "id=c6">comparison between plans with different monthly prices and different features</catchphrase>
-<catchphrase "id=c7">competitors had more directly comparable plans</catchphrase>
-<catchphrase "id=c8">whether obligation to compare like with like</catchphrase>
-<catchphrase "id=c9">balance of convenience</catchphrase>
-<catchphrase "id=c10">applicant's potential damages calculable</catchphrase>
-<catchphrase "id=c11">damages not calculable if respondents required to enforce undertaking as to damages</catchphrase>
-<catchphrase "id=c12">principle of freedom of speech</catchphrase>
-<catchphrase "id=c13">difficulties of framing injunction</catchphrase>
-<catchphrase "id=c14">trade practices</catchphrase>
+<catchphrase >misleading or deceptive conduct</catchphrase>
+<catchphrase >comparative advertising</catchphrase>
+<catchphrase >mobile telephone plans</catchphrase>
+<catchphrase >whether advertisements should be prevented by interlocutory injunction</catchphrase>
+<catchphrase >whether serious question to be tried</catchphrase>
+<catchphrase >whether advertisements misleading or deceptive</catchphrase>
+<catchphrase >comparison between plans with different monthly prices and different features</catchphrase>
+<catchphrase >competitors had more directly comparable plans</catchphrase>
+<catchphrase >whether obligation to compare like with like</catchphrase>
+<catchphrase >balance of convenience</catchphrase>
+<catchphrase >applicant's potential damages calculable</catchphrase>
+<catchphrase >damages not calculable if respondents required to enforce undertaking as to damages</catchphrase>
+<catchphrase >principle of freedom of speech</catchphrase>
+<catchphrase >difficulties of framing injunction</catchphrase>
+<catchphrase >trade practices</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -35,7 +35,7 @@
 <sentence id="s8">3 Optus has recently embarked on an advertising campaign, which involves comparative advertising between one of its plans and one of Telstra's plans.</sentence>
 <sentence id="s9">The advertisements have appeared on television and in print media.</sentence>
 <sentence id="s10">In the course of argument this morning, concentration has been on a particular version that appeared as a full-page advertisement in the weekend newspapers last weekend.</sentence>
-<sentence id="s11">The advertisement features, at the top by way of headline, a black panel in which appear in white letters the words, "FOR THE FIRST TIME IN BLACK &amp; WHITE".</sentence>
+<sentence id="s11">The advertisement features, at the top by way of headline, a black panel in which appear in white letters the words, "FOR THE FIRST TIME IN BLACK amp; WHITE".</sentence>
 <sentence id="s12">Below that is another panel, divided down the middle, so that the left half has a white background and the right half has a black background.</sentence>
 <sentence id="s13">Straddling the border between the two halves appears the abbreviation for the word "versus" in the form of the letters "vs".</sentence>
 <sentence id="s14">On the left-hand side, the white half, appears the name "OPTUS" and on the right-hand side, the black half, appears in white lettering the word "TELSTRA".</sentence>
@@ -43,35 +43,35 @@
 <sentence id="s16">There are then four bullet points underneath each.</sentence>
 <sentence id="s17">The Optus bullet points are as follows: 
  
- &#9632; $300 of voice calls and text per month ^ 
+ #9632; $300 of voice calls and text per month ^ 
 
 
  
- &#9632; Which equals up to 153 2-minute voice calls anytime between 8.00am and 7.00pm, to any home or mobile number in Australia 
+ #9632; Which equals up to 153 2-minute voice calls anytime between 8.00am and 7.00pm, to any home or mobile number in Australia 
 
 
  
- &#9632; Call rate (per 30 sec) 40cents, flagfall 35cents, national text 25cents 
+ #9632; Call rate (per 30 sec) 40cents, flagfall 35cents, national text 25cents 
 
 
  
- &#9632; A Nokia N73 valued at $809rrp 
+ #9632; A Nokia N73 valued at $809rrp 
 
 
  
 The Telstra bullet points are as follows: 
  
- &#9633; $35 of monthly included voice calls and text plus $5 of included Data/GPRS 
+ #9633; $35 of monthly included voice calls and text plus $5 of included Data/GPRS 
  
  
  
- &#9633; Which equals up to 19 2-minute voice calls between 8.00am and 7.00pm, to any home or mobile number in Australia, # (more if you choose the My Hour option and you call during your selected hour) 
+ #9633; Which equals up to 19 2-minute voice calls between 8.00am and 7.00pm, to any home or mobile number in Australia, # (more if you choose the My Hour option and you call during your selected hour) 
 
 
  
- &#9633; Call rate (per 30 sec) 38cents, flagfall 27cents, national text 25cents (unless Text option selected) 
+ #9633; Call rate (per 30 sec) 38cents, flagfall 27cents, national text 25cents (unless Text option selected) 
  
- &#9633; A Motorola RAZR MAXX V6 valued at $729rrp + 
+ #9633; A Motorola RAZR MAXX V6 valued at $729rrp + 
  
 
 At the foot of each half of this panel is the image of a mobile telephone receiver, presumably, in the case of Optus, the Nokia receiver and, in the case of Telstra, the Motorola receiver.</sentence>
@@ -271,4 +271,11 @@ Dated: 28 May 2007
  
  </sentence>
 </sentences>
+</case>>
+</case> 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/824.html 
+ 
+ </sentence>
+</sentences>
+</case>>
 </case>

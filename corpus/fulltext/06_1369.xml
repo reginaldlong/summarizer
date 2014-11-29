@@ -3,10 +3,10 @@
 <name>King v Yurisich [2006] FCA 1369 (19 October 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1369.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for leave to proceed against company in liquidation</catchphrase>
-<catchphrase "id=c1">whether leave required in context of an appeal</catchphrase>
-<catchphrase "id=c2">principles under which leave to be granted.</catchphrase>
-<catchphrase "id=c3">corporations</catchphrase>
+<catchphrase >application for leave to proceed against company in liquidation</catchphrase>
+<catchphrase >whether leave required in context of an appeal</catchphrase>
+<catchphrase >principles under which leave to be granted.</catchphrase>
+<catchphrase >corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -33,7 +33,7 @@
  5 The appellants are concerned that they may need the leave of the Court to proceed against Lane Moller Partners, given that the issue of costs in relation to the appeal has not been determined.</sentence>
 <sentence id="s10">The liquidators, though on notice, neither appeared, nor opposed the grant of leave.</sentence>
 <sentence id="s11">6 It is a vexed question whether leave is required to proceed against a company in liquidation in the context of an appeal.</sentence>
-<sentence id="s12">In Humber &amp; Co v John Griffiths Cycle Company (1901) 85 LT 141, Lord Davey, the only member of the House of Lords to address the point, held that where a company was being wound up under the direction of the court, an appeal in which the company was a respondent, brought in an action in which the company was originally the plaintiff, was not a "proceeding against the company" within s 87 of the Companies Act 1862 (UK).</sentence>
+<sentence id="s12">In Humber amp; Co v John Griffiths Cycle Company (1901) 85 LT 141, Lord Davey, the only member of the House of Lords to address the point, held that where a company was being wound up under the direction of the court, an appeal in which the company was a respondent, brought in an action in which the company was originally the plaintiff, was not a "proceeding against the company" within s 87 of the Companies Act 1862 (UK).</sentence>
 <sentence id="s13">Accordingly, leave to proceed was not required.</sentence>
 <sentence id="s14">7 However, in Skinner v Jeogla Pty Ltd (2001) 37 ACSR 106, which arose out of an application to the court for leave to proceed against a company in liquidation brought under s 471B of the Corporations Law , the New South Wales Court of Appeal doubted the correctness of Humber .</sentence>
 <sentence id="s15">It noted that the language of s 471B differed significantly from that of the provision under consideration in Humber .</sentence>
@@ -94,4 +94,6 @@ Dated: 19 October 2006
  
  </sentence>
 </sentences>
-</case>
+</case>>tence>
+</sentences>
+</case>>

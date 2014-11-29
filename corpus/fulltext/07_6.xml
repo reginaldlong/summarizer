@@ -3,14 +3,14 @@
 <name>SZESF v Minister for Immigration and Multicultural Affairs [2007] FCA 6 (12 January 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/6.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal</catchphrase>
-<catchphrase "id=c1">whether refugee review tribunal breached section 424a of the migration act 1958 (cth)</catchphrase>
-<catchphrase "id=c2">meaning of 'information' in s 424a</catchphrase>
-<catchphrase "id=c3">whether information contained in photographs was the reason or part of the reason for the tribunal's decision</catchphrase>
-<catchphrase "id=c4">whether information contained in photographs fell within the exceptions in s 424a(3)</catchphrase>
-<catchphrase "id=c5">where applicant produced photographs to both the minister and the tribunal and claimed that they depicted different events</catchphrase>
-<catchphrase "id=c6">where tribunal relied on the fact that the photographs depicted the same event to make an adverse credibility finding</catchphrase>
-<catchphrase "id=c7">migration</catchphrase>
+<catchphrase >appeal</catchphrase>
+<catchphrase >whether refugee review tribunal breached section 424a of the migration act 1958 (cth)</catchphrase>
+<catchphrase >meaning of 'information' in s 424a</catchphrase>
+<catchphrase >whether information contained in photographs was the reason or part of the reason for the tribunal's decision</catchphrase>
+<catchphrase >whether information contained in photographs fell within the exceptions in s 424a(3)</catchphrase>
+<catchphrase >where applicant produced photographs to both the minister and the tribunal and claimed that they depicted different events</catchphrase>
+<catchphrase >where tribunal relied on the fact that the photographs depicted the same event to make an adverse credibility finding</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -74,7 +74,7 @@
  
 9 The appellant's application for judicial review of the Tribunal's decision in the Federal Magistrates Court was filed out of time and accordingly the first respondent filed a notice of objection to competency.</sentence>
 <sentence id="s44">The first respondent subsequently filed a notice of motion seeking summary dismissal of the application.</sentence>
-<sentence id="s45">As indicated in his Honour's judgment ( SZESF v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2006] FMCA 2 at [4] ), at the hearing of the notice of objection to competency and the notice of motion, his Honour also heard the substantive application which he dismissed.</sentence>
+<sentence id="s45">As indicated in his Honour's judgment ( SZESF v Minister for Immigration amp; Multicultural amp; Indigenous Affairs [2006] FMCA 2 at [4] ), at the hearing of the notice of objection to competency and the notice of motion, his Honour also heard the substantive application which he dismissed.</sentence>
 <sentence id="s46">10 The appellant's primary contention in the Federal Magistrates Court was that the Tribunal had not met its obligations under s 424A of the Act.</sentence>
 <sentence id="s47">As the Federal Magistrate expressed it:
  
@@ -207,7 +207,7 @@
  '... the reference in s 424A(3)(a) to the class of persons is not another criterion to be met but ... is designed to underline the specificity required by precluding any argument that reference to a class could be taken as a reference to all individuals (including for example, an applicant) falling within it.</sentence>
 <sentence id="s104">' 
 
-In this regard see also VHAP of 2002 v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs (2004) 80 ALD 559 at [14].</sentence>
+In this regard see also VHAP of 2002 v Minister for Immigration amp; Multicultural amp; Indigenous Affairs (2004) 80 ALD 559 at [14].</sentence>
 <sentence id="s105">(b) Photographs provided by the appellant to the Tribunal 
  
 26 It is clear that s 424A imposes no obligation on the Tribunal in relation to the information depicted in the photographs mentioned in (b) as those photographs were provided to the Tribunal by the appellant; s 424A(3)(b).</sentence>
@@ -248,7 +248,7 @@ In this regard see also VHAP of 2002 v Minister for Immigration &amp; Multicultu
 <sentence id="s136">33 The meaning of 'information' in the context of ss 424 and 424A of the Migration Act was considered by the Full Federal Court in Win v Minister for Immigration and Multicultural Affairs [2001] FCA 56 ; (2001) 105 FCR 212.</sentence>
 <sentence id="s137">Win concerned the Tribunal's treatment of an anonymous letter containing allegations adverse to the appellant's credibility that was sent to the Department of Immigration and Multicultural Affairs.</sentence>
 <sentence id="s138">The Court found that the meaning of 'information' in s 424A was the same as that in s 424.</sentence>
-<sentence id="s139">The Court referred (at 217) to the Macquarie Dictionary's definition of the word 'information', which included 'Knowledge communicated or received concerning some fact or circumstance' (see also Tin v Minister for Immigration &amp; Multicultural Affairs [2000] FCA 1109 at [53] ).</sentence>
+<sentence id="s139">The Court referred (at 217) to the Macquarie Dictionary's definition of the word 'information', which included 'Knowledge communicated or received concerning some fact or circumstance' (see also Tin v Minister for Immigration amp; Multicultural Affairs [2000] FCA 1109 at [53] ).</sentence>
 <sentence id="s140">The definition in the Oxford English Dictionary , also referred to by the Full Court, included 'Knowledge communicated concerning some particular fact, subject or event; that of which one is apprised or told.</sentence>
 <sentence id="s141">' The Full Court considered that 'information', for the purpose of ss 424 and 424A encompassed 'assertions made by a person ... that particular aspects of an applicant's account of events are untrue'.</sentence>
 <sentence id="s142">It is clear that the Full Court's focus in Win was not upon the anonymous letter itself, but upon the assertions contained within the letter.</sentence>
@@ -341,4 +341,8 @@ Dated: 12 January 2007
  
  </sentence>
 </sentences>
-</case>
+</case>case>CA/2007/6.html 
+ 
+ </sentence>
+</sentences>
+</case>case>

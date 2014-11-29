@@ -3,11 +3,11 @@
 <name>Seven Network Limited v News Limited [2007] FCA 1489 (26 September 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1489.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for costs on an indemnity basis</catchphrase>
-<catchphrase "id=c1">applicants reject a joint offer of compromise pursuant to fcr , o 23</catchphrase>
-<catchphrase "id=c2">applicants fail entirely</catchphrase>
-<catchphrase "id=c3">whether rejection of offer imprudent or unreasonable</catchphrase>
-<catchphrase "id=c4">costs</catchphrase>
+<catchphrase >application for costs on an indemnity basis</catchphrase>
+<catchphrase >applicants reject a joint offer of compromise pursuant to fcr , o 23</catchphrase>
+<catchphrase >applicants fail entirely</catchphrase>
+<catchphrase >whether rejection of offer imprudent or unreasonable</catchphrase>
+<catchphrase >costs</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -87,10 +87,10 @@
 <sentence id="s38">In particular, that sum does not include the following costs:
  
  
- &#8226; NRL's costs, which are not quantified in its written submissions;
- &#8226; the costs incurred by the AFL and Ten, neither of whom filed written submissions on costs (presumably because they had already reached agreement with Seven);
- &#8226; certain costs incurred by Respondents, but which they apparently cannot now recover against Seven by reason of previous orders of the Court; and
- &#8226; costs incurred by the Respondents after delivery of the Principal Judgment.</sentence>
+ #8226; NRL's costs, which are not quantified in its written submissions;
+ #8226; the costs incurred by the AFL and Ten, neither of whom filed written submissions on costs (presumably because they had already reached agreement with Seven);
+ #8226; certain costs incurred by Respondents, but which they apparently cannot now recover against Seven by reason of previous orders of the Court; and
+ #8226; costs incurred by the Respondents after delivery of the Principal Judgment.</sentence>
 <sentence id="s39">
  
 
@@ -211,11 +211,11 @@
 <sentence id="s89">27 The following matters were dealt with at the hearing:
  
  
- &#8226; orders were made in relation to non-contentious issues, including the orders to which I have already referred;
- &#8226; orders were made resolving the Cross-Claim and formally dismissing the proceedings brought by Seven against the Costs Respondents;
- &#8226; an order was made, pursuant to FCR , O 52 r 15(1)(a)(iii), fixing the time for the filing of a notice of appeal by Seven as 22 October 2007;
- &#8226; I heard argument as to whether Seven should be ordered to pay the costs incurred by the Costs Respondents after 16 August 2005 on an indemnity basis; and 
- &#8226; I made directions to enable the Court to deal with the quantification of costs, once the claim for indemnity costs has been resolved.</sentence>
+ #8226; orders were made in relation to non-contentious issues, including the orders to which I have already referred;
+ #8226; orders were made resolving the Cross-Claim and formally dismissing the proceedings brought by Seven against the Costs Respondents;
+ #8226; an order was made, pursuant to FCR , O 52 r 15(1)(a)(iii), fixing the time for the filing of a notice of appeal by Seven as 22 October 2007;
+ #8226; I heard argument as to whether Seven should be ordered to pay the costs incurred by the Costs Respondents after 16 August 2005 on an indemnity basis; and 
+ #8226; I made directions to enable the Court to deal with the quantification of costs, once the claim for indemnity costs has been resolved.</sentence>
 <sentence id="s90">
  
  
@@ -416,10 +416,10 @@
 48 Seven relies on four matters in particular to show that its rejection of the joint offer of compromise was not unreasonable:
  
  
- &#8226; the offer of compromise was made at a time when the trial was imminent and Seven had already incurred very substantial costs, a proportion of which would not have been recouped if the offer had been accepted;
- &#8226; the offer represented only two per cent of the damages claimed, even ignoring evidence which was said to support a much larger damages claim of up to $1.1 billion;
- &#8226; the offer did not reflect the potential implications of the injunctive and other relief sought by Seven; and
- &#8226; the respondents faced the risk of being ordered to pay damages of up to $480 million (a figure which, when grossed up for interest and tax, was supported by the report prepared by Professor McFadden).</sentence>
+ #8226; the offer of compromise was made at a time when the trial was imminent and Seven had already incurred very substantial costs, a proportion of which would not have been recouped if the offer had been accepted;
+ #8226; the offer represented only two per cent of the damages claimed, even ignoring evidence which was said to support a much larger damages claim of up to $1.1 billion;
+ #8226; the offer did not reflect the potential implications of the injunctive and other relief sought by Seven; and
+ #8226; the respondents faced the risk of being ordered to pay damages of up to $480 million (a figure which, when grossed up for interest and tax, was supported by the report prepared by Professor McFadden).</sentence>
 <sentence id="s158">
  
 
@@ -447,8 +447,8 @@
 <sentence id="s171">(Conti J dissented on the appeal and thus did not need to address the question of indemnity costs.</sentence>
 <sentence id="s172">) Their Honours reasoned as follows (at [7]-[8]):
  
- 'The mere making of an offer of compromise and its non-acceptance, followed by a result more favourable to the offeror, does not automatically lead to an order for payment of costs on an indemnity basis: John S Hayes &amp; Associates Pty Ltd v Kimberley-Clark Australia Pty Ltd (1994) 52 FCR 201 at 204-206; MGICA (1992) Pty Ltd v Kenny &amp; Good Pty Ltd (No 2) (1996) 70 FCR 236 at 239.</sentence>
-<sentence id="s173">The applicant for a more generous award must show that the rejection of the offer was imprudent or plainly unreasonable: NMFM Property Pty Ltd v Citibank Ltd (No 2) (" NMFM ") [2001] FCA 480 ; (2001) 109 FCR 77 at 98; Australian Competition &amp; Consumer Commission v Australian Safeway Stores Pty Ltd (No 3) [2002] FCA 1294 at [28] ; Sydney Markets Ltd v Sydney Flower Market Pty Ltd [2002] FCA 283 at [16] - [17] and [23].</sentence>
+ 'The mere making of an offer of compromise and its non-acceptance, followed by a result more favourable to the offeror, does not automatically lead to an order for payment of costs on an indemnity basis: John S Hayes amp; Associates Pty Ltd v Kimberley-Clark Australia Pty Ltd (1994) 52 FCR 201 at 204-206; MGICA (1992) Pty Ltd v Kenny amp; Good Pty Ltd (No 2) (1996) 70 FCR 236 at 239.</sentence>
+<sentence id="s173">The applicant for a more generous award must show that the rejection of the offer was imprudent or plainly unreasonable: NMFM Property Pty Ltd v Citibank Ltd (No 2) (" NMFM ") [2001] FCA 480 ; (2001) 109 FCR 77 at 98; Australian Competition amp; Consumer Commission v Australian Safeway Stores Pty Ltd (No 3) [2002] FCA 1294 at [28] ; Sydney Markets Ltd v Sydney Flower Market Pty Ltd [2002] FCA 283 at [16] - [17] and [23].</sentence>
 <sentence id="s174">
  
  Whatever the position may be with an offer made under Order 23, a Calderbank offer, or any offer of compromise outside the regime in Order 23, is unlikely to serve its purpose of attracting an indemnity award of costs if the rejecting applicant fails to recover more than what is offered, unless the offer is a reasonable one and contains a statement of the reasons the offeror maintains that the application will fail.</sentence>
@@ -548,7 +548,7 @@
 <sentence id="s232">
  
 
-Nonetheless, the fact that the unsuccessful applicant rejected an offer of compromise made by a respondent pursuant to O 23 is far from determinative on the question of indemnity costs, as the cases illustrate: see, for example, Flemington Properties Pty Ltd v Raine &amp; Horne Commercial Pty Ltd [1998] FCA 53 ; Port Kembla Coal Terminal v Braverus .</sentence>
+Nonetheless, the fact that the unsuccessful applicant rejected an offer of compromise made by a respondent pursuant to O 23 is far from determinative on the question of indemnity costs, as the cases illustrate: see, for example, Flemington Properties Pty Ltd v Raine amp; Horne Commercial Pty Ltd [1998] FCA 53 ; Port Kembla Coal Terminal v Braverus .</sentence>
 <sentence id="s233">67 The present case was very complex.</sentence>
 <sentence id="s234">Seven relied on many causes of action and advanced many alternative contentions.</sentence>
 <sentence id="s235">In a case of this kind, it can be especially difficult for the trial Judge to assess whether the rejection of an offer of compromise, in the circumstances prevailing at the time the offer was made, was ' imprudent ' or ' unreasonable '.</sentence>
@@ -567,21 +567,21 @@ Nonetheless, the fact that the unsuccessful applicant rejected an offer of compr
 <sentence id="s246">These include the following:
  
  
- &#8226; The Principal Judgment finds that Seven ' leaked ' to the press the very information which provided the foundation for its cause of action based upon alleged breaches of confidentiality ([2965], [2973]-[2974]).</sentence>
+ #8226; The Principal Judgment finds that Seven ' leaked ' to the press the very information which provided the foundation for its cause of action based upon alleged breaches of confidentiality ([2965], [2973]-[2974]).</sentence>
 <sentence id="s247">The fact that the information had been leaked to the media in late 2000 would, of course, have been known to Seven in August 2005.</sentence>
-<sentence id="s248">&#8226; Similarly, Seven must have known in August 2005 that it did not intend to utilise access to the Telstra Cable for the purpose of enabling C7 to provide retail pay television services to subscribers ([2802]).</sentence>
+<sentence id="s248">#8226; Similarly, Seven must have known in August 2005 that it did not intend to utilise access to the Telstra Cable for the purpose of enabling C7 to provide retail pay television services to subscribers ([2802]).</sentence>
 <sentence id="s249">This finding was critical to the rejection of Seven's case under s 45(2) of the TP Act that, by denying C7 access to the Telstra Cable, Foxtel and Telstra gave effect to a provision in the BCA that was likely to have the effect of substantially lessening competition in the retail pay television market ([2805]-[2806]).</sentence>
-<sentence id="s250">&#8226; Seven's claim that Foxtel was prepared to pay a predatory price in 2000 for the AFL pay television rights was undercut, at least to a considerable extent, by Mr Stokes' concession in evidence that he regarded the price paid by Foxtel (of $30 million per annum) as a good one for the purchaser ([2253]).</sentence>
+<sentence id="s250">#8226; Seven's claim that Foxtel was prepared to pay a predatory price in 2000 for the AFL pay television rights was undercut, at least to a considerable extent, by Mr Stokes' concession in evidence that he regarded the price paid by Foxtel (of $30 million per annum) as a good one for the purchaser ([2253]).</sentence>
 <sentence id="s251">The predatory pricing claim formed a significant element in Seven's purpose case under s 46 of the TP Act .</sentence>
 <sentence id="s252">Moreover, Seven placed the alleged anti-competitive purpose of News, Foxtel and PBL at the forefront of its submissions on market definition ([1801]).</sentence>
-<sentence id="s253">&#8226; Seven's experts agreed that their evidence as to the existence of the AFL and NRL pay rights markets depended upon a particular understanding of the operation of the anti-siphoning regime created by the Broadcasting Services Act 1992 (Cth).</sentence>
+<sentence id="s253">#8226; Seven's experts agreed that their evidence as to the existence of the AFL and NRL pay rights markets depended upon a particular understanding of the operation of the anti-siphoning regime created by the Broadcasting Services Act 1992 (Cth).</sentence>
 <sentence id="s254">Specifically, both of Seven's experts assumed that the anti-siphoning regime operated in a manner that eliminated, or at least severely limited, the opportunity for pay television operators to acquire exclusive rights to AFL or NRL matches of relatively high quality ([1824], [1827]).</sentence>
 <sentence id="s255">Seven would have been aware, well before August 2005, that pay television operators did not necessarily receive the worst matches under the anti-syphoning regime ([1834], [1852]).</sentence>
-<sentence id="s256">&#8226; The joint bid by Seven and Ten for the AFL broadcasting rights in 2005 was not helpful to Seven's case, insofar as that case rested on the existence of the wholesale sports channel market ([1995] ff).</sentence>
+<sentence id="s256">#8226; The joint bid by Seven and Ten for the AFL broadcasting rights in 2005 was not helpful to Seven's case, insofar as that case rested on the existence of the wholesale sports channel market ([1995] ff).</sentence>
 <sentence id="s257">The nature of the joint bid for the AFL broadcasting rights would, of course, have been known to Seven by August 2005.</sentence>
-<sentence id="s258">&#8226; Mr Stokes gave evidence in the proceedings that supported the Respondents' contention that there was no separate functional wholesale sport channel market ([1981] ff).</sentence>
+<sentence id="s258">#8226; Mr Stokes gave evidence in the proceedings that supported the Respondents' contention that there was no separate functional wholesale sport channel market ([1981] ff).</sentence>
 <sentence id="s259">On one view, Seven should have been aware of Mr Stokes' views on this topic well before the hearing commenced.</sentence>
-<sentence id="s260">&#8226; One major difficulty facing Seven's case that the Master Agreement Provision had the effect of substantially lessening competition in the retail pay television market (a market which the Preliminary Judgment finds existed at the relevant times ([2264])) was the parlous state of Optus' retail pay television business in late 2000 or early 2001 ([2289] ff).</sentence>
+<sentence id="s260">#8226; One major difficulty facing Seven's case that the Master Agreement Provision had the effect of substantially lessening competition in the retail pay television market (a market which the Preliminary Judgment finds existed at the relevant times ([2264])) was the parlous state of Optus' retail pay television business in late 2000 or early 2001 ([2289] ff).</sentence>
 <sentence id="s261">Much of the evidence that led to findings that Optus would not have continued operating as an independent retail pay television provider was available to Seven by August 2005 (although not the witness statement of Mr Lee, whose evidence relating to these matters I accepted ([2854])).</sentence>
 <sentence id="s262">
  
@@ -613,22 +613,22 @@ Nonetheless, the fact that the unsuccessful applicant rejected an offer of compr
 <sentence id="s286">In my view, these include the following:
  
  
- &#8226; Seven succeeded in establishing one of the four markets on which it relied, namely the retail pay television market ([2077]).</sentence>
+ #8226; Seven succeeded in establishing one of the four markets on which it relied, namely the retail pay television market ([2077]).</sentence>
 <sentence id="s287">It did so over the strenuous opposition of the Respondents.</sentence>
 <sentence id="s288">This finding opened a pathway to a favourable outcome for Seven's case under s 45(2) of the TP Act , insofar as it was based on anti-competitive effects of the Master Agreement Provision.</sentence>
-<sentence id="s289">&#8226; I made other findings in the Principal Judgment that were favourable to Seven's case.</sentence>
+<sentence id="s289">#8226; I made other findings in the Principal Judgment that were favourable to Seven's case.</sentence>
 <sentence id="s290">These included a finding that the Master Agreement existed and that the Master Agreement Provision was likely to have the effect that Foxtel would acquire the AFL pay television rights for 2002 to 2006 ([2281]).</sentence>
-<sentence id="s291">&#8226; Seven's effects case under s 45(2) of the TP Act included its contention that the Foxtel-Optus CSA had the effect or likely effect of substantially lessening competition in the retail pay television market.</sentence>
+<sentence id="s291">#8226; Seven's effects case under s 45(2) of the TP Act included its contention that the Foxtel-Optus CSA had the effect or likely effect of substantially lessening competition in the retail pay television market.</sentence>
 <sentence id="s292">This contention failed, largely because of findings that Optus would not have continued as a serious competitor in the retail pay television market, regardless of the alleged anti-competitive conduct (see, for example, [2309]-[2310]).</sentence>
 <sentence id="s293">While there was material available to Seven in August 2005 that suggested that such findings would be made, the material was by no means unequivocal.</sentence>
 <sentence id="s294">Moreover, Mr Lee's statement had not been filed at that time (it was dated 16 September 2005).</sentence>
 <sentence id="s295">Accordingly, if the position is viewed as at August 2005, Seven was reasonably entitled to consider that the Respondents might not have obtained the findings they sought in relation to Optus' role in the retail pay television market.</sentence>
-<sentence id="s296">&#8226; Seven's case on the other three markets propounded by it was supported by detailed reports prepared by two well-credentialled experts.</sentence>
+<sentence id="s296">#8226; Seven's case on the other three markets propounded by it was supported by detailed reports prepared by two well-credentialled experts.</sentence>
 <sentence id="s297">While Seven must have known that the experts would be strongly challenged and must also have appreciated that certain assumptions made by them might be difficult to sustain, this is by no means unusual in a case involving complex market definition issues.</sentence>
 <sentence id="s298">Seven could reasonably have taken the view in August 2005 that it had an arguable case in relation to the existence of the AFL and NRL pay rights markets and of the wholesale sports channel market.</sentence>
 <sentence id="s299">Moreover, both of Seven's competition experts were made aware of the proposal by Seven and Ten in 2005 to acquire the AFL broadcasting rights for 2007 to 2011.</sentence>
 <sentence id="s300">Both indicated that the information did not alter the opinions they had expressed.</sentence>
-<sentence id="s301">&#8226; The discovery process elicited documents that, on their face, provided support for some of Seven's key contentions.</sentence>
+<sentence id="s301">#8226; The discovery process elicited documents that, on their face, provided support for some of Seven's key contentions.</sentence>
 <sentence id="s302">These included the internal Telstra communications referring to Mr Blomfield's ' killing C7 ' statements ([2529]-[2530]); the congratulatory email sent by Mr Mansfield, the Chairman of Telstra, on 20 December 2000 ([1112]); and documents perhaps suggesting that written statements of Mr Macourt and Mr Philip were not necessarily to be accepted at face value.</sentence>
 <sentence id="s303">
  
@@ -683,7 +683,7 @@ Dated: 26 September 2007
  Solicitors for the Twelfth Respondent (ARL): Sparke Helmore Lawyers Counsel for the Fourteenth Respondent (NRL Ltd): Mr T O'Reilly 
  Solicitors for the Fourteenth Respondent (NRL Ltd): Kennedys Counsel for the Sixteenth and Twenty-Second Respondents/First and Second Cross-Claimants (Optus Parties): Mr M J Leeming SC 
  
- Solicitors for the Sixteenth and Twenty-Second Respondents/First and Second Cross-Claimants (Optus Parties): Chang Pistilli &amp; Simmons Corporate Lawyers 
+ Solicitors for the Sixteenth and Twenty-Second Respondents/First and Second Cross-Claimants (Optus Parties): Chang Pistilli amp; Simmons Corporate Lawyers 
  
  
  
@@ -696,5 +696,9 @@ Dated: 26 September 2007
  URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/1489.html 
  
  </sentence>
+</sentences>
+</case>sentence>
+</sentences>
+</case>case>sentence>
 </sentences>
 </case>

@@ -3,12 +3,12 @@
 <name>SZIWV v Minister for Immigration and Citizenship [2007] FCA 1338 (5 September 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1338.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from a decision of a federal magistrate</catchphrase>
-<catchphrase "id=c1">non-attendance at hearing</catchphrase>
-<catchphrase "id=c2">whether the protection visa application was invalid</catchphrase>
-<catchphrase "id=c3">whether the tribunal's decision was authorised by the act</catchphrase>
-<catchphrase "id=c4">appeal dismissed.</catchphrase>
-<catchphrase "id=c5">migration</catchphrase>
+<catchphrase >appeal from a decision of a federal magistrate</catchphrase>
+<catchphrase >non-attendance at hearing</catchphrase>
+<catchphrase >whether the protection visa application was invalid</catchphrase>
+<catchphrase >whether the tribunal's decision was authorised by the act</catchphrase>
+<catchphrase >appeal dismissed.</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -163,7 +163,7 @@
 <sentence id="s124">
 
 That decision is both on point and binding.</sentence>
-<sentence id="s125">35 A similar result was reached in NAWZ v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2004] FCAFC 199.</sentence>
+<sentence id="s125">35 A similar result was reached in NAWZ v Minister for Immigration amp; Multicultural amp; Indigenous Affairs [2004] FCAFC 199.</sentence>
 <sentence id="s126">In that case, the Full Court said at [17]-[18]:
  
  17 We do not consider that the requirement in Reg 2.07 that the approved form must be completed 'in accordance with any directions on it' necessitates that any departure from those directions spells invalidity for an application.</sentence>
@@ -173,7 +173,7 @@ That decision is both on point and binding.</sentence>
 <sentence id="s130">
 
 36 The appellant did not have to strictly comply with reg 2.07 to create a valid application.</sentence>
-<sentence id="s131">Substantial compliance was sufficient: Bal v Minister for Immigration &amp; Multicultural Affairs 189 ALR 156; Wu v Minister for Immigration and Ethnic Affairs (1996) 64 FCR 245.</sentence>
+<sentence id="s131">Substantial compliance was sufficient: Bal v Minister for Immigration amp; Multicultural Affairs 189 ALR 156; Wu v Minister for Immigration and Ethnic Affairs (1996) 64 FCR 245.</sentence>
 <sentence id="s132">37 It follows that the appellant's application was a valid application.</sentence>
 <sentence id="s133">It follows that both the delegate's decision and the Tribunal's decision on review were authorised by the Act.</sentence>
 <sentence id="s134">That was the conclusion of the Federal Magistrate.</sentence>
@@ -205,4 +205,8 @@ Dated: 5 September 2007
  
  </sentence>
 </sentences>
-</case>
+</case>se>ml 
+ 
+ </sentence>
+</sentences>
+</case>se>

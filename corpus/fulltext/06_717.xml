@@ -3,16 +3,16 @@
 <name>Tower Software Engineering Pty Limited; Pendant Software Pty Limited v Harwood [2006] FCA 717 (6 June 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/717.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">interlocutory application to restrain defendant from taking any further step in a proceeding/application in the takeovers panel</catchphrase>
-<catchphrase "id=c1">interlocutory application for orders to dismiss or stay court proceeding</catchphrase>
-<catchphrase "id=c2">pre-emptive rights regime under company constitution</catchphrase>
-<catchphrase "id=c3">takeover offer</catchphrase>
-<catchphrase "id=c4">whether it is within discretion of directors to refuse to register acceptance of shares for reason that may prevent a higher bid</catchphrase>
-<catchphrase "id=c5">where application made to takeovers panel</catchphrase>
-<catchphrase "id=c6">whether same substratum of facts before takeovers panel and the court</catchphrase>
-<catchphrase "id=c7">whether declaration by the takeovers panel would render proceeding in court nugatory</catchphrase>
-<catchphrase "id=c8">role of the takeovers panel under the corporations act</catchphrase>
-<catchphrase "id=c9">corporations</catchphrase>
+<catchphrase >interlocutory application to restrain defendant from taking any further step in a proceeding/application in the takeovers panel</catchphrase>
+<catchphrase >interlocutory application for orders to dismiss or stay court proceeding</catchphrase>
+<catchphrase >pre-emptive rights regime under company constitution</catchphrase>
+<catchphrase >takeover offer</catchphrase>
+<catchphrase >whether it is within discretion of directors to refuse to register acceptance of shares for reason that may prevent a higher bid</catchphrase>
+<catchphrase >where application made to takeovers panel</catchphrase>
+<catchphrase >whether same substratum of facts before takeovers panel and the court</catchphrase>
+<catchphrase >whether declaration by the takeovers panel would render proceeding in court nugatory</catchphrase>
+<catchphrase >role of the takeovers panel under the corporations act</catchphrase>
+<catchphrase >corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -155,10 +155,10 @@ A copy of that advice was given to Mr Frost who sought counsel's advice in respo
 
  
  
- &#8226; have been properly stamped; 
- &#8226; are signed by a member of Tower as transferor and Pendant Software as transferee; 
- &#8226; are in respect of shares in Tower of which the transferring member is registered as the holder; and 
- &#8226; relate to shares in respect of which rule 120 of Tower's Constitution either does not apply or has been satisfied; 
+ #8226; have been properly stamped; 
+ #8226; are signed by a member of Tower as transferor and Pendant Software as transferee; 
+ #8226; are in respect of shares in Tower of which the transferring member is registered as the holder; and 
+ #8226; relate to shares in respect of which rule 120 of Tower's Constitution either does not apply or has been satisfied; 
  
 
 
@@ -659,9 +659,9 @@ Dated: 7 June 2006
  
  Solicitor for the plaintiff: Septimus Lee Jones 
  
- Counsel for the 1 st , 4 th &amp; 5 th defendants: R Strong 
+ Counsel for the 1 st , 4 th amp; 5 th defendants: R Strong 
  
- Solicitor for the 1 st , 4 th &amp; 5 th defendants: Mallesons Stephen Jaques 
+ Solicitor for the 1 st , 4 th amp; 5 th defendants: Mallesons Stephen Jaques 
  
  Counsel for the 2 nd defendant: J Dixon 
  
@@ -679,4 +679,8 @@ Dated: 7 June 2006
  
  </sentence>
 </sentences>
-</case>
+</case>/case>cases/cth/FCA/2006/717.html 
+ 
+ </sentence>
+</sentences>
+</case>/case>

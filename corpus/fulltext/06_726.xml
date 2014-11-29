@@ -3,10 +3,10 @@
 <name>Nokia Corporation v Cellular Line Australia Pty Ltd [2006] FCA 726 (14 June 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/726.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for summary judgment</catchphrase>
-<catchphrase "id=c1">trade mark infringement</catchphrase>
-<catchphrase "id=c2">no real or arguable defence</catchphrase>
-<catchphrase "id=c3">practice and procedure</catchphrase>
+<catchphrase >application for summary judgment</catchphrase>
+<catchphrase >trade mark infringement</catchphrase>
+<catchphrase >no real or arguable defence</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -268,7 +268,7 @@ Mr Assi's 'affidavit' also contained a heading titled "Comments on affidavit of 
 <sentence id="s194">As the applicant conceded, s 31A of the Federal Court Act does not apply to this proceeding.</sentence>
 <sentence id="s195">Accordingly, the Court should apply the authorities cited above.</sentence>
 <sentence id="s196">46 Whether or not the Court is satisfied that that there is no real question to be tried (see Fancourt at 99) will depend entirely on the circumstances of the case.</sentence>
-<sentence id="s197">By its affidavits, Nokia is required to make out such facts as are necessary for its cause of action: see Rourke v Victorian Finance Guarantee and Share Co Ltd (1894) 20 VLR 8 at 11 and Evans Deakin &amp; Co Pty Ltd v Kaiser Engineers and Constructors Inc [1968] Qd R 379 at 382.</sentence>
+<sentence id="s197">By its affidavits, Nokia is required to make out such facts as are necessary for its cause of action: see Rourke v Victorian Finance Guarantee and Share Co Ltd (1894) 20 VLR 8 at 11 and Evans Deakin amp; Co Pty Ltd v Kaiser Engineers and Constructors Inc [1968] Qd R 379 at 382.</sentence>
 <sentence id="s198">Once Nokia has filed the requisite affidavits, the respondents must place evidence before the Court that deals specifically with the Nokia's claim, and state clearly what their defence is and what facts are relied on to support that defence.</sentence>
 <sentence id="s199">A mere general denial is usually not sufficient to avoid summary judgment: see Wallingford v The Mutual Society (1880) 5 AC 685 at 704; also O 11 r 13 of the Rules.</sentence>
 <sentence id="s200">Where the outcome of a case depends on the resolution of disputed facts, the Court should be especially cautious to order summary judgment: see Webster at 603 per Mason CJ, Deane and Dawson JJ.</sentence>
@@ -276,7 +276,7 @@ Mr Assi's 'affidavit' also contained a heading titled "Comments on affidavit of 
 <sentence id="s202">The Court retains discretion to refuse summary judgment, although that discretion must be exercised judicially.</sentence>
 <sentence id="s203">47 By its statement of claim the applicant alleged that the respondents have contravened s 120 of the Act .</sentence>
 <sentence id="s204">Under this provision a trade mark will be infringed where a mark which is "substantially identical with, or deceptively similar to" a registered trade mark is used in relation to the same goods as the registered goods.</sentence>
-<sentence id="s205">The use complained of must be "use by the alleged infringer as a trade mark" and this requires consideration of the "purpose and nature of the impugned use": see Shell Co of Australia Ltd v Esso Standard Oil (Australia) Ltd [1961] HCA 75 ; (1963) 109 CLR 407 at 426 per Kitto J as cited in Johnson &amp; Johnson Australia Pty Ltd v Sterling Pharmaceuticals Pty Ltd (1991) 30 FCR 326 at 347 per Gummow J.</sentence>
+<sentence id="s205">The use complained of must be "use by the alleged infringer as a trade mark" and this requires consideration of the "purpose and nature of the impugned use": see Shell Co of Australia Ltd v Esso Standard Oil (Australia) Ltd [1961] HCA 75 ; (1963) 109 CLR 407 at 426 per Kitto J as cited in Johnson amp; Johnson Australia Pty Ltd v Sterling Pharmaceuticals Pty Ltd (1991) 30 FCR 326 at 347 per Gummow J.</sentence>
 <sentence id="s206">It is clear that the respondents' use of the allegedly infringing marks is use for the purposes of trade.</sentence>
 <sentence id="s207">48 The third and fourth respondents have, in essence, admitted that they have infringed the Nokia Trade Marks.</sentence>
 <sentence id="s208">Nokia's evidence of the trap purchases from them and Mr Taylor's evidence that the goods were counterfeit made out Nokia's case of trade mark infringement against them.</sentence>
@@ -334,7 +334,7 @@ That is, these statements apparently concede that the first and second responden
 <sentence id="s254">" 
 
 
-As his Honour observed those who carry on business through corporate structures have advantages that those who carry on business on their own account do not enjoy, but they also acquire disabilities and obligations: compare Clout (Trustee) v Anscor Pty Ltd [2001] FCA 604 at [23] per Drummond J and Melaleuca of Australia &amp; New Zealand Pty Ltd v Duck [2005] FCA 1481 at [14] - [15] per Bennett J.</sentence>
+As his Honour observed those who carry on business through corporate structures have advantages that those who carry on business on their own account do not enjoy, but they also acquire disabilities and obligations: compare Clout (Trustee) v Anscor Pty Ltd [2001] FCA 604 at [23] per Drummond J and Melaleuca of Australia amp; New Zealand Pty Ltd v Duck [2005] FCA 1481 at [14] - [15] per Bennett J.</sentence>
 <sentence id="s255">58 In this case, the second respondent did not provide any financial or other information about the first respondent other than what might be gleaned from his evidence at the hearing.</sentence>
 <sentence id="s256">If the evidence remained the same, I would not permit the first respondent to proceed to trial without legal representation.</sentence>
 <sentence id="s257">The second respondent has, however, proceeded until this point of the proceeding as though he represented both himself and the first respondent.</sentence>
@@ -383,4 +383,6 @@ Dated: 14 June 2006
  
  </sentence>
 </sentences>
-</case>
+</case>se>nce>
+</sentences>
+</case>se>

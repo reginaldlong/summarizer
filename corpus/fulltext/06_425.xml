@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <case>
-<name>SZDSI v Minister for Immigration &amp; Multicultural Affairs [2006] FCA 425 (19 April 2006)</name>
+<name>SZDSI v Minister for Immigration amp; Multicultural Affairs [2006] FCA 425 (19 April 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/425.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">duty of the tribunal as an inquisitor to act fairly</catchphrase>
-<catchphrase "id=c1">whether appellant ought to be allowed to rely upon grounds expressly abandoned and not argued below</catchphrase>
-<catchphrase "id=c2">refusal of relief on discretionary grounds</catchphrase>
-<catchphrase "id=c3">unwarrantable delay</catchphrase>
-<catchphrase "id=c4">considerations of reasonableness in respect of possible relocation within country of nationality.</catchphrase>
-<catchphrase "id=c5">migration</catchphrase>
+<catchphrase >duty of the tribunal as an inquisitor to act fairly</catchphrase>
+<catchphrase >whether appellant ought to be allowed to rely upon grounds expressly abandoned and not argued below</catchphrase>
+<catchphrase >refusal of relief on discretionary grounds</catchphrase>
+<catchphrase >unwarrantable delay</catchphrase>
+<catchphrase >considerations of reasonableness in respect of possible relocation within country of nationality.</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -146,7 +146,7 @@ In the circumstances of the case their Honours were not prepared to find that th
  
  'In a case such as the present, once it has been shown that there has been a denial of procedural fairness the decision which is challenged will be set aside unless the facts are such that a properly conducted proceeding could not possible (sic) have produced a different result: Stead v State Government Insurance Commission [1986] HCA 54 ; (1986) 161 CLR 141 ...' 
 
-14 In SZBDM v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs ('SZBDM') [2005] FCA 1080 Conti J distinguished the judgment of the Full Court in WACO .</sentence>
+14 In SZBDM v Minister for Immigration amp; Multicultural amp; Indigenous Affairs ('SZBDM') [2005] FCA 1080 Conti J distinguished the judgment of the Full Court in WACO .</sentence>
 <sentence id="s64">At [29] his Honour said:
  
  '... it is not I think the Tribunal's role to challenge each facet of evidence it thinks to be deficient in some way.</sentence>
@@ -617,7 +617,7 @@ In the circumstances of the case their Honours were not prepared to find that th
 <sentence id="s221">APPLICATION FOR REVIEW BY THE TRIBUNAL 
  
 35 On 18 November 1993 the Appellant applied to the Tribunal for review of the Minister's delegate's decision of 27 October 1993.</sentence>
-<sentence id="s222">36 On 2 December 1993 Adrian Joel &amp; Co, Immigration --- Permanent Residence Solicitors and Consultants, wrote on behalf of the Appellant to the Tribunal providing additional documents in support of the Appellant's claims for refugee status.</sentence>
+<sentence id="s222">36 On 2 December 1993 Adrian Joel amp; Co, Immigration --- Permanent Residence Solicitors and Consultants, wrote on behalf of the Appellant to the Tribunal providing additional documents in support of the Appellant's claims for refugee status.</sentence>
 <sentence id="s223">Amongst other things, the letter commented on the record of the delegate's decision.</sentence>
 <sentence id="s224">The solicitors' letter foreshadowed that the Appellant would seek to obtain further material from Bangladesh in support of his claim of 'a well-founded fear of persecution should he be compelled to return to Bangladesh'.</sentence>
 <sentence id="s225">By his own act the Appellant directed the attention of the Tribunal to the Minister's delegate's record of her decision.</sentence>
@@ -1103,10 +1103,10 @@ In the circumstances of the case their Honours were not prepared to find that th
  APPELLANT'S INACTION: 1996 - 2000 
  
 48 Subsequent to the handing down by the Tribunal of its decision in April 1996, the Appellant took no action to seek relief in respect of that decision until 17 July 2000.</sentence>
-<sentence id="s492">At that time the Appellant became a party to the Muin v Refugee Review Tribunal &amp; Ors ('Muin') [2002] HCA 30 ; (2002) 190 ALR 601 class action (S36 of 1999) in the High Court of Australia.</sentence>
+<sentence id="s492">At that time the Appellant became a party to the Muin v Refugee Review Tribunal amp; Ors ('Muin') [2002] HCA 30 ; (2002) 190 ALR 601 class action (S36 of 1999) in the High Court of Australia.</sentence>
 <sentence id="s493">49 Pursuant to orders made by Gaudron J on 25 November 2002 in the Muin proceedings a draft order nisi was filed by the Appellant in the High Court of Australia on 29 May 2003 seeking constitutional writ relief in respect of the decision of the Tribunal of 26 April 1996.</sentence>
 <sentence id="s494">The grounds upon which relief was sought were that the Tribunal allegedly failed to accord the Appellant procedural fairness.</sentence>
-<sentence id="s495">On 22 January 2004 the Appellant, who was again represented by Adrian Joel &amp; Co, Solicitors, discontinued his application for constitutional writ relief in the High Court.</sentence>
+<sentence id="s495">On 22 January 2004 the Appellant, who was again represented by Adrian Joel amp; Co, Solicitors, discontinued his application for constitutional writ relief in the High Court.</sentence>
 <sentence id="s496">2004 APPLICATION FOR CONSTITUTIONAL WRIT RELIEF 
  
 50 Thereafter, on 31 May 2004 the Appellant applied to the Federal Magistrates Court of Australia for constitutional writ relief in respect of the decision of the Tribunal of 26 April 1996.</sentence>
@@ -1535,4 +1535,8 @@ Dated: 19 April 2006
  
  </sentence>
 </sentences>
-</case>
+</case>/case>
+ 
+ </sentence>
+</sentences>
+</case>/case>

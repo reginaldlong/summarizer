@@ -3,11 +3,11 @@
 <name>Handberg, in the matter of Greight Pty Ltd (in liq) [2006] FCA 17 (25 January 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/17.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">removal of liquidator</catchphrase>
-<catchphrase "id=c1">standing to apply</catchphrase>
-<catchphrase "id=c2">single liquidator of several corporations</catchphrase>
-<catchphrase "id=c3">actual conflict</catchphrase>
-<catchphrase "id=c4">corporations</catchphrase>
+<catchphrase >removal of liquidator</catchphrase>
+<catchphrase >standing to apply</catchphrase>
+<catchphrase >single liquidator of several corporations</catchphrase>
+<catchphrase >actual conflict</catchphrase>
+<catchphrase >corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -39,7 +39,7 @@
 <sentence id="s24">By a person with a real interest in the winding up, I mean one whose rights or interests will directly be affected by action taken by a liquidator in the course of performing his (the liquidator's) duties.</sentence>
 <sentence id="s25">If the company is solvent the persons with a real interest are the contributories.</sentence>
 <sentence id="s26">If it is insolvent they are the creditors.</sentence>
-<sentence id="s27">The Privy Council recently considered this question in Deloitte &amp; Touche A.G. v Johnson [1999] UKPC 25 ; [1999] 1 WLR 1605 in relation to the Companies Law of the Cayman Islands which, having regard to its origins, is rather similar to the Australian statute.</sentence>
+<sentence id="s27">The Privy Council recently considered this question in Deloitte amp; Touche A.G. v Johnson [1999] UKPC 25 ; [1999] 1 WLR 1605 in relation to the Companies Law of the Cayman Islands which, having regard to its origins, is rather similar to the Australian statute.</sentence>
 <sentence id="s28">There joint liquidators caused the company in liquidation to bring proceedings in negligence against the company's former auditors.</sentence>
 <sentence id="s29">One of the defendants to the action applied for the removal of the joint liquidators on the ground that they had a conflict of interest.</sentence>
 <sentence id="s30">The Privy Council advised that the liquidators ought not be removed.</sentence>
@@ -102,7 +102,7 @@
 <sentence id="s85">He asks for the appointment of special liquidators to deal with what is the known conflict.</sentence>
 <sentence id="s86">So, one way or another, the matter is before the court.</sentence>
 <sentence id="s87">14 Before deciding what to do, let me make these preliminary observations.</sentence>
-<sentence id="s88">If there are, or are likely to be, disputes between companies in liquidation that are under the control of one liquidator then as a general rule different persons should be appointed as liquidator to each company: In re City and County Investment Co (Ltd) (1877) 25 WR 342; In re Britton &amp; Millard Ltd (1957) 107 L Jo 601.</sentence>
+<sentence id="s88">If there are, or are likely to be, disputes between companies in liquidation that are under the control of one liquidator then as a general rule different persons should be appointed as liquidator to each company: In re City and County Investment Co (Ltd) (1877) 25 WR 342; In re Britton amp; Millard Ltd (1957) 107 L Jo 601.</sentence>
 <sentence id="s89">This is not to say that it is inappropriate to appoint one person as liquidator of a group of companies or of companies that are closely connected: In re Western Life Assurance Society; Ex parte Willett (1870) 5 Ch App 396.</sentence>
 <sentence id="s90">But once the likelihood of conflict becomes apparent it is necessary to take action.</sentence>
 <sentence id="s91">15 Having made those observations, there are two problems in the way of going along with Mr Cant's proposal.</sentence>
@@ -158,4 +158,6 @@ M Galvin
  
  </sentence>
 </sentences>
-</case>
+</case>e> </sentence>
+</sentences>
+</case>e>

@@ -3,11 +3,11 @@
 <name>SZHLI v Minister for Immigration and Citizenship [2007] FCA 1412 (10 September 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1412.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">applicant declining offer to attend hearing of refugee review tribunal</catchphrase>
-<catchphrase "id=c1">migration act 1958 (cth) subsequently amended to introduce right to make oral submissions at hearing</catchphrase>
-<catchphrase "id=c2">whether offer to attend a hearing had to be made again</catchphrase>
-<catchphrase "id=c3">whether applicant had consented to the tribunal deciding the review without the applicant appearing before it</catchphrase>
-<catchphrase "id=c4">migration</catchphrase>
+<catchphrase >applicant declining offer to attend hearing of refugee review tribunal</catchphrase>
+<catchphrase >migration act 1958 (cth) subsequently amended to introduce right to make oral submissions at hearing</catchphrase>
+<catchphrase >whether offer to attend a hearing had to be made again</catchphrase>
+<catchphrase >whether applicant had consented to the tribunal deciding the review without the applicant appearing before it</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -30,9 +30,9 @@
 <sentence id="s13">You now need to tell the Tribunal
  
  
- &#8226; whether or not you want to come to the Tribunal to give oral evidence; and
+ #8226; whether or not you want to come to the Tribunal to give oral evidence; and
  
- &#8226; whether or not you want to ask the Tribunal to obtain evidence from other people.</sentence>
+ #8226; whether or not you want to ask the Tribunal to obtain evidence from other people.</sentence>
 <sentence id="s14">
  
  PLEASE COMPLETE THE ENCLOSED "RESPONSE TO HEARING OFFER" FORM AND RETURN IT TO THE TRIBUNAL BY 26 March 1999.</sentence>
@@ -211,4 +211,6 @@ Dated: 10 September 2007
  
  </sentence>
 </sentences>
-</case>
+</case>e> </sentence>
+</sentences>
+</case>e>

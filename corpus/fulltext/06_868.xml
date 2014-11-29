@@ -3,11 +3,11 @@
 <name>Schwabe Pharma (Aust) Pty Ltd v AusPharm.Net.Au Pty Ltd (with Corrigendum dated 12 July 2006) [2006] FCA 868 (5 July 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/868.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for interlocutory injunction</catchphrase>
-<catchphrase "id=c1">consideration of whether conduct concerning the formulation of a review report involved a contravention of s 52</catchphrase>
-<catchphrase "id=c2">consideration of whether the conduct occurred 'in' trade or commerce rather than in connection with or in relation to trade or commerce</catchphrase>
-<catchphrase "id=c3">consideration of the public interest in the context of the therapeutic goods act 1989 (cth).</catchphrase>
-<catchphrase "id=c4">practice and procedure</catchphrase>
+<catchphrase >application for interlocutory injunction</catchphrase>
+<catchphrase >consideration of whether conduct concerning the formulation of a review report involved a contravention of s 52</catchphrase>
+<catchphrase >consideration of whether the conduct occurred 'in' trade or commerce rather than in connection with or in relation to trade or commerce</catchphrase>
+<catchphrase >consideration of the public interest in the context of the therapeutic goods act 1989 (cth).</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -22,7 +22,7 @@
 <sentence id="s7">The respondents provided an undertaking that the report would not be further published without leave, in order to preserve the interim position pending the pronouncement of judgment in the matter.</sentence>
 <sentence id="s8">BACKGROUND 
  
-5 The first applicant in the proceeding, Schwabe Pharma (Aust) Pty Ltd, is a wholly owned subsidiary of a German company described as Schwabe International GmbH which is a subsidiary of Dr Willmar Schwabe GmbH &amp; Co KG ('DWSG').</sentence>
+5 The first applicant in the proceeding, Schwabe Pharma (Aust) Pty Ltd, is a wholly owned subsidiary of a German company described as Schwabe International GmbH which is a subsidiary of Dr Willmar Schwabe GmbH amp; Co KG ('DWSG').</sentence>
 <sentence id="s9">The first applicant carries on business in Australia as the sponsor of a product called Tebonin which is manufactured in Germany by DWSG.</sentence>
 <sentence id="s10">6 The first applicant has responsibility for maintaining and protecting the intellectual property DWSG holds in relation to its Tebonin product and liaising with regulatory authorities in Australia concerning regulatory approvals for the product.</sentence>
 <sentence id="s11">The second applicant, Natural Health Products Pty Ltd ('Natural Health'), has been appointed by DWSG as its distributor of Tebonin product in Australia.</sentence>
@@ -276,7 +276,7 @@
 <sentence id="s121">Ms Reddy sent Dr Harvey hard copies of two studies she had at hand and available to her.</sentence>
 <sentence id="s122">Dr Harvey thanks Ms Reddy for her assistance, that day.</sentence>
 <sentence id="s123">26 On 2 May 2006, Ms Serene Chiang sent by email three papers to Dr Harvey and copied the email to Mr Sahlholt.</sentence>
-<sentence id="s124">The three papers were a paper by E Ernst &amp; C Stevinson entitled 'Gingko biloba for Tinnitus: A Review', 22 January 1999; 'Gingko biloba special extract EGb 761 in the treatment of tinnitus aurium (Results of a randomised, double-blind, placebo-controlled study)' by Prof C Morgenstern and Dr E Biermann, 1997; and 'The efficacy of Gingko special extract EGb 761 in patients with tinnitus' (C Morgenstern and E Biermann), International Journal or Clinical Pharmacology and Therapeutics, Vol 40 --- No.</sentence>
+<sentence id="s124">The three papers were a paper by E Ernst amp; C Stevinson entitled 'Gingko biloba for Tinnitus: A Review', 22 January 1999; 'Gingko biloba special extract EGb 761 in the treatment of tinnitus aurium (Results of a randomised, double-blind, placebo-controlled study)' by Prof C Morgenstern and Dr E Biermann, 1997; and 'The efficacy of Gingko special extract EGb 761 in patients with tinnitus' (C Morgenstern and E Biermann), International Journal or Clinical Pharmacology and Therapeutics, Vol 40 --- No.</sentence>
 <sentence id="s125">5/2002.</sentence>
 <sentence id="s126">27 Although there is great contention about whether Dr Harvey received this email from Ms Chiang, for present interlocutory purposes I accept the evidence of the applicants that the email was sent and that the email log confirms the transmission of the three papers.</sentence>
 <sentence id="s127">28 On 10 May 2006, Ms Reddy received an email from Dr Harvey in these terms:
@@ -531,7 +531,7 @@
 <sentence id="s270">See also Gleeson CJ, Australian Broadcasting Corporation v Lenah Game Meats Pty Ltd [2001] 208 CLR 119 at 217.</sentence>
 <sentence id="s271">64 I will return to aspects of propositions two and three of his Honour's remarks in Castlemaine Tooheys Ltd v South Australia (supra) shortly.</sentence>
 <sentence id="s272">65 The respondents contend that the observations made by Dr Harvey and the working group are merely expressions of opinion that convey nothing more than that the working group honestly held the opinions reflected in the report.</sentence>
-<sentence id="s273">See James v Australia &amp; New Zealand Banking Group Ltd (1986) 64 ALR 347 at 372; Global Sportsman Pty Ltd v Mirror Newspapers (1984) 2 FCR 82 at 88; Tobacco Institute of Australia v Australian Federation of Consumer Organisations Inc. (1992) 38 FCR 1 at 25-26 and 45-48.</sentence>
+<sentence id="s273">See James v Australia amp; New Zealand Banking Group Ltd (1986) 64 ALR 347 at 372; Global Sportsman Pty Ltd v Mirror Newspapers (1984) 2 FCR 82 at 88; Tobacco Institute of Australia v Australian Federation of Consumer Organisations Inc. (1992) 38 FCR 1 at 25-26 and 45-48.</sentence>
 <sentence id="s274">The respondents contend that the expression of opinion may constitute misleading or deceptive conduct but cannot do so if the authors of the opinion genuinely hold the opinion in question and there is some proper foundation for it.</sentence>
 <sentence id="s275">See the authorities referred to by Weinberg J at [124], Orion Pet Products v RSPCA [2002] FCA 860 ; (2002) 120 FCR 191 at 213.</sentence>
 <sentence id="s276">Dr Harvey says he genuinely holds the opinion reflected in the final report.</sentence>
@@ -691,4 +691,6 @@
  
  </sentence>
 </sentences>
-</case>
+</case>se></sentence>
+</sentences>
+</case>se>

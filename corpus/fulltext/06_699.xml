@@ -3,12 +3,12 @@
 <name>Australian Securities and Investments Commission v Reid (No 1) [2006] FCA 699 (8 June 2006)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/699.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for adjournment based on dietrich principle</catchphrase>
-<catchphrase "id=c1">contempt proceeding</catchphrase>
-<catchphrase "id=c2">nature of contempt proceeding is civil not criminal even though contempt is criminal</catchphrase>
-<catchphrase "id=c3">dietrich principle cannot apply</catchphrase>
-<catchphrase "id=c4">application refused.</catchphrase>
-<catchphrase "id=c5">practice and procedure</catchphrase>
+<catchphrase >application for adjournment based on dietrich principle</catchphrase>
+<catchphrase >contempt proceeding</catchphrase>
+<catchphrase >nature of contempt proceeding is civil not criminal even though contempt is criminal</catchphrase>
+<catchphrase >dietrich principle cannot apply</catchphrase>
+<catchphrase >application refused.</catchphrase>
+<catchphrase >practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -22,7 +22,7 @@
  
  3. that the respondent be committed to prison or otherwise punished for contempt of Court in respect of his breach of the undertaking provided by him to the Honourable Justice Kenny on 8 October 2001 that he would not be involved in the management of a company in any form at all in the future; 
  
- 4. that the respondent pay the applicant&#180;s costs of and incidental to this motion on an indemnity basis; and 
+ 4. that the respondent pay the applicant#180;s costs of and incidental to this motion on an indemnity basis; and 
  
  5. such further or other orders as the Court deems appropriate.</sentence>
 <sentence id="s2">' 
@@ -94,7 +94,7 @@
 
 8 The Court's reasons show that contempt proceedings, or at least the procedure to be adopted in them, is civil rather than criminal in nature even though a Court may find that a person has committed a criminal contempt.</sentence>
 <sentence id="s22">9 There is a long line of authority to suggest that the principle established by Dietrich as to the use of the Court's inherent power to stay or adjourn proceedings until legal representation is obtained relates only to criminal proceedings.</sentence>
-<sentence id="s23">10 The principle in Dietrich was explained in the joint judgment of Mason CJ, Dawson, Toohey and McHugh JJ in New South Wales v Canellis &amp; Ors [1994] HCA 51 ; (1994) 181 CLR 309 (' Canellis ') in the following terms (at 328):
+<sentence id="s23">10 The principle in Dietrich was explained in the joint judgment of Mason CJ, Dawson, Toohey and McHugh JJ in New South Wales v Canellis amp; Ors [1994] HCA 51 ; (1994) 181 CLR 309 (' Canellis ') in the following terms (at 328):
  
  '... the principle established by the decision in that case is that a court has jurisdiction to grant an adjournment or order a permanent stay of proceedings at a trial until such time as an indigent person charged with a serious criminal offence is provided with legal representation necessary for a fair trial or resources for such representation.</sentence>
 <sentence id="s24">' 
@@ -132,7 +132,7 @@
  
  
  "is that a court has jurisdiction to grant an adjournment or order a permanent stay of proceedings at a trial until such time as an indigent person charged with a serious criminal offence is provided with legal representation necessary for a fair trial or resources for such representation.</sentence>
-<sentence id="s36">As the majority judgments made clear, that principle is based on, and derives from, the accused&#180;s right to a fair trial".</sentence>
+<sentence id="s36">As the majority judgments made clear, that principle is based on, and derives from, the accused#180;s right to a fair trial".</sentence>
 <sentence id="s37">
  
 
@@ -158,7 +158,7 @@
 19 In a joint judgment, their Honours said (at [26] --- [28]):
  
  'This provision ensures that the merits of the criminal charge are not in issue in the proceedings concerning surrender and there can be no risk that the appellant will incriminate himself if the legislation is adhered to as it has been during the course of this matter.</sentence>
-<sentence id="s45">Having as its source and origin an accused person&#180;s common law right to a fair trial, the principle in Dietrich&#180;s case has, in our view, no application to a review of extradition proceedings under s 21(1) of the Extradition Act .</sentence>
+<sentence id="s45">Having as its source and origin an accused person#180;s common law right to a fair trial, the principle in Dietrich#180;s case has, in our view, no application to a review of extradition proceedings under s 21(1) of the Extradition Act .</sentence>
 <sentence id="s46">
  
  This view is consistent with unanimous views of the High Court in Canellis .</sentence>
@@ -167,7 +167,7 @@
  
  
  "... the principle established by the decision in that case [Dietrich] is that a court has jurisdiction to grant an adjournment or order a permanent stay of proceedings at a trial until such time as an indigent person charged with a serious criminal offence is provided with legal representation necessary for a fair trial or resources for such representation.</sentence>
-<sentence id="s48">As the majority judgments made clear, the principle is based on, and derives from, the accused&#180;s right to a fair trial.</sentence>
+<sentence id="s48">As the majority judgments made clear, the principle is based on, and derives from, the accused#180;s right to a fair trial.</sentence>
 <sentence id="s49">There is no suggestion in the majority judgments that a court could exercise a similar jurisdiction in civil proceedings or in committal proceedings; nor do they suggest that such a jurisdiction could be exercised in favour of an indigent person charged with a criminal offence which is other than serious.</sentence>
 <sentence id="s50">Furthermore, and this is of decisive importance in the present case, the principle in Dietrich is concerned with the right to a fair trial of a party to criminal proceedings ; ..." 
  
@@ -218,4 +218,8 @@ Dated: 8 June 2006
  
  </sentence>
 </sentences>
-</case>
+</case>/case>
+ 
+ </sentence>
+</sentences>
+</case>/case>

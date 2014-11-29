@@ -3,11 +3,11 @@
 <name>SZGCK v Refugee Review Tribunal [2007] FCA 1247 (17 August 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1247.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">protection visa</catchphrase>
-<catchphrase "id=c1">whether refugee review tribunal failed to accord procedural fairness</catchphrase>
-<catchphrase "id=c2">whether apprehended bias</catchphrase>
-<catchphrase "id=c3">whether non-compliance with s 424a of the migration act 1958 (cth)</catchphrase>
-<catchphrase "id=c4">migration</catchphrase>
+<catchphrase >protection visa</catchphrase>
+<catchphrase >whether refugee review tribunal failed to accord procedural fairness</catchphrase>
+<catchphrase >whether apprehended bias</catchphrase>
+<catchphrase >whether non-compliance with s 424a of the migration act 1958 (cth)</catchphrase>
+<catchphrase >migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -96,10 +96,10 @@
 <sentence id="s39">At those passages, the Tribunal: 
  
  
- &#8226; referred to the appellant's concern about the exempt documents unfairly influencing the Tribunal's decision;
- &#8226; said it could not go into much detail about the contents of the exempt documents;
- &#8226; said the accusations in them were "unsupported"; and
- &#8226; said it would not be taking them into account but would "put them aside".</sentence>
+ #8226; referred to the appellant's concern about the exempt documents unfairly influencing the Tribunal's decision;
+ #8226; said it could not go into much detail about the contents of the exempt documents;
+ #8226; said the accusations in them were "unsupported"; and
+ #8226; said it would not be taking them into account but would "put them aside".</sentence>
 <sentence id="s40">
  
  
@@ -276,4 +276,6 @@ Dated: 17 August 2007
  
  </sentence>
 </sentences>
-</case>
+</case>ase>/sentence>
+</sentences>
+</case>ase>
