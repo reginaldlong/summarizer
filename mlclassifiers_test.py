@@ -325,6 +325,7 @@ parser = OptionParser()
 parser.add_option('-n', action="store", dest="numExamples", type="int", default=2040, help="Number of documents to process. Default:all")
 parser.add_option('--nf', action="store_false", dest="format", default=True, help="Don't reformat examples") 
 parser.add_option('-s', action="store_true", dest="savepkl", default=False, help="Save formatting to pkl") 
+parser.print_help()
 options, remainder = parser.parse_args()
 examplesByDoc, yListsByDoc = loadData()
 categories = [
