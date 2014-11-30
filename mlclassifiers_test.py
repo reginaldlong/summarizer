@@ -6,7 +6,7 @@ import pickle
 from collections import Counter
 import random
 import nltk
-#from optparse import OptionParser
+from optparse import OptionParser
 import sys
 from time import time
 from sklearn.svm import LinearSVC
@@ -25,46 +25,113 @@ import numpy as np
 from sklearn import svm 
 import gzip
 
+def getAdditionalExamples(examples, formattedExamples, wordFrequenciesByDoc):
+	additionalFeatureExamples = []
+	counter = 1
+	for docIndex, doc in enumerate(examples):
+	    print "Adding additional features to Document ", counter
+	    counter += 1
+
+	    sentences, catchphrases = doc
+	    numSentences = len(sentences)
+	    numCatchphrases = len(catchphrases)
+
+	    numSentencesPerDecile = numSentences / 10;
+	    numImpt = 0
+
+	    topCommonWords = wordFrequenciesByDoc[docIndex]
+
+	    for i in xrange(numSentences):
+	        count = formattedExamples[i]
+
+	        additionalFeatures = {}
+
+	        #Extract new document related features: 
+	        additionalFeatures[('numSentencesFeature', 'ADD')] = numSentences
+	        additionalFeatures[('numCatchphrasesFeature', 'ADD')] = numCatchphrases
+	        if i == 0:
+	        	additionalFeatures[('firstSentenceFeature', 'ADD')] = 1
+	        else:
+	        	additionalFeatures[('firstSentenceFeature', 'ADD')] = 0
+	        if i == numSentences - 1:
+	        	additionalFeatures[('lastSentenceFeature', 'ADD')] = 1
+	        else:
+	        	additionalFeatures[('lastSentenceFeature', 'ADD')] = 0
+
+	        for j, word in enumerate(topCommonWords):
+	       		featureName = "topCommonWord" + str(j + 1);
+	       		if word in count:
+	        		additionalFeatures[(featureName, 'ADD')] = 1
+	        	else:
+	        		additionalFeatures[(featureName, 'ADD')] = 0
+
+	        if numSentencesPerDecile != 0:
+	            for decile in xrange(10):
+	                featureName = "decile" + str(decile + 1);
+	                if i / numSentencesPerDecile == decile:
+	                	additionalFeatures[(featureName, 'ADD')] = 1
+
+	    	additionalFeatureExamples.append(additionalFeatures)
+
+	return additionalFeatureExamples
+
 numCatchphrasesByDoc = []
 def formatExamples(examples):
-    examples = examples[0:11]
     formattedExamples = []
     ytrainList = []
+
+    #Find most common words
+    wordFrequenciesByDoc = []
+
     counter = 1
     for sentences, catchphrases in examples:
-        print "Document ", counter
-        counter += 1
-        numSentences = len(sentences)
-        numCatchphrases = len(catchphrases)
+	    print "Processing Document ", counter
+	    counter += 1
+	    documentWordFrequencies = Counter([])
+	    numImpt = 0
+	    for i, sentence in enumerate(sentences):
+	        imptSentence = 0
+	        for c in catchphrases:
+	            if c in sentence:
+	                imptSentence = 1
+	                numImpt += 1
 
-        numSentencesPerDecile = numSentences / 10;
-        numImpt = 0
-        for i, sentence in enumerate(sentences):
-            imptSentence = 0
-            for c in catchphrases:
-                if c in sentence:
-                    imptSentence = 1
-                    numImpt += 1
+	        wordList = nltk.word_tokenize(sentence)
+	        tags = nltk.pos_tag(wordList)
 
-            wordList = sentence.split(' ');
-            count = dict(Counter(nltk.word_tokenize(wordList)))
+	        count = Counter(tags)
+	        documentWordFrequencies.update(count)
+	        formattedExamples.append(dict(count))
+	        ytrainList.append(imptSentence)
 
-            #Extract new document related features: 
-            count['numSentencesFeature'] = numSentences
-            count['numCatchphrasesFeature'] = numCatchphrases
-            count['firstSentenceFeature'] = 50 * (i==0)
-            count['lastSentenceFeature'] = 50 * (i==(numSentences-1))
+	    numCatchphrasesByDoc.append(numImpt)
+	    topCommonWords = documentWordFrequencies.most_common(10)
+	    wordFrequenciesByDoc.append(topCommonWords)
 
-            if numSentencesPerDecile != 0:
-                for decile in xrange(10):
-                    featureName = "decile" + str(i + 1);
-                    count[featureName] = (i / numSentencesPerDecile == decile)
+    vectorizer = DictVectorizer(sparse = True)
+    vectorizer.fit(formattedExamples)
+    X_counts = vectorizer.transform(formattedExamples)
+    y = np.asarray(ytrainList)
+    tfidfTransformer = TfidfTransformer()
+    X_counts = tfidfTransformer.fit_transform(X_counts)
 
-            formattedExamples.append(count)
-            ytrainList.append(imptSentence)
-        numCatchphrasesByDoc.append(numImpt)
+    additionalFeatureExamples = getAdditionalExamples(examples, formattedExamples, wordFrequenciesByDoc)
 
-    return formattedExamples, ytrainList
+
+    #Put them together
+    #X = sp.hstack((X_counts, X_additional), format='csr')
+    tfidfFormattedExamples = vectorizer.inverse_transform(X_counts)
+    for i, tfidfExample in enumerate(tfidfFormattedExamples):
+    	tfidfExample = tfidfExample
+    	additionalFeatures = additionalFeatureExamples[i]
+    	for key, value in additionalFeatures.iteritems():
+    		tfidfExample[key] = value
+
+    	tfidfFormattedExamples[i] = tfidfExample
+
+    X = vectorizer.fit_transform(tfidfFormattedExamples)
+
+    return X, y, vectorizer
 
 def getObjFromPklz(infilename):
     f = gzip.open(infilename, 'rb')
@@ -80,66 +147,53 @@ def writeToPklz(outfilename, obj):
     finally:
         output.close()
 
-'''infilename = 'sentences.pklz'
-f = gzip.open(infilename, 'rb')
-try:
-    sentences = pickle.load(f)
-finally:
-    f.close()
-infilename = 'catchphrases.pklz'
-f = gzip.open(infilename, 'rb')
-try:
-    catchphrases = pickle.load(f)
-finally:
-    f.close()'''
 
-print "Loading examples..."
-#Each element is Doc and its catchphrases
+def loadData():
+	print "Loading examples..."
+	#Each element is Doc and its catchphrases
 
-examples = getObjFromPklz('new_examples.pklz')
-#Globals
-totalExampleCount = len(examples)
-print totalExampleCount, " examples loaded."
+	examples = getObjFromPklz('new_examples.pklz')
+	examples = examples[0:options.numExamples]
 
-allDict, yList = formatExamples(examples)
+	#Globals
+	totalExampleCount = len(examples)
+	print totalExampleCount, "documents loaded."
 
-#writeToPklz('features.pklz', allDict)
-#writeToPklz('valueList.pklz', yList)
-#allDict = getObjFromPklz('features.pklz')
-#yList = getObjFromPklz('valueList.pklz')
-vectorizer = DictVectorizer(sparse = True)
-vectorizer.fit(allDict)
+	if options.format:
+		print "Formatting examples..."
+		X, y, vectorizer = formatExamples(examples)
 
-X = vectorizer.transform(allDict)
-y = np.asarray(yList)
+		if options.savepkl:
+			print "Saving to file..."
+			writeToPklz('X' + str(options.numExamples) + '.pklz', X)
+			writeToPklz('y' + str(options.numExamples) + '.pklz', y)
+			writeToPklz('vectorizer' + str(options.numExamples) + '.pklz', vectorizer)
+	else:
+		print "Getting formatting from file..."
+		X = getObjFromPklz('X' + str(options.numExamples) + '.pklz')
+		y = getObjFromPklz('y' + str(options.numExamples) + '.pklz')
+		vectorizer = getObjFromPklz('vectorizer' + str(options.numExamples) + '.pklz')
 
-#Tfidf
-tfidfTransformer = TfidfTransformer()
-X = tfidfTransformer.fit_transform(X, y)
-#map from indices to feature names
-feature_names = np.asarray(vectorizer.get_feature_names())
+	numCatchphrasesFeatureIndex = vectorizer.vocabulary_.get(('numCatchphrasesFeature', 'ADD'))
+	firstSentenceFeatureIndex = vectorizer.vocabulary_.get(('firstSentenceFeature', 'ADD'))
+	lastSentenceFeatureIndex = vectorizer.vocabulary_.get(('lastSentenceFeature', 'ADD'))
 
+	#Split the numpy arrays into documents
+	examplesByDoc = []
+	yListsByDoc = []
 
-numCatchphrasesFeatureIndex = vectorizer.vocabulary_.get('numCatchphrasesFeature')
-firstSentenceFeatureIndex = vectorizer.vocabulary_.get('firstSentenceFeature')
-lastSentenceFeatureIndex = vectorizer.vocabulary_.get('lastSentenceFeature')
+	firstSentenceIndex = 0
+	for i in xrange(X.shape[0]):
+		if X[i, lastSentenceFeatureIndex] != 0:
+			examplesByDoc.append(X[firstSentenceIndex:i + 1,:])
+			yListsByDoc.append(np.asarray(y[firstSentenceIndex:(i + 1)]))
+		if X[i, firstSentenceFeatureIndex] != 0:
+			firstSentenceIndex = i
 
-#Split the numpy arrays into documents
-examplesByDoc = []
-yListsByDoc = []
+	print "Done constructing design matrix."
 
-firstSentenceIndex = 0
-for i in xrange(X.shape[0]):
-    if X[i, lastSentenceFeatureIndex] != 0:
-        examplesByDoc.append(X[firstSentenceIndex:i + 1, :])
-        yListsByDoc.append(y[firstSentenceIndex:(i + 1)])
-        firstSentenceIndex = i + 1
+	return examplesByDoc, yListsByDoc
 
-categories = [
-        'not important',
-        'important'
-        ]
-print "Done constructing design matrix."
 
 def predict(classifier, X):
     return classifier.predict(X)
@@ -198,51 +252,12 @@ def benchmark(classifier, X_train, y_train, testTuples):
     accumulated = np.array([[0,0],[0,0]])
 
     for X_test, y_test, docIndex in testTuples:
-        confusion_matrix = testOnSet(X_test, y_test, kBest=numCatchphrasesByDoc[docIndex])
+        confusion_matrix = testOnSet(X_test, y_test, kBest=1)
         accumulated = np.add(accumulated, confusion_matrix)
 
     return classifier_descr, accumulated
 
-
-def format():
-    infilename = 'sentences.pklz'
-    f = gzip.open(infilename, 'rb')
-    try:
-        sentences = pickle.load(f)
-    finally:
-        f.close()
-    infilename = 'catchphrases.pklz'
-    f = gzip.open(infilename, 'rb')
-    try:
-        catchphrases = pickle.load(f)
-    finally:
-        f.close()
-    infilename = 'new_examples.pklz'
-    f = gzip.open(infilename, 'rb')
-    try:
-        examples = pickle.load(f)
-    finally:
-        f.close()
-
-    #Globals
-    totalExampleCount = len(examples)
-
-    allDict, yList = formatExamples(examples)
-    vectorizer = DictVectorizer(sparse = True)
-    vectorizer.fit(allDict)
-
-    X = vectorizer.transform(allDict)
-    y = np.asarray(yList)
-
-    tfidfTransformer = TfidfTransformer()
-    X = tfidfTransformer.fit_transform(X, y)
-
-    #map from indices to feature names
-    feature_names = np.asarray(vectorizer.get_feature_names())
-
-
-
-def runTests():
+def runTests(examplesByDoc, yListsByDoc):
     #This is run globally
     #X_train, y_train, X_test, y_test = format()
 
@@ -271,6 +286,7 @@ def runTests():
             else:
                 X_train = sp.vstack((X_train, examplesByDoc[i]), format='csr')
                 y_train = np.concatenate((y_train, yListsByDoc[i]))
+
 
         # Train Liblinear model with L1, L2 regularization
         for penalty in ["l2"]:
@@ -303,4 +319,16 @@ def runTests():
         precision = confusion_matrix[1,1] / float(confusion_matrix[1,1] + confusion_matrix[0,1])
         print "Precision: ", precision, " Recall: ", recall
 
-runTests()
+
+#Run the darn thing
+parser = OptionParser()
+parser.add_option('-n', action="store", dest="numExamples", type="int", default=2040, help="Number of documents to process. Default:all")
+parser.add_option('--nf', action="store_false", dest="format", default=True, help="Don't reformat examples") 
+parser.add_option('-s', action="store_true", dest="savepkl", default=False, help="Save formatting to pkl") 
+options, remainder = parser.parse_args()
+examplesByDoc, yListsByDoc = loadData()
+categories = [
+        'not important',
+        'important'
+        ]
+runTests(examplesByDoc, yListsByDoc)
