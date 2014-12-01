@@ -89,6 +89,7 @@ def formatExamples(examples):
 	    counter += 1
 	    documentWordFrequencies = Counter([])
 	    numImpt = 0
+
 	    for i, sentence in enumerate(sentences):
 	        imptSentence = 0
 	        for c in catchphrases:
@@ -97,9 +98,23 @@ def formatExamples(examples):
 	                numImpt += 1
 
 	        wordList = nltk.word_tokenize(sentence)
-	        tags = nltk.pos_tag(wordList)
+	        tagTuples = nltk.pos_tag(wordList)
 
-	        count = Counter(tags)
+	    	numWordsPerThird = len(sentence) / 3
+	        #Add tags themselves
+	        tags = []
+	        tagPos = []
+	        for j, tup in enumerate(tagTuples):
+	        	word, tag = tup
+	        	tags.append((tag, 'ADD'))
+	        	if numWordsPerThird != 0:
+	        		tagPositionFeatureName = 'tagPos' + str(j / numWordsPerThird)
+	        		tagPos.append((tagPositionFeatureName, tag))
+
+	        count = Counter(tagTuples)
+	        count.update(Counter(tags))
+	        count.update(Counter(tagPos))
+
 	        documentWordFrequencies.update(count)
 	        formattedExamples.append(dict(count))
 	        ytrainList.append(imptSentence)
@@ -165,14 +180,25 @@ def loadData():
 
 		if options.savepkl:
 			print "Saving to file..."
-			writeToPklz('X' + str(options.numExamples) + '.pklz', X)
-			writeToPklz('y' + str(options.numExamples) + '.pklz', y)
-			writeToPklz('vectorizer' + str(options.numExamples) + '.pklz', vectorizer)
+			if options.useOldFeatures:
+				writeToPklz('X' + str(options.numExamples) + '.pklz', X)
+				writeToPklz('y' + str(options.numExamples) +  '.pklz', y)
+				writeToPklz('vectorizer' + str(options.numExamples) + '.pklz', vectorizer)
+			else:
+				writeToPklz('X' + str(options.numExamples) + 'new_features' + '.pklz', X)
+				writeToPklz('y' + str(options.numExamples) +  'new_features' + '.pklz', y)
+				writeToPklz('vectorizer' + str(options.numExamples) + 'new_features' + '.pklz', vectorizer)
 	else:
 		print "Getting formatting from file..."
-		X = getObjFromPklz('X' + str(options.numExamples) + '.pklz')
-		y = getObjFromPklz('y' + str(options.numExamples) + '.pklz')
-		vectorizer = getObjFromPklz('vectorizer' + str(options.numExamples) + '.pklz')
+		if options.useOldFeatures:
+			X = getObjFromPklz('X' + str(options.numExamples) + '.pklz')
+			y = getObjFromPklz('y' + str(options.numExamples) + '.pklz')
+			vectorizer = getObjFromPklz('vectorizer' + str(options.numExamples) + '.pklz')
+		else:
+			X = getObjFromPklz('X' + str(options.numExamples) + 'new_features' + '.pklz')
+			y = getObjFromPklz('y' + str(options.numExamples) + 'new_features' + '.pklz')
+			vectorizer = getObjFromPklz('vectorizer' + str(options.numExamples) + 'new_features' + '.pklz')
+
 
 	numCatchphrasesFeatureIndex = vectorizer.vocabulary_.get(('numCatchphrasesFeature', 'ADD'))
 	firstSentenceFeatureIndex = vectorizer.vocabulary_.get(('firstSentenceFeature', 'ADD'))
@@ -246,16 +272,16 @@ def benchmark(classifier, X_train, y_train, testTuples):
 
     print('_' * 40)
     print("Testing on Training Set: ")
-    testOnSet(X_train, y_train)
+    trainConfusionMatrix = testOnSet(X_train, y_train)
     print("Testing on Test Set: ")	
 
-    accumulated = np.array([[0,0],[0,0]])
+    accumulatedTest = np.array([[0,0],[0,0]])
 
     for X_test, y_test, docIndex in testTuples:
         confusion_matrix = testOnSet(X_test, y_test, kBest=1)
-        accumulated = np.add(accumulated, confusion_matrix)
+        accumulatedTest = np.add(accumulatedTest, confusion_matrix)
 
-    return classifier_descr, accumulated
+    return (classifier_descr, trainConfusionMatrix, accumulatedTest)
 
 def runTests(examplesByDoc, yListsByDoc):
     #This is run globally
@@ -292,7 +318,7 @@ def runTests(examplesByDoc, yListsByDoc):
         for penalty in ["l2"]:
             print('=' * 80)
             print("%s regularization" % penalty.upper())
-            classifier = LinearSVC(loss='l2', penalty=penalty, dual=False, C = 1, class_weight='auto')
+            classifier = LinearSVC(loss='l2', penalty=penalty, dual=True, C = 1, class_weight='auto')
             results.append(benchmark(classifier, X_train, y_train, testTuples))
 
 
@@ -307,16 +333,18 @@ def runTests(examplesByDoc, yListsByDoc):
     print('='*80)
     print 'Aggregate'
     aggregate_results = {}
-    for classifier_descr, confusion_matrix in results:
-        accumulated = aggregate_results.get(classifier_descr, np.array([[0,0],[0,0]]))
-        aggregate_results[classifier_descr] = np.add(accumulated, confusion_matrix)
+    for classifier_descr, confusion_matrix_train, confusion_matrix in results:
+    	accumulatedTrain = aggregate_results.get(classifier_descr + 'train', np.array([[0,0],[0,0]]))
+        accumulatedTest = aggregate_results.get(classifier_descr + 'test', np.array([[0,0],[0,0]]))
+        aggregate_results[classifier_descr + 'train'] = np.add(accumulatedTrain, confusion_matrix_train)
+        aggregate_results[classifier_descr + 'test'] = np.add(accumulatedTest, confusion_matrix)
 
-    for classifier_descr, confusion_matrix in aggregate_results.iteritems():
+    for classifier_descr, confusionMatrix in aggregate_results.iteritems():
         print('-'*40)
         print classifier_descr
-        print confusion_matrix
-        recall = confusion_matrix[1,1] / float(confusion_matrix[1,1] + confusion_matrix[1,0])
-        precision = confusion_matrix[1,1] / float(confusion_matrix[1,1] + confusion_matrix[0,1])
+        print confusionMatrix
+        recall = confusionMatrix[1,1] / float(confusionMatrix[1,1] + confusionMatrix[1,0])
+        precision = confusionMatrix[1,1] / float(confusionMatrix[1,1] + confusionMatrix[0,1])
         print "Precision: ", precision, " Recall: ", recall
 
 
@@ -325,6 +353,7 @@ parser = OptionParser()
 parser.add_option('-n', action="store", dest="numExamples", type="int", default=2040, help="Number of documents to process. Default:all")
 parser.add_option('--nf', action="store_false", dest="format", default=True, help="Don't reformat examples") 
 parser.add_option('-s', action="store_true", dest="savepkl", default=False, help="Save formatting to pkl") 
+parser.add_option('-o', action="store_true", dest="useOldFeatures", default=False, help="Use old features (only count/tag pairs and sentence pos) instead of new features")
 parser.print_help()
 options, remainder = parser.parse_args()
 examplesByDoc, yListsByDoc = loadData()
