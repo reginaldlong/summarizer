@@ -4,6 +4,7 @@ import util
 import data_format
 import pickle
 import gzip
+import processExamples
 
 #Turns printing on and off
 DEBUG = True
@@ -50,33 +51,11 @@ def learnPredictor(trainExamples, testExamples, featureExtractor):
     
     return weights
 
-sentences = []
-catchphrases = []
-retrieve_data.parseFiles(sentences, catchphrases)
-examples = data_format.format(sentences, catchphrases)
+examples = processExamples.getObjFromPklz('examples.pklz')
 numExamples = len(examples) * 1/2
 firstPart = numExamples * 9 /10
 
-'''outfilename = 'sentences.pklz'
-output = gzip.open(outfilename, 'wb')
-try:
-    pickle.dump(sentences, output, -1)
-finally:
-    output.close()
-outfilename = 'catchphrases.pklz'
-output = gzip.open(outfilename, 'wb')
-try:
-    pickle.dump(catchphrases, output, -1)
-finally:
-    output.close()'''
-outfilename = 'new_examples.pklz'
-output = gzip.open(outfilename, 'wb')
-try:
-    pickle.dump(examples, output, -1)
-finally:
-    output.close()
-
-#w = learnPredictor(examples[0:firstPart], examples[firstPart:], extractWordFeatures)
-#output = open("weights.pkl", "wb")
-#pickle.dump(w, output, -1)
-#output.close()
+w = learnPredictor(examples[0:firstPart], examples[firstPart:], extractWordFeatures)
+output = open("weights.pkl", "wb")
+pickle.dump(w, output, -1)
+output.close()
