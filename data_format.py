@@ -21,7 +21,7 @@ def removeStopWords(sentence):
 # Catchphrases is a list of lists of catchphrases
 # Each element represents the list of sentences/catchphrases
 # from one file.
-def format(sentences, catchphrases):
+def format(sentences, catchphrases, titles):
     examples = []
     lemmatizer = WordNetLemmatizer()
     #read stop words from file
@@ -45,6 +45,28 @@ def format(sentences, catchphrases):
             formattedCatchphrase = " ".join([lemmatizer.lemmatize(kw) for kw \
                 in formattedCatchphraseList])
             associatedCatchphrases.append(formattedCatchphrase)
+        examples.append((associatedSentences, associatedCatchphrases, titles[i]))
+    return examples
+
+# Sentences is a list of lists of sentences
+# Catchphrases is a list of lists of catchphrases
+# Each element represents the list of sentences/catchphrases
+# from one file.
+def format_Old(sentences, catchphrases):
+    examples = []
+    
+    # change this later to len(sentences)
+    for i in xrange(len(sentences)):
+        currentFileSentences = sentences[i]
+        currentFileCatchphrases = catchphrases[i]
+        associatedSentences = []
+        associatedCatchphrases = []
+        for sentence in currentFileSentences:
+            if sentence == None:
+                continue
+            associatedSentences.append(sentence)
+        for catchphrase in currentFileCatchphrases:
+            associatedCatchphrases.append(catchphrase)
         examples.append((associatedSentences, associatedCatchphrases))
     return examples
 
