@@ -47,9 +47,13 @@ util contains helper functions for the baseline hinge loss linear classifier, su
 
 mlclassifiers_test.py
 --------------------------------------------------
+**Link to data to make this work: https://www.dropbox.com/sh/fwiungt202qdbmp/AAB-0NC_fvEigNvMwH7r5-v1a?dl=0 
+**To run, type "python mlclassifiers_test.py --nf" to run on full corpus
+**type "python mlclassifiers_test.py -o" to run on oracle subset of the data
+
 This file contains the feature extraction/example formatting code as well as the testing unit for classifiers supplied by the sklearn library. 
 The execution of this script takes several options, including -s to save the design matrix, label vector, and vectorizer in .pklz files, --nf to 
-use a design matrix/label vector/vectorizer in existing pklz files, -o to use a design matrix with old features(less document context), -n to specify the 
+use a design matrix/label vector/vectorizer in existing pklz files, -o to test on the oracle subset of documents, -n to specify the 
 number of documents in which to include in the dataset. 
 
 The behavior of mlclassifiers_test also differs given different values for fileNameVariance and examplesFileName. These tell mlclassifiers_test where to load

@@ -104,14 +104,9 @@ def formatExamples(examples):
     #Find most common words
     wordFrequenciesByDoc = []
 
-    #unpreprocessedSentences = processExamples.getObjFromPklz('unpreprocessed_oraclesentences.pklz')
-
     #For document in documents
     for counter, example in enumerate(examples):
         
-        #unpreprocessedSentencesInCurrDoc = unpreprocessedSentences[counter]
-
-
         if fileNameVariance == "with_title" or fileNameVariance == "oracle_with_title":
             sentences, catchphrases, title = example
         else:
@@ -227,11 +222,15 @@ def formatExamples(examples):
 
 
 def loadData():
+    examplesFileName = "new_examples_with_title.pklz"
+    if options.useOracle:
+        examplesFileName = "oracle_examples_with_title.pklz"
     print "Loading examples from " + examplesFileName + "..."
     #Each element is Doc and its catchphrases
     
     examples = processExamples.getObjFromPklz(examplesFileName)
-    examples = examples[0:options.numExamples]
+    if not options.useOracle:
+        examples = examples[0:options.numExamples]
 
     #Globals
     totalExampleCount = len(examples)
@@ -247,11 +246,11 @@ def loadData():
             processExamples.writeToPklz('y' + str(options.numExamples) +  fileNameVariance +  '.pklz', y)
             processExamples.writeToPklz('vectorizer' + str(options.numExamples) + fileNameVariance + '.pklz', vectorizer)
     else:
-        if options.useOldFeatures:
-            print "Getting formatting from " + '__' + str(options.numExamples) + '.pklz'
-            X = processExamples.getObjFromPklz('X' + str(options.numExamples) + '.pklz')
-            y = processExamples.getObjFromPklz('y' + str(options.numExamples) + '.pklz')
-            vectorizer = getObjFromPklz('vectorizer' + str(options.numExamples) + '.pklz')
+        if options.useOracle:
+            print "Getting formatting from " + '__' + "oracle_" + fileNameVariance + '.pklz'
+            X = processExamples.getObjFromPklz('X' + "oracle_" + fileNameVariance + '.pklz')
+            y = processExamples.getObjFromPklz('y' + "oracle_" + fileNameVariance + '.pklz')
+            vectorizer = processExamples.getObjFromPklz('vectorizer' + "oracle_" + fileNameVariance + '.pklz')
         else:
             print "Getting formatting from " + '__' + str(options.numExamples) + fileNameVariance + '.pklz'
             X = processExamples.getObjFromPklz('X' + str(options.numExamples) + fileNameVariance + '.pklz')
@@ -265,9 +264,6 @@ def loadData():
     #Split the numpy arrays into documents
     examplesByDoc = []
     yListsByDoc = []
-
-
-    print X.shape, y.shape
 
     if fileNameVariance != "baseline":
         firstSentenceIndex = 0
@@ -466,19 +462,14 @@ def runTests(examplesByDoc, yListsByDoc):
 
 #Controller
 
-#fileNameVariance can be newexamples, baseline, or something new
+#fileNameVariance can be oracle_with_title to run on oracle subset
 fileNameVariance = "with_title"
-
-#examplesFileName can be unpreprocessed_examples.pklz, new_examples.pklz(lemmatize, word tags, 
-#sentence locations, high freq word), examples.pklz(stemmer, no word tags, sentence locations) 
-examplesFileName = "new_examples_with_title.pklz"
-
 
 parser = OptionParser()
 parser.add_option('-n', action="store", dest="numExamples", type="int", default=2021, help="Number of documents to process. Default:all")
 parser.add_option('--nf', action="store_false", dest="format", default=True, help="Don't reformat examples") 
 parser.add_option('-s', action="store_true", dest="savepkl", default=False, help="Save formatting to pkl") 
-parser.add_option('-o', action="store_true", dest="useOldFeatures", default=False, help="Use old features (only count/tag pairs and sentence pos) instead of new features")
+parser.add_option('-o', action="store_true", dest="useOracle", default=False, help="Test on oracle dataset")
 parser.print_help()
 options, remainder = parser.parse_args()
 examplesByDoc, yListsByDoc = loadData()
@@ -488,10 +479,10 @@ categories = [
         ]
 generateSummaryDocIndex, pred = runTests(examplesByDoc, yListsByDoc)
 
-print generateSummaryDocIndex, pred
-
-#Change corpus in which to look from
-unpreprocessedSentences = processExamples.getObjFromPklz('unpreprocessed_sentences.pklz')
+if not options.useOracle:
+    unpreprocessedSentences = processExamples.getObjFromPklz('unpreprocessed_sentences.pklz')
+else:
+    unpreprocessedSentences = processExamples.getObjFromPklz('unpreprocessed_oraclesentences.pklz')
 
 with open('generated_summary.txt', 'a') as f:
     for i, sentence in enumerate(unpreprocessedSentences[generateSummaryDocIndex]):
