@@ -24,16 +24,20 @@ def processFiles():
     catchphrases = []
     titles = []
     filesInExamples = retrieve_data.parseFiles(sentences, catchphrases, titles)
-    print len(titles), len(filesInExamples)
-    examples = data_format.format(sentences, catchphrases, titles)
-    #old_examples = data_format.format_Old(sentences, catchphrases)
+    
+    numSentences = 0
+    for s in sentences:
+        numSentences += len(s)
+    print numSentences
+
+    #examples = data_format.format(sentences, catchphrases, titles)
+    old_examples = data_format.format_Old(sentences, catchphrases)
 
 
-    #writeToPklz('sentences.pklz', sentences)
-    #writeToPklz('catchphrases.pklz', catchphrases)
-    writeToPklz('new_examples_with_title.pklz', examples)
-    writeToPklz('filesInExamples,pklz', filesInExamples)
-    #writeToPklz('unpreprocessed_examples.pklz', old_examples)
+    writeToPklz('unpreprocessed_sentences.pklz', sentences)
+    writeToPklz('unpreprocessed_catchphrases.pklz', catchphrases)
+    #writeToPklz('oracle_examples_with_title.pklz', examples)
+    #writeToPklz('2021filesInExamples_oracle.pklz', filesInExamples)
+    writeToPklz('unpreprocessed_examples.pklz', old_examples)
 
-
-processFiles()
+#processFiles()

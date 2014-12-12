@@ -10,7 +10,7 @@ def initStopWords():
             stopWords[line.strip()] = 1
 
 def removeStopWords(sentence):
-    wordList = sentence.lower().split(" ")   
+    wordList = sentence.lower().strip().split(" ")   
     retList = []
     for word in wordList:
        if stopWords.get(word, -1) != 1:
@@ -45,7 +45,7 @@ def format(sentences, catchphrases, titles):
             formattedCatchphrase = " ".join([lemmatizer.lemmatize(kw) for kw \
                 in formattedCatchphraseList])
             associatedCatchphrases.append(formattedCatchphrase)
-        examples.append((associatedSentences, associatedCatchphrases, titles[i]))
+        examples.append((associatedSentences, associatedCatchphrases, titles[i].lower().strip()))
     return examples
 
 # Sentences is a list of lists of sentences
@@ -55,7 +55,6 @@ def format(sentences, catchphrases, titles):
 def format_Old(sentences, catchphrases):
     examples = []
     
-    # change this later to len(sentences)
     for i in xrange(len(sentences)):
         currentFileSentences = sentences[i]
         currentFileCatchphrases = catchphrases[i]
@@ -64,9 +63,9 @@ def format_Old(sentences, catchphrases):
         for sentence in currentFileSentences:
             if sentence == None:
                 continue
-            associatedSentences.append(sentence)
+            associatedSentences.append(sentence.lower().strip())
         for catchphrase in currentFileCatchphrases:
-            associatedCatchphrases.append(catchphrase)
+            associatedCatchphrases.append(catchphrase.lower().strip())
         examples.append((associatedSentences, associatedCatchphrases))
     return examples
 
