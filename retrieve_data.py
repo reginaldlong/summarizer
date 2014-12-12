@@ -32,15 +32,17 @@ def parseFiles(allSentences, allCatchphrases, allTitles):
         sentences = []
         title = None
         for child in root:
+            
             if child.tag == "catchphrases":
-                catchphrases = [catchphrase.text for catchphrase in child]
+                catchphrases = [etree.tostring(catchphrase, encoding='unicode', method='text') for catchphrase in child]
             elif child.tag == "sentences":
-                sentences = [sentence.text for sentence in child]
+                sentences = [etree.tostring(sentence, encoding='unicode', method='text') for sentence in child]
             elif child.tag == "name":
                 try:
                     title = etree.tostring(child, encoding='unicode', method='text')
                 except:
                     pass
+            
         if sentences and catchphrases and title:
             allSentences.append(sentences)
             allCatchphrases.append(catchphrases)

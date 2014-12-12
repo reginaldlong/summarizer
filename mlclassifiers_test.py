@@ -26,16 +26,20 @@ import scipy.sparse as sp
 import numpy as np
 from sklearn import svm 
 import gzip
+import heapq as heapq
 
 def getAdditionalExamples(examples, formattedExamples, wordFrequenciesByDoc):
     additionalFeatureExamples = []
     counter = 1
     sentenceCounter = 0
-    for docIndex, doc in enumerate(examples):
+    for docIndex, example in enumerate(examples):
         print "Adding additional features to Document ", counter
         counter += 1
-        
-        sentences, catchphrases = doc
+        if fileNameVariance == "with_title" or fileNameVariance == "oracle_with_title":
+            sentences, catchphrases, title = example
+        else:
+            sentences, catchphrases = example
+
         numSentences = len(sentences)
         numCatchphrases = len(catchphrases)
 
@@ -46,11 +50,25 @@ def getAdditionalExamples(examples, formattedExamples, wordFrequenciesByDoc):
 
         for i in xrange(numSentences):
             count = formattedExamples[sentenceCounter]
+
             sentenceCounter += 1
             additionalFeatures = {}
-            #Extract new document related features: 
+            #Extract document context features: 
+
+            sentence = sentences[i]
+            #add containing title feature
+            numTitleWordsPresent = 0
+            titleWordList = title.split(" ")
+            for titleWord in titleWordList:
+                if titleWord in sentence:
+                    numTitleWordsPresent += 1
+            additionalFeatures[('numTitleWords', 'ADD')] = numTitleWordsPresent
+
+
+            #number of sentences
             additionalFeatures[('numSentencesFeature', 'ADD')] = numSentences
-            additionalFeatures[('numCatchphrasesFeature', 'ADD')] = numCatchphrases
+            
+            #Sentence position
             if i == 0:
             	additionalFeatures[('firstSentenceFeature', 'ADD')] = 1
             else:
@@ -60,6 +78,7 @@ def getAdditionalExamples(examples, formattedExamples, wordFrequenciesByDoc):
             else:
             	additionalFeatures[('lastSentenceFeature', 'ADD')] = 0
 
+            #Presence of high frequency word
             for j, word in enumerate(topCommonWords):
                 featureName = "topCommonWord" + str(j + 1);
                 if word in count:
@@ -67,6 +86,7 @@ def getAdditionalExamples(examples, formattedExamples, wordFrequenciesByDoc):
                 else:
                     additionalFeatures[(featureName, 'ADD')] = 0
 
+            #Relative sentence position by tenths
             if numSentencesPerDecile != 0:
                 for decile in xrange(10):
                     featureName = "decile" + str(decile + 1);
@@ -77,7 +97,6 @@ def getAdditionalExamples(examples, formattedExamples, wordFrequenciesByDoc):
     return additionalFeatureExamples
 
 firstOrLastSentence = []
-numCatchphrasesByDoc = []
 def formatExamples(examples):
     formattedExamples = []
     ytrainList = []
@@ -85,18 +104,35 @@ def formatExamples(examples):
     #Find most common words
     wordFrequenciesByDoc = []
 
-    counter = 1
-    for sentences, catchphrases in examples:
-        print "Processing Document ", counter
-        counter += 1
-        documentWordFrequencies = Counter([])
-        numImpt = 0
-        numSentences = len(sentences)
+    #unpreprocessedSentences = processExamples.getObjFromPklz('unpreprocessed_oraclesentences.pklz')
 
-        #Label importance if contains catchphrase
+    #For document in documents
+    for counter, example in enumerate(examples):
+        
+        #unpreprocessedSentencesInCurrDoc = unpreprocessedSentences[counter]
+
+
+        if fileNameVariance == "with_title" or fileNameVariance == "oracle_with_title":
+            sentences, catchphrases, title = example
+        else:
+            sentences, catchphrases = example
+        
+        print "Processing Document " + str(counter + 1)
+        documentWordFrequencies = Counter([])
+        numSentences = len(sentences)
+        
+        #importance labels for this document
+        labels = [0 for i in xrange(numSentences)]
+
+        #Holds max heaps of catchphrases for each catchphrase
+        catchphraseSimilarityRanking = [[] for i in xrange(len(catchphrases))]
+
+        #Label importance if a sentence has the highest similarity score 
+        #to any catchphrase out of all sentences in the document. Thus there is one
+        #most similar sentence for every catchphrase, so numImptSentences = numCatchphrases
         for i, sentence in enumerate(sentences):
-            
-                    
+            sentence = sentence.strip()
+
             if i == 0:
                 firstOrLastSentence.append(1)
             elif i == numSentences - 1:
@@ -105,12 +141,22 @@ def formatExamples(examples):
                 firstOrLastSentence.append(0)
 
             if fileNameVariance != "baseline":
-                imptSentence = 0
-                for c in catchphrases:
-                    if c in sentence:
-                        imptSentence = 1
-                        numImpt += 1
                 wordList = sentence.split(" ")
+                wordFreq = Counter(wordList)
+                
+                #determine similarity score to each catchphrase
+                for catchphraseIndex, c in enumerate(catchphrases):
+                    catchphraseWordList = c.strip().split(" ")
+                    catchphraseWordList = Counter(catchphraseWordList)
+                    
+                    similarityScore = 0
+                    for catchphraseWord, freq in catchphraseWordList.iteritems():
+                        similarityScore += wordFreq.get(catchphraseWord, 0) * freq
+                    
+                    #store negative score in min heap for max heap
+                    heapq.heappush(catchphraseSimilarityRanking[catchphraseIndex], (-similarityScore, i)) #Store sentence index also to recover it later         
+                
+                
                 tagTuples = nltk.pos_tag(wordList)
 
                 numWordsPerThird = len(sentence) / 3
@@ -124,7 +170,7 @@ def formatExamples(examples):
                         tagPositionFeatureName = 'tagPos' + str(j / numWordsPerThird)
                         tagPos.append((tagPositionFeatureName, tag))
 
-            
+                
                 count = Counter(tagTuples)
                 documentWordFrequencies.update(count)
                 count.update(Counter(tags))
@@ -137,14 +183,20 @@ def formatExamples(examples):
                 for c in catchphrases:
                     if c in joinedSentence:
                         imptSentence = 1
-                        numImpt += 1
                 count = Counter(sentence)
             
             formattedExamples.append(dict(count))
-            ytrainList.append(imptSentence)
+        
+        #Determine important sentences
+        for catchphraseHeap in catchphraseSimilarityRanking:
+            score, sentenceIndex = heapq.heappop(catchphraseHeap)
+            labels[sentenceIndex] = 1
+            
+        
+        #update global label list
+        ytrainList = ytrainList + labels
 
         if fileNameVariance != "baseline":
-            numCatchphrasesByDoc.append(numImpt)
             topCommonWords = documentWordFrequencies.most_common(10)
             wordFrequenciesByDoc.append(topCommonWords)
 
@@ -175,7 +227,7 @@ def formatExamples(examples):
 
 
 def loadData():
-    print "Loading examples..."
+    print "Loading examples from " + examplesFileName + "..."
     #Each element is Doc and its catchphrases
     
     examples = processExamples.getObjFromPklz(examplesFileName)
@@ -195,23 +247,27 @@ def loadData():
             processExamples.writeToPklz('y' + str(options.numExamples) +  fileNameVariance +  '.pklz', y)
             processExamples.writeToPklz('vectorizer' + str(options.numExamples) + fileNameVariance + '.pklz', vectorizer)
     else:
-        print "Getting formatting from file..."
         if options.useOldFeatures:
+            print "Getting formatting from " + '__' + str(options.numExamples) + '.pklz'
             X = processExamples.getObjFromPklz('X' + str(options.numExamples) + '.pklz')
             y = processExamples.getObjFromPklz('y' + str(options.numExamples) + '.pklz')
             vectorizer = getObjFromPklz('vectorizer' + str(options.numExamples) + '.pklz')
         else:
+            print "Getting formatting from " + '__' + str(options.numExamples) + fileNameVariance + '.pklz'
             X = processExamples.getObjFromPklz('X' + str(options.numExamples) + fileNameVariance + '.pklz')
-            y = processEXamples.getObjFromPklz('y' + str(options.numExamples) + fileNameVariance + '.pklz')
+            y = processExamples.getObjFromPklz('y' + str(options.numExamples) + fileNameVariance + '.pklz')
             vectorizer = processExamples.getObjFromPklz('vectorizer' + str(options.numExamples) + fileNameVariance + '.pklz')
 
     numCatchphrasesFeatureIndex = vectorizer.vocabulary_.get(('numCatchphrasesFeature', 'ADD'))
     firstSentenceFeatureIndex = vectorizer.vocabulary_.get(('firstSentenceFeature', 'ADD'))
     lastSentenceFeatureIndex = vectorizer.vocabulary_.get(('lastSentenceFeature', 'ADD'))
-
+    
     #Split the numpy arrays into documents
     examplesByDoc = []
     yListsByDoc = []
+
+
+    print X.shape, y.shape
 
     if fileNameVariance != "baseline":
         firstSentenceIndex = 0
@@ -311,6 +367,9 @@ def benchmark(classifier, X_train, y_train, trainTuples, testTuples, exampleTupl
         confusion_matrix = testOnSet(X_test, y_test, kBest=1)
         accumulatedTest = np.add(accumulatedTest, confusion_matrix)
 
+    print exampleTuple
+
+    
     if exampleTuple:
         return (classifier_descr, accumulatedTrain, accumulatedTest, examplePred)
     else:
@@ -357,7 +416,6 @@ def runTests(examplesByDoc, yListsByDoc):
                 X_train = sp.vstack((X_train, examplesByDoc[i]), format='csr')
                 y_train = np.concatenate((y_train, yListsByDoc[i]))
 
-        
         if fileNameVariance != "baseline":
             # Train Liblinear model with L2 regularization
             for penalty in ["l2"]:
@@ -368,7 +426,7 @@ def runTests(examplesByDoc, yListsByDoc):
                     results.append(benchmark(classifier, X_train, y_train, trainTuples, testTuples))
                 else:
                     classifier_descr, accumulatedTrain, accumulatedTest, examplePred = benchmark(classifier, X_train, y_train, trainTuples, testTuples, exampleTuple)
-                    examplePreditions = examplePred
+                    examplePredictions = examplePred
                     results.append((classifier_descr, accumulatedTrain, accumulatedTest))
                     exampleGenerated = True
 
@@ -409,15 +467,15 @@ def runTests(examplesByDoc, yListsByDoc):
 #Controller
 
 #fileNameVariance can be newexamples, baseline, or something new
-fileNameVariance = "baseline"
+fileNameVariance = "with_title"
 
 #examplesFileName can be unpreprocessed_examples.pklz, new_examples.pklz(lemmatize, word tags, 
 #sentence locations, high freq word), examples.pklz(stemmer, no word tags, sentence locations) 
-examplesFileName = "unpreprocessed_examples.pklz"
+examplesFileName = "new_examples_with_title.pklz"
 
 
 parser = OptionParser()
-parser.add_option('-n', action="store", dest="numExamples", type="int", default=2040, help="Number of documents to process. Default:all")
+parser.add_option('-n', action="store", dest="numExamples", type="int", default=2021, help="Number of documents to process. Default:all")
 parser.add_option('--nf', action="store_false", dest="format", default=True, help="Don't reformat examples") 
 parser.add_option('-s', action="store_true", dest="savepkl", default=False, help="Save formatting to pkl") 
 parser.add_option('-o', action="store_true", dest="useOldFeatures", default=False, help="Use old features (only count/tag pairs and sentence pos) instead of new features")
@@ -432,14 +490,15 @@ generateSummaryDocIndex, pred = runTests(examplesByDoc, yListsByDoc)
 
 print generateSummaryDocIndex, pred
 
-sentences = processExamples.getObjFromPklz('sentences.pklz')
+#Change corpus in which to look from
+unpreprocessedSentences = processExamples.getObjFromPklz('unpreprocessed_sentences.pklz')
 
 with open('generated_summary.txt', 'a') as f:
-    for i, sentence in enumerate(sentences[generateSummaryDocIndex]):
-	if i < 52 and pred[i] == 1:
+    for i, sentence in enumerate(unpreprocessedSentences[generateSummaryDocIndex]):
+	if pred[i] == 1:
             f.write(sentence + '\n')
-	f.write('\n' + '\n' + '--------------------------------------ORIGINAL---------------------------------------------' + '\n' + '\n')
-    for i, sentence in enumerate(sentences[generateSummaryDocIndex]):
+    f.write('\n' + '\n' + '--------------------------------------ORIGINAL---------------------------------------------' + '\n' + '\n')
+    for i, sentence in enumerate(unpreprocessedSentences[generateSummaryDocIndex]):
         f.write(sentence + '\n')
 
 
