@@ -1,0 +1,235 @@
+10 Examples only counts 
+
+----------------------------------------
+MultinomialNBtrain
+[[26221   185]
+ [  184  5036]]
+Precision:  0.964566175062  Recall:  0.964750957854
+----------------------------------------
+BernoulliNBtest
+[[2466  520]
+ [ 520  164]]
+Precision:  0.239766081871  Recall:  0.239766081871
+----------------------------------------
+LinearSVCtest
+[[2462  524]
+ [ 524  160]]
+Precision:  0.233918128655  Recall:  0.233918128655
+----------------------------------------
+LinearSVCtrain
+[[23123  3283]
+ [ 4319   901]]
+Precision:  0.21534416826  Recall:  0.172605363985
+----------------------------------------
+MultinomialNBtest
+[[2465  521]
+ [ 521  163]]
+Precision:  0.238304093567  Recall:  0.238304093567
+----------------------------------------
+BernoulliNBtrain
+[[26077   329]
+ [   65  5155]]
+Precision:  0.940007293946  Recall:  0.98754789272
+
+
+10 Documents all features
+
+
+Aggregate
+----------------------------------------
+MultinomialNBtrain
+[[26243   163]
+ [  406  4814]]
+Precision:  0.967249346996  Recall:  0.922222222222
+----------------------------------------
+BernoulliNBtest
+[[2480  506]
+ [ 506  178]]
+Precision:  0.260233918129  Recall:  0.260233918129
+----------------------------------------
+LinearSVCtest
+[[2466  520]
+ [ 520  164]]
+Precision:  0.239766081871  Recall:  0.239766081871
+----------------------------------------
+LinearSVCtrain
+[[26397     9]
+ [ 5157    63]]
+Precision:  0.875  Recall:  0.0120689655172
+----------------------------------------
+MultinomialNBtest
+[[2457  529]
+ [ 529  155]]
+Precision:  0.226608187135  Recall:  0.226608187135
+----------------------------------------
+BernoulliNBtrain
+[[26024   382]
+ [  116  5104]]
+Precision:  0.930368209989  Recall:  0.977777777778
+
+2024 Documents all features 
+
+Aggregate
+----------------------------------------
+MultinomialNBtrain
+[[2687356  761516]
+ [ 121458  293730]]
+Precision:  0.278352156748  Recall:  0.707462643429
+----------------------------------------
+BernoulliNBtest
+[[357991  55453]
+ [ 55453  51151]]
+Precision:  0.479822520731  Recall:  0.479822520731
+----------------------------------------
+LinearSVCtest
+[[363703  49741]
+ [ 49741  56863]]
+Precision:  0.53340399985  Recall:  0.53340399985
+----------------------------------------
+LinearSVCtrain
+[[3137523  311349]
+ [ 260370  154818]]
+Precision:  0.332108450405  Recall:  0.37288649961
+----------------------------------------
+MultinomialNBtest
+[[358069  55375]
+ [ 55375  51229]]
+Precision:  0.480554200593  Recall:  0.480554200593
+----------------------------------------
+BernoulliNBtrain
+[[3025320  423552]
+ [ 162104  253084]]
+Precision:  0.374032714783  Recall:  0.609564823646
+
+
+
+
+BASELINE ONLY WORD COUNTS HINGE LOSS 
+
+
+Aggregate
+----------------------------------------
+SGDClassifiertrain
+[[3402868   46004]
+ [ 264618  150570]]
+Precision:  0.765971084681  Recall:  0.362654990029
+----------------------------------------
+SGDClassifiertest
+[[363676  49768]
+ [ 49768  56836]]
+Precision:  0.533150726052  Recall:  0.533150726052
+
+
+BASELINE ALL FEATURES
+
+
+Aggregate
+----------------------------------------
+SGDClassifiertrain
+[[3440011    8861]
+ [ 412516    2672]]
+Precision:  0.231682996618  Recall:  0.00643563879496
+----------------------------------------
+SGDClassifiertest
+[[356573  56871]
+ [ 56871  49733]]
+Precision:  0.466520956062  Recall:  0.466520956062
+
+
+
+
+
+
+
+ONLY WORD COUNTS EVERYTHING
+
+
+Aggregate
+----------------------------------------
+SGDClassifier(alpha=0.0001, class_weight='auto', epsilon=0.1, eta0=0.0,
+       fit_intercept=True, l1_ratio=0.15, learning_rate='optimal',
+       loss='perceptron', n_iter=5, n_jobs=1, penalty='elasticnet',
+       power_t=0.5, random_state=None, shuffle=False, verbose=0,
+       warm_start=False)train
+[[3052574  396298]
+ [ 197968  217220]]
+Precision:  0.354056441702  Recall:  0.523184677785
+----------------------------------------
+LinearSVC(C=1, class_weight='auto', dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)test
+[[363242  50202]
+ [ 50202  56402]]
+Precision:  0.529079584256  Recall:  0.529079584256
+----------------------------------------
+MultinomialNB(alpha=0.01, class_prior=None, fit_prior=True)test
+[[358267  55177]
+ [ 55177  51427]]
+Precision:  0.482411541781  Recall:  0.482411541781
+----------------------------------------
+MultinomialNB(alpha=0.01, class_prior=None, fit_prior=True)train
+[[3159060  289812]
+ [ 164514  250674]]
+Precision:  0.463793696784  Recall:  0.603760224284
+----------------------------------------
+BernoulliNB(alpha=0.01, binarize=0.0, class_prior=None, fit_prior=True)test
+[[358867  54577]
+ [ 54577  52027]]
+Precision:  0.488039848411  Recall:  0.488039848411
+----------------------------------------
+SGDClassifier(alpha=0.0001, class_weight='auto', epsilon=0.1, eta0=0.0,
+       fit_intercept=True, l1_ratio=0.15, learning_rate='optimal',
+       loss='log', n_iter=5, n_jobs=1, penalty='elasticnet', power_t=0.5,
+       random_state=None, shuffle=False, verbose=0, warm_start=False)test
+[[365178  48266]
+ [ 48266  58338]]
+Precision:  0.547240253649  Recall:  0.547240253649
+----------------------------------------
+LinearSVC(C=1, class_weight='auto', dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0)train
+[[3165903  282969]
+ [  38735  376453]]
+Precision:  0.570883288698  Recall:  0.9067049144
+----------------------------------------
+BernoulliNB(alpha=0.01, binarize=0.0, class_prior=None, fit_prior=True)train
+[[3109695  339177]
+ [ 173185  242003]]
+Precision:  0.416399394336  Recall:  0.582875709317
+----------------------------------------
+SGDClassifier(alpha=0.0001, class_weight=None, epsilon=0.1, eta0=0.0,
+       fit_intercept=True, l1_ratio=0.15, learning_rate='optimal',
+       loss='hinge', n_iter=5, n_jobs=1, penalty='l2', power_t=0.5,
+       random_state=None, shuffle=False, verbose=0, warm_start=False)test
+[[363676  49768]
+ [ 49768  56836]]
+Precision:  0.533150726052  Recall:  0.533150726052
+----------------------------------------
+SGDClassifier(alpha=0.0001, class_weight=None, epsilon=0.1, eta0=0.0,
+       fit_intercept=True, l1_ratio=0.15, learning_rate='optimal',
+       loss='hinge', n_iter=5, n_jobs=1, penalty='l2', power_t=0.5,
+       random_state=None, shuffle=False, verbose=0, warm_start=False)train
+[[3402868   46004]
+ [ 264618  150570]]
+Precision:  0.765971084681  Recall:  0.362654990029
+----------------------------------------
+SGDClassifier(alpha=0.0001, class_weight='auto', epsilon=0.1, eta0=0.0,
+       fit_intercept=True, l1_ratio=0.15, learning_rate='optimal',
+       loss='log', n_iter=5, n_jobs=1, penalty='elasticnet', power_t=0.5,
+       random_state=None, shuffle=False, verbose=0, warm_start=False)train
+[[3015917  432955]
+ [ 106362  308826]]
+Precision:  0.416330426366  Recall:  0.743822075783
+----------------------------------------
+SGDClassifier(alpha=0.0001, class_weight='auto', epsilon=0.1, eta0=0.0,
+       fit_intercept=True, l1_ratio=0.15, learning_rate='optimal',
+       loss='perceptron', n_iter=5, n_jobs=1, penalty='elasticnet',
+       power_t=0.5, random_state=None, shuffle=False, verbose=0,
+       warm_start=False)test
+[[360891  52553]
+ [ 52553  54051]]
+Precision:  0.507026002777  Recall:  0.507026002777
+
+
+
+
